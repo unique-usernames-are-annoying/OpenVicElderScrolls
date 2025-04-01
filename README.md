@@ -1,0 +1,2 @@
+# OpenVic Elder Scrolls
+This is the GitHub Repository of the Elder Scrolls mod for OpenVic. Using the assets from the EU4 mod [Elder Scrolls Universalis](https://elder-scrolls-universalis.fandom.com/wiki/Credits) whose main contributors are [Aetherum](https://steamcommunity.com/id/Aetherum), [Theolaa](https://steamcommunity.com/id/thargonii), [qweytr](https://steamcommunity.com/profiles/76561198035571485) and [Shimmer](https://steamcommunity.com/id/Korda).

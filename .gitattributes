@@ -1,0 +1,3 @@
+* text=auto eol=lf
+*.txt working-tree-encoding=cp1252 git-encoding=cp1252 eol=lf
+*.csv working-tree-encoding=cp1252 git-encoding=cp1252 eol=lf

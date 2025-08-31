@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = dye
+owner = HH2
+controller = HH2
+add_core = HH2

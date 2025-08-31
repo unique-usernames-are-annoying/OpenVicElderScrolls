@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = tobacco
+owner = CJ6
+controller = CJ6
+add_core = CJ6

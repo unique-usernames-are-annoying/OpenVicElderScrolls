@@ -1,0 +1,6 @@
+life_rating = 30
+trade_goods = tea
+owner = GRH
+controller = GRH
+add_core = GRH
+add_core = HF8

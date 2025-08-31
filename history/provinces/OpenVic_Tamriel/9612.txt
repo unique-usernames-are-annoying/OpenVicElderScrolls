@@ -1,0 +1,6 @@
+life_rating = 30
+trade_goods = cattle
+owner = MJ1
+controller = MJ1
+add_core = MJ1
+add_core = MG5

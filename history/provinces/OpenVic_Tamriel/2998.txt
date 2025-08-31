@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = tea
+owner = NF4
+controller = NF4
+add_core = NF4

@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = tea
+owner = CD3
+controller = CD3
+add_core = CD3

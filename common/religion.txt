@@ -1,0 +1,88 @@
+polytheistic_group = {
+	altmeri_pantheon = { color = { 0.925 0.875 0.129 } icon = 1 }
+	nedic_pantheon = { color = { 0.945 0.475 0.475 } icon = 92 }
+	snow_elves_pantheon = { color = { 0.902 0.871 0.392 } icon = 2 }
+	nordic_pantheon = { color = { 0.302 0.569 0.541 } icon = 3 }
+	bosmer_pantheon = { color = { 0.294 0.216 0.102 } icon = 4 }
+	eight_divines = { color = { 0.302 0.396 0.776 } icon = 5 }
+	nine_divines = { color = { 0.09 0.255 0.902 } icon = 6 }
+	twelve_divines = { color = { 0.035 0.149 0.604 } icon = 7 }
+	khajiiti_pantheon = { color = { 0.792 0.902 0.231 } icon = 8 }
+	yokudan_pantheon = { color = { 0.902 0.655 0.157 } icon = 9 }
+	redguard_pantheon = { color = { 0.776 0.529 0.043 } icon = 10 }
+	marukhism = { color = { 0.953 0.831 0.047 } icon = 19 }
+	reclamations_pantheon = { color = { 0.039 0.055 0.573 } icon = 15 }
+	ayleid_pantheon = { color = { 1.0 0.808 0.459 } icon = 91 }
+	keptu_pantheon = { color = { 0.667 0.196 0.196 } icon = 50 }
+	four_parents = { color = { 0.439 0.624 0.757 } icon = 83 }
+}
+occult_group = {
+	sithis_cult = { color = { 0.329 0.11 0.114 } icon = 51 }
+	miraak_cult = { color = { 1.0 0.816 0.169 } icon = 48 }
+	druidism = { color = { 0.0 0.6 0.0 } icon = 49 }
+	chimer_pantheon = { color = { 0.373 0.373 0.373 } icon = 13 }
+	tribunal_pantheon = { color = { 0.647 0.451 0.255 } icon = 14 }
+	orcish_pantheon = { color = { 0.094 0.478 0.055 } icon = 11 }
+	serpent_king = { color = { 0.51 0.824 0.376 } icon = 17 }
+	dragon_cult = { color = { 0.792 0.816 0.169 } icon = 18 }
+	kothri_pantheon = { color = { 0.925 0.788 0.102 } icon = 12 }
+	reason_and_logic_cult = { color = { 0.718 0.255 0.055 } icon = 21 }
+	dremora_pantheon = { color = { 0.475 0.157 0.153 } icon = 26 }
+	cult_of_black_worm = { color = { 0.784 0.098 0.098 } icon = 36 }
+	all_maker_cult = { color = { 0.09 0.137 0.753 } icon = 32 }
+	cult_of_ancestors = { color = { 0.898 0.737 0.69 } icon = 95 }
+	old_way_cult = { color = { 0.396 0.765 0.867 } icon = 94 }
+	celestials = { color = { 0.584 0.0 0.922 } icon = 93 }
+	students_of_magnus = { color = { 0.157 0.761 1.0 } icon = 90 }
+	cult_of_the_insect = { color = { 0.749 1.0 0.0 } icon = 88 }
+	magne_ge = { color = { 0.902 0.902 0.902 } icon = 89 }
+	egg_mother = { color = { 0.784 0.784 0.784 } icon = 87 }
+	mother_sea = { color = { 0.024 0.22 0.278 } icon = 86 }
+	deep_ones = { color = { 0.392 0.0 0.039 } icon = 85 }
+	herd_mother = { color = { 0.118 0.239 0.039 } icon = 84 }
+	lamae_bal_cult = { color = { 0.212 0.184 0.251 } icon = 54 }
+	horned_rat_cult = { color = { 0.396 0.467 0.294 } icon = 53 }
+	golden_paw_cult = { color = { 0.824 0.631 0.275 } icon = 55 }
+	shagrath_cult = { color = { 0.361 0.02 0.02 } icon = 56 }
+	elder_gods = { color = { 0.176 0.235 0.353 } icon = 57 }
+	ghost_snake = { color = { 0.784 0.902 0.824 } icon = 58 }
+	god_of_the_wild = { color = { 0.275 0.667 0.196 } icon = 59 }
+	zeqqi_cult = { color = { 0.529 0.686 0.863 } icon = 60 }
+	xrib_cult = { color = { 0.706 0.706 0.627 } icon = 61 }
+	volcano_god = { color = { 0.784 0.196 0.098 } icon = 62 }
+}
+elemental_group = {
+	hist = { color = { 1.0 1.0 1.0 } icon = 20 }
+	sload_faith = { color = { 0.165 0.682 0.816 } icon = 16 }
+	old_gods_cult = { color = { 0.937 0.431 0.851 } icon = 22 }
+	tsaesci_pantheon = { color = { 0.541 0.173 0.333 } icon = 23 }
+	tang_mo_pantheon = { color = { 0.086 0.91 0.498 } icon = 24 }
+	kamal_pantheon = { color = { 0.914 0.675 0.118 } icon = 25 }
+	cult_of_the_moth = { color = { 0.725 0.98 0.98 } icon = 37 }
+}
+daedric_group = {
+	molag_bal_cult = { color = { 0.0 0.0 0.392 } icon = 27 }
+	meridia_cult = { color = { 0.573 0.973 0.933 } icon = 28 }
+	mehrunes_dagon_cult = { color = { 1.0 0.071 0.0 } icon = 29 }
+	hermeus_mora_cult = { color = { 0.933 0.973 0.573 } icon = 30 }
+	sheogorath_cult = { color = { 0.98 0.98 0.0 } icon = 33 }
+	hircine_cult = { color = { 0.494 0.675 0.757 } icon = 34 }
+	nocturnal_cult = { color = { 0.757 0.757 0.584 } icon = 35 }
+	azura_cult = { color = { 0.0 0.98 0.98 } icon = 38 }
+	boethiah_cult = { color = { 0.98 0.392 0.0 } icon = 39 }
+	clavicus_vile_cult = { color = { 0.973 0.973 0.275 } icon = 40 }
+	malacath_cult = { color = { 0.0 0.392 0.0 } icon = 41 }
+	jyggalag_cult = { color = { 0.267 0.753 0.969 } icon = 42 }
+	mephala_cult = { color = { 0.0 0.0 0.0 } icon = 43 }
+	namira_cult = { color = { 0.729 0.937 0.639 } icon = 44 }
+	peryite_cult = { color = { 0.973 0.573 0.694 } icon = 45 }
+	sanguine_cult = { color = { 0.639 0.039 0.243 } icon = 46 }
+	vaermina_cult = { color = { 0.404 0.18 0.627 } icon = 47 }
+	ithelia_cult = { color = { 0.961 0.961 0.961 } icon = 52 }
+}
+harmony_group = {
+	po_tun_pantheon = { color = { 0.925 0.941 0.482 } icon = 31 }
+	unknown_pantheon = { color = { 0.502 0.502 0.502 } icon = 98 }
+	cult_of_lorelia = { color = { 0.0 1.0 1.0 } icon = 97 }
+	thirty_divines = { color = { 1.0 0.694 0.349 } icon = 96 }
+}

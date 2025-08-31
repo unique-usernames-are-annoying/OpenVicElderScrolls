@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = fruit
+owner = IA8
+controller = IA8
+add_core = IA8

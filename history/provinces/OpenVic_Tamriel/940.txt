@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = wool
+owner = EA9
+controller = EA9
+add_core = EA9

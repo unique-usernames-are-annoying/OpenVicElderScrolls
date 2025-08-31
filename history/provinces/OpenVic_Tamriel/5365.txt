@@ -1,0 +1,6 @@
+life_rating = 30
+trade_goods = grain
+owner = CD7
+controller = CD7
+add_core = CD7
+add_core = CD5

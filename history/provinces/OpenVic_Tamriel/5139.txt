@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = cattle
+owner = EA3
+controller = EA3
+add_core = EA3

@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = iron
+owner = VA1
+controller = VA1
+add_core = VA1

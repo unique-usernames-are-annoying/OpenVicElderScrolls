@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = cotton
+owner = SD6
+controller = SD6
+add_core = SD6

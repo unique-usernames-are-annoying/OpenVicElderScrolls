@@ -1,0 +1,6 @@
+life_rating = 30
+trade_goods = grain
+owner = IB1
+controller = IB1
+add_core = IB1
+add_core = IA1

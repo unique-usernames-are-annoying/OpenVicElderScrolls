@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = grain
+owner = BC4
+controller = BC4
+add_core = BC4

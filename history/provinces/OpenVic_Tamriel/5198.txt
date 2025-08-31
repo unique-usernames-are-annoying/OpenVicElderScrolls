@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = grain
+owner = EC8
+controller = EC8
+add_core = EC8

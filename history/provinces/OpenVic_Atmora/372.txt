@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = fish
+owner = DD8
+controller = DD8
+add_core = DD8

@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = timber
+owner = RA5
+controller = RA5
+add_core = RA5

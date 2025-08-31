@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = cotton
+owner = GA9
+controller = GA9
+add_core = GA9

@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = tobacco
+owner = NGH
+controller = NGH
+add_core = NGH

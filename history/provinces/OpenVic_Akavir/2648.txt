@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = timber
+owner = OC0
+controller = OC0
+add_core = OC0

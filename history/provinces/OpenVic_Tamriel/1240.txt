@@ -1,0 +1,6 @@
+life_rating = 30
+trade_goods = wool
+owner = CF2
+controller = CF2
+add_core = CF2
+add_core = CI3

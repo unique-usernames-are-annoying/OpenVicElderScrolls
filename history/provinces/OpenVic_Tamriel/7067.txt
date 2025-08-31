@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = coal
+owner = HD8
+controller = HD8
+add_core = HD8

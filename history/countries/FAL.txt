@@ -1,0 +1,8 @@
+capital = 970
+government = tribal
+religion = xrib_cult
+primary_culture = falmer
+nationalvalue = exiled_tg
+literacy = 0
+non_state_culture_literacy = 0
+ruling_party = openvic_generic_reactionary

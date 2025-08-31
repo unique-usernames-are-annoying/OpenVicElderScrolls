@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = coal
+owner = YB8
+controller = YB8
+add_core = YB8

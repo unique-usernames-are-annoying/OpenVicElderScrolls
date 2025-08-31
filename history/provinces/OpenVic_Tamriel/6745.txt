@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = wool
+owner = AD6
+controller = AD6
+add_core = AD6

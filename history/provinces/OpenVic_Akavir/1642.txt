@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = fruit
+owner = TA9
+controller = TA9
+add_core = TA9

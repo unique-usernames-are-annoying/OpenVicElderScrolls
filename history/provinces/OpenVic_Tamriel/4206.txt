@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = wool
+owner = MJ8
+controller = MJ8
+add_core = MJ8

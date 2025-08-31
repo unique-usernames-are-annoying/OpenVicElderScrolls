@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = silk
+owner = YC9
+controller = YC9
+add_core = YC9

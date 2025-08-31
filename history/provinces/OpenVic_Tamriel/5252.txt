@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = coal
+owner = HOW
+controller = HOW
+add_core = HOW

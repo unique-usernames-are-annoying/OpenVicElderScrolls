@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = grain
+owner = EA6
+controller = EA6
+add_core = EA6

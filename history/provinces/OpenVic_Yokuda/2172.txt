@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = tobacco
+owner = YB2
+controller = YB2
+add_core = YB2

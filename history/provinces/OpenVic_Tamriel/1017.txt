@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = tropical_wood
+owner = MB4
+controller = MB4
+add_core = MB4

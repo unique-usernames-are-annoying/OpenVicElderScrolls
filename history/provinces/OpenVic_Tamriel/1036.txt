@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = tea
+owner = MB8
+controller = MB8
+add_core = MB8

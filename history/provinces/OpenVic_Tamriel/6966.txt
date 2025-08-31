@@ -1,0 +1,6 @@
+life_rating = 30
+trade_goods = fruit
+owner = BE6
+controller = BE6
+add_core = BE6
+add_core = BC6

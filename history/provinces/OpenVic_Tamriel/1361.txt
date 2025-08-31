@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = cattle
+owner = NC5
+controller = NC5
+add_core = NC5

@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = fruit
+owner = SC7
+controller = SC7
+add_core = SC7

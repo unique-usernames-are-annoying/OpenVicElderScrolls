@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = grain
+owner = BD5
+controller = BD5
+add_core = BD5

@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = cotton
+owner = VA7
+controller = VA7
+add_core = VA7

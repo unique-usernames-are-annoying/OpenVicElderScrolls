@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = cattle
+owner = GA3
+controller = GA3
+add_core = GA3

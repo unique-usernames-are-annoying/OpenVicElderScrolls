@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = fish
+owner = NF6
+controller = NF6
+add_core = NF6

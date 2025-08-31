@@ -1,0 +1,8 @@
+capital = 1493
+government = tribal
+religion = nocturnal_cult
+primary_culture = harpy
+nationalvalue = daedric_tg
+literacy = 0
+non_state_culture_literacy = 0
+ruling_party = openvic_generic_reactionary

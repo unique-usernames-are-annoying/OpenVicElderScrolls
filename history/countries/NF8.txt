@@ -1,0 +1,8 @@
+capital = 1312
+government = native
+religion = cult_of_ancestors
+primary_culture = giant
+nationalvalue = northern_tg
+literacy = 0.2
+non_state_culture_literacy = 0.2
+ruling_party = openvic_generic_reactionary

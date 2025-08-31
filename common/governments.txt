@@ -1,0 +1,128 @@
+republic = {
+	fascist = yes
+	reactionary = yes
+	conservative = yes
+	socialist = yes
+	communist = yes
+	liberal = yes
+	anarcho_liberal = yes
+
+	election = no
+	appoint_ruling_party = yes
+}
+monarchy = {
+	fascist = yes
+	reactionary = yes
+	conservative = yes
+	socialist = yes
+	communist = yes
+	liberal = yes
+	anarcho_liberal = yes
+
+	election = no
+	appoint_ruling_party = yes
+}
+native = {
+	fascist = yes
+	reactionary = yes
+	conservative = yes
+	socialist = yes
+	communist = yes
+	liberal = yes
+	anarcho_liberal = yes
+
+	election = no
+	appoint_ruling_party = yes
+}
+theocracy = {
+	fascist = yes
+	reactionary = yes
+	conservative = yes
+	socialist = yes
+	communist = yes
+	liberal = yes
+	anarcho_liberal = yes
+
+	election = no
+	appoint_ruling_party = yes
+}
+tribal = {
+	fascist = yes
+	reactionary = yes
+	conservative = yes
+	socialist = yes
+	communist = yes
+	liberal = yes
+	anarcho_liberal = yes
+
+	election = no
+	appoint_ruling_party = yes
+}
+proletarian_dictatorship = {
+	communist = yes
+
+	election = no
+	appoint_ruling_party = yes
+}
+presidential_dictatorship = {
+	reactionary = yes
+
+	election = no
+	appoint_ruling_party = yes
+}
+bourgeois_dictatorship = {
+	anarcho_liberal = yes
+
+	election = no
+	appoint_ruling_party = yes
+}
+fascist_dictatorship = {
+	fascist = yes
+
+	election = no
+	appoint_ruling_party = yes
+}
+absolute_monarchy = {
+	reactionary = yes
+	conservative = yes
+	liberal = yes
+
+	election = no
+	appoint_ruling_party = yes
+}
+prussian_constitutionalism = {
+	reactionary = yes
+	conservative = yes
+	socialist = yes
+	liberal = yes
+
+	election = yes
+	duration = 48
+	appoint_ruling_party = yes
+}
+hms_government = {
+	fascist = yes
+	reactionary = yes
+	conservative = yes
+	socialist = yes
+	communist = yes
+	liberal = yes
+	anarcho_liberal = yes
+
+	election = yes
+	duration = 48
+	appoint_ruling_party = yes
+}
+democracy = {
+	fascist = yes
+	reactionary = yes
+	conservative = yes
+	socialist = yes
+	communist = yes
+	liberal = yes
+	anarcho_liberal = yes
+
+	election = yes
+	duration = 48
+	appoint_ruling_party = no
+}

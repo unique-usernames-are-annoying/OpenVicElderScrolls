@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = tea
+owner = MA9
+controller = MA9
+add_core = MA9

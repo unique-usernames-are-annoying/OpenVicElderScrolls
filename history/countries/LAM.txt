@@ -1,0 +1,8 @@
+capital = 4897
+government = tribal
+religion = egg_mother
+primary_culture = lamian
+nationalvalue = daedric_tg
+literacy = 0
+non_state_culture_literacy = 0
+ruling_party = openvic_generic_reactionary

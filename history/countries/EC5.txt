@@ -1,0 +1,8 @@
+capital = 5246
+government = tribal
+religion = khajiiti_pantheon
+primary_culture = khajiiti
+nationalvalue = elsweyr_tg
+literacy = 0
+non_state_culture_literacy = 0
+ruling_party = openvic_generic_reactionary

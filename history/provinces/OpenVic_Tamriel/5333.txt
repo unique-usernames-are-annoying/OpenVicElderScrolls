@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = dye
+owner = CC7
+controller = CC7
+add_core = CC7

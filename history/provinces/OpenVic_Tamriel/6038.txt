@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = dye
+owner = CF8
+controller = CF8
+add_core = CF8

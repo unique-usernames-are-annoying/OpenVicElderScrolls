@@ -1,0 +1,6 @@
+life_rating = 30
+trade_goods = timber
+owner = CB0
+controller = CB0
+add_core = CB0
+add_core = CE6

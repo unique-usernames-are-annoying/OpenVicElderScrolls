@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = grain
+owner = MD8
+controller = MD8
+add_core = MD8

@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = coal
+owner = ME7
+controller = ME7
+add_core = ME7

@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = fruit
+owner = JA3
+controller = JA3
+add_core = JA3

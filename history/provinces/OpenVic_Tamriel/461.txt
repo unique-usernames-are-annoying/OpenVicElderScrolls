@@ -1,0 +1,6 @@
+life_rating = 30
+trade_goods = tea
+owner = SC3
+controller = SC3
+add_core = SC3
+add_core = SD0

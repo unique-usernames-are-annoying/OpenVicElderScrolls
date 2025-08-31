@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = cotton
+owner = CB3
+controller = CB3
+add_core = CB3

@@ -1,0 +1,6 @@
+life_rating = 30
+trade_goods = tea
+owner = BB2
+controller = BB2
+add_core = BB2
+add_core = BC7

@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = cotton
+owner = OA6
+controller = OA6
+add_core = OA6

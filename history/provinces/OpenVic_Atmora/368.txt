@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = grain
+owner = DB6
+controller = DB6
+add_core = DB6

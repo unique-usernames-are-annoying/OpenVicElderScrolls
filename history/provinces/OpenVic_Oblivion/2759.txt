@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = precious_metal
+owner = LA2
+controller = LA2
+add_core = LA2

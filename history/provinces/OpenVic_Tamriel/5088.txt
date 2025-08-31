@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = tobacco
+owner = EA4
+controller = EA4
+add_core = EA4

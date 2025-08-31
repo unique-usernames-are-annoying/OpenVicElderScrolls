@@ -1,0 +1,2234 @@
+114 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 900 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 3000 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 480 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 660 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 54000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 60 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1200 }
+}
+119 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 600 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 2000 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 320 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 440 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 36000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 40 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 800 }
+}
+149 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 800 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 4000 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 640 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 880 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 72000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 80 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1600 }
+}
+150 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 600 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 3000 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 480 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 660 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 54000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 60 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1200 }
+}
+172 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 600 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 3000 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 480 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 660 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 54000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 60 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1200 }
+}
+175 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 500 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 2500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 400 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 550 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 45000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 50 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1000 }
+}
+2106 = {
+	aristocrats = { culture = sload religion = sload_faith size = 500 }
+	artisans = { culture = sload religion = sload_faith size = 2500 }
+	bureaucrats = { culture = sload religion = sload_faith size = 400 }
+	capitalists = { culture = sload religion = sload_faith size = 50 }
+	clergymen = { culture = sload religion = sload_faith size = 750 }
+	farmers = { culture = sload religion = sload_faith size = 45000 }
+	officers = { culture = sload religion = sload_faith size = 50 }
+	soldiers = { culture = sload religion = sload_faith size = 1000 }
+}
+2107 = {
+	aristocrats = { culture = sload religion = sload_faith size = 500 }
+	artisans = { culture = sload religion = sload_faith size = 2500 }
+	bureaucrats = { culture = sload religion = sload_faith size = 400 }
+	capitalists = { culture = sload religion = sload_faith size = 50 }
+	clergymen = { culture = sload religion = sload_faith size = 750 }
+	farmers = { culture = sload religion = sload_faith size = 45000 }
+	officers = { culture = sload religion = sload_faith size = 50 }
+	soldiers = { culture = sload religion = sload_faith size = 1000 }
+}
+2108 = {
+	aristocrats = { culture = sload religion = sload_faith size = 900 }
+	artisans = { culture = sload religion = sload_faith size = 4500 }
+	bureaucrats = { culture = sload religion = sload_faith size = 720 }
+	capitalists = { culture = sload religion = sload_faith size = 90 }
+	clergymen = { culture = sload religion = sload_faith size = 1350 }
+	farmers = { culture = sload religion = sload_faith size = 81000 }
+	officers = { culture = sload religion = sload_faith size = 90 }
+	soldiers = { culture = sload religion = sload_faith size = 1800 }
+}
+2109 = {
+	aristocrats = { culture = sload religion = sload_faith size = 500 }
+	artisans = { culture = sload religion = sload_faith size = 2500 }
+	bureaucrats = { culture = sload religion = sload_faith size = 400 }
+	capitalists = { culture = sload religion = sload_faith size = 50 }
+	clergymen = { culture = sload religion = sload_faith size = 750 }
+	farmers = { culture = sload religion = sload_faith size = 45000 }
+	officers = { culture = sload religion = sload_faith size = 50 }
+	soldiers = { culture = sload religion = sload_faith size = 1000 }
+}
+2110 = {
+	aristocrats = { culture = sload religion = sload_faith size = 500 }
+	artisans = { culture = sload religion = sload_faith size = 2500 }
+	bureaucrats = { culture = sload religion = sload_faith size = 400 }
+	capitalists = { culture = sload religion = sload_faith size = 50 }
+	clergymen = { culture = sload religion = sload_faith size = 750 }
+	farmers = { culture = sload religion = sload_faith size = 45000 }
+	officers = { culture = sload religion = sload_faith size = 50 }
+	soldiers = { culture = sload religion = sload_faith size = 1000 }
+}
+2111 = {
+	aristocrats = { culture = sload religion = sload_faith size = 600 }
+	artisans = { culture = sload religion = sload_faith size = 3000 }
+	bureaucrats = { culture = sload religion = sload_faith size = 480 }
+	capitalists = { culture = sload religion = sload_faith size = 60 }
+	clergymen = { culture = sload religion = sload_faith size = 900 }
+	farmers = { culture = sload religion = sload_faith size = 54000 }
+	officers = { culture = sload religion = sload_faith size = 60 }
+	soldiers = { culture = sload religion = sload_faith size = 1200 }
+}
+2112 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 900 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 3000 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 480 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 660 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 54000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 60 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1200 }
+}
+2113 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 300 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 1500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 240 }
+	capitalists = { culture = yokudan religion = yokudan_pantheon size = 30 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 450 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 27000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 30 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 600 }
+}
+2114 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 900 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 3000 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 480 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 660 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 54000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 60 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1200 }
+}
+2115 = {
+	aristocrats = { culture = yokudan religion = herd_mother size = 1050 }
+	artisans = { culture = yokudan religion = herd_mother size = 3500 }
+	bureaucrats = { culture = yokudan religion = herd_mother size = 560 }
+	clergymen = { culture = yokudan religion = herd_mother size = 770 }
+	farmers = { culture = yokudan religion = herd_mother size = 63000 }
+	officers = { culture = yokudan religion = herd_mother size = 70 }
+	soldiers = { culture = yokudan religion = herd_mother size = 1400 }
+}
+2116 = {
+	aristocrats = { culture = yokudan religion = herd_mother size = 600 }
+	artisans = { culture = yokudan religion = herd_mother size = 2000 }
+	bureaucrats = { culture = yokudan religion = herd_mother size = 320 }
+	clergymen = { culture = yokudan religion = herd_mother size = 440 }
+	farmers = { culture = yokudan religion = herd_mother size = 36000 }
+	officers = { culture = yokudan religion = herd_mother size = 40 }
+	soldiers = { culture = yokudan religion = herd_mother size = 800 }
+}
+2117 = {
+	aristocrats = { culture = yokudan religion = herd_mother size = 750 }
+	artisans = { culture = yokudan religion = herd_mother size = 2500 }
+	bureaucrats = { culture = yokudan religion = herd_mother size = 400 }
+	clergymen = { culture = yokudan religion = herd_mother size = 550 }
+	farmers = { culture = yokudan religion = herd_mother size = 45000 }
+	officers = { culture = yokudan religion = herd_mother size = 50 }
+	soldiers = { culture = yokudan religion = herd_mother size = 1000 }
+}
+2118 = {
+	aristocrats = { culture = yokudan religion = herd_mother size = 3150 }
+	artisans = { culture = yokudan religion = herd_mother size = 10500 }
+	bureaucrats = { culture = yokudan religion = herd_mother size = 1680 }
+	clergymen = { culture = yokudan religion = herd_mother size = 2310 }
+	farmers = { culture = yokudan religion = herd_mother size = 189000 }
+	officers = { culture = yokudan religion = herd_mother size = 210 }
+	soldiers = { culture = yokudan religion = herd_mother size = 4200 }
+}
+2119 = {
+	aristocrats = { culture = yokudan religion = herd_mother size = 450 }
+	artisans = { culture = yokudan religion = herd_mother size = 1500 }
+	bureaucrats = { culture = yokudan religion = herd_mother size = 240 }
+	clergymen = { culture = yokudan religion = herd_mother size = 330 }
+	farmers = { culture = yokudan religion = herd_mother size = 27000 }
+	officers = { culture = yokudan religion = herd_mother size = 30 }
+	soldiers = { culture = yokudan religion = herd_mother size = 600 }
+}
+2120 = {
+	aristocrats = { culture = yokudan religion = herd_mother size = 1200 }
+	artisans = { culture = yokudan religion = herd_mother size = 4000 }
+	bureaucrats = { culture = yokudan religion = herd_mother size = 640 }
+	clergymen = { culture = yokudan religion = herd_mother size = 880 }
+	farmers = { culture = yokudan religion = herd_mother size = 72000 }
+	officers = { culture = yokudan religion = herd_mother size = 80 }
+	soldiers = { culture = yokudan religion = herd_mother size = 1600 }
+}
+2121 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 500 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 2500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 400 }
+	capitalists = { culture = yokudan religion = yokudan_pantheon size = 50 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 750 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 45000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 50 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1000 }
+}
+2122 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 400 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 2000 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 320 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 440 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 36000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 40 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 800 }
+}
+2123 = {
+	aristocrats = { culture = yokudan religion = herd_mother size = 1050 }
+	artisans = { culture = yokudan religion = herd_mother size = 3500 }
+	bureaucrats = { culture = yokudan religion = herd_mother size = 560 }
+	clergymen = { culture = yokudan religion = herd_mother size = 770 }
+	farmers = { culture = yokudan religion = herd_mother size = 63000 }
+	officers = { culture = yokudan religion = herd_mother size = 70 }
+	soldiers = { culture = yokudan religion = herd_mother size = 1400 }
+}
+2124 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 500 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 2500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 400 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 550 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 45000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 50 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1000 }
+}
+2125 = {
+	aristocrats = { culture = yokudan religion = herd_mother size = 750 }
+	artisans = { culture = yokudan religion = herd_mother size = 2500 }
+	bureaucrats = { culture = yokudan religion = herd_mother size = 400 }
+	clergymen = { culture = yokudan religion = herd_mother size = 550 }
+	farmers = { culture = yokudan religion = herd_mother size = 45000 }
+	officers = { culture = yokudan religion = herd_mother size = 50 }
+	soldiers = { culture = yokudan religion = herd_mother size = 1000 }
+}
+2126 = {
+	aristocrats = { culture = yokudan religion = herd_mother size = 500 }
+	artisans = { culture = yokudan religion = herd_mother size = 2500 }
+	bureaucrats = { culture = yokudan religion = herd_mother size = 400 }
+	clergymen = { culture = yokudan religion = herd_mother size = 550 }
+	farmers = { culture = yokudan religion = herd_mother size = 45000 }
+	officers = { culture = yokudan religion = herd_mother size = 50 }
+	soldiers = { culture = yokudan religion = herd_mother size = 1000 }
+}
+2127 = {
+	aristocrats = { culture = yokudan religion = herd_mother size = 500 }
+	artisans = { culture = yokudan religion = herd_mother size = 2500 }
+	bureaucrats = { culture = yokudan religion = herd_mother size = 400 }
+	clergymen = { culture = yokudan religion = herd_mother size = 550 }
+	farmers = { culture = yokudan religion = herd_mother size = 45000 }
+	officers = { culture = yokudan religion = herd_mother size = 50 }
+	soldiers = { culture = yokudan religion = herd_mother size = 1000 }
+}
+2128 = {
+	aristocrats = { culture = yokudan religion = volcano_god size = 600 }
+	artisans = { culture = yokudan religion = volcano_god size = 3000 }
+	bureaucrats = { culture = yokudan religion = volcano_god size = 480 }
+	clergymen = { culture = yokudan religion = volcano_god size = 960 }
+	farmers = { culture = yokudan religion = volcano_god size = 54000 }
+	officers = { culture = yokudan religion = volcano_god size = 60 }
+	soldiers = { culture = yokudan religion = volcano_god size = 1200 }
+}
+2129 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 400 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 2000 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 320 }
+	capitalists = { culture = yokudan religion = yokudan_pantheon size = 40 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 600 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 36000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 40 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 800 }
+}
+2130 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 300 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 1500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 240 }
+	capitalists = { culture = yokudan religion = yokudan_pantheon size = 30 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 450 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 27000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 30 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 600 }
+}
+2131 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 1200 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 4000 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 640 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 880 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 72000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 80 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1600 }
+}
+2132 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 1050 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 3500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 560 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 770 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 63000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 70 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1400 }
+}
+2133 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 2100 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 7000 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 1120 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 1540 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 126000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 140 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 2800 }
+}
+2134 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 900 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 3000 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 480 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 660 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 54000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 60 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1200 }
+}
+2135 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 600 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 2000 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 320 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 440 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 36000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 40 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 800 }
+}
+2136 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 750 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 2500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 400 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 550 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 45000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 50 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1000 }
+}
+2137 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 1350 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 4500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 720 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 990 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 81000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 90 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1800 }
+}
+2138 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 600 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 2000 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 320 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 440 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 36000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 40 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 800 }
+}
+2139 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 900 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 3000 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 480 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 660 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 54000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 60 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1200 }
+}
+2140 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 700 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 3500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 560 }
+	capitalists = { culture = yokudan religion = yokudan_pantheon size = 70 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 1050 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 63000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 70 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1400 }
+}
+2141 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 700 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 3500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 560 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 1120 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 63000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 70 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1400 }
+}
+2142 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 400 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 2000 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 320 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 640 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 36000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 40 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 800 }
+}
+2143 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 300 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 1500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 240 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 480 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 27000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 30 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 600 }
+}
+2144 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 600 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 3000 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 480 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 960 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 54000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 60 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1200 }
+}
+2145 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 400 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 2000 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 320 }
+	capitalists = { culture = yokudan religion = yokudan_pantheon size = 40 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 600 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 36000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 40 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 800 }
+}
+2146 = {
+	aristocrats = { culture = yokudan religion = herd_mother size = 450 }
+	artisans = { culture = yokudan religion = herd_mother size = 1500 }
+	bureaucrats = { culture = yokudan religion = herd_mother size = 240 }
+	clergymen = { culture = yokudan religion = herd_mother size = 330 }
+	farmers = { culture = yokudan religion = herd_mother size = 27000 }
+	officers = { culture = yokudan religion = herd_mother size = 30 }
+	soldiers = { culture = yokudan religion = herd_mother size = 600 }
+}
+2147 = {
+	aristocrats = { culture = yokudan religion = herd_mother size = 500 }
+	artisans = { culture = yokudan religion = herd_mother size = 2500 }
+	bureaucrats = { culture = yokudan religion = herd_mother size = 400 }
+	clergymen = { culture = yokudan religion = herd_mother size = 550 }
+	farmers = { culture = yokudan religion = herd_mother size = 45000 }
+	officers = { culture = yokudan religion = herd_mother size = 50 }
+	soldiers = { culture = yokudan religion = herd_mother size = 1000 }
+}
+2148 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 300 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 1500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 240 }
+	capitalists = { culture = yokudan religion = yokudan_pantheon size = 30 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 450 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 27000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 30 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 600 }
+}
+2149 = {
+	aristocrats = { culture = yokudan religion = herd_mother size = 750 }
+	artisans = { culture = yokudan religion = herd_mother size = 2500 }
+	bureaucrats = { culture = yokudan religion = herd_mother size = 400 }
+	clergymen = { culture = yokudan religion = herd_mother size = 550 }
+	farmers = { culture = yokudan religion = herd_mother size = 45000 }
+	officers = { culture = yokudan religion = herd_mother size = 50 }
+	soldiers = { culture = yokudan religion = herd_mother size = 1000 }
+}
+2150 = {
+	aristocrats = { culture = yokudan religion = herd_mother size = 750 }
+	artisans = { culture = yokudan religion = herd_mother size = 2500 }
+	bureaucrats = { culture = yokudan religion = herd_mother size = 400 }
+	clergymen = { culture = yokudan religion = herd_mother size = 550 }
+	farmers = { culture = yokudan religion = herd_mother size = 45000 }
+	officers = { culture = yokudan religion = herd_mother size = 50 }
+	soldiers = { culture = yokudan religion = herd_mother size = 1000 }
+}
+2151 = {
+	aristocrats = { culture = yokudan religion = herd_mother size = 750 }
+	artisans = { culture = yokudan religion = herd_mother size = 2500 }
+	bureaucrats = { culture = yokudan religion = herd_mother size = 400 }
+	clergymen = { culture = yokudan religion = herd_mother size = 550 }
+	farmers = { culture = yokudan religion = herd_mother size = 45000 }
+	officers = { culture = yokudan religion = herd_mother size = 50 }
+	soldiers = { culture = yokudan religion = herd_mother size = 1000 }
+}
+2152 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 700 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 3500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 560 }
+	capitalists = { culture = yokudan religion = yokudan_pantheon size = 70 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 1050 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 63000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 70 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1400 }
+}
+2153 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 500 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 2500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 400 }
+	capitalists = { culture = yokudan religion = yokudan_pantheon size = 50 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 750 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 45000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 50 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1000 }
+}
+2154 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 900 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 3000 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 480 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 660 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 54000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 60 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1200 }
+}
+2155 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 750 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 2500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 400 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 550 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 45000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 50 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1000 }
+}
+2156 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 800 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 4000 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 640 }
+	capitalists = { culture = yokudan religion = yokudan_pantheon size = 80 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 1200 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 72000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 80 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1600 }
+}
+2157 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 500 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 2500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 400 }
+	capitalists = { culture = yokudan religion = yokudan_pantheon size = 50 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 750 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 45000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 50 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1000 }
+}
+2158 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 400 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 2000 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 320 }
+	capitalists = { culture = yokudan religion = yokudan_pantheon size = 40 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 600 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 36000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 40 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 800 }
+}
+2159 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 500 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 2500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 400 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 800 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 45000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 50 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1000 }
+}
+2160 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 600 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 3000 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 480 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 960 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 54000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 60 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1200 }
+}
+2161 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 2300 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 11500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 1840 }
+	capitalists = { culture = yokudan religion = yokudan_pantheon size = 230 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 3450 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 207000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 230 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 4600 }
+}
+2162 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 750 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 2500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 400 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 550 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 45000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 50 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1000 }
+}
+2163 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 800 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 4000 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 640 }
+	capitalists = { culture = yokudan religion = yokudan_pantheon size = 80 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 1200 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 72000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 80 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1600 }
+}
+2164 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 500 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 2500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 400 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 550 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 45000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 50 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1000 }
+}
+2165 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 500 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 2500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 400 }
+	capitalists = { culture = yokudan religion = yokudan_pantheon size = 50 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 750 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 45000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 50 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1000 }
+}
+2166 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 1050 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 3500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 560 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 770 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 63000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 70 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1400 }
+}
+2167 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 500 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 2500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 400 }
+	capitalists = { culture = yokudan religion = yokudan_pantheon size = 50 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 750 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 45000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 50 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1000 }
+}
+2168 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 700 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 3500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 560 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 770 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 63000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 70 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1400 }
+}
+2169 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 600 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 3000 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 480 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 960 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 54000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 60 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1200 }
+}
+2170 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 400 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 2000 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 320 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 640 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 36000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 40 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 800 }
+}
+2171 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 700 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 3500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 560 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 1120 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 63000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 70 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1400 }
+}
+2172 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 400 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 2000 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 320 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 640 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 36000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 40 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 800 }
+}
+2173 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 500 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 2500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 400 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 800 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 45000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 50 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1000 }
+}
+2174 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 500 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 2500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 400 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 800 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 45000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 50 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1000 }
+}
+2175 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 800 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 4000 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 640 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 1280 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 72000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 80 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1600 }
+}
+2176 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 1050 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 3500 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 560 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 770 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 63000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 70 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 1400 }
+}
+2177 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 600 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 2000 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 320 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 440 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 36000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 40 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 800 }
+}
+2178 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 750 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 2500 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 400 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 550 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 45000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 50 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 1000 }
+}
+2179 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 450 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 1500 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 240 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 330 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 27000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 30 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 600 }
+}
+2180 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 900 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 3000 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 480 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 660 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 54000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 60 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 1200 }
+}
+2181 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 1350 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 4500 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 720 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 990 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 81000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 90 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 1800 }
+}
+2182 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 1350 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 4500 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 720 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 990 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 81000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 90 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 1800 }
+}
+2183 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 1050 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 3500 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 560 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 770 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 63000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 70 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 1400 }
+}
+2184 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 1200 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 4000 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 640 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 880 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 72000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 80 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 1600 }
+}
+2271 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 750 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 2500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 400 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 550 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 45000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 50 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1000 }
+}
+273 = {
+	aristocrats = { culture = yokudan religion = herd_mother size = 800 }
+	artisans = { culture = yokudan religion = herd_mother size = 4000 }
+	bureaucrats = { culture = yokudan religion = herd_mother size = 640 }
+	clergymen = { culture = yokudan religion = herd_mother size = 1280 }
+	farmers = { culture = yokudan religion = herd_mother size = 72000 }
+	officers = { culture = yokudan religion = herd_mother size = 80 }
+	soldiers = { culture = yokudan religion = herd_mother size = 1600 }
+}
+2793 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 450 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 1500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 240 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 330 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 27000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 30 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 600 }
+}
+2842 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 1200 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 4000 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 640 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 880 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 72000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 80 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1600 }
+}
+285 = {
+	aristocrats = { culture = yokudan religion = herd_mother size = 900 }
+	artisans = { culture = yokudan religion = herd_mother size = 4500 }
+	bureaucrats = { culture = yokudan religion = herd_mother size = 720 }
+	clergymen = { culture = yokudan religion = herd_mother size = 1440 }
+	farmers = { culture = yokudan religion = herd_mother size = 81000 }
+	officers = { culture = yokudan religion = herd_mother size = 90 }
+	soldiers = { culture = yokudan religion = herd_mother size = 1800 }
+}
+2852 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 600 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 3000 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 480 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 960 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 54000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 60 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1200 }
+}
+286 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 1050 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 3500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 560 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 770 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 63000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 70 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1400 }
+}
+3146 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 700 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 3500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 560 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 1120 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 63000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 70 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1400 }
+}
+3151 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 700 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 3500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 560 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 1120 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 63000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 70 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1400 }
+}
+3152 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 300 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 1500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 240 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 480 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 27000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 30 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 600 }
+}
+3153 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 300 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 1500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 240 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 480 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 27000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 30 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 600 }
+}
+3154 = {
+	aristocrats = { culture = yokudan religion = volcano_god size = 900 }
+	artisans = { culture = yokudan religion = volcano_god size = 3000 }
+	bureaucrats = { culture = yokudan religion = volcano_god size = 480 }
+	clergymen = { culture = yokudan religion = volcano_god size = 660 }
+	farmers = { culture = yokudan religion = volcano_god size = 54000 }
+	officers = { culture = yokudan religion = volcano_god size = 60 }
+	soldiers = { culture = yokudan religion = volcano_god size = 1200 }
+}
+3155 = {
+	aristocrats = { culture = yokudan religion = volcano_god size = 750 }
+	artisans = { culture = yokudan religion = volcano_god size = 2500 }
+	bureaucrats = { culture = yokudan religion = volcano_god size = 400 }
+	clergymen = { culture = yokudan religion = volcano_god size = 550 }
+	farmers = { culture = yokudan religion = volcano_god size = 45000 }
+	officers = { culture = yokudan religion = volcano_god size = 50 }
+	soldiers = { culture = yokudan religion = volcano_god size = 1000 }
+}
+3156 = {
+	aristocrats = { culture = yokudan religion = volcano_god size = 450 }
+	artisans = { culture = yokudan religion = volcano_god size = 1500 }
+	bureaucrats = { culture = yokudan religion = volcano_god size = 240 }
+	clergymen = { culture = yokudan religion = volcano_god size = 330 }
+	farmers = { culture = yokudan religion = volcano_god size = 27000 }
+	officers = { culture = yokudan religion = volcano_god size = 30 }
+	soldiers = { culture = yokudan religion = volcano_god size = 600 }
+}
+3157 = {
+	aristocrats = { culture = yokudan religion = volcano_god size = 500 }
+	artisans = { culture = yokudan religion = volcano_god size = 2500 }
+	bureaucrats = { culture = yokudan religion = volcano_god size = 400 }
+	clergymen = { culture = yokudan religion = volcano_god size = 800 }
+	farmers = { culture = yokudan religion = volcano_god size = 45000 }
+	officers = { culture = yokudan religion = volcano_god size = 50 }
+	soldiers = { culture = yokudan religion = volcano_god size = 1000 }
+}
+3158 = {
+	aristocrats = { culture = yokudan religion = volcano_god size = 1200 }
+	artisans = { culture = yokudan religion = volcano_god size = 4000 }
+	bureaucrats = { culture = yokudan religion = volcano_god size = 640 }
+	clergymen = { culture = yokudan religion = volcano_god size = 880 }
+	farmers = { culture = yokudan religion = volcano_god size = 72000 }
+	officers = { culture = yokudan religion = volcano_god size = 80 }
+	soldiers = { culture = yokudan religion = volcano_god size = 1600 }
+}
+3159 = {
+	aristocrats = { culture = yokudan religion = volcano_god size = 1200 }
+	artisans = { culture = yokudan religion = volcano_god size = 4000 }
+	bureaucrats = { culture = yokudan religion = volcano_god size = 640 }
+	clergymen = { culture = yokudan religion = volcano_god size = 880 }
+	farmers = { culture = yokudan religion = volcano_god size = 72000 }
+	officers = { culture = yokudan religion = volcano_god size = 80 }
+	soldiers = { culture = yokudan religion = volcano_god size = 1600 }
+}
+318 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 1050 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 3500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 560 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 770 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 63000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 70 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1400 }
+}
+319 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 1050 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 3500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 560 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 770 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 63000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 70 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1400 }
+}
+320 = {
+	aristocrats = { culture = sload religion = sload_faith size = 500 }
+	artisans = { culture = sload religion = sload_faith size = 2500 }
+	bureaucrats = { culture = sload religion = sload_faith size = 400 }
+	capitalists = { culture = sload religion = sload_faith size = 50 }
+	clergymen = { culture = sload religion = sload_faith size = 750 }
+	farmers = { culture = sload religion = sload_faith size = 45000 }
+	officers = { culture = sload religion = sload_faith size = 50 }
+	soldiers = { culture = sload religion = sload_faith size = 1000 }
+}
+321 = {
+	aristocrats = { culture = sload religion = sload_faith size = 600 }
+	artisans = { culture = sload religion = sload_faith size = 3000 }
+	bureaucrats = { culture = sload religion = sload_faith size = 480 }
+	capitalists = { culture = sload religion = sload_faith size = 60 }
+	clergymen = { culture = sload religion = sload_faith size = 900 }
+	farmers = { culture = sload religion = sload_faith size = 54000 }
+	officers = { culture = sload religion = sload_faith size = 60 }
+	soldiers = { culture = sload religion = sload_faith size = 1200 }
+}
+322 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 750 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 2500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 400 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 550 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 45000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 50 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1000 }
+}
+323 = {
+	aristocrats = { culture = sload religion = sload_faith size = 600 }
+	artisans = { culture = sload religion = sload_faith size = 3000 }
+	bureaucrats = { culture = sload religion = sload_faith size = 480 }
+	capitalists = { culture = sload religion = sload_faith size = 60 }
+	clergymen = { culture = sload religion = sload_faith size = 900 }
+	farmers = { culture = sload religion = sload_faith size = 54000 }
+	officers = { culture = sload religion = sload_faith size = 60 }
+	soldiers = { culture = sload religion = sload_faith size = 1200 }
+}
+324 = {
+	aristocrats = { culture = sload religion = sload_faith size = 300 }
+	artisans = { culture = sload religion = sload_faith size = 1500 }
+	bureaucrats = { culture = sload religion = sload_faith size = 240 }
+	capitalists = { culture = sload religion = sload_faith size = 30 }
+	clergymen = { culture = sload religion = sload_faith size = 450 }
+	farmers = { culture = sload religion = sload_faith size = 27000 }
+	officers = { culture = sload religion = sload_faith size = 30 }
+	soldiers = { culture = sload religion = sload_faith size = 600 }
+}
+325 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 1200 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 4000 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 640 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 880 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 72000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 80 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1600 }
+}
+326 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 600 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 3000 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 480 }
+	capitalists = { culture = yokudan religion = yokudan_pantheon size = 60 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 900 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 54000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 60 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1200 }
+}
+327 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 600 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 3000 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 480 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 960 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 54000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 60 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 1200 }
+}
+328 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 500 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 2500 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 400 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 800 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 45000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 50 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 1000 }
+}
+329 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 400 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 2000 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 320 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 440 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 36000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 40 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 800 }
+}
+330 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 900 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 3000 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 480 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 660 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 54000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 60 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1200 }
+}
+331 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 1050 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 3500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 560 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 770 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 63000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 70 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1400 }
+}
+332 = {
+	aristocrats = { culture = yokudan religion = herd_mother size = 400 }
+	artisans = { culture = yokudan religion = herd_mother size = 2000 }
+	bureaucrats = { culture = yokudan religion = herd_mother size = 320 }
+	clergymen = { culture = yokudan religion = herd_mother size = 640 }
+	farmers = { culture = yokudan religion = herd_mother size = 36000 }
+	officers = { culture = yokudan religion = herd_mother size = 40 }
+	soldiers = { culture = yokudan religion = herd_mother size = 800 }
+}
+333 = {
+	aristocrats = { culture = yokudan religion = herd_mother size = 600 }
+	artisans = { culture = yokudan religion = herd_mother size = 3000 }
+	bureaucrats = { culture = yokudan religion = herd_mother size = 480 }
+	clergymen = { culture = yokudan religion = herd_mother size = 960 }
+	farmers = { culture = yokudan religion = herd_mother size = 54000 }
+	officers = { culture = yokudan religion = herd_mother size = 60 }
+	soldiers = { culture = yokudan religion = herd_mother size = 1200 }
+}
+334 = {
+	aristocrats = { culture = yokudan religion = herd_mother size = 800 }
+	artisans = { culture = yokudan religion = herd_mother size = 4000 }
+	bureaucrats = { culture = yokudan religion = herd_mother size = 640 }
+	clergymen = { culture = yokudan religion = herd_mother size = 1280 }
+	farmers = { culture = yokudan religion = herd_mother size = 72000 }
+	officers = { culture = yokudan religion = herd_mother size = 80 }
+	soldiers = { culture = yokudan religion = herd_mother size = 1600 }
+}
+335 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 750 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 2500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 400 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 550 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 45000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 50 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1000 }
+}
+336 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 500 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 2500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 400 }
+	capitalists = { culture = yokudan religion = yokudan_pantheon size = 50 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 750 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 45000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 50 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1000 }
+}
+337 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 500 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 2500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 400 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 800 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 45000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 50 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1000 }
+}
+338 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 700 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 3500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 560 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 1120 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 63000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 70 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1400 }
+}
+339 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 600 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 3000 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 480 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 960 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 54000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 60 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1200 }
+}
+340 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 1050 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 3500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 560 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 770 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 63000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 70 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1400 }
+}
+341 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 500 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 2500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 400 }
+	capitalists = { culture = yokudan religion = yokudan_pantheon size = 50 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 750 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 45000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 50 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1000 }
+}
+342 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 1200 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 4000 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 640 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 880 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 72000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 80 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1600 }
+}
+343 = {
+	aristocrats = { culture = yokudan religion = herd_mother size = 500 }
+	artisans = { culture = yokudan religion = herd_mother size = 2500 }
+	bureaucrats = { culture = yokudan religion = herd_mother size = 400 }
+	clergymen = { culture = yokudan religion = herd_mother size = 550 }
+	farmers = { culture = yokudan religion = herd_mother size = 45000 }
+	officers = { culture = yokudan religion = herd_mother size = 50 }
+	soldiers = { culture = yokudan religion = herd_mother size = 1000 }
+}
+344 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 900 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 4500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 720 }
+	capitalists = { culture = yokudan religion = yokudan_pantheon size = 90 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 1350 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 81000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 90 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1800 }
+}
+3441 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 300 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 1500 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 240 }
+	capitalists = { culture = sinistral religion = altmeri_pantheon size = 30 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 450 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 27000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 30 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 600 }
+}
+3442 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 600 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 3000 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 480 }
+	capitalists = { culture = sinistral religion = altmeri_pantheon size = 60 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 900 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 54000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 60 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 1200 }
+}
+3443 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 600 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 3000 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 480 }
+	capitalists = { culture = yokudan religion = yokudan_pantheon size = 60 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 900 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 54000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 60 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1200 }
+}
+3444 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 450 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 1500 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 240 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 330 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 27000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 30 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 600 }
+}
+3445 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 300 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 1500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 240 }
+	capitalists = { culture = yokudan religion = yokudan_pantheon size = 30 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 450 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 27000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 30 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 600 }
+}
+3446 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 1500 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 7500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 1200 }
+	capitalists = { culture = yokudan religion = yokudan_pantheon size = 150 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 2250 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 135000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 150 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 3000 }
+}
+3447 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 400 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 2000 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 320 }
+	capitalists = { culture = yokudan religion = yokudan_pantheon size = 40 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 600 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 36000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 40 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 800 }
+}
+3448 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 800 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 4000 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 640 }
+	capitalists = { culture = yokudan religion = yokudan_pantheon size = 80 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 1200 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 72000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 80 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1600 }
+}
+3449 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 400 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 2000 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 320 }
+	capitalists = { culture = yokudan religion = yokudan_pantheon size = 40 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 600 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 36000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 40 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 800 }
+}
+345 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 3150 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 10500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 1680 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 2310 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 189000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 210 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 4200 }
+}
+3450 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 700 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 3500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 560 }
+	capitalists = { culture = yokudan religion = yokudan_pantheon size = 70 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 1050 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 63000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 70 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1400 }
+}
+3451 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 300 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 1500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 240 }
+	capitalists = { culture = yokudan religion = yokudan_pantheon size = 30 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 450 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 27000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 30 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 600 }
+}
+3452 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 750 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 2500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 400 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 550 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 45000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 50 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1000 }
+}
+3453 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 600 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 2000 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 320 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 440 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 36000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 40 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 800 }
+}
+3454 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 750 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 2500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 400 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 550 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 45000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 50 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1000 }
+}
+3455 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 750 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 2500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 400 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 550 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 45000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 50 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1000 }
+}
+3456 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 600 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 2000 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 320 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 440 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 36000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 40 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 800 }
+}
+3457 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 900 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 3000 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 480 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 660 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 54000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 60 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1200 }
+}
+3458 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 900 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 3000 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 480 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 660 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 54000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 60 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1200 }
+}
+3459 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 600 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 2000 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 320 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 440 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 36000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 40 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 800 }
+}
+346 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 300 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 1500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 240 }
+	capitalists = { culture = yokudan religion = yokudan_pantheon size = 30 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 450 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 27000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 30 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 600 }
+}
+3460 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 500 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 2500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 400 }
+	capitalists = { culture = yokudan religion = yokudan_pantheon size = 50 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 750 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 45000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 50 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1000 }
+}
+3461 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 600 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 3000 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 480 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 660 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 54000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 60 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1200 }
+}
+3462 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 300 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 1500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 240 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 330 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 27000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 30 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 600 }
+}
+3463 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 700 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 3500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 560 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 770 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 63000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 70 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1400 }
+}
+3464 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 500 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 2500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 400 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 550 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 45000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 50 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1000 }
+}
+3465 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 800 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 4000 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 640 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 880 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 72000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 80 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1600 }
+}
+3466 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 600 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 3000 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 480 }
+	capitalists = { culture = yokudan religion = yokudan_pantheon size = 60 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 900 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 54000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 60 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1200 }
+}
+3467 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 300 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 1500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 240 }
+	capitalists = { culture = yokudan religion = yokudan_pantheon size = 30 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 450 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 27000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 30 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 600 }
+}
+3468 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 700 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 3500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 560 }
+	capitalists = { culture = yokudan religion = yokudan_pantheon size = 70 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 1050 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 63000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 70 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1400 }
+}
+3469 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 300 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 1500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 240 }
+	capitalists = { culture = yokudan religion = yokudan_pantheon size = 30 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 450 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 27000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 30 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 600 }
+}
+347 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 800 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 4000 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 640 }
+	capitalists = { culture = yokudan religion = yokudan_pantheon size = 80 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 1200 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 72000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 80 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1600 }
+}
+3470 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 800 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 4000 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 640 }
+	capitalists = { culture = yokudan religion = yokudan_pantheon size = 80 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 1200 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 72000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 80 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1600 }
+}
+348 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 400 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 2000 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 320 }
+	capitalists = { culture = yokudan religion = yokudan_pantheon size = 40 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 600 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 36000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 40 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 800 }
+}
+349 = {
+	aristocrats = { culture = yokudan religion = herd_mother size = 600 }
+	artisans = { culture = yokudan religion = herd_mother size = 3000 }
+	bureaucrats = { culture = yokudan religion = herd_mother size = 480 }
+	clergymen = { culture = yokudan religion = herd_mother size = 660 }
+	farmers = { culture = yokudan religion = herd_mother size = 54000 }
+	officers = { culture = yokudan religion = herd_mother size = 60 }
+	soldiers = { culture = yokudan religion = herd_mother size = 1200 }
+}
+350 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 800 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 4000 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 640 }
+	capitalists = { culture = yokudan religion = yokudan_pantheon size = 80 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 1200 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 72000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 80 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1600 }
+}
+351 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 500 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 2500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 400 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 800 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 45000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 50 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1000 }
+}
+352 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 700 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 3500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 560 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 1120 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 63000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 70 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1400 }
+}
+353 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 300 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 1500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 240 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 480 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 27000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 30 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 600 }
+}
+354 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 450 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 1500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 240 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 330 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 27000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 30 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 600 }
+}
+355 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 1200 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 4000 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 640 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 880 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 72000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 80 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1600 }
+}
+388 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 400 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 2000 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 320 }
+	capitalists = { culture = yokudan religion = yokudan_pantheon size = 40 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 600 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 36000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 40 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 800 }
+}
+3892 = {
+	aristocrats = { culture = sload religion = sload_faith size = 300 }
+	artisans = { culture = sload religion = sload_faith size = 1500 }
+	bureaucrats = { culture = sload religion = sload_faith size = 240 }
+	capitalists = { culture = sload religion = sload_faith size = 30 }
+	clergymen = { culture = sload religion = sload_faith size = 450 }
+	farmers = { culture = sload religion = sload_faith size = 27000 }
+	officers = { culture = sload religion = sload_faith size = 30 }
+	soldiers = { culture = sload religion = sload_faith size = 600 }
+}
+4155 = {
+	aristocrats = { culture = yokudan religion = volcano_god size = 700 }
+	artisans = { culture = yokudan religion = volcano_god size = 3500 }
+	bureaucrats = { culture = yokudan religion = volcano_god size = 560 }
+	clergymen = { culture = yokudan religion = volcano_god size = 1120 }
+	farmers = { culture = yokudan religion = volcano_god size = 63000 }
+	officers = { culture = yokudan religion = volcano_god size = 70 }
+	soldiers = { culture = yokudan religion = volcano_god size = 1400 }
+}
+4159 = {
+	aristocrats = { culture = yokudan religion = volcano_god size = 2850 }
+	artisans = { culture = yokudan religion = volcano_god size = 9500 }
+	bureaucrats = { culture = yokudan religion = volcano_god size = 1520 }
+	clergymen = { culture = yokudan religion = volcano_god size = 2090 }
+	farmers = { culture = yokudan religion = volcano_god size = 171000 }
+	officers = { culture = yokudan religion = volcano_god size = 190 }
+	soldiers = { culture = yokudan religion = volcano_god size = 3800 }
+}
+4163 = {
+	aristocrats = { culture = yokudan religion = volcano_god size = 500 }
+	artisans = { culture = yokudan religion = volcano_god size = 2500 }
+	bureaucrats = { culture = yokudan religion = volcano_god size = 400 }
+	clergymen = { culture = yokudan religion = volcano_god size = 800 }
+	farmers = { culture = yokudan religion = volcano_god size = 45000 }
+	officers = { culture = yokudan religion = volcano_god size = 50 }
+	soldiers = { culture = yokudan religion = volcano_god size = 1000 }
+}
+4165 = {
+	aristocrats = { culture = yokudan religion = volcano_god size = 800 }
+	artisans = { culture = yokudan religion = volcano_god size = 4000 }
+	bureaucrats = { culture = yokudan religion = volcano_god size = 640 }
+	clergymen = { culture = yokudan religion = volcano_god size = 1280 }
+	farmers = { culture = yokudan religion = volcano_god size = 72000 }
+	officers = { culture = yokudan religion = volcano_god size = 80 }
+	soldiers = { culture = yokudan religion = volcano_god size = 1600 }
+}
+4166 = {
+	aristocrats = { culture = sload religion = sload_faith size = 500 }
+	artisans = { culture = sload religion = sload_faith size = 2500 }
+	bureaucrats = { culture = sload religion = sload_faith size = 400 }
+	capitalists = { culture = sload religion = sload_faith size = 50 }
+	clergymen = { culture = sload religion = sload_faith size = 750 }
+	farmers = { culture = sload religion = sload_faith size = 45000 }
+	officers = { culture = sload religion = sload_faith size = 50 }
+	soldiers = { culture = sload religion = sload_faith size = 1000 }
+}
+4167 = {
+	aristocrats = { culture = yokudan religion = volcano_god size = 400 }
+	artisans = { culture = yokudan religion = volcano_god size = 2000 }
+	bureaucrats = { culture = yokudan religion = volcano_god size = 320 }
+	clergymen = { culture = yokudan religion = volcano_god size = 640 }
+	farmers = { culture = yokudan religion = volcano_god size = 36000 }
+	officers = { culture = yokudan religion = volcano_god size = 40 }
+	soldiers = { culture = yokudan religion = volcano_god size = 800 }
+}
+60 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 400 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 2000 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 320 }
+	capitalists = { culture = yokudan religion = yokudan_pantheon size = 40 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 600 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 36000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 40 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 800 }
+}
+8297 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 1050 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 3500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 560 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 770 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 63000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 70 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1400 }
+}
+8298 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 750 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 2500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 400 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 550 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 45000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 50 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1000 }
+}
+8299 = {
+	aristocrats = { culture = yokudan religion = herd_mother size = 600 }
+	artisans = { culture = yokudan religion = herd_mother size = 3000 }
+	bureaucrats = { culture = yokudan religion = herd_mother size = 480 }
+	clergymen = { culture = yokudan religion = herd_mother size = 960 }
+	farmers = { culture = yokudan religion = herd_mother size = 54000 }
+	officers = { culture = yokudan religion = herd_mother size = 60 }
+	soldiers = { culture = yokudan religion = herd_mother size = 1200 }
+}
+8300 = {
+	aristocrats = { culture = yokudan religion = herd_mother size = 300 }
+	artisans = { culture = yokudan religion = herd_mother size = 1500 }
+	bureaucrats = { culture = yokudan religion = herd_mother size = 240 }
+	clergymen = { culture = yokudan religion = herd_mother size = 480 }
+	farmers = { culture = yokudan religion = herd_mother size = 27000 }
+	officers = { culture = yokudan religion = herd_mother size = 30 }
+	soldiers = { culture = yokudan religion = herd_mother size = 600 }
+}
+8301 = {
+	aristocrats = { culture = yokudan religion = volcano_god size = 300 }
+	artisans = { culture = yokudan religion = volcano_god size = 1500 }
+	bureaucrats = { culture = yokudan religion = volcano_god size = 240 }
+	clergymen = { culture = yokudan religion = volcano_god size = 480 }
+	farmers = { culture = yokudan religion = volcano_god size = 27000 }
+	officers = { culture = yokudan religion = volcano_god size = 30 }
+	soldiers = { culture = yokudan religion = volcano_god size = 600 }
+}
+8302 = {
+	aristocrats = { culture = yokudan religion = volcano_god size = 600 }
+	artisans = { culture = yokudan religion = volcano_god size = 3000 }
+	bureaucrats = { culture = yokudan religion = volcano_god size = 480 }
+	clergymen = { culture = yokudan religion = volcano_god size = 960 }
+	farmers = { culture = yokudan religion = volcano_god size = 54000 }
+	officers = { culture = yokudan religion = volcano_god size = 60 }
+	soldiers = { culture = yokudan religion = volcano_god size = 1200 }
+}
+8303 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 700 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 3500 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 560 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 770 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 63000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 70 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1400 }
+}
+86 = {
+	aristocrats = { culture = yokudan religion = yokudan_pantheon size = 600 }
+	artisans = { culture = yokudan religion = yokudan_pantheon size = 3000 }
+	bureaucrats = { culture = yokudan religion = yokudan_pantheon size = 480 }
+	clergymen = { culture = yokudan religion = yokudan_pantheon size = 960 }
+	farmers = { culture = yokudan religion = yokudan_pantheon size = 54000 }
+	officers = { culture = yokudan religion = yokudan_pantheon size = 60 }
+	soldiers = { culture = yokudan religion = yokudan_pantheon size = 1200 }
+}
+9525 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 600 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 3000 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 480 }
+	capitalists = { culture = sinistral religion = altmeri_pantheon size = 60 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 900 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 54000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 60 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 1200 }
+}
+9526 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 700 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 3500 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 560 }
+	capitalists = { culture = sinistral religion = altmeri_pantheon size = 70 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 1050 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 63000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 70 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 1400 }
+}
+9527 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 700 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 3500 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 560 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 1120 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 63000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 70 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 1400 }
+}
+9528 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 400 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 2000 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 320 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 640 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 36000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 40 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 800 }
+}
+9529 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 500 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 2500 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 400 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 800 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 45000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 50 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 1000 }
+}
+9530 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 500 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 2500 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 400 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 800 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 45000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 50 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 1000 }
+}
+9537 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 600 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 3000 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 480 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 660 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 54000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 60 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 1200 }
+}
+9538 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 700 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 3500 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 560 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 770 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 63000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 70 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 1400 }
+}
+9539 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 600 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 3000 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 480 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 660 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 54000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 60 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 1200 }
+}
+9540 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 700 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 3500 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 560 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 770 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 63000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 70 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 1400 }
+}
+9541 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 800 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 4000 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 640 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 880 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 72000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 80 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 1600 }
+}
+9542 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 700 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 3500 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 560 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 770 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 63000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 70 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 1400 }
+}
+9543 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 600 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 2000 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 320 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 440 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 36000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 40 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 800 }
+}
+9544 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 1050 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 3500 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 560 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 770 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 63000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 70 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 1400 }
+}
+9545 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 1350 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 4500 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 720 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 990 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 81000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 90 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 1800 }
+}
+9546 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 600 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 2000 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 320 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 440 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 36000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 40 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 800 }
+}
+9547 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 900 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 3000 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 480 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 660 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 54000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 60 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 1200 }
+}
+9548 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 400 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 2000 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 320 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 440 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 36000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 40 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 800 }
+}
+9549 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 500 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 2500 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 400 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 550 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 45000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 50 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 1000 }
+}
+9550 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 600 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 2000 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 320 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 440 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 36000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 40 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 800 }
+}
+9551 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 600 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 2000 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 320 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 440 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 36000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 40 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 800 }
+}
+9552 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 750 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 2500 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 400 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 550 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 45000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 50 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 1000 }
+}
+9553 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 450 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 1500 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 240 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 330 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 27000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 30 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 600 }
+}
+9554 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 600 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 3000 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 480 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 660 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 54000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 60 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 1200 }
+}
+9555 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 700 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 3500 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 560 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 770 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 63000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 70 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 1400 }
+}
+9556 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 400 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 2000 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 320 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 440 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 36000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 40 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 800 }
+}
+9557 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 600 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 2000 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 320 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 440 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 36000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 40 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 800 }
+}
+9558 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 500 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 2500 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 400 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 550 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 45000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 50 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 1000 }
+}
+9559 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 500 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 2500 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 400 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 550 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 45000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 50 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 1000 }
+}
+9560 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 300 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 1500 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 240 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 330 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 27000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 30 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 600 }
+}
+9561 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 600 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 3000 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 480 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 660 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 54000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 60 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 1200 }
+}
+9562 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 600 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 3000 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 480 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 660 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 54000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 60 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 1200 }
+}
+9563 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 1050 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 3500 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 560 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 770 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 63000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 70 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 1400 }
+}
+9564 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 750 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 2500 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 400 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 550 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 45000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 50 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 1000 }
+}
+9565 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 1500 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 5000 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 800 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 1100 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 90000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 100 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 2000 }
+}
+9566 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 1050 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 3500 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 560 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 770 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 63000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 70 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 1400 }
+}
+9567 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 500 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 2500 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 400 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 550 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 45000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 50 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 1000 }
+}
+9568 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 900 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 3000 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 480 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 660 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 54000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 60 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 1200 }
+}
+9569 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 750 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 2500 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 400 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 550 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 45000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 50 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 1000 }
+}
+9570 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 300 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 1500 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 240 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 330 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 27000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 30 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 600 }
+}
+9571 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 700 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 3500 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 560 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 770 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 63000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 70 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 1400 }
+}
+9572 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 1050 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 3500 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 560 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 770 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 63000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 70 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 1400 }
+}
+9573 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 900 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 4500 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 720 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 990 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 81000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 90 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 1800 }
+}
+9574 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 800 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 4000 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 640 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 880 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 72000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 80 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 1600 }
+}
+9575 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 1350 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 4500 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 720 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 990 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 81000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 90 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 1800 }
+}
+9576 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 1050 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 3500 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 560 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 770 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 63000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 70 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 1400 }
+}
+9577 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 1050 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 3500 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 560 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 770 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 63000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 70 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 1400 }
+}
+9578 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 300 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 1500 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 240 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 330 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 27000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 30 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 600 }
+}
+9579 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 900 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 3000 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 480 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 660 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 54000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 60 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 1200 }
+}
+9580 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 800 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 4000 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 640 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 880 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 72000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 80 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 1600 }
+}
+9581 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 400 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 2000 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 320 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 440 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 36000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 40 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 800 }
+}
+9582 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 500 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 2500 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 400 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 550 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 45000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 50 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 1000 }
+}
+9583 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 300 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 1500 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 240 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 330 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 27000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 30 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 600 }
+}
+9584 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 600 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 2000 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 320 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 440 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 36000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 40 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 800 }
+}
+9585 = {
+	aristocrats = { culture = sinistral religion = altmeri_pantheon size = 750 }
+	artisans = { culture = sinistral religion = altmeri_pantheon size = 2500 }
+	bureaucrats = { culture = sinistral religion = altmeri_pantheon size = 400 }
+	clergymen = { culture = sinistral religion = altmeri_pantheon size = 550 }
+	farmers = { culture = sinistral religion = altmeri_pantheon size = 45000 }
+	officers = { culture = sinistral religion = altmeri_pantheon size = 50 }
+	soldiers = { culture = sinistral religion = altmeri_pantheon size = 1000 }
+}

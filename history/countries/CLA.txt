@@ -1,0 +1,8 @@
+capital = 3846
+government = native
+religion = mehrunes_dagon_cult
+primary_culture = clannfear
+nationalvalue = daedric_tg
+literacy = 0.2
+non_state_culture_literacy = 0.2
+ruling_party = openvic_generic_reactionary

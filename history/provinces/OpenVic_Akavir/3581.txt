@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = cattle
+owner = UB0
+controller = UB0
+add_core = UB0

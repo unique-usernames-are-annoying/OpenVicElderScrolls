@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = tropical_wood
+owner = JA7
+controller = JA7
+add_core = JA7

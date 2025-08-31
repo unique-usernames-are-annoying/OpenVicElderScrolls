@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = precious_metal
+owner = VB9
+controller = VB9
+add_core = VB9

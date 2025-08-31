@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = silk
+owner = BA7
+controller = BA7
+add_core = BA7

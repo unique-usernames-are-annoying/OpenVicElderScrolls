@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = wool
+owner = MI5
+controller = MI5
+add_core = MI5

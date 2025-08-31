@@ -1,0 +1,6 @@
+life_rating = 30
+trade_goods = precious_metal
+owner = IA8
+controller = IA8
+add_core = IA8
+add_core = IB0

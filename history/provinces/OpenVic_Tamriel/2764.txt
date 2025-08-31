@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = coffee
+owner = NE6
+controller = NE6
+add_core = NE6

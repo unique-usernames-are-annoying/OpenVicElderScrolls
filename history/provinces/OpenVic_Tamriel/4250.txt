@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = iron
+owner = MC3
+controller = MC3
+add_core = MC3

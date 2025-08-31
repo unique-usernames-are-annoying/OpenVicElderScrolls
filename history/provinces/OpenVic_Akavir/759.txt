@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = tobacco
+owner = OA4
+controller = OA4
+add_core = OA4

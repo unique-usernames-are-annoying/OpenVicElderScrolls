@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = grain
+owner = OB4
+controller = OB4
+add_core = OB4

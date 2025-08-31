@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = cotton
+owner = AB8
+controller = AB8
+add_core = AB8

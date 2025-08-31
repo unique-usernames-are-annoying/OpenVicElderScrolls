@@ -1,0 +1,6 @@
+life_rating = 30
+trade_goods = cotton
+owner = ALH
+controller = ALH
+add_core = ALH
+add_core = CF7

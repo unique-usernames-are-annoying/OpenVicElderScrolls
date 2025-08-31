@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = tropical_wood
+owner = NB7
+controller = NB7
+add_core = NB7

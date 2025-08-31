@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = fish
+owner = PB6
+controller = PB6
+add_core = PB6

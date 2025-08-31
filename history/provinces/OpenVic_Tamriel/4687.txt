@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = precious_metal
+owner = SA4
+controller = SA4
+add_core = SA4

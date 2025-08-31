@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = timber
+owner = LA8
+controller = LA8
+add_core = LA8

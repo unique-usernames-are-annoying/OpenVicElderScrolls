@@ -1,0 +1,6 @@
+life_rating = 30
+trade_goods = grain
+owner = MIT
+controller = MIT
+add_core = MIT
+add_core = CF2

@@ -1,0 +1,6 @@
+life_rating = 30
+trade_goods = cattle
+owner = SA7
+controller = SA7
+add_core = SA7
+add_core = SD7

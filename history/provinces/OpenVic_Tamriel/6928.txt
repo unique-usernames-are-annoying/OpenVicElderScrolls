@@ -1,0 +1,6 @@
+life_rating = 30
+trade_goods = tea
+owner = BE4
+controller = BE4
+add_core = BE4
+add_core = BA8

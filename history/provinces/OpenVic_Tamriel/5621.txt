@@ -1,0 +1,6 @@
+life_rating = 30
+trade_goods = cattle
+owner = CH6
+controller = CH6
+add_core = CH6
+add_core = CB5

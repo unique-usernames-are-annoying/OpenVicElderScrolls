@@ -1,0 +1,6 @@
+life_rating = 30
+trade_goods = tobacco
+owner = OB8
+controller = OB8
+add_core = OB8
+add_core = OB9

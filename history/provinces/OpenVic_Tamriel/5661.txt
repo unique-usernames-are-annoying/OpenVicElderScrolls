@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = tobacco
+owner = CA6
+controller = CA6
+add_core = CA6

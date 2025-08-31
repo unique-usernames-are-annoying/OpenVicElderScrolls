@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = coffee
+owner = PC2
+controller = PC2
+add_core = PC2

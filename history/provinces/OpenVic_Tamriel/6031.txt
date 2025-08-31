@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = grain
+owner = CJ8
+controller = CJ8
+add_core = CJ8

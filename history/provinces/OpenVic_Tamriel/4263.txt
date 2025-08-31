@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = timber
+owner = ME4
+controller = ME4
+add_core = ME4

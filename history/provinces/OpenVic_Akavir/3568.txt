@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = wool
+owner = TA6
+controller = TA6
+add_core = TA6

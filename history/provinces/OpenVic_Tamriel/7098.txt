@@ -1,0 +1,6 @@
+life_rating = 30
+trade_goods = coal
+owner = NG5
+controller = NG5
+add_core = NG5
+add_core = NF3

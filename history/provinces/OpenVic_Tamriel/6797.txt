@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = tea
+owner = AE4
+controller = AE4
+add_core = AE4

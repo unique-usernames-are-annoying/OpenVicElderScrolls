@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = dye
+owner = NB2
+controller = NB2
+add_core = NB2

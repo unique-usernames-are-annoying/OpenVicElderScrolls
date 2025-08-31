@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = wool
+owner = EC9
+controller = EC9
+add_core = EC9

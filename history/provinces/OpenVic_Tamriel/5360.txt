@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = cotton
+owner = CC5
+controller = CC5
+add_core = CC5

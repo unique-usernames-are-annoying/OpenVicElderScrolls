@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = tobacco
+owner = LB3
+controller = LB3
+add_core = LB3

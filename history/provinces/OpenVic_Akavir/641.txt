@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = precious_metal
+owner = OA9
+controller = OA9
+add_core = OA9

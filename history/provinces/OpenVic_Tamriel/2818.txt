@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = tea
+owner = NE3
+controller = NE3
+add_core = NE3

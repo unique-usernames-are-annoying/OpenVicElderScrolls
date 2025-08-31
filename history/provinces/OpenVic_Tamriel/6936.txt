@@ -1,0 +1,6 @@
+life_rating = 30
+trade_goods = opium
+owner = BA3
+controller = BA3
+add_core = BA3
+add_core = BB7

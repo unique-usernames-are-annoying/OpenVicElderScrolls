@@ -1,0 +1,6 @@
+life_rating = 30
+trade_goods = timber
+owner = TSS
+controller = TSS
+add_core = TSS
+add_core = CE4

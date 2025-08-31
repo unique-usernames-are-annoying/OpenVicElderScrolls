@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = cattle
+owner = EB4
+controller = EB4
+add_core = EB4

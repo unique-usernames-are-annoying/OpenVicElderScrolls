@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = cotton
+owner = CK0
+controller = CK0
+add_core = CK0

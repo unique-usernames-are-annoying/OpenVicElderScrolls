@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = fish
+owner = SD9
+controller = SD9
+add_core = SD9

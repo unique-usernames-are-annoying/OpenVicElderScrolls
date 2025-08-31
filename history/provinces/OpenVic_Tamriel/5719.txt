@@ -1,0 +1,6 @@
+life_rating = 30
+trade_goods = fruit
+owner = CH4
+controller = CH4
+add_core = CH4
+add_core = CA9

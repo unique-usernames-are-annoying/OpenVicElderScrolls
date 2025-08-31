@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = cattle
+owner = SD2
+controller = SD2
+add_core = SD2

@@ -1,0 +1,6 @@
+life_rating = 30
+trade_goods = tobacco
+owner = ND1
+controller = ND1
+add_core = ND1
+add_core = NB9

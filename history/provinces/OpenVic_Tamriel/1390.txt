@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = tropical_wood
+owner = BB6
+controller = BB6
+add_core = BB6

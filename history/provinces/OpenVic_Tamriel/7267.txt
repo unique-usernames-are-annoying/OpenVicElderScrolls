@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = timber
+owner = HF7
+controller = HF7
+add_core = HF7

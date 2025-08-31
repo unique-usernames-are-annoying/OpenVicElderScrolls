@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = coffee
+owner = VC8
+controller = VC8
+add_core = VC8

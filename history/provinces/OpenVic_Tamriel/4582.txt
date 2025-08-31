@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = iron
+owner = BC8
+controller = BC8
+add_core = BC8

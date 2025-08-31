@@ -1,0 +1,6 @@
+life_rating = 30
+trade_goods = cattle
+owner = CE5
+controller = CE5
+add_core = CE5
+add_core = CJ1

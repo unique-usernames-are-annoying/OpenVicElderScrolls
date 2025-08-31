@@ -1,0 +1,6 @@
+life_rating = 30
+trade_goods = grain
+owner = PER
+controller = PER
+add_core = PER
+add_core = CF0

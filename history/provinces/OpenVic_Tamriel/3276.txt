@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = fish
+owner = MB7
+controller = MB7
+add_core = MB7

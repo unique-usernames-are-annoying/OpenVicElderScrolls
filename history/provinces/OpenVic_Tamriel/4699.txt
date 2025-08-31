@@ -1,0 +1,6 @@
+life_rating = 30
+trade_goods = timber
+owner = SC6
+controller = SC6
+add_core = SC6
+add_core = SE4

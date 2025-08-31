@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = dye
+owner = DD3
+controller = DD3
+add_core = DD3

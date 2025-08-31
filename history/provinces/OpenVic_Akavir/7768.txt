@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = cattle
+owner = OA8
+controller = OA8
+add_core = OA8

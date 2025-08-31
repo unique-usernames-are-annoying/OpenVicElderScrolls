@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = dye
+owner = MD5
+controller = MD5
+add_core = MD5

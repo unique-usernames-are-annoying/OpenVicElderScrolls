@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = timber
+owner = EC3
+controller = EC3
+add_core = EC3

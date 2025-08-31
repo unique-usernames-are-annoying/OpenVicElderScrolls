@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = wool
+owner = VC6
+controller = VC6
+add_core = VC6

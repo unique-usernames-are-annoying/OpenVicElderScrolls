@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = cotton
+owner = NGH
+controller = NGH
+add_core = NGH

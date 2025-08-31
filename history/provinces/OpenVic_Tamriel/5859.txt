@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = wool
+owner = CE4
+controller = CE4
+add_core = CE4

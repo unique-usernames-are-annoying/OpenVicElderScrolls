@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = grain
+owner = CF2
+controller = CF2
+add_core = CF2

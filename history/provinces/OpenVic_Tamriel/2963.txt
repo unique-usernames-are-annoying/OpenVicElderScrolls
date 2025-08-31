@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = wool
+owner = NA4
+controller = NA4
+add_core = NA4

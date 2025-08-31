@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = precious_metal
+owner = MC9
+controller = MC9
+add_core = MC9

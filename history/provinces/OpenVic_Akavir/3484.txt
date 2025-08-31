@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = fruit
+owner = KA6
+controller = KA6
+add_core = KA6

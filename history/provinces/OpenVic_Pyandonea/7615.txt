@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = fruit
+owner = PB3
+controller = PB3
+add_core = PB3

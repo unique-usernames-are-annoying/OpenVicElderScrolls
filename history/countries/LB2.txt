@@ -1,0 +1,8 @@
+capital = 3160
+government = tribal
+religion = molag_bal_cult
+primary_culture = daedroth
+nationalvalue = daedric_tg
+literacy = 0
+non_state_culture_literacy = 0
+ruling_party = openvic_generic_reactionary

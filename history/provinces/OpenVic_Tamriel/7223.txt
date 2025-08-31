@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = grain
+owner = ND7
+controller = ND7
+add_core = ND7

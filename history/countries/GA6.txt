@@ -1,0 +1,8 @@
+capital = 4325
+government = tribal
+religion = mephala_cult
+primary_culture = arachnid
+nationalvalue = daedric_tg
+literacy = 0
+non_state_culture_literacy = 0
+ruling_party = openvic_generic_reactionary

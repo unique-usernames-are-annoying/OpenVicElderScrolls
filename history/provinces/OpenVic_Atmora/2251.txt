@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = cattle
+owner = DA5
+controller = DA5
+add_core = DA5

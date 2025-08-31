@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = dye
+owner = MF2
+controller = MF2
+add_core = MF2

@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = timber
+owner = ND8
+controller = ND8
+add_core = ND8

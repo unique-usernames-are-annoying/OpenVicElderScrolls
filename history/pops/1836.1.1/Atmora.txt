@@ -1,0 +1,2893 @@
+1535 = {
+	aristocrats = { culture = atmoran religion = dragon_cult size = 900 }
+	artisans = { culture = atmoran religion = dragon_cult size = 4500 }
+	bureaucrats = { culture = atmoran religion = dragon_cult size = 720 }
+	clergymen = { culture = atmoran religion = dragon_cult size = 990 }
+	farmers = { culture = atmoran religion = dragon_cult size = 81000 }
+	officers = { culture = atmoran religion = dragon_cult size = 90 }
+	soldiers = { culture = atmoran religion = dragon_cult size = 1800 }
+}
+1536 = {
+	aristocrats = { culture = atmoran religion = dragon_cult size = 600 }
+	artisans = { culture = atmoran religion = dragon_cult size = 2000 }
+	bureaucrats = { culture = atmoran religion = dragon_cult size = 320 }
+	clergymen = { culture = atmoran religion = dragon_cult size = 440 }
+	farmers = { culture = atmoran religion = dragon_cult size = 36000 }
+	officers = { culture = atmoran religion = dragon_cult size = 40 }
+	soldiers = { culture = atmoran religion = dragon_cult size = 800 }
+}
+1537 = {
+	aristocrats = { culture = atmoran religion = dragon_cult size = 1050 }
+	artisans = { culture = atmoran religion = dragon_cult size = 3500 }
+	bureaucrats = { culture = atmoran religion = dragon_cult size = 560 }
+	clergymen = { culture = atmoran religion = dragon_cult size = 770 }
+	farmers = { culture = atmoran religion = dragon_cult size = 63000 }
+	officers = { culture = atmoran religion = dragon_cult size = 70 }
+	soldiers = { culture = atmoran religion = dragon_cult size = 1400 }
+}
+1565 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 800 }
+	artisans = { culture = glacial religion = dragon_cult size = 4000 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 240 }
+	clergymen = { culture = glacial religion = dragon_cult size = 400 }
+	farmers = { culture = glacial religion = dragon_cult size = 72000 }
+	officers = { culture = glacial religion = dragon_cult size = 80 }
+	soldiers = { culture = glacial religion = dragon_cult size = 2480 }
+}
+1566 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 500 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 2500 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 400 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 800 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 45000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 50 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1000 }
+}
+1567 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 500 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 2500 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 400 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 800 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 45000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 50 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1000 }
+}
+1568 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 900 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 3000 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 480 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 660 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 54000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 60 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1200 }
+}
+1569 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 750 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 2500 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 400 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 550 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 45000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 50 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1000 }
+}
+1570 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 400 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 2000 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 320 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 640 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 36000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 40 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 800 }
+}
+1571 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 500 }
+	artisans = { culture = glacial religion = dragon_cult size = 2500 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 400 }
+	clergymen = { culture = glacial religion = dragon_cult size = 550 }
+	farmers = { culture = glacial religion = dragon_cult size = 45000 }
+	officers = { culture = glacial religion = dragon_cult size = 50 }
+	soldiers = { culture = glacial religion = dragon_cult size = 1000 }
+}
+1572 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 400 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 2000 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 320 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 640 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 36000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 40 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 800 }
+}
+1573 = {
+	aristocrats = { culture = frost_giant religion = cult_of_ancestors size = 700 }
+	artisans = { culture = frost_giant religion = cult_of_ancestors size = 3500 }
+	bureaucrats = { culture = frost_giant religion = cult_of_ancestors size = 560 }
+	clergymen = { culture = frost_giant religion = cult_of_ancestors size = 770 }
+	farmers = { culture = frost_giant religion = cult_of_ancestors size = 63000 }
+	officers = { culture = frost_giant religion = cult_of_ancestors size = 70 }
+	soldiers = { culture = frost_giant religion = cult_of_ancestors size = 1400 }
+}
+1574 = {
+	aristocrats = { culture = frost_giant religion = cult_of_ancestors size = 800 }
+	artisans = { culture = frost_giant religion = cult_of_ancestors size = 4000 }
+	bureaucrats = { culture = frost_giant religion = cult_of_ancestors size = 640 }
+	clergymen = { culture = frost_giant religion = cult_of_ancestors size = 880 }
+	farmers = { culture = frost_giant religion = cult_of_ancestors size = 72000 }
+	officers = { culture = frost_giant religion = cult_of_ancestors size = 80 }
+	soldiers = { culture = frost_giant religion = cult_of_ancestors size = 1600 }
+}
+1575 = {
+	aristocrats = { culture = frost_giant religion = cult_of_ancestors size = 800 }
+	artisans = { culture = frost_giant religion = cult_of_ancestors size = 4000 }
+	bureaucrats = { culture = frost_giant religion = cult_of_ancestors size = 640 }
+	clergymen = { culture = frost_giant religion = cult_of_ancestors size = 1280 }
+	farmers = { culture = frost_giant religion = cult_of_ancestors size = 72000 }
+	officers = { culture = frost_giant religion = cult_of_ancestors size = 80 }
+	soldiers = { culture = frost_giant religion = cult_of_ancestors size = 1600 }
+}
+1576 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 700 }
+	artisans = { culture = glacial religion = dragon_cult size = 3500 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 560 }
+	clergymen = { culture = glacial religion = dragon_cult size = 770 }
+	farmers = { culture = glacial religion = dragon_cult size = 63000 }
+	officers = { culture = glacial religion = dragon_cult size = 70 }
+	soldiers = { culture = glacial religion = dragon_cult size = 1400 }
+}
+2185 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 300 }
+	artisans = { culture = glacial religion = dragon_cult size = 1500 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 240 }
+	clergymen = { culture = glacial religion = dragon_cult size = 330 }
+	farmers = { culture = glacial religion = dragon_cult size = 27000 }
+	officers = { culture = glacial religion = dragon_cult size = 30 }
+	soldiers = { culture = glacial religion = dragon_cult size = 600 }
+}
+2186 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 600 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 3000 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 480 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 660 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 54000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 60 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1200 }
+}
+2187 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 600 }
+	artisans = { culture = glacial religion = dragon_cult size = 3000 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 480 }
+	clergymen = { culture = glacial religion = dragon_cult size = 660 }
+	farmers = { culture = glacial religion = dragon_cult size = 54000 }
+	officers = { culture = glacial religion = dragon_cult size = 60 }
+	soldiers = { culture = glacial religion = dragon_cult size = 1200 }
+}
+2188 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 500 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 2500 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 400 }
+	capitalists = { culture = atmoran religion = nordic_pantheon size = 50 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 750 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 45000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 50 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1000 }
+}
+2189 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 300 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 1500 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 240 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 480 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 27000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 30 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 600 }
+}
+2190 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 1000 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 5000 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 800 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 1600 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 90000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 100 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 2000 }
+}
+2191 = {
+	aristocrats = { culture = frost_giant religion = cult_of_ancestors size = 400 }
+	artisans = { culture = frost_giant religion = cult_of_ancestors size = 2000 }
+	bureaucrats = { culture = frost_giant religion = cult_of_ancestors size = 320 }
+	clergymen = { culture = frost_giant religion = cult_of_ancestors size = 440 }
+	farmers = { culture = frost_giant religion = cult_of_ancestors size = 36000 }
+	officers = { culture = frost_giant religion = cult_of_ancestors size = 40 }
+	soldiers = { culture = frost_giant religion = cult_of_ancestors size = 800 }
+}
+2192 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 1200 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 4000 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 640 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 880 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 72000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 80 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1600 }
+}
+2193 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 900 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 3000 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 480 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 660 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 54000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 60 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1200 }
+}
+2194 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 600 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 2000 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 320 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 440 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 36000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 40 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 800 }
+}
+2195 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 500 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 2500 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 400 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 550 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 45000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 50 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1000 }
+}
+2196 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 450 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 1500 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 240 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 330 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 27000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 30 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 600 }
+}
+2197 = {
+	aristocrats = { culture = frost_giant religion = cult_of_ancestors size = 500 }
+	artisans = { culture = frost_giant religion = cult_of_ancestors size = 2500 }
+	bureaucrats = { culture = frost_giant religion = cult_of_ancestors size = 400 }
+	clergymen = { culture = frost_giant religion = cult_of_ancestors size = 550 }
+	farmers = { culture = frost_giant religion = cult_of_ancestors size = 45000 }
+	officers = { culture = frost_giant religion = cult_of_ancestors size = 50 }
+	soldiers = { culture = frost_giant religion = cult_of_ancestors size = 1000 }
+}
+2198 = {
+	aristocrats = { culture = frost_giant religion = cult_of_ancestors size = 600 }
+	artisans = { culture = frost_giant religion = cult_of_ancestors size = 3000 }
+	bureaucrats = { culture = frost_giant religion = cult_of_ancestors size = 480 }
+	clergymen = { culture = frost_giant religion = cult_of_ancestors size = 660 }
+	farmers = { culture = frost_giant religion = cult_of_ancestors size = 54000 }
+	officers = { culture = frost_giant religion = cult_of_ancestors size = 60 }
+	soldiers = { culture = frost_giant religion = cult_of_ancestors size = 1200 }
+}
+2199 = {
+	aristocrats = { culture = frost_giant religion = cult_of_ancestors size = 500 }
+	artisans = { culture = frost_giant religion = cult_of_ancestors size = 2500 }
+	bureaucrats = { culture = frost_giant religion = cult_of_ancestors size = 400 }
+	clergymen = { culture = frost_giant religion = cult_of_ancestors size = 550 }
+	farmers = { culture = frost_giant religion = cult_of_ancestors size = 45000 }
+	officers = { culture = frost_giant religion = cult_of_ancestors size = 50 }
+	soldiers = { culture = frost_giant religion = cult_of_ancestors size = 1000 }
+}
+2200 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 300 }
+	artisans = { culture = glacial religion = dragon_cult size = 1500 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 240 }
+	clergymen = { culture = glacial religion = dragon_cult size = 330 }
+	farmers = { culture = glacial religion = dragon_cult size = 27000 }
+	officers = { culture = glacial religion = dragon_cult size = 30 }
+	soldiers = { culture = glacial religion = dragon_cult size = 600 }
+}
+2201 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 300 }
+	artisans = { culture = glacial religion = dragon_cult size = 1500 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 240 }
+	clergymen = { culture = glacial religion = dragon_cult size = 330 }
+	farmers = { culture = glacial religion = dragon_cult size = 27000 }
+	officers = { culture = glacial religion = dragon_cult size = 30 }
+	soldiers = { culture = glacial religion = dragon_cult size = 600 }
+}
+2202 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 2250 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 7500 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 1200 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 1650 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 135000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 150 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 3000 }
+}
+2203 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 500 }
+	artisans = { culture = glacial religion = dragon_cult size = 2500 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 400 }
+	clergymen = { culture = glacial religion = dragon_cult size = 550 }
+	farmers = { culture = glacial religion = dragon_cult size = 45000 }
+	officers = { culture = glacial religion = dragon_cult size = 50 }
+	soldiers = { culture = glacial religion = dragon_cult size = 1000 }
+}
+2204 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 500 }
+	artisans = { culture = glacial religion = dragon_cult size = 2500 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 400 }
+	clergymen = { culture = glacial religion = dragon_cult size = 550 }
+	farmers = { culture = glacial religion = dragon_cult size = 45000 }
+	officers = { culture = glacial religion = dragon_cult size = 50 }
+	soldiers = { culture = glacial religion = dragon_cult size = 1000 }
+}
+2205 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 700 }
+	artisans = { culture = glacial religion = dragon_cult size = 3500 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 560 }
+	clergymen = { culture = glacial religion = dragon_cult size = 770 }
+	farmers = { culture = glacial religion = dragon_cult size = 63000 }
+	officers = { culture = glacial religion = dragon_cult size = 70 }
+	soldiers = { culture = glacial religion = dragon_cult size = 1400 }
+}
+2206 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 600 }
+	artisans = { culture = glacial religion = dragon_cult size = 3000 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 180 }
+	clergymen = { culture = glacial religion = dragon_cult size = 300 }
+	farmers = { culture = glacial religion = dragon_cult size = 54000 }
+	officers = { culture = glacial religion = dragon_cult size = 60 }
+	soldiers = { culture = glacial religion = dragon_cult size = 1860 }
+}
+2207 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 400 }
+	artisans = { culture = glacial religion = dragon_cult size = 2000 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 320 }
+	clergymen = { culture = glacial religion = dragon_cult size = 440 }
+	farmers = { culture = glacial religion = dragon_cult size = 36000 }
+	officers = { culture = glacial religion = dragon_cult size = 40 }
+	soldiers = { culture = glacial religion = dragon_cult size = 800 }
+}
+2208 = {
+	aristocrats = { culture = atmoran religion = dragon_cult size = 1050 }
+	artisans = { culture = atmoran religion = dragon_cult size = 3500 }
+	bureaucrats = { culture = atmoran religion = dragon_cult size = 560 }
+	clergymen = { culture = atmoran religion = dragon_cult size = 770 }
+	farmers = { culture = atmoran religion = dragon_cult size = 63000 }
+	officers = { culture = atmoran religion = dragon_cult size = 70 }
+	soldiers = { culture = atmoran religion = dragon_cult size = 1400 }
+}
+2209 = {
+	aristocrats = { culture = atmoran religion = dragon_cult size = 600 }
+	artisans = { culture = atmoran religion = dragon_cult size = 3000 }
+	bureaucrats = { culture = atmoran religion = dragon_cult size = 480 }
+	clergymen = { culture = atmoran religion = dragon_cult size = 660 }
+	farmers = { culture = atmoran religion = dragon_cult size = 54000 }
+	officers = { culture = atmoran religion = dragon_cult size = 60 }
+	soldiers = { culture = atmoran religion = dragon_cult size = 1200 }
+}
+2210 = {
+	aristocrats = { culture = atmoran religion = dragon_cult size = 300 }
+	artisans = { culture = atmoran religion = dragon_cult size = 1500 }
+	bureaucrats = { culture = atmoran religion = dragon_cult size = 240 }
+	clergymen = { culture = atmoran religion = dragon_cult size = 330 }
+	farmers = { culture = atmoran religion = dragon_cult size = 27000 }
+	officers = { culture = atmoran religion = dragon_cult size = 30 }
+	soldiers = { culture = atmoran religion = dragon_cult size = 600 }
+}
+2211 = {
+	aristocrats = { culture = atmoran religion = dragon_cult size = 500 }
+	artisans = { culture = atmoran religion = dragon_cult size = 2500 }
+	bureaucrats = { culture = atmoran religion = dragon_cult size = 400 }
+	clergymen = { culture = atmoran religion = dragon_cult size = 550 }
+	farmers = { culture = atmoran religion = dragon_cult size = 45000 }
+	officers = { culture = atmoran religion = dragon_cult size = 50 }
+	soldiers = { culture = atmoran religion = dragon_cult size = 1000 }
+}
+2212 = {
+	aristocrats = { culture = atmoran religion = dragon_cult size = 900 }
+	artisans = { culture = atmoran religion = dragon_cult size = 3000 }
+	bureaucrats = { culture = atmoran religion = dragon_cult size = 480 }
+	clergymen = { culture = atmoran religion = dragon_cult size = 660 }
+	farmers = { culture = atmoran religion = dragon_cult size = 54000 }
+	officers = { culture = atmoran religion = dragon_cult size = 60 }
+	soldiers = { culture = atmoran religion = dragon_cult size = 1200 }
+}
+2213 = {
+	aristocrats = { culture = atmoran religion = dragon_cult size = 750 }
+	artisans = { culture = atmoran religion = dragon_cult size = 2500 }
+	bureaucrats = { culture = atmoran religion = dragon_cult size = 400 }
+	clergymen = { culture = atmoran religion = dragon_cult size = 550 }
+	farmers = { culture = atmoran religion = dragon_cult size = 45000 }
+	officers = { culture = atmoran religion = dragon_cult size = 50 }
+	soldiers = { culture = atmoran religion = dragon_cult size = 1000 }
+}
+2214 = {
+	aristocrats = { culture = atmoran religion = dragon_cult size = 600 }
+	artisans = { culture = atmoran religion = dragon_cult size = 2000 }
+	bureaucrats = { culture = atmoran religion = dragon_cult size = 320 }
+	clergymen = { culture = atmoran religion = dragon_cult size = 440 }
+	farmers = { culture = atmoran religion = dragon_cult size = 36000 }
+	officers = { culture = atmoran religion = dragon_cult size = 40 }
+	soldiers = { culture = atmoran religion = dragon_cult size = 800 }
+}
+2215 = {
+	aristocrats = { culture = atmoran religion = dragon_cult size = 1200 }
+	artisans = { culture = atmoran religion = dragon_cult size = 4000 }
+	bureaucrats = { culture = atmoran religion = dragon_cult size = 640 }
+	clergymen = { culture = atmoran religion = dragon_cult size = 880 }
+	farmers = { culture = atmoran religion = dragon_cult size = 72000 }
+	officers = { culture = atmoran religion = dragon_cult size = 80 }
+	soldiers = { culture = atmoran religion = dragon_cult size = 1600 }
+}
+2216 = {
+	aristocrats = { culture = atmoran religion = dragon_cult size = 1200 }
+	artisans = { culture = atmoran religion = dragon_cult size = 4000 }
+	bureaucrats = { culture = atmoran religion = dragon_cult size = 640 }
+	clergymen = { culture = atmoran religion = dragon_cult size = 880 }
+	farmers = { culture = atmoran religion = dragon_cult size = 72000 }
+	officers = { culture = atmoran religion = dragon_cult size = 80 }
+	soldiers = { culture = atmoran religion = dragon_cult size = 1600 }
+}
+2217 = {
+	aristocrats = { culture = atmoran religion = dragon_cult size = 900 }
+	artisans = { culture = atmoran religion = dragon_cult size = 3000 }
+	bureaucrats = { culture = atmoran religion = dragon_cult size = 480 }
+	clergymen = { culture = atmoran religion = dragon_cult size = 660 }
+	farmers = { culture = atmoran religion = dragon_cult size = 54000 }
+	officers = { culture = atmoran religion = dragon_cult size = 60 }
+	soldiers = { culture = atmoran religion = dragon_cult size = 1200 }
+}
+2218 = {
+	aristocrats = { culture = atmoran religion = dragon_cult size = 1050 }
+	artisans = { culture = atmoran religion = dragon_cult size = 3500 }
+	bureaucrats = { culture = atmoran religion = dragon_cult size = 560 }
+	clergymen = { culture = atmoran religion = dragon_cult size = 770 }
+	farmers = { culture = atmoran religion = dragon_cult size = 63000 }
+	officers = { culture = atmoran religion = dragon_cult size = 70 }
+	soldiers = { culture = atmoran religion = dragon_cult size = 1400 }
+}
+2219 = {
+	aristocrats = { culture = atmoran religion = dragon_cult size = 750 }
+	artisans = { culture = atmoran religion = dragon_cult size = 2500 }
+	bureaucrats = { culture = atmoran religion = dragon_cult size = 400 }
+	clergymen = { culture = atmoran religion = dragon_cult size = 550 }
+	farmers = { culture = atmoran religion = dragon_cult size = 45000 }
+	officers = { culture = atmoran religion = dragon_cult size = 50 }
+	soldiers = { culture = atmoran religion = dragon_cult size = 1000 }
+}
+2220 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 600 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 2000 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 320 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 440 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 36000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 40 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 800 }
+}
+2221 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 600 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 2000 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 320 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 440 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 36000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 40 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 800 }
+}
+2222 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 900 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 3000 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 480 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 660 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 54000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 60 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1200 }
+}
+2223 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 1200 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 4000 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 640 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 880 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 72000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 80 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1600 }
+}
+2224 = {
+	aristocrats = { culture = atmoran religion = dragon_cult size = 600 }
+	artisans = { culture = atmoran religion = dragon_cult size = 3000 }
+	bureaucrats = { culture = atmoran religion = dragon_cult size = 480 }
+	capitalists = { culture = atmoran religion = dragon_cult size = 60 }
+	clergymen = { culture = atmoran religion = dragon_cult size = 900 }
+	farmers = { culture = atmoran religion = dragon_cult size = 54000 }
+	officers = { culture = atmoran religion = dragon_cult size = 60 }
+	soldiers = { culture = atmoran religion = dragon_cult size = 1200 }
+}
+2225 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 900 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 3000 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 480 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 660 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 54000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 60 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1200 }
+}
+2226 = {
+	aristocrats = { culture = sea_giant religion = cult_of_ancestors size = 800 }
+	artisans = { culture = sea_giant religion = cult_of_ancestors size = 4000 }
+	bureaucrats = { culture = sea_giant religion = cult_of_ancestors size = 640 }
+	clergymen = { culture = sea_giant religion = cult_of_ancestors size = 880 }
+	farmers = { culture = sea_giant religion = cult_of_ancestors size = 72000 }
+	officers = { culture = sea_giant religion = cult_of_ancestors size = 80 }
+	soldiers = { culture = sea_giant religion = cult_of_ancestors size = 1600 }
+}
+2227 = {
+	aristocrats = { culture = sea_giant religion = cult_of_ancestors size = 400 }
+	artisans = { culture = sea_giant religion = cult_of_ancestors size = 2000 }
+	bureaucrats = { culture = sea_giant religion = cult_of_ancestors size = 320 }
+	clergymen = { culture = sea_giant religion = cult_of_ancestors size = 440 }
+	farmers = { culture = sea_giant religion = cult_of_ancestors size = 36000 }
+	officers = { culture = sea_giant religion = cult_of_ancestors size = 40 }
+	soldiers = { culture = sea_giant religion = cult_of_ancestors size = 800 }
+}
+2228 = {
+	aristocrats = { culture = sea_giant religion = cult_of_ancestors size = 300 }
+	artisans = { culture = sea_giant religion = cult_of_ancestors size = 1500 }
+	bureaucrats = { culture = sea_giant religion = cult_of_ancestors size = 90 }
+	clergymen = { culture = sea_giant religion = cult_of_ancestors size = 150 }
+	farmers = { culture = sea_giant religion = cult_of_ancestors size = 27000 }
+	officers = { culture = sea_giant religion = cult_of_ancestors size = 30 }
+	soldiers = { culture = sea_giant religion = cult_of_ancestors size = 930 }
+}
+2229 = {
+	aristocrats = { culture = atmoran religion = dragon_cult size = 700 }
+	artisans = { culture = atmoran religion = dragon_cult size = 3500 }
+	bureaucrats = { culture = atmoran religion = dragon_cult size = 560 }
+	capitalists = { culture = atmoran religion = dragon_cult size = 70 }
+	clergymen = { culture = atmoran religion = dragon_cult size = 1050 }
+	farmers = { culture = atmoran religion = dragon_cult size = 63000 }
+	officers = { culture = atmoran religion = dragon_cult size = 70 }
+	soldiers = { culture = atmoran religion = dragon_cult size = 1400 }
+}
+2230 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 400 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 2000 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 320 }
+	capitalists = { culture = atmoran religion = nordic_pantheon size = 40 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 600 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 36000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 40 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 800 }
+}
+2231 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 900 }
+	artisans = { culture = glacial religion = dragon_cult size = 4500 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 720 }
+	clergymen = { culture = glacial religion = dragon_cult size = 990 }
+	farmers = { culture = glacial religion = dragon_cult size = 81000 }
+	officers = { culture = glacial religion = dragon_cult size = 90 }
+	soldiers = { culture = glacial religion = dragon_cult size = 1800 }
+}
+2232 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 700 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 3500 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 560 }
+	capitalists = { culture = atmoran religion = nordic_pantheon size = 70 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 1050 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 63000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 70 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1400 }
+}
+2233 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 600 }
+	artisans = { culture = glacial religion = dragon_cult size = 3000 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 480 }
+	clergymen = { culture = glacial religion = dragon_cult size = 660 }
+	farmers = { culture = glacial religion = dragon_cult size = 54000 }
+	officers = { culture = glacial religion = dragon_cult size = 60 }
+	soldiers = { culture = glacial religion = dragon_cult size = 1200 }
+}
+2234 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 500 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 2500 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 400 }
+	capitalists = { culture = atmoran religion = nordic_pantheon size = 50 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 750 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 45000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 50 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1000 }
+}
+2235 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 300 }
+	artisans = { culture = glacial religion = dragon_cult size = 1500 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 240 }
+	clergymen = { culture = glacial religion = dragon_cult size = 330 }
+	farmers = { culture = glacial religion = dragon_cult size = 27000 }
+	officers = { culture = glacial religion = dragon_cult size = 30 }
+	soldiers = { culture = glacial religion = dragon_cult size = 600 }
+}
+2236 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 600 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 3000 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 480 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 660 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 54000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 60 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1200 }
+}
+2237 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 500 }
+	artisans = { culture = glacial religion = dragon_cult size = 2500 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 400 }
+	clergymen = { culture = glacial religion = dragon_cult size = 550 }
+	farmers = { culture = glacial religion = dragon_cult size = 45000 }
+	officers = { culture = glacial religion = dragon_cult size = 50 }
+	soldiers = { culture = glacial religion = dragon_cult size = 1000 }
+}
+2238 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 900 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 4500 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 720 }
+	capitalists = { culture = atmoran religion = nordic_pantheon size = 90 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 1350 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 81000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 90 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1800 }
+}
+2239 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 800 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 4000 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 640 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 880 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 72000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 80 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1600 }
+}
+2240 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 600 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 3000 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 480 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 960 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 54000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 60 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1200 }
+}
+2241 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 700 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 3500 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 560 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 1120 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 63000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 70 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1400 }
+}
+2242 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 500 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 2500 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 400 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 800 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 45000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 50 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1000 }
+}
+2243 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 500 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 2500 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 400 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 800 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 45000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 50 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1000 }
+}
+2244 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 400 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 2000 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 320 }
+	capitalists = { culture = atmoran religion = nordic_pantheon size = 40 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 600 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 36000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 40 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 800 }
+}
+2245 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 500 }
+	artisans = { culture = glacial religion = dragon_cult size = 2500 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 400 }
+	clergymen = { culture = glacial religion = dragon_cult size = 550 }
+	farmers = { culture = glacial religion = dragon_cult size = 45000 }
+	officers = { culture = glacial religion = dragon_cult size = 50 }
+	soldiers = { culture = glacial religion = dragon_cult size = 1000 }
+}
+2246 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 500 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 2500 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 400 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 800 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 45000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 50 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1000 }
+}
+2247 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 700 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 3500 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 560 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 1120 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 63000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 70 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1400 }
+}
+2248 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 600 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 3000 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 480 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 960 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 54000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 60 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1200 }
+}
+2249 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 500 }
+	artisans = { culture = glacial religion = dragon_cult size = 2500 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 400 }
+	clergymen = { culture = glacial religion = dragon_cult size = 550 }
+	farmers = { culture = glacial religion = dragon_cult size = 45000 }
+	officers = { culture = glacial religion = dragon_cult size = 50 }
+	soldiers = { culture = glacial religion = dragon_cult size = 1000 }
+}
+2250 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 800 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 4000 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 640 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 1280 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 72000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 80 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1600 }
+}
+2251 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 400 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 2000 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 320 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 640 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 36000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 40 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 800 }
+}
+2252 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 800 }
+	artisans = { culture = glacial religion = dragon_cult size = 4000 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 640 }
+	clergymen = { culture = glacial religion = dragon_cult size = 880 }
+	farmers = { culture = glacial religion = dragon_cult size = 72000 }
+	officers = { culture = glacial religion = dragon_cult size = 80 }
+	soldiers = { culture = glacial religion = dragon_cult size = 1600 }
+}
+2253 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 400 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 2000 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 320 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 640 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 36000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 40 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 800 }
+}
+2254 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 300 }
+	artisans = { culture = glacial religion = dragon_cult size = 1500 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 240 }
+	clergymen = { culture = glacial religion = dragon_cult size = 330 }
+	farmers = { culture = glacial religion = dragon_cult size = 27000 }
+	officers = { culture = glacial religion = dragon_cult size = 30 }
+	soldiers = { culture = glacial religion = dragon_cult size = 600 }
+}
+2255 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 300 }
+	artisans = { culture = glacial religion = dragon_cult size = 1500 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 240 }
+	clergymen = { culture = glacial religion = dragon_cult size = 330 }
+	farmers = { culture = glacial religion = dragon_cult size = 27000 }
+	officers = { culture = glacial religion = dragon_cult size = 30 }
+	soldiers = { culture = glacial religion = dragon_cult size = 600 }
+}
+2256 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 500 }
+	artisans = { culture = glacial religion = dragon_cult size = 2500 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 400 }
+	clergymen = { culture = glacial religion = dragon_cult size = 550 }
+	farmers = { culture = glacial religion = dragon_cult size = 45000 }
+	officers = { culture = glacial religion = dragon_cult size = 50 }
+	soldiers = { culture = glacial religion = dragon_cult size = 1000 }
+}
+2257 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 700 }
+	artisans = { culture = glacial religion = dragon_cult size = 3500 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 560 }
+	clergymen = { culture = glacial religion = dragon_cult size = 770 }
+	farmers = { culture = glacial religion = dragon_cult size = 63000 }
+	officers = { culture = glacial religion = dragon_cult size = 70 }
+	soldiers = { culture = glacial religion = dragon_cult size = 1400 }
+}
+2258 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 600 }
+	artisans = { culture = glacial religion = dragon_cult size = 3000 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 480 }
+	clergymen = { culture = glacial religion = dragon_cult size = 660 }
+	farmers = { culture = glacial religion = dragon_cult size = 54000 }
+	officers = { culture = glacial religion = dragon_cult size = 60 }
+	soldiers = { culture = glacial religion = dragon_cult size = 1200 }
+}
+2259 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 500 }
+	artisans = { culture = glacial religion = dragon_cult size = 2500 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 400 }
+	clergymen = { culture = glacial religion = dragon_cult size = 550 }
+	farmers = { culture = glacial religion = dragon_cult size = 45000 }
+	officers = { culture = glacial religion = dragon_cult size = 50 }
+	soldiers = { culture = glacial religion = dragon_cult size = 1000 }
+}
+2270 = {
+	aristocrats = { culture = frost_giant religion = cult_of_ancestors size = 600 }
+	artisans = { culture = frost_giant religion = cult_of_ancestors size = 3000 }
+	bureaucrats = { culture = frost_giant religion = cult_of_ancestors size = 480 }
+	clergymen = { culture = frost_giant religion = cult_of_ancestors size = 660 }
+	farmers = { culture = frost_giant religion = cult_of_ancestors size = 54000 }
+	officers = { culture = frost_giant religion = cult_of_ancestors size = 60 }
+	soldiers = { culture = frost_giant religion = cult_of_ancestors size = 1200 }
+}
+2272 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 600 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 2000 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 320 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 440 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 36000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 40 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 800 }
+}
+2273 = {
+	aristocrats = { culture = frost_giant religion = cult_of_ancestors size = 300 }
+	artisans = { culture = frost_giant religion = cult_of_ancestors size = 1500 }
+	bureaucrats = { culture = frost_giant religion = cult_of_ancestors size = 240 }
+	clergymen = { culture = frost_giant religion = cult_of_ancestors size = 330 }
+	farmers = { culture = frost_giant religion = cult_of_ancestors size = 27000 }
+	officers = { culture = frost_giant religion = cult_of_ancestors size = 30 }
+	soldiers = { culture = frost_giant religion = cult_of_ancestors size = 600 }
+}
+2274 = {
+	aristocrats = { culture = frost_giant religion = cult_of_ancestors size = 300 }
+	artisans = { culture = frost_giant religion = cult_of_ancestors size = 1500 }
+	bureaucrats = { culture = frost_giant religion = cult_of_ancestors size = 240 }
+	clergymen = { culture = frost_giant religion = cult_of_ancestors size = 330 }
+	farmers = { culture = frost_giant religion = cult_of_ancestors size = 27000 }
+	officers = { culture = frost_giant religion = cult_of_ancestors size = 30 }
+	soldiers = { culture = frost_giant religion = cult_of_ancestors size = 600 }
+}
+2275 = {
+	aristocrats = { culture = sea_giant religion = cult_of_ancestors size = 400 }
+	artisans = { culture = sea_giant religion = cult_of_ancestors size = 2000 }
+	bureaucrats = { culture = sea_giant religion = cult_of_ancestors size = 320 }
+	clergymen = { culture = sea_giant religion = cult_of_ancestors size = 440 }
+	farmers = { culture = sea_giant religion = cult_of_ancestors size = 36000 }
+	officers = { culture = sea_giant religion = cult_of_ancestors size = 40 }
+	soldiers = { culture = sea_giant religion = cult_of_ancestors size = 800 }
+}
+2276 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 600 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 2000 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 320 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 440 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 36000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 40 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 800 }
+}
+2277 = {
+	aristocrats = { culture = sea_giant religion = cult_of_ancestors size = 300 }
+	artisans = { culture = sea_giant religion = cult_of_ancestors size = 1500 }
+	bureaucrats = { culture = sea_giant religion = cult_of_ancestors size = 240 }
+	clergymen = { culture = sea_giant religion = cult_of_ancestors size = 330 }
+	farmers = { culture = sea_giant religion = cult_of_ancestors size = 27000 }
+	officers = { culture = sea_giant religion = cult_of_ancestors size = 30 }
+	soldiers = { culture = sea_giant religion = cult_of_ancestors size = 600 }
+}
+2278 = {
+	aristocrats = { culture = frost_giant religion = cult_of_ancestors size = 500 }
+	artisans = { culture = frost_giant religion = cult_of_ancestors size = 2500 }
+	bureaucrats = { culture = frost_giant religion = cult_of_ancestors size = 400 }
+	clergymen = { culture = frost_giant religion = cult_of_ancestors size = 550 }
+	farmers = { culture = frost_giant religion = cult_of_ancestors size = 45000 }
+	officers = { culture = frost_giant religion = cult_of_ancestors size = 50 }
+	soldiers = { culture = frost_giant religion = cult_of_ancestors size = 1000 }
+}
+2279 = {
+	aristocrats = { culture = sea_giant religion = cult_of_ancestors size = 800 }
+	artisans = { culture = sea_giant religion = cult_of_ancestors size = 4000 }
+	bureaucrats = { culture = sea_giant religion = cult_of_ancestors size = 640 }
+	clergymen = { culture = sea_giant religion = cult_of_ancestors size = 880 }
+	farmers = { culture = sea_giant religion = cult_of_ancestors size = 72000 }
+	officers = { culture = sea_giant religion = cult_of_ancestors size = 80 }
+	soldiers = { culture = sea_giant religion = cult_of_ancestors size = 1600 }
+}
+2280 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 500 }
+	artisans = { culture = glacial religion = dragon_cult size = 2500 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 400 }
+	clergymen = { culture = glacial religion = dragon_cult size = 550 }
+	farmers = { culture = glacial religion = dragon_cult size = 45000 }
+	officers = { culture = glacial religion = dragon_cult size = 50 }
+	soldiers = { culture = glacial religion = dragon_cult size = 1000 }
+}
+2281 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 400 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 2000 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 320 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 440 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 36000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 40 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 800 }
+}
+2282 = {
+	aristocrats = { culture = frost_giant religion = cult_of_ancestors size = 400 }
+	artisans = { culture = frost_giant religion = cult_of_ancestors size = 2000 }
+	bureaucrats = { culture = frost_giant religion = cult_of_ancestors size = 320 }
+	clergymen = { culture = frost_giant religion = cult_of_ancestors size = 440 }
+	farmers = { culture = frost_giant religion = cult_of_ancestors size = 36000 }
+	officers = { culture = frost_giant religion = cult_of_ancestors size = 40 }
+	soldiers = { culture = frost_giant religion = cult_of_ancestors size = 800 }
+}
+2283 = {
+	aristocrats = { culture = frost_giant religion = cult_of_ancestors size = 300 }
+	artisans = { culture = frost_giant religion = cult_of_ancestors size = 1500 }
+	bureaucrats = { culture = frost_giant religion = cult_of_ancestors size = 240 }
+	clergymen = { culture = frost_giant religion = cult_of_ancestors size = 330 }
+	farmers = { culture = frost_giant religion = cult_of_ancestors size = 27000 }
+	officers = { culture = frost_giant religion = cult_of_ancestors size = 30 }
+	soldiers = { culture = frost_giant religion = cult_of_ancestors size = 600 }
+}
+2284 = {
+	aristocrats = { culture = frost_giant religion = cult_of_ancestors size = 400 }
+	artisans = { culture = frost_giant religion = cult_of_ancestors size = 2000 }
+	bureaucrats = { culture = frost_giant religion = cult_of_ancestors size = 320 }
+	clergymen = { culture = frost_giant religion = cult_of_ancestors size = 440 }
+	farmers = { culture = frost_giant religion = cult_of_ancestors size = 36000 }
+	officers = { culture = frost_giant religion = cult_of_ancestors size = 40 }
+	soldiers = { culture = frost_giant religion = cult_of_ancestors size = 800 }
+}
+2285 = {
+	aristocrats = { culture = frost_giant religion = cult_of_ancestors size = 500 }
+	artisans = { culture = frost_giant religion = cult_of_ancestors size = 2500 }
+	bureaucrats = { culture = frost_giant religion = cult_of_ancestors size = 400 }
+	clergymen = { culture = frost_giant religion = cult_of_ancestors size = 550 }
+	farmers = { culture = frost_giant religion = cult_of_ancestors size = 45000 }
+	officers = { culture = frost_giant religion = cult_of_ancestors size = 50 }
+	soldiers = { culture = frost_giant religion = cult_of_ancestors size = 1000 }
+}
+2286 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 700 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 3500 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 560 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 770 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 63000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 70 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1400 }
+}
+2287 = {
+	aristocrats = { culture = frost_giant religion = cult_of_ancestors size = 500 }
+	artisans = { culture = frost_giant religion = cult_of_ancestors size = 2500 }
+	bureaucrats = { culture = frost_giant religion = cult_of_ancestors size = 400 }
+	clergymen = { culture = frost_giant religion = cult_of_ancestors size = 550 }
+	farmers = { culture = frost_giant religion = cult_of_ancestors size = 45000 }
+	officers = { culture = frost_giant religion = cult_of_ancestors size = 50 }
+	soldiers = { culture = frost_giant religion = cult_of_ancestors size = 1000 }
+}
+2288 = {
+	aristocrats = { culture = frost_giant religion = cult_of_ancestors size = 500 }
+	artisans = { culture = frost_giant religion = cult_of_ancestors size = 2500 }
+	bureaucrats = { culture = frost_giant religion = cult_of_ancestors size = 400 }
+	clergymen = { culture = frost_giant religion = cult_of_ancestors size = 550 }
+	farmers = { culture = frost_giant religion = cult_of_ancestors size = 45000 }
+	officers = { culture = frost_giant religion = cult_of_ancestors size = 50 }
+	soldiers = { culture = frost_giant religion = cult_of_ancestors size = 1000 }
+}
+2289 = {
+	aristocrats = { culture = frost_giant religion = cult_of_ancestors size = 600 }
+	artisans = { culture = frost_giant religion = cult_of_ancestors size = 3000 }
+	bureaucrats = { culture = frost_giant religion = cult_of_ancestors size = 480 }
+	clergymen = { culture = frost_giant religion = cult_of_ancestors size = 660 }
+	farmers = { culture = frost_giant religion = cult_of_ancestors size = 54000 }
+	officers = { culture = frost_giant religion = cult_of_ancestors size = 60 }
+	soldiers = { culture = frost_giant religion = cult_of_ancestors size = 1200 }
+}
+2290 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 450 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 1500 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 240 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 330 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 27000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 30 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 600 }
+}
+2291 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 700 }
+	artisans = { culture = glacial religion = dragon_cult size = 3500 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 560 }
+	clergymen = { culture = glacial religion = dragon_cult size = 770 }
+	farmers = { culture = glacial religion = dragon_cult size = 63000 }
+	officers = { culture = glacial religion = dragon_cult size = 70 }
+	soldiers = { culture = glacial religion = dragon_cult size = 1400 }
+}
+2292 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 500 }
+	artisans = { culture = glacial religion = dragon_cult size = 2500 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 400 }
+	clergymen = { culture = glacial religion = dragon_cult size = 550 }
+	farmers = { culture = glacial religion = dragon_cult size = 45000 }
+	officers = { culture = glacial religion = dragon_cult size = 50 }
+	soldiers = { culture = glacial religion = dragon_cult size = 1000 }
+}
+2293 = {
+	aristocrats = { culture = atmoran religion = dragon_cult size = 450 }
+	artisans = { culture = atmoran religion = dragon_cult size = 1500 }
+	bureaucrats = { culture = atmoran religion = dragon_cult size = 240 }
+	clergymen = { culture = atmoran religion = dragon_cult size = 330 }
+	farmers = { culture = atmoran religion = dragon_cult size = 27000 }
+	officers = { culture = atmoran religion = dragon_cult size = 30 }
+	soldiers = { culture = atmoran religion = dragon_cult size = 600 }
+}
+2294 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 700 }
+	artisans = { culture = glacial religion = dragon_cult size = 3500 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 560 }
+	clergymen = { culture = glacial religion = dragon_cult size = 770 }
+	farmers = { culture = glacial religion = dragon_cult size = 63000 }
+	officers = { culture = glacial religion = dragon_cult size = 70 }
+	soldiers = { culture = glacial religion = dragon_cult size = 1400 }
+}
+2295 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 800 }
+	artisans = { culture = glacial religion = dragon_cult size = 4000 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 640 }
+	clergymen = { culture = glacial religion = dragon_cult size = 880 }
+	farmers = { culture = glacial religion = dragon_cult size = 72000 }
+	officers = { culture = glacial religion = dragon_cult size = 80 }
+	soldiers = { culture = glacial religion = dragon_cult size = 1600 }
+}
+2296 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 450 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 1500 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 240 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 330 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 27000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 30 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 600 }
+}
+2297 = {
+	aristocrats = { culture = frost_giant religion = cult_of_ancestors size = 1000 }
+	artisans = { culture = frost_giant religion = cult_of_ancestors size = 5000 }
+	bureaucrats = { culture = frost_giant religion = cult_of_ancestors size = 800 }
+	clergymen = { culture = frost_giant religion = cult_of_ancestors size = 1600 }
+	farmers = { culture = frost_giant religion = cult_of_ancestors size = 90000 }
+	officers = { culture = frost_giant religion = cult_of_ancestors size = 100 }
+	soldiers = { culture = frost_giant religion = cult_of_ancestors size = 2000 }
+}
+2298 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 400 }
+	artisans = { culture = glacial religion = dragon_cult size = 2000 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 320 }
+	clergymen = { culture = glacial religion = dragon_cult size = 440 }
+	farmers = { culture = glacial religion = dragon_cult size = 36000 }
+	officers = { culture = glacial religion = dragon_cult size = 40 }
+	soldiers = { culture = glacial religion = dragon_cult size = 800 }
+}
+2299 = {
+	aristocrats = { culture = atmoran religion = dragon_cult size = 600 }
+	artisans = { culture = atmoran religion = dragon_cult size = 2000 }
+	bureaucrats = { culture = atmoran religion = dragon_cult size = 320 }
+	clergymen = { culture = atmoran religion = dragon_cult size = 440 }
+	farmers = { culture = atmoran religion = dragon_cult size = 36000 }
+	officers = { culture = atmoran religion = dragon_cult size = 40 }
+	soldiers = { culture = atmoran religion = dragon_cult size = 800 }
+}
+2300 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 700 }
+	artisans = { culture = glacial religion = dragon_cult size = 3500 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 560 }
+	clergymen = { culture = glacial religion = dragon_cult size = 770 }
+	farmers = { culture = glacial religion = dragon_cult size = 63000 }
+	officers = { culture = glacial religion = dragon_cult size = 70 }
+	soldiers = { culture = glacial religion = dragon_cult size = 1400 }
+}
+2301 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 600 }
+	artisans = { culture = glacial religion = dragon_cult size = 3000 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 480 }
+	clergymen = { culture = glacial religion = dragon_cult size = 660 }
+	farmers = { culture = glacial religion = dragon_cult size = 54000 }
+	officers = { culture = glacial religion = dragon_cult size = 60 }
+	soldiers = { culture = glacial religion = dragon_cult size = 1200 }
+}
+2302 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 500 }
+	artisans = { culture = glacial religion = dragon_cult size = 2500 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 400 }
+	clergymen = { culture = glacial religion = dragon_cult size = 550 }
+	farmers = { culture = glacial religion = dragon_cult size = 45000 }
+	officers = { culture = glacial religion = dragon_cult size = 50 }
+	soldiers = { culture = glacial religion = dragon_cult size = 1000 }
+}
+2303 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 700 }
+	artisans = { culture = glacial religion = dragon_cult size = 3500 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 560 }
+	clergymen = { culture = glacial religion = dragon_cult size = 770 }
+	farmers = { culture = glacial religion = dragon_cult size = 63000 }
+	officers = { culture = glacial religion = dragon_cult size = 70 }
+	soldiers = { culture = glacial religion = dragon_cult size = 1400 }
+}
+2304 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 700 }
+	artisans = { culture = glacial religion = dragon_cult size = 3500 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 210 }
+	clergymen = { culture = glacial religion = dragon_cult size = 350 }
+	farmers = { culture = glacial religion = dragon_cult size = 63000 }
+	officers = { culture = glacial religion = dragon_cult size = 70 }
+	soldiers = { culture = glacial religion = dragon_cult size = 2170 }
+}
+2305 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 500 }
+	artisans = { culture = glacial religion = dragon_cult size = 2500 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 400 }
+	clergymen = { culture = glacial religion = dragon_cult size = 550 }
+	farmers = { culture = glacial religion = dragon_cult size = 45000 }
+	officers = { culture = glacial religion = dragon_cult size = 50 }
+	soldiers = { culture = glacial religion = dragon_cult size = 1000 }
+}
+2306 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 300 }
+	artisans = { culture = glacial religion = dragon_cult size = 1500 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 90 }
+	clergymen = { culture = glacial religion = dragon_cult size = 150 }
+	farmers = { culture = glacial religion = dragon_cult size = 27000 }
+	officers = { culture = glacial religion = dragon_cult size = 30 }
+	soldiers = { culture = glacial religion = dragon_cult size = 930 }
+}
+2307 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 300 }
+	artisans = { culture = glacial religion = dragon_cult size = 1500 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 240 }
+	clergymen = { culture = glacial religion = dragon_cult size = 330 }
+	farmers = { culture = glacial religion = dragon_cult size = 27000 }
+	officers = { culture = glacial religion = dragon_cult size = 30 }
+	soldiers = { culture = glacial religion = dragon_cult size = 600 }
+}
+2308 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 700 }
+	artisans = { culture = glacial religion = dragon_cult size = 3500 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 560 }
+	clergymen = { culture = glacial religion = dragon_cult size = 770 }
+	farmers = { culture = glacial religion = dragon_cult size = 63000 }
+	officers = { culture = glacial religion = dragon_cult size = 70 }
+	soldiers = { culture = glacial religion = dragon_cult size = 1400 }
+}
+2309 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 800 }
+	artisans = { culture = glacial religion = dragon_cult size = 4000 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 640 }
+	clergymen = { culture = glacial religion = dragon_cult size = 880 }
+	farmers = { culture = glacial religion = dragon_cult size = 72000 }
+	officers = { culture = glacial religion = dragon_cult size = 80 }
+	soldiers = { culture = glacial religion = dragon_cult size = 1600 }
+}
+2320 = {
+	aristocrats = { culture = frost_giant religion = cult_of_ancestors size = 400 }
+	artisans = { culture = frost_giant religion = cult_of_ancestors size = 2000 }
+	bureaucrats = { culture = frost_giant religion = cult_of_ancestors size = 320 }
+	clergymen = { culture = frost_giant religion = cult_of_ancestors size = 440 }
+	farmers = { culture = frost_giant religion = cult_of_ancestors size = 36000 }
+	officers = { culture = frost_giant religion = cult_of_ancestors size = 40 }
+	soldiers = { culture = frost_giant religion = cult_of_ancestors size = 800 }
+}
+2321 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 800 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 4000 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 640 }
+	capitalists = { culture = atmoran religion = nordic_pantheon size = 80 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 1200 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 72000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 80 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1600 }
+}
+2322 = {
+	aristocrats = { culture = frost_giant religion = cult_of_ancestors size = 300 }
+	artisans = { culture = frost_giant religion = cult_of_ancestors size = 1500 }
+	bureaucrats = { culture = frost_giant religion = cult_of_ancestors size = 240 }
+	clergymen = { culture = frost_giant religion = cult_of_ancestors size = 330 }
+	farmers = { culture = frost_giant religion = cult_of_ancestors size = 27000 }
+	officers = { culture = frost_giant religion = cult_of_ancestors size = 30 }
+	soldiers = { culture = frost_giant religion = cult_of_ancestors size = 600 }
+}
+2323 = {
+	aristocrats = { culture = frost_giant religion = cult_of_ancestors size = 400 }
+	artisans = { culture = frost_giant religion = cult_of_ancestors size = 2000 }
+	bureaucrats = { culture = frost_giant religion = cult_of_ancestors size = 320 }
+	clergymen = { culture = frost_giant religion = cult_of_ancestors size = 440 }
+	farmers = { culture = frost_giant religion = cult_of_ancestors size = 36000 }
+	officers = { culture = frost_giant religion = cult_of_ancestors size = 40 }
+	soldiers = { culture = frost_giant religion = cult_of_ancestors size = 800 }
+}
+2324 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 500 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 2500 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 400 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 800 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 45000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 50 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1000 }
+}
+2325 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 900 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 3000 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 480 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 660 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 54000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 60 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1200 }
+}
+2326 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 700 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 3500 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 560 }
+	capitalists = { culture = atmoran religion = nordic_pantheon size = 70 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 1050 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 63000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 70 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1400 }
+}
+2327 = {
+	aristocrats = { culture = frost_giant religion = cult_of_ancestors size = 700 }
+	artisans = { culture = frost_giant religion = cult_of_ancestors size = 3500 }
+	bureaucrats = { culture = frost_giant religion = cult_of_ancestors size = 560 }
+	clergymen = { culture = frost_giant religion = cult_of_ancestors size = 770 }
+	farmers = { culture = frost_giant religion = cult_of_ancestors size = 63000 }
+	officers = { culture = frost_giant religion = cult_of_ancestors size = 70 }
+	soldiers = { culture = frost_giant religion = cult_of_ancestors size = 1400 }
+}
+2328 = {
+	aristocrats = { culture = frost_giant religion = cult_of_ancestors size = 600 }
+	artisans = { culture = frost_giant religion = cult_of_ancestors size = 3000 }
+	bureaucrats = { culture = frost_giant religion = cult_of_ancestors size = 480 }
+	clergymen = { culture = frost_giant religion = cult_of_ancestors size = 660 }
+	farmers = { culture = frost_giant religion = cult_of_ancestors size = 54000 }
+	officers = { culture = frost_giant religion = cult_of_ancestors size = 60 }
+	soldiers = { culture = frost_giant religion = cult_of_ancestors size = 1200 }
+}
+2329 = {
+	aristocrats = { culture = frost_giant religion = cult_of_ancestors size = 300 }
+	artisans = { culture = frost_giant religion = cult_of_ancestors size = 1500 }
+	bureaucrats = { culture = frost_giant religion = cult_of_ancestors size = 240 }
+	capitalists = { culture = frost_giant religion = cult_of_ancestors size = 30 }
+	clergymen = { culture = frost_giant religion = cult_of_ancestors size = 450 }
+	farmers = { culture = frost_giant religion = cult_of_ancestors size = 27000 }
+	officers = { culture = frost_giant religion = cult_of_ancestors size = 30 }
+	soldiers = { culture = frost_giant religion = cult_of_ancestors size = 600 }
+}
+2330 = {
+	aristocrats = { culture = frost_giant religion = cult_of_ancestors size = 500 }
+	artisans = { culture = frost_giant religion = cult_of_ancestors size = 2500 }
+	bureaucrats = { culture = frost_giant religion = cult_of_ancestors size = 400 }
+	clergymen = { culture = frost_giant religion = cult_of_ancestors size = 550 }
+	farmers = { culture = frost_giant religion = cult_of_ancestors size = 45000 }
+	officers = { culture = frost_giant religion = cult_of_ancestors size = 50 }
+	soldiers = { culture = frost_giant religion = cult_of_ancestors size = 1000 }
+}
+2331 = {
+	aristocrats = { culture = frost_giant religion = cult_of_ancestors size = 450 }
+	artisans = { culture = frost_giant religion = cult_of_ancestors size = 1500 }
+	bureaucrats = { culture = frost_giant religion = cult_of_ancestors size = 240 }
+	clergymen = { culture = frost_giant religion = cult_of_ancestors size = 330 }
+	farmers = { culture = frost_giant religion = cult_of_ancestors size = 27000 }
+	officers = { culture = frost_giant religion = cult_of_ancestors size = 30 }
+	soldiers = { culture = frost_giant religion = cult_of_ancestors size = 600 }
+}
+2332 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 400 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 2000 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 320 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 640 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 36000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 40 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 800 }
+}
+2333 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 750 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 2500 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 400 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 550 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 45000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 50 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1000 }
+}
+2334 = {
+	aristocrats = { culture = frost_giant religion = cult_of_ancestors size = 750 }
+	artisans = { culture = frost_giant religion = cult_of_ancestors size = 2500 }
+	bureaucrats = { culture = frost_giant religion = cult_of_ancestors size = 400 }
+	clergymen = { culture = frost_giant religion = cult_of_ancestors size = 550 }
+	farmers = { culture = frost_giant religion = cult_of_ancestors size = 45000 }
+	officers = { culture = frost_giant religion = cult_of_ancestors size = 50 }
+	soldiers = { culture = frost_giant religion = cult_of_ancestors size = 1000 }
+}
+2335 = {
+	aristocrats = { culture = frost_giant religion = cult_of_ancestors size = 500 }
+	artisans = { culture = frost_giant religion = cult_of_ancestors size = 2500 }
+	bureaucrats = { culture = frost_giant religion = cult_of_ancestors size = 400 }
+	capitalists = { culture = frost_giant religion = cult_of_ancestors size = 50 }
+	clergymen = { culture = frost_giant religion = cult_of_ancestors size = 750 }
+	farmers = { culture = frost_giant religion = cult_of_ancestors size = 45000 }
+	officers = { culture = frost_giant religion = cult_of_ancestors size = 50 }
+	soldiers = { culture = frost_giant religion = cult_of_ancestors size = 1000 }
+}
+2336 = {
+	aristocrats = { culture = frost_giant religion = cult_of_ancestors size = 400 }
+	artisans = { culture = frost_giant religion = cult_of_ancestors size = 2000 }
+	bureaucrats = { culture = frost_giant religion = cult_of_ancestors size = 320 }
+	clergymen = { culture = frost_giant religion = cult_of_ancestors size = 440 }
+	farmers = { culture = frost_giant religion = cult_of_ancestors size = 36000 }
+	officers = { culture = frost_giant religion = cult_of_ancestors size = 40 }
+	soldiers = { culture = frost_giant religion = cult_of_ancestors size = 800 }
+}
+2337 = {
+	aristocrats = { culture = frost_giant religion = cult_of_ancestors size = 600 }
+	artisans = { culture = frost_giant religion = cult_of_ancestors size = 3000 }
+	bureaucrats = { culture = frost_giant religion = cult_of_ancestors size = 480 }
+	clergymen = { culture = frost_giant religion = cult_of_ancestors size = 660 }
+	farmers = { culture = frost_giant religion = cult_of_ancestors size = 54000 }
+	officers = { culture = frost_giant religion = cult_of_ancestors size = 60 }
+	soldiers = { culture = frost_giant religion = cult_of_ancestors size = 1200 }
+}
+2338 = {
+	aristocrats = { culture = frost_giant religion = cult_of_ancestors size = 600 }
+	artisans = { culture = frost_giant religion = cult_of_ancestors size = 3000 }
+	bureaucrats = { culture = frost_giant religion = cult_of_ancestors size = 480 }
+	clergymen = { culture = frost_giant religion = cult_of_ancestors size = 660 }
+	farmers = { culture = frost_giant religion = cult_of_ancestors size = 54000 }
+	officers = { culture = frost_giant religion = cult_of_ancestors size = 60 }
+	soldiers = { culture = frost_giant religion = cult_of_ancestors size = 1200 }
+}
+2339 = {
+	aristocrats = { culture = frost_giant religion = cult_of_ancestors size = 300 }
+	artisans = { culture = frost_giant religion = cult_of_ancestors size = 1500 }
+	bureaucrats = { culture = frost_giant religion = cult_of_ancestors size = 240 }
+	clergymen = { culture = frost_giant religion = cult_of_ancestors size = 330 }
+	farmers = { culture = frost_giant religion = cult_of_ancestors size = 27000 }
+	officers = { culture = frost_giant religion = cult_of_ancestors size = 30 }
+	soldiers = { culture = frost_giant religion = cult_of_ancestors size = 600 }
+}
+2340 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 400 }
+	artisans = { culture = glacial religion = dragon_cult size = 2000 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 320 }
+	clergymen = { culture = glacial religion = dragon_cult size = 440 }
+	farmers = { culture = glacial religion = dragon_cult size = 36000 }
+	officers = { culture = glacial religion = dragon_cult size = 40 }
+	soldiers = { culture = glacial religion = dragon_cult size = 800 }
+}
+2341 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 400 }
+	artisans = { culture = glacial religion = dragon_cult size = 2000 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 320 }
+	clergymen = { culture = glacial religion = dragon_cult size = 440 }
+	farmers = { culture = glacial religion = dragon_cult size = 36000 }
+	officers = { culture = glacial religion = dragon_cult size = 40 }
+	soldiers = { culture = glacial religion = dragon_cult size = 800 }
+}
+2342 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 700 }
+	artisans = { culture = glacial religion = dragon_cult size = 3500 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 560 }
+	clergymen = { culture = glacial religion = dragon_cult size = 770 }
+	farmers = { culture = glacial religion = dragon_cult size = 63000 }
+	officers = { culture = glacial religion = dragon_cult size = 70 }
+	soldiers = { culture = glacial religion = dragon_cult size = 1400 }
+}
+2343 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 400 }
+	artisans = { culture = glacial religion = dragon_cult size = 2000 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 320 }
+	clergymen = { culture = glacial religion = dragon_cult size = 440 }
+	farmers = { culture = glacial religion = dragon_cult size = 36000 }
+	officers = { culture = glacial religion = dragon_cult size = 40 }
+	soldiers = { culture = glacial religion = dragon_cult size = 800 }
+}
+2344 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 800 }
+	artisans = { culture = glacial religion = dragon_cult size = 4000 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 640 }
+	clergymen = { culture = glacial religion = dragon_cult size = 880 }
+	farmers = { culture = glacial religion = dragon_cult size = 72000 }
+	officers = { culture = glacial religion = dragon_cult size = 80 }
+	soldiers = { culture = glacial religion = dragon_cult size = 1600 }
+}
+2345 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 400 }
+	artisans = { culture = glacial religion = dragon_cult size = 2000 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 320 }
+	clergymen = { culture = glacial religion = dragon_cult size = 440 }
+	farmers = { culture = glacial religion = dragon_cult size = 36000 }
+	officers = { culture = glacial religion = dragon_cult size = 40 }
+	soldiers = { culture = glacial religion = dragon_cult size = 800 }
+}
+2346 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 700 }
+	artisans = { culture = glacial religion = dragon_cult size = 3500 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 560 }
+	clergymen = { culture = glacial religion = dragon_cult size = 770 }
+	farmers = { culture = glacial religion = dragon_cult size = 63000 }
+	officers = { culture = glacial religion = dragon_cult size = 70 }
+	soldiers = { culture = glacial religion = dragon_cult size = 1400 }
+}
+2347 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 600 }
+	artisans = { culture = glacial religion = dragon_cult size = 3000 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 180 }
+	clergymen = { culture = glacial religion = dragon_cult size = 300 }
+	farmers = { culture = glacial religion = dragon_cult size = 54000 }
+	officers = { culture = glacial religion = dragon_cult size = 60 }
+	soldiers = { culture = glacial religion = dragon_cult size = 1860 }
+}
+2348 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 400 }
+	artisans = { culture = glacial religion = dragon_cult size = 2000 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 320 }
+	clergymen = { culture = glacial religion = dragon_cult size = 440 }
+	farmers = { culture = glacial religion = dragon_cult size = 36000 }
+	officers = { culture = glacial religion = dragon_cult size = 40 }
+	soldiers = { culture = glacial religion = dragon_cult size = 800 }
+}
+2349 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 500 }
+	artisans = { culture = glacial religion = dragon_cult size = 2500 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 150 }
+	clergymen = { culture = glacial religion = dragon_cult size = 250 }
+	farmers = { culture = glacial religion = dragon_cult size = 45000 }
+	officers = { culture = glacial religion = dragon_cult size = 50 }
+	soldiers = { culture = glacial religion = dragon_cult size = 1550 }
+}
+2450 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 700 }
+	artisans = { culture = glacial religion = dragon_cult size = 3500 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 560 }
+	clergymen = { culture = glacial religion = dragon_cult size = 770 }
+	farmers = { culture = glacial religion = dragon_cult size = 63000 }
+	officers = { culture = glacial religion = dragon_cult size = 70 }
+	soldiers = { culture = glacial religion = dragon_cult size = 1400 }
+}
+2451 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 500 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 2500 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 400 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 550 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 45000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 50 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1000 }
+}
+2452 = {
+	aristocrats = { culture = frost_giant religion = cult_of_ancestors size = 300 }
+	artisans = { culture = frost_giant religion = cult_of_ancestors size = 1500 }
+	bureaucrats = { culture = frost_giant religion = cult_of_ancestors size = 240 }
+	clergymen = { culture = frost_giant religion = cult_of_ancestors size = 330 }
+	farmers = { culture = frost_giant religion = cult_of_ancestors size = 27000 }
+	officers = { culture = frost_giant religion = cult_of_ancestors size = 30 }
+	soldiers = { culture = frost_giant religion = cult_of_ancestors size = 600 }
+}
+2453 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 600 }
+	artisans = { culture = glacial religion = dragon_cult size = 3000 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 480 }
+	clergymen = { culture = glacial religion = dragon_cult size = 660 }
+	farmers = { culture = glacial religion = dragon_cult size = 54000 }
+	officers = { culture = glacial religion = dragon_cult size = 60 }
+	soldiers = { culture = glacial religion = dragon_cult size = 1200 }
+}
+2454 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 600 }
+	artisans = { culture = glacial religion = dragon_cult size = 3000 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 480 }
+	clergymen = { culture = glacial religion = dragon_cult size = 660 }
+	farmers = { culture = glacial religion = dragon_cult size = 54000 }
+	officers = { culture = glacial religion = dragon_cult size = 60 }
+	soldiers = { culture = glacial religion = dragon_cult size = 1200 }
+}
+2455 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 600 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 2000 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 320 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 440 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 36000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 40 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 800 }
+}
+2456 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 900 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 3000 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 480 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 660 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 54000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 60 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1200 }
+}
+2457 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 1050 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 3500 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 560 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 770 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 63000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 70 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1400 }
+}
+2458 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 450 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 1500 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 240 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 330 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 27000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 30 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 600 }
+}
+2459 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 500 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 2500 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 400 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 800 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 45000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 50 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1000 }
+}
+2470 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 750 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 2500 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 400 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 550 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 45000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 50 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1000 }
+}
+2471 = {
+	aristocrats = { culture = sea_giant religion = cult_of_ancestors size = 700 }
+	artisans = { culture = sea_giant religion = cult_of_ancestors size = 3500 }
+	bureaucrats = { culture = sea_giant religion = cult_of_ancestors size = 560 }
+	clergymen = { culture = sea_giant religion = cult_of_ancestors size = 1120 }
+	farmers = { culture = sea_giant religion = cult_of_ancestors size = 63000 }
+	officers = { culture = sea_giant religion = cult_of_ancestors size = 70 }
+	soldiers = { culture = sea_giant religion = cult_of_ancestors size = 1400 }
+}
+2472 = {
+	aristocrats = { culture = sea_giant religion = cult_of_ancestors size = 700 }
+	artisans = { culture = sea_giant religion = cult_of_ancestors size = 3500 }
+	bureaucrats = { culture = sea_giant religion = cult_of_ancestors size = 560 }
+	clergymen = { culture = sea_giant religion = cult_of_ancestors size = 1120 }
+	farmers = { culture = sea_giant religion = cult_of_ancestors size = 63000 }
+	officers = { culture = sea_giant religion = cult_of_ancestors size = 70 }
+	soldiers = { culture = sea_giant religion = cult_of_ancestors size = 1400 }
+}
+2473 = {
+	aristocrats = { culture = sea_giant religion = cult_of_ancestors size = 900 }
+	artisans = { culture = sea_giant religion = cult_of_ancestors size = 4500 }
+	bureaucrats = { culture = sea_giant religion = cult_of_ancestors size = 720 }
+	clergymen = { culture = sea_giant religion = cult_of_ancestors size = 1440 }
+	farmers = { culture = sea_giant religion = cult_of_ancestors size = 81000 }
+	officers = { culture = sea_giant religion = cult_of_ancestors size = 90 }
+	soldiers = { culture = sea_giant religion = cult_of_ancestors size = 1800 }
+}
+2474 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 700 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 3500 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 560 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 1120 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 63000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 70 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1400 }
+}
+2486 = {
+	aristocrats = { culture = sea_giant religion = cult_of_ancestors size = 700 }
+	artisans = { culture = sea_giant religion = cult_of_ancestors size = 3500 }
+	bureaucrats = { culture = sea_giant religion = cult_of_ancestors size = 560 }
+	clergymen = { culture = sea_giant religion = cult_of_ancestors size = 770 }
+	farmers = { culture = sea_giant religion = cult_of_ancestors size = 63000 }
+	officers = { culture = sea_giant religion = cult_of_ancestors size = 70 }
+	soldiers = { culture = sea_giant religion = cult_of_ancestors size = 1400 }
+}
+2487 = {
+	aristocrats = { culture = sea_giant religion = cult_of_ancestors size = 900 }
+	artisans = { culture = sea_giant religion = cult_of_ancestors size = 4500 }
+	bureaucrats = { culture = sea_giant religion = cult_of_ancestors size = 720 }
+	clergymen = { culture = sea_giant religion = cult_of_ancestors size = 990 }
+	farmers = { culture = sea_giant religion = cult_of_ancestors size = 81000 }
+	officers = { culture = sea_giant religion = cult_of_ancestors size = 90 }
+	soldiers = { culture = sea_giant religion = cult_of_ancestors size = 1800 }
+}
+2488 = {
+	aristocrats = { culture = atmoran religion = dragon_cult size = 400 }
+	artisans = { culture = atmoran religion = dragon_cult size = 2000 }
+	bureaucrats = { culture = atmoran religion = dragon_cult size = 320 }
+	capitalists = { culture = atmoran religion = dragon_cult size = 40 }
+	clergymen = { culture = atmoran religion = dragon_cult size = 600 }
+	farmers = { culture = atmoran religion = dragon_cult size = 36000 }
+	officers = { culture = atmoran religion = dragon_cult size = 40 }
+	soldiers = { culture = atmoran religion = dragon_cult size = 800 }
+}
+2489 = {
+	aristocrats = { culture = sea_giant religion = cult_of_ancestors size = 700 }
+	artisans = { culture = sea_giant religion = cult_of_ancestors size = 3500 }
+	bureaucrats = { culture = sea_giant religion = cult_of_ancestors size = 560 }
+	clergymen = { culture = sea_giant religion = cult_of_ancestors size = 770 }
+	farmers = { culture = sea_giant religion = cult_of_ancestors size = 63000 }
+	officers = { culture = sea_giant religion = cult_of_ancestors size = 70 }
+	soldiers = { culture = sea_giant religion = cult_of_ancestors size = 1400 }
+}
+2500 = {
+	aristocrats = { culture = sea_giant religion = cult_of_ancestors size = 300 }
+	artisans = { culture = sea_giant religion = cult_of_ancestors size = 1500 }
+	bureaucrats = { culture = sea_giant religion = cult_of_ancestors size = 90 }
+	clergymen = { culture = sea_giant religion = cult_of_ancestors size = 150 }
+	farmers = { culture = sea_giant religion = cult_of_ancestors size = 27000 }
+	officers = { culture = sea_giant religion = cult_of_ancestors size = 30 }
+	soldiers = { culture = sea_giant religion = cult_of_ancestors size = 930 }
+}
+2501 = {
+	aristocrats = { culture = sea_giant religion = cult_of_ancestors size = 500 }
+	artisans = { culture = sea_giant religion = cult_of_ancestors size = 2500 }
+	bureaucrats = { culture = sea_giant religion = cult_of_ancestors size = 400 }
+	clergymen = { culture = sea_giant religion = cult_of_ancestors size = 550 }
+	farmers = { culture = sea_giant religion = cult_of_ancestors size = 45000 }
+	officers = { culture = sea_giant religion = cult_of_ancestors size = 50 }
+	soldiers = { culture = sea_giant religion = cult_of_ancestors size = 1000 }
+}
+2502 = {
+	aristocrats = { culture = sea_giant religion = cult_of_ancestors size = 700 }
+	artisans = { culture = sea_giant religion = cult_of_ancestors size = 3500 }
+	bureaucrats = { culture = sea_giant religion = cult_of_ancestors size = 560 }
+	clergymen = { culture = sea_giant religion = cult_of_ancestors size = 770 }
+	farmers = { culture = sea_giant religion = cult_of_ancestors size = 63000 }
+	officers = { culture = sea_giant religion = cult_of_ancestors size = 70 }
+	soldiers = { culture = sea_giant religion = cult_of_ancestors size = 1400 }
+}
+2503 = {
+	aristocrats = { culture = sea_giant religion = cult_of_ancestors size = 400 }
+	artisans = { culture = sea_giant religion = cult_of_ancestors size = 2000 }
+	bureaucrats = { culture = sea_giant religion = cult_of_ancestors size = 320 }
+	clergymen = { culture = sea_giant religion = cult_of_ancestors size = 440 }
+	farmers = { culture = sea_giant religion = cult_of_ancestors size = 36000 }
+	officers = { culture = sea_giant religion = cult_of_ancestors size = 40 }
+	soldiers = { culture = sea_giant religion = cult_of_ancestors size = 800 }
+}
+2504 = {
+	aristocrats = { culture = sea_giant religion = cult_of_ancestors size = 500 }
+	artisans = { culture = sea_giant religion = cult_of_ancestors size = 2500 }
+	bureaucrats = { culture = sea_giant religion = cult_of_ancestors size = 150 }
+	clergymen = { culture = sea_giant religion = cult_of_ancestors size = 250 }
+	farmers = { culture = sea_giant religion = cult_of_ancestors size = 45000 }
+	officers = { culture = sea_giant religion = cult_of_ancestors size = 50 }
+	soldiers = { culture = sea_giant religion = cult_of_ancestors size = 1550 }
+}
+2505 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 2850 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 9500 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 1520 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 2090 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 171000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 190 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 3800 }
+}
+2506 = {
+	aristocrats = { culture = sea_giant religion = cult_of_ancestors size = 500 }
+	artisans = { culture = sea_giant religion = cult_of_ancestors size = 2500 }
+	bureaucrats = { culture = sea_giant religion = cult_of_ancestors size = 150 }
+	clergymen = { culture = sea_giant religion = cult_of_ancestors size = 250 }
+	farmers = { culture = sea_giant religion = cult_of_ancestors size = 45000 }
+	officers = { culture = sea_giant religion = cult_of_ancestors size = 50 }
+	soldiers = { culture = sea_giant religion = cult_of_ancestors size = 1550 }
+}
+2507 = {
+	aristocrats = { culture = sea_giant religion = cult_of_ancestors size = 500 }
+	artisans = { culture = sea_giant religion = cult_of_ancestors size = 2500 }
+	bureaucrats = { culture = sea_giant religion = cult_of_ancestors size = 400 }
+	clergymen = { culture = sea_giant religion = cult_of_ancestors size = 550 }
+	farmers = { culture = sea_giant religion = cult_of_ancestors size = 45000 }
+	officers = { culture = sea_giant religion = cult_of_ancestors size = 50 }
+	soldiers = { culture = sea_giant religion = cult_of_ancestors size = 1000 }
+}
+2508 = {
+	aristocrats = { culture = sea_giant religion = cult_of_ancestors size = 700 }
+	artisans = { culture = sea_giant religion = cult_of_ancestors size = 3500 }
+	bureaucrats = { culture = sea_giant religion = cult_of_ancestors size = 560 }
+	clergymen = { culture = sea_giant religion = cult_of_ancestors size = 770 }
+	farmers = { culture = sea_giant religion = cult_of_ancestors size = 63000 }
+	officers = { culture = sea_giant religion = cult_of_ancestors size = 70 }
+	soldiers = { culture = sea_giant religion = cult_of_ancestors size = 1400 }
+}
+2509 = {
+	aristocrats = { culture = sea_giant religion = cult_of_ancestors size = 600 }
+	artisans = { culture = sea_giant religion = cult_of_ancestors size = 3000 }
+	bureaucrats = { culture = sea_giant religion = cult_of_ancestors size = 480 }
+	clergymen = { culture = sea_giant religion = cult_of_ancestors size = 660 }
+	farmers = { culture = sea_giant religion = cult_of_ancestors size = 54000 }
+	officers = { culture = sea_giant religion = cult_of_ancestors size = 60 }
+	soldiers = { culture = sea_giant religion = cult_of_ancestors size = 1200 }
+}
+2510 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 600 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 2000 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 320 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 440 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 36000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 40 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 800 }
+}
+2511 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 450 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 1500 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 240 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 330 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 27000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 30 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 600 }
+}
+2512 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 750 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 2500 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 400 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 550 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 45000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 50 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1000 }
+}
+2513 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 1050 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 3500 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 560 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 770 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 63000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 70 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1400 }
+}
+2514 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 450 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 1500 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 240 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 330 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 27000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 30 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 600 }
+}
+2881 = {
+	aristocrats = { culture = frost_giant religion = cult_of_ancestors size = 400 }
+	artisans = { culture = frost_giant religion = cult_of_ancestors size = 2000 }
+	bureaucrats = { culture = frost_giant religion = cult_of_ancestors size = 320 }
+	clergymen = { culture = frost_giant religion = cult_of_ancestors size = 440 }
+	farmers = { culture = frost_giant religion = cult_of_ancestors size = 36000 }
+	officers = { culture = frost_giant religion = cult_of_ancestors size = 40 }
+	soldiers = { culture = frost_giant religion = cult_of_ancestors size = 800 }
+}
+2882 = {
+	aristocrats = { culture = frost_giant religion = cult_of_ancestors size = 800 }
+	artisans = { culture = frost_giant religion = cult_of_ancestors size = 4000 }
+	bureaucrats = { culture = frost_giant religion = cult_of_ancestors size = 640 }
+	clergymen = { culture = frost_giant religion = cult_of_ancestors size = 880 }
+	farmers = { culture = frost_giant religion = cult_of_ancestors size = 72000 }
+	officers = { culture = frost_giant religion = cult_of_ancestors size = 80 }
+	soldiers = { culture = frost_giant religion = cult_of_ancestors size = 1600 }
+}
+2883 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 1050 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 3500 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 560 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 770 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 63000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 70 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1400 }
+}
+2886 = {
+	aristocrats = { culture = frost_giant religion = cult_of_ancestors size = 800 }
+	artisans = { culture = frost_giant religion = cult_of_ancestors size = 4000 }
+	bureaucrats = { culture = frost_giant religion = cult_of_ancestors size = 640 }
+	clergymen = { culture = frost_giant religion = cult_of_ancestors size = 880 }
+	farmers = { culture = frost_giant religion = cult_of_ancestors size = 72000 }
+	officers = { culture = frost_giant religion = cult_of_ancestors size = 80 }
+	soldiers = { culture = frost_giant religion = cult_of_ancestors size = 1600 }
+}
+2887 = {
+	aristocrats = { culture = frost_giant religion = cult_of_ancestors size = 400 }
+	artisans = { culture = frost_giant religion = cult_of_ancestors size = 2000 }
+	bureaucrats = { culture = frost_giant religion = cult_of_ancestors size = 120 }
+	clergymen = { culture = frost_giant religion = cult_of_ancestors size = 200 }
+	farmers = { culture = frost_giant religion = cult_of_ancestors size = 36000 }
+	officers = { culture = frost_giant religion = cult_of_ancestors size = 40 }
+	soldiers = { culture = frost_giant religion = cult_of_ancestors size = 1240 }
+}
+2894 = {
+	aristocrats = { culture = frost_giant religion = cult_of_ancestors size = 400 }
+	artisans = { culture = frost_giant religion = cult_of_ancestors size = 2000 }
+	bureaucrats = { culture = frost_giant religion = cult_of_ancestors size = 320 }
+	clergymen = { culture = frost_giant religion = cult_of_ancestors size = 440 }
+	farmers = { culture = frost_giant religion = cult_of_ancestors size = 36000 }
+	officers = { culture = frost_giant religion = cult_of_ancestors size = 40 }
+	soldiers = { culture = frost_giant religion = cult_of_ancestors size = 800 }
+}
+2900 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 900 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 3000 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 480 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 660 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 54000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 60 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1200 }
+}
+356 = {
+	aristocrats = { culture = frost_giant religion = cult_of_ancestors size = 500 }
+	artisans = { culture = frost_giant religion = cult_of_ancestors size = 2500 }
+	bureaucrats = { culture = frost_giant religion = cult_of_ancestors size = 150 }
+	clergymen = { culture = frost_giant religion = cult_of_ancestors size = 250 }
+	farmers = { culture = frost_giant religion = cult_of_ancestors size = 45000 }
+	officers = { culture = frost_giant religion = cult_of_ancestors size = 50 }
+	soldiers = { culture = frost_giant religion = cult_of_ancestors size = 1550 }
+}
+357 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 700 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 3500 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 560 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 1120 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 63000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 70 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1400 }
+}
+358 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 400 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 2000 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 320 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 640 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 36000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 40 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 800 }
+}
+359 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 450 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 1500 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 240 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 330 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 27000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 30 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 600 }
+}
+360 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 300 }
+	artisans = { culture = glacial religion = dragon_cult size = 1500 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 240 }
+	clergymen = { culture = glacial religion = dragon_cult size = 330 }
+	farmers = { culture = glacial religion = dragon_cult size = 27000 }
+	officers = { culture = glacial religion = dragon_cult size = 30 }
+	soldiers = { culture = glacial religion = dragon_cult size = 600 }
+}
+361 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 600 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 3000 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 480 }
+	capitalists = { culture = atmoran religion = nordic_pantheon size = 60 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 900 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 54000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 60 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1200 }
+}
+362 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 400 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 2000 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 320 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 640 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 36000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 40 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 800 }
+}
+363 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 600 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 3000 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 480 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 960 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 54000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 60 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1200 }
+}
+364 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 400 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 2000 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 320 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 640 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 36000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 40 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 800 }
+}
+365 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 900 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 3000 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 480 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 660 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 54000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 60 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1200 }
+}
+366 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 400 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 2000 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 320 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 640 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 36000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 40 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 800 }
+}
+367 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 700 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 3500 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 560 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 1120 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 63000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 70 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1400 }
+}
+368 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 600 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 2000 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 320 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 440 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 36000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 40 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 800 }
+}
+369 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 900 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 3000 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 480 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 660 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 54000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 60 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1200 }
+}
+370 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 700 }
+	artisans = { culture = glacial religion = dragon_cult size = 3500 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 560 }
+	clergymen = { culture = glacial religion = dragon_cult size = 770 }
+	farmers = { culture = glacial religion = dragon_cult size = 63000 }
+	officers = { culture = glacial religion = dragon_cult size = 70 }
+	soldiers = { culture = glacial religion = dragon_cult size = 1400 }
+}
+371 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 300 }
+	artisans = { culture = glacial religion = dragon_cult size = 1500 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 240 }
+	clergymen = { culture = glacial religion = dragon_cult size = 330 }
+	farmers = { culture = glacial religion = dragon_cult size = 27000 }
+	officers = { culture = glacial religion = dragon_cult size = 30 }
+	soldiers = { culture = glacial religion = dragon_cult size = 600 }
+}
+372 = {
+	aristocrats = { culture = frost_giant religion = cult_of_ancestors size = 300 }
+	artisans = { culture = frost_giant religion = cult_of_ancestors size = 1500 }
+	bureaucrats = { culture = frost_giant religion = cult_of_ancestors size = 90 }
+	clergymen = { culture = frost_giant religion = cult_of_ancestors size = 150 }
+	farmers = { culture = frost_giant religion = cult_of_ancestors size = 27000 }
+	officers = { culture = frost_giant religion = cult_of_ancestors size = 30 }
+	soldiers = { culture = frost_giant religion = cult_of_ancestors size = 930 }
+}
+373 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 1050 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 3500 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 560 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 770 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 63000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 70 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1400 }
+}
+374 = {
+	aristocrats = { culture = frost_giant religion = cult_of_ancestors size = 500 }
+	artisans = { culture = frost_giant religion = cult_of_ancestors size = 2500 }
+	bureaucrats = { culture = frost_giant religion = cult_of_ancestors size = 400 }
+	clergymen = { culture = frost_giant religion = cult_of_ancestors size = 550 }
+	farmers = { culture = frost_giant religion = cult_of_ancestors size = 45000 }
+	officers = { culture = frost_giant religion = cult_of_ancestors size = 50 }
+	soldiers = { culture = frost_giant religion = cult_of_ancestors size = 1000 }
+}
+375 = {
+	aristocrats = { culture = frost_giant religion = cult_of_ancestors size = 800 }
+	artisans = { culture = frost_giant religion = cult_of_ancestors size = 4000 }
+	bureaucrats = { culture = frost_giant religion = cult_of_ancestors size = 640 }
+	clergymen = { culture = frost_giant religion = cult_of_ancestors size = 880 }
+	farmers = { culture = frost_giant religion = cult_of_ancestors size = 72000 }
+	officers = { culture = frost_giant religion = cult_of_ancestors size = 80 }
+	soldiers = { culture = frost_giant religion = cult_of_ancestors size = 1600 }
+}
+376 = {
+	aristocrats = { culture = frost_giant religion = cult_of_ancestors size = 500 }
+	artisans = { culture = frost_giant religion = cult_of_ancestors size = 2500 }
+	bureaucrats = { culture = frost_giant religion = cult_of_ancestors size = 400 }
+	clergymen = { culture = frost_giant religion = cult_of_ancestors size = 550 }
+	farmers = { culture = frost_giant religion = cult_of_ancestors size = 45000 }
+	officers = { culture = frost_giant religion = cult_of_ancestors size = 50 }
+	soldiers = { culture = frost_giant religion = cult_of_ancestors size = 1000 }
+}
+377 = {
+	aristocrats = { culture = frost_giant religion = cult_of_ancestors size = 800 }
+	artisans = { culture = frost_giant religion = cult_of_ancestors size = 4000 }
+	bureaucrats = { culture = frost_giant religion = cult_of_ancestors size = 640 }
+	clergymen = { culture = frost_giant religion = cult_of_ancestors size = 880 }
+	farmers = { culture = frost_giant religion = cult_of_ancestors size = 72000 }
+	officers = { culture = frost_giant religion = cult_of_ancestors size = 80 }
+	soldiers = { culture = frost_giant religion = cult_of_ancestors size = 1600 }
+}
+378 = {
+	aristocrats = { culture = sea_giant religion = cult_of_ancestors size = 500 }
+	artisans = { culture = sea_giant religion = cult_of_ancestors size = 2500 }
+	bureaucrats = { culture = sea_giant religion = cult_of_ancestors size = 150 }
+	clergymen = { culture = sea_giant religion = cult_of_ancestors size = 250 }
+	farmers = { culture = sea_giant religion = cult_of_ancestors size = 45000 }
+	officers = { culture = sea_giant religion = cult_of_ancestors size = 50 }
+	soldiers = { culture = sea_giant religion = cult_of_ancestors size = 1550 }
+}
+379 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 450 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 1500 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 240 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 330 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 27000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 30 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 600 }
+}
+380 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 700 }
+	artisans = { culture = glacial religion = dragon_cult size = 3500 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 560 }
+	clergymen = { culture = glacial religion = dragon_cult size = 770 }
+	farmers = { culture = glacial religion = dragon_cult size = 63000 }
+	officers = { culture = glacial religion = dragon_cult size = 70 }
+	soldiers = { culture = glacial religion = dragon_cult size = 1400 }
+}
+381 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 500 }
+	artisans = { culture = glacial religion = dragon_cult size = 2500 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 400 }
+	clergymen = { culture = glacial religion = dragon_cult size = 550 }
+	farmers = { culture = glacial religion = dragon_cult size = 45000 }
+	officers = { culture = glacial religion = dragon_cult size = 50 }
+	soldiers = { culture = glacial religion = dragon_cult size = 1000 }
+}
+382 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 600 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 3000 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 480 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 960 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 54000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 60 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1200 }
+}
+383 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 1050 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 3500 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 560 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 770 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 63000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 70 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1400 }
+}
+384 = {
+	aristocrats = { culture = frost_giant religion = cult_of_ancestors size = 400 }
+	artisans = { culture = frost_giant religion = cult_of_ancestors size = 2000 }
+	bureaucrats = { culture = frost_giant religion = cult_of_ancestors size = 320 }
+	clergymen = { culture = frost_giant religion = cult_of_ancestors size = 440 }
+	farmers = { culture = frost_giant religion = cult_of_ancestors size = 36000 }
+	officers = { culture = frost_giant religion = cult_of_ancestors size = 40 }
+	soldiers = { culture = frost_giant religion = cult_of_ancestors size = 800 }
+}
+385 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 1050 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 3500 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 560 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 770 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 63000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 70 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1400 }
+}
+386 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 600 }
+	artisans = { culture = glacial religion = dragon_cult size = 3000 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 480 }
+	clergymen = { culture = glacial religion = dragon_cult size = 660 }
+	farmers = { culture = glacial religion = dragon_cult size = 54000 }
+	officers = { culture = glacial religion = dragon_cult size = 60 }
+	soldiers = { culture = glacial religion = dragon_cult size = 1200 }
+}
+3862 = {
+	aristocrats = { culture = sea_giant religion = cult_of_ancestors size = 300 }
+	artisans = { culture = sea_giant religion = cult_of_ancestors size = 1500 }
+	bureaucrats = { culture = sea_giant religion = cult_of_ancestors size = 240 }
+	clergymen = { culture = sea_giant religion = cult_of_ancestors size = 330 }
+	farmers = { culture = sea_giant religion = cult_of_ancestors size = 27000 }
+	officers = { culture = sea_giant religion = cult_of_ancestors size = 30 }
+	soldiers = { culture = sea_giant religion = cult_of_ancestors size = 600 }
+}
+387 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 2400 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 8000 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 1280 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 1760 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 144000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 160 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 3200 }
+}
+389 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 500 }
+	artisans = { culture = glacial religion = dragon_cult size = 2500 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 400 }
+	clergymen = { culture = glacial religion = dragon_cult size = 550 }
+	farmers = { culture = glacial religion = dragon_cult size = 45000 }
+	officers = { culture = glacial religion = dragon_cult size = 50 }
+	soldiers = { culture = glacial religion = dragon_cult size = 1000 }
+}
+390 = {
+	aristocrats = { culture = atmoran religion = dragon_cult size = 700 }
+	artisans = { culture = atmoran religion = dragon_cult size = 3500 }
+	bureaucrats = { culture = atmoran religion = dragon_cult size = 560 }
+	capitalists = { culture = atmoran religion = dragon_cult size = 70 }
+	clergymen = { culture = atmoran religion = dragon_cult size = 1050 }
+	farmers = { culture = atmoran religion = dragon_cult size = 63000 }
+	officers = { culture = atmoran religion = dragon_cult size = 70 }
+	soldiers = { culture = atmoran religion = dragon_cult size = 1400 }
+}
+391 = {
+	aristocrats = { culture = atmoran religion = dragon_cult size = 600 }
+	artisans = { culture = atmoran religion = dragon_cult size = 3000 }
+	bureaucrats = { culture = atmoran religion = dragon_cult size = 480 }
+	capitalists = { culture = atmoran religion = dragon_cult size = 60 }
+	clergymen = { culture = atmoran religion = dragon_cult size = 900 }
+	farmers = { culture = atmoran religion = dragon_cult size = 54000 }
+	officers = { culture = atmoran religion = dragon_cult size = 60 }
+	soldiers = { culture = atmoran religion = dragon_cult size = 1200 }
+}
+392 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 750 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 2500 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 400 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 550 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 45000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 50 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1000 }
+}
+393 = {
+	aristocrats = { culture = atmoran religion = dragon_cult size = 300 }
+	artisans = { culture = atmoran religion = dragon_cult size = 1500 }
+	bureaucrats = { culture = atmoran religion = dragon_cult size = 240 }
+	capitalists = { culture = atmoran religion = dragon_cult size = 30 }
+	clergymen = { culture = atmoran religion = dragon_cult size = 450 }
+	farmers = { culture = atmoran religion = dragon_cult size = 27000 }
+	officers = { culture = atmoran religion = dragon_cult size = 30 }
+	soldiers = { culture = atmoran religion = dragon_cult size = 600 }
+}
+394 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 700 }
+	artisans = { culture = glacial religion = dragon_cult size = 3500 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 560 }
+	clergymen = { culture = glacial religion = dragon_cult size = 770 }
+	farmers = { culture = glacial religion = dragon_cult size = 63000 }
+	officers = { culture = glacial religion = dragon_cult size = 70 }
+	soldiers = { culture = glacial religion = dragon_cult size = 1400 }
+}
+395 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 300 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 1500 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 240 }
+	capitalists = { culture = atmoran religion = nordic_pantheon size = 30 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 450 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 27000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 30 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 600 }
+}
+406 = {
+	aristocrats = { culture = atmoran religion = dragon_cult size = 600 }
+	artisans = { culture = atmoran religion = dragon_cult size = 2000 }
+	bureaucrats = { culture = atmoran religion = dragon_cult size = 320 }
+	clergymen = { culture = atmoran religion = dragon_cult size = 440 }
+	farmers = { culture = atmoran religion = dragon_cult size = 36000 }
+	officers = { culture = atmoran religion = dragon_cult size = 40 }
+	soldiers = { culture = atmoran religion = dragon_cult size = 800 }
+}
+407 = {
+	aristocrats = { culture = atmoran religion = dragon_cult size = 900 }
+	artisans = { culture = atmoran religion = dragon_cult size = 3000 }
+	bureaucrats = { culture = atmoran religion = dragon_cult size = 480 }
+	clergymen = { culture = atmoran religion = dragon_cult size = 660 }
+	farmers = { culture = atmoran religion = dragon_cult size = 54000 }
+	officers = { culture = atmoran religion = dragon_cult size = 60 }
+	soldiers = { culture = atmoran religion = dragon_cult size = 1200 }
+}
+408 = {
+	aristocrats = { culture = atmoran religion = dragon_cult size = 400 }
+	artisans = { culture = atmoran religion = dragon_cult size = 2000 }
+	bureaucrats = { culture = atmoran religion = dragon_cult size = 320 }
+	clergymen = { culture = atmoran religion = dragon_cult size = 440 }
+	farmers = { culture = atmoran religion = dragon_cult size = 36000 }
+	officers = { culture = atmoran religion = dragon_cult size = 40 }
+	soldiers = { culture = atmoran religion = dragon_cult size = 800 }
+}
+409 = {
+	aristocrats = { culture = atmoran religion = dragon_cult size = 1050 }
+	artisans = { culture = atmoran religion = dragon_cult size = 3500 }
+	bureaucrats = { culture = atmoran religion = dragon_cult size = 560 }
+	clergymen = { culture = atmoran religion = dragon_cult size = 770 }
+	farmers = { culture = atmoran religion = dragon_cult size = 63000 }
+	officers = { culture = atmoran religion = dragon_cult size = 70 }
+	soldiers = { culture = atmoran religion = dragon_cult size = 1400 }
+}
+410 = {
+	aristocrats = { culture = atmoran religion = dragon_cult size = 900 }
+	artisans = { culture = atmoran religion = dragon_cult size = 3000 }
+	bureaucrats = { culture = atmoran religion = dragon_cult size = 480 }
+	clergymen = { culture = atmoran religion = dragon_cult size = 660 }
+	farmers = { culture = atmoran religion = dragon_cult size = 54000 }
+	officers = { culture = atmoran religion = dragon_cult size = 60 }
+	soldiers = { culture = atmoran religion = dragon_cult size = 1200 }
+}
+411 = {
+	aristocrats = { culture = atmoran religion = dragon_cult size = 900 }
+	artisans = { culture = atmoran religion = dragon_cult size = 3000 }
+	bureaucrats = { culture = atmoran religion = dragon_cult size = 480 }
+	clergymen = { culture = atmoran religion = dragon_cult size = 660 }
+	farmers = { culture = atmoran religion = dragon_cult size = 54000 }
+	officers = { culture = atmoran religion = dragon_cult size = 60 }
+	soldiers = { culture = atmoran religion = dragon_cult size = 1200 }
+}
+412 = {
+	aristocrats = { culture = atmoran religion = dragon_cult size = 750 }
+	artisans = { culture = atmoran religion = dragon_cult size = 2500 }
+	bureaucrats = { culture = atmoran religion = dragon_cult size = 400 }
+	clergymen = { culture = atmoran religion = dragon_cult size = 550 }
+	farmers = { culture = atmoran religion = dragon_cult size = 45000 }
+	officers = { culture = atmoran religion = dragon_cult size = 50 }
+	soldiers = { culture = atmoran religion = dragon_cult size = 1000 }
+}
+413 = {
+	aristocrats = { culture = atmoran religion = dragon_cult size = 1050 }
+	artisans = { culture = atmoran religion = dragon_cult size = 3500 }
+	bureaucrats = { culture = atmoran religion = dragon_cult size = 560 }
+	clergymen = { culture = atmoran religion = dragon_cult size = 770 }
+	farmers = { culture = atmoran religion = dragon_cult size = 63000 }
+	officers = { culture = atmoran religion = dragon_cult size = 70 }
+	soldiers = { culture = atmoran religion = dragon_cult size = 1400 }
+}
+414 = {
+	aristocrats = { culture = atmoran religion = dragon_cult size = 750 }
+	artisans = { culture = atmoran religion = dragon_cult size = 2500 }
+	bureaucrats = { culture = atmoran religion = dragon_cult size = 400 }
+	clergymen = { culture = atmoran religion = dragon_cult size = 550 }
+	farmers = { culture = atmoran religion = dragon_cult size = 45000 }
+	officers = { culture = atmoran religion = dragon_cult size = 50 }
+	soldiers = { culture = atmoran religion = dragon_cult size = 1000 }
+}
+4142 = {
+	aristocrats = { culture = sea_giant religion = cult_of_ancestors size = 900 }
+	artisans = { culture = sea_giant religion = cult_of_ancestors size = 4500 }
+	bureaucrats = { culture = sea_giant religion = cult_of_ancestors size = 720 }
+	clergymen = { culture = sea_giant religion = cult_of_ancestors size = 990 }
+	farmers = { culture = sea_giant religion = cult_of_ancestors size = 81000 }
+	officers = { culture = sea_giant religion = cult_of_ancestors size = 90 }
+	soldiers = { culture = sea_giant religion = cult_of_ancestors size = 1800 }
+}
+4144 = {
+	aristocrats = { culture = sea_giant religion = cult_of_ancestors size = 400 }
+	artisans = { culture = sea_giant religion = cult_of_ancestors size = 2000 }
+	bureaucrats = { culture = sea_giant religion = cult_of_ancestors size = 320 }
+	clergymen = { culture = sea_giant religion = cult_of_ancestors size = 440 }
+	farmers = { culture = sea_giant religion = cult_of_ancestors size = 36000 }
+	officers = { culture = sea_giant religion = cult_of_ancestors size = 40 }
+	soldiers = { culture = sea_giant religion = cult_of_ancestors size = 800 }
+}
+4145 = {
+	aristocrats = { culture = sea_giant religion = cult_of_ancestors size = 700 }
+	artisans = { culture = sea_giant religion = cult_of_ancestors size = 3500 }
+	bureaucrats = { culture = sea_giant religion = cult_of_ancestors size = 560 }
+	clergymen = { culture = sea_giant religion = cult_of_ancestors size = 770 }
+	farmers = { culture = sea_giant religion = cult_of_ancestors size = 63000 }
+	officers = { culture = sea_giant religion = cult_of_ancestors size = 70 }
+	soldiers = { culture = sea_giant religion = cult_of_ancestors size = 1400 }
+}
+4146 = {
+	aristocrats = { culture = sea_giant religion = cult_of_ancestors size = 600 }
+	artisans = { culture = sea_giant religion = cult_of_ancestors size = 3000 }
+	bureaucrats = { culture = sea_giant religion = cult_of_ancestors size = 480 }
+	clergymen = { culture = sea_giant religion = cult_of_ancestors size = 660 }
+	farmers = { culture = sea_giant religion = cult_of_ancestors size = 54000 }
+	officers = { culture = sea_giant religion = cult_of_ancestors size = 60 }
+	soldiers = { culture = sea_giant religion = cult_of_ancestors size = 1200 }
+}
+4147 = {
+	aristocrats = { culture = sea_giant religion = cult_of_ancestors size = 300 }
+	artisans = { culture = sea_giant religion = cult_of_ancestors size = 1500 }
+	bureaucrats = { culture = sea_giant religion = cult_of_ancestors size = 240 }
+	clergymen = { culture = sea_giant religion = cult_of_ancestors size = 330 }
+	farmers = { culture = sea_giant religion = cult_of_ancestors size = 27000 }
+	officers = { culture = sea_giant religion = cult_of_ancestors size = 30 }
+	soldiers = { culture = sea_giant religion = cult_of_ancestors size = 600 }
+}
+4148 = {
+	aristocrats = { culture = sea_giant religion = cult_of_ancestors size = 800 }
+	artisans = { culture = sea_giant religion = cult_of_ancestors size = 4000 }
+	bureaucrats = { culture = sea_giant religion = cult_of_ancestors size = 640 }
+	clergymen = { culture = sea_giant religion = cult_of_ancestors size = 880 }
+	farmers = { culture = sea_giant religion = cult_of_ancestors size = 72000 }
+	officers = { culture = sea_giant religion = cult_of_ancestors size = 80 }
+	soldiers = { culture = sea_giant religion = cult_of_ancestors size = 1600 }
+}
+4149 = {
+	aristocrats = { culture = sea_giant religion = cult_of_ancestors size = 500 }
+	artisans = { culture = sea_giant religion = cult_of_ancestors size = 2500 }
+	bureaucrats = { culture = sea_giant religion = cult_of_ancestors size = 400 }
+	clergymen = { culture = sea_giant religion = cult_of_ancestors size = 550 }
+	farmers = { culture = sea_giant religion = cult_of_ancestors size = 45000 }
+	officers = { culture = sea_giant religion = cult_of_ancestors size = 50 }
+	soldiers = { culture = sea_giant religion = cult_of_ancestors size = 1000 }
+}
+415 = {
+	aristocrats = { culture = atmoran religion = dragon_cult size = 2550 }
+	artisans = { culture = atmoran religion = dragon_cult size = 8500 }
+	bureaucrats = { culture = atmoran religion = dragon_cult size = 1360 }
+	clergymen = { culture = atmoran religion = dragon_cult size = 1870 }
+	farmers = { culture = atmoran religion = dragon_cult size = 153000 }
+	officers = { culture = atmoran religion = dragon_cult size = 170 }
+	soldiers = { culture = atmoran religion = dragon_cult size = 3400 }
+}
+4150 = {
+	aristocrats = { culture = sea_giant religion = cult_of_ancestors size = 700 }
+	artisans = { culture = sea_giant religion = cult_of_ancestors size = 3500 }
+	bureaucrats = { culture = sea_giant religion = cult_of_ancestors size = 560 }
+	clergymen = { culture = sea_giant religion = cult_of_ancestors size = 770 }
+	farmers = { culture = sea_giant religion = cult_of_ancestors size = 63000 }
+	officers = { culture = sea_giant religion = cult_of_ancestors size = 70 }
+	soldiers = { culture = sea_giant religion = cult_of_ancestors size = 1400 }
+}
+4191 = {
+	aristocrats = { culture = sea_giant religion = cult_of_ancestors size = 500 }
+	artisans = { culture = sea_giant religion = cult_of_ancestors size = 2500 }
+	bureaucrats = { culture = sea_giant religion = cult_of_ancestors size = 400 }
+	clergymen = { culture = sea_giant religion = cult_of_ancestors size = 550 }
+	farmers = { culture = sea_giant religion = cult_of_ancestors size = 45000 }
+	officers = { culture = sea_giant religion = cult_of_ancestors size = 50 }
+	soldiers = { culture = sea_giant religion = cult_of_ancestors size = 1000 }
+}
+4192 = {
+	aristocrats = { culture = sea_giant religion = cult_of_ancestors size = 800 }
+	artisans = { culture = sea_giant religion = cult_of_ancestors size = 4000 }
+	bureaucrats = { culture = sea_giant religion = cult_of_ancestors size = 640 }
+	clergymen = { culture = sea_giant religion = cult_of_ancestors size = 880 }
+	farmers = { culture = sea_giant religion = cult_of_ancestors size = 72000 }
+	officers = { culture = sea_giant religion = cult_of_ancestors size = 80 }
+	soldiers = { culture = sea_giant religion = cult_of_ancestors size = 1600 }
+}
+4195 = {
+	aristocrats = { culture = sea_giant religion = cult_of_ancestors size = 600 }
+	artisans = { culture = sea_giant religion = cult_of_ancestors size = 3000 }
+	bureaucrats = { culture = sea_giant religion = cult_of_ancestors size = 480 }
+	clergymen = { culture = sea_giant religion = cult_of_ancestors size = 660 }
+	farmers = { culture = sea_giant religion = cult_of_ancestors size = 54000 }
+	officers = { culture = sea_giant religion = cult_of_ancestors size = 60 }
+	soldiers = { culture = sea_giant religion = cult_of_ancestors size = 1200 }
+}
+4196 = {
+	aristocrats = { culture = sea_giant religion = cult_of_ancestors size = 600 }
+	artisans = { culture = sea_giant religion = cult_of_ancestors size = 3000 }
+	bureaucrats = { culture = sea_giant religion = cult_of_ancestors size = 480 }
+	clergymen = { culture = sea_giant religion = cult_of_ancestors size = 660 }
+	farmers = { culture = sea_giant religion = cult_of_ancestors size = 54000 }
+	officers = { culture = sea_giant religion = cult_of_ancestors size = 60 }
+	soldiers = { culture = sea_giant religion = cult_of_ancestors size = 1200 }
+}
+4198 = {
+	aristocrats = { culture = sea_giant religion = cult_of_ancestors size = 300 }
+	artisans = { culture = sea_giant religion = cult_of_ancestors size = 1500 }
+	bureaucrats = { culture = sea_giant religion = cult_of_ancestors size = 240 }
+	clergymen = { culture = sea_giant religion = cult_of_ancestors size = 330 }
+	farmers = { culture = sea_giant religion = cult_of_ancestors size = 27000 }
+	officers = { culture = sea_giant religion = cult_of_ancestors size = 30 }
+	soldiers = { culture = sea_giant religion = cult_of_ancestors size = 600 }
+}
+4199 = {
+	aristocrats = { culture = sea_giant religion = cult_of_ancestors size = 700 }
+	artisans = { culture = sea_giant religion = cult_of_ancestors size = 3500 }
+	bureaucrats = { culture = sea_giant religion = cult_of_ancestors size = 560 }
+	clergymen = { culture = sea_giant religion = cult_of_ancestors size = 770 }
+	farmers = { culture = sea_giant religion = cult_of_ancestors size = 63000 }
+	officers = { culture = sea_giant religion = cult_of_ancestors size = 70 }
+	soldiers = { culture = sea_giant religion = cult_of_ancestors size = 1400 }
+}
+426 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 300 }
+	artisans = { culture = glacial religion = dragon_cult size = 1500 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 240 }
+	clergymen = { culture = glacial religion = dragon_cult size = 330 }
+	farmers = { culture = glacial religion = dragon_cult size = 27000 }
+	officers = { culture = glacial religion = dragon_cult size = 30 }
+	soldiers = { culture = glacial religion = dragon_cult size = 600 }
+}
+427 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 500 }
+	artisans = { culture = glacial religion = dragon_cult size = 2500 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 400 }
+	clergymen = { culture = glacial religion = dragon_cult size = 550 }
+	farmers = { culture = glacial religion = dragon_cult size = 45000 }
+	officers = { culture = glacial religion = dragon_cult size = 50 }
+	soldiers = { culture = glacial religion = dragon_cult size = 1000 }
+}
+428 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 700 }
+	artisans = { culture = glacial religion = dragon_cult size = 3500 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 560 }
+	clergymen = { culture = glacial religion = dragon_cult size = 770 }
+	farmers = { culture = glacial religion = dragon_cult size = 63000 }
+	officers = { culture = glacial religion = dragon_cult size = 70 }
+	soldiers = { culture = glacial religion = dragon_cult size = 1400 }
+}
+429 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 1000 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 5000 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 800 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 1600 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 90000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 100 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 2000 }
+}
+430 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 300 }
+	artisans = { culture = glacial religion = dragon_cult size = 1500 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 240 }
+	clergymen = { culture = glacial religion = dragon_cult size = 330 }
+	farmers = { culture = glacial religion = dragon_cult size = 27000 }
+	officers = { culture = glacial religion = dragon_cult size = 30 }
+	soldiers = { culture = glacial religion = dragon_cult size = 600 }
+}
+431 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 500 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 2500 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 400 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 800 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 45000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 50 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1000 }
+}
+432 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 1050 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 3500 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 560 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 770 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 63000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 70 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1400 }
+}
+433 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 750 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 2500 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 400 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 550 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 45000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 50 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1000 }
+}
+434 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 300 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 1500 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 240 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 480 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 27000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 30 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 600 }
+}
+435 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 500 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 2500 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 400 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 800 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 45000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 50 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1000 }
+}
+446 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 400 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 2000 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 320 }
+	capitalists = { culture = atmoran religion = nordic_pantheon size = 40 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 600 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 36000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 40 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 800 }
+}
+447 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 700 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 3500 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 560 }
+	capitalists = { culture = atmoran religion = nordic_pantheon size = 70 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 1050 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 63000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 70 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1400 }
+}
+448 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 500 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 2500 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 400 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 800 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 45000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 50 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1000 }
+}
+449 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 600 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 3000 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 480 }
+	capitalists = { culture = atmoran religion = nordic_pantheon size = 60 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 900 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 54000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 60 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1200 }
+}
+450 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 400 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 2000 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 320 }
+	capitalists = { culture = atmoran religion = nordic_pantheon size = 40 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 600 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 36000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 40 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 800 }
+}
+462 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 450 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 1500 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 240 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 330 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 27000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 30 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 600 }
+}
+463 = {
+	aristocrats = { culture = sea_giant religion = cult_of_ancestors size = 300 }
+	artisans = { culture = sea_giant religion = cult_of_ancestors size = 1500 }
+	bureaucrats = { culture = sea_giant religion = cult_of_ancestors size = 240 }
+	clergymen = { culture = sea_giant religion = cult_of_ancestors size = 330 }
+	farmers = { culture = sea_giant religion = cult_of_ancestors size = 27000 }
+	officers = { culture = sea_giant religion = cult_of_ancestors size = 30 }
+	soldiers = { culture = sea_giant religion = cult_of_ancestors size = 600 }
+}
+464 = {
+	aristocrats = { culture = sea_giant religion = cult_of_ancestors size = 600 }
+	artisans = { culture = sea_giant religion = cult_of_ancestors size = 3000 }
+	bureaucrats = { culture = sea_giant religion = cult_of_ancestors size = 480 }
+	clergymen = { culture = sea_giant religion = cult_of_ancestors size = 660 }
+	farmers = { culture = sea_giant religion = cult_of_ancestors size = 54000 }
+	officers = { culture = sea_giant religion = cult_of_ancestors size = 60 }
+	soldiers = { culture = sea_giant religion = cult_of_ancestors size = 1200 }
+}
+465 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 750 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 2500 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 400 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 550 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 45000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 50 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1000 }
+}
+476 = {
+	aristocrats = { culture = sea_giant religion = cult_of_ancestors size = 500 }
+	artisans = { culture = sea_giant religion = cult_of_ancestors size = 2500 }
+	bureaucrats = { culture = sea_giant religion = cult_of_ancestors size = 400 }
+	clergymen = { culture = sea_giant religion = cult_of_ancestors size = 550 }
+	farmers = { culture = sea_giant religion = cult_of_ancestors size = 45000 }
+	officers = { culture = sea_giant religion = cult_of_ancestors size = 50 }
+	soldiers = { culture = sea_giant religion = cult_of_ancestors size = 1000 }
+}
+477 = {
+	aristocrats = { culture = sea_giant religion = cult_of_ancestors size = 600 }
+	artisans = { culture = sea_giant religion = cult_of_ancestors size = 3000 }
+	bureaucrats = { culture = sea_giant religion = cult_of_ancestors size = 480 }
+	clergymen = { culture = sea_giant religion = cult_of_ancestors size = 660 }
+	farmers = { culture = sea_giant religion = cult_of_ancestors size = 54000 }
+	officers = { culture = sea_giant religion = cult_of_ancestors size = 60 }
+	soldiers = { culture = sea_giant religion = cult_of_ancestors size = 1200 }
+}
+478 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 450 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 1500 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 240 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 330 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 27000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 30 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 600 }
+}
+479 = {
+	aristocrats = { culture = sea_giant religion = cult_of_ancestors size = 700 }
+	artisans = { culture = sea_giant religion = cult_of_ancestors size = 3500 }
+	bureaucrats = { culture = sea_giant religion = cult_of_ancestors size = 560 }
+	clergymen = { culture = sea_giant religion = cult_of_ancestors size = 770 }
+	farmers = { culture = sea_giant religion = cult_of_ancestors size = 63000 }
+	officers = { culture = sea_giant religion = cult_of_ancestors size = 70 }
+	soldiers = { culture = sea_giant religion = cult_of_ancestors size = 1400 }
+}
+480 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 750 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 2500 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 400 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 550 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 45000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 50 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1000 }
+}
+481 = {
+	aristocrats = { culture = sea_giant religion = cult_of_ancestors size = 700 }
+	artisans = { culture = sea_giant religion = cult_of_ancestors size = 3500 }
+	bureaucrats = { culture = sea_giant religion = cult_of_ancestors size = 560 }
+	clergymen = { culture = sea_giant religion = cult_of_ancestors size = 770 }
+	farmers = { culture = sea_giant religion = cult_of_ancestors size = 63000 }
+	officers = { culture = sea_giant religion = cult_of_ancestors size = 70 }
+	soldiers = { culture = sea_giant religion = cult_of_ancestors size = 1400 }
+}
+482 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 600 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 2000 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 320 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 440 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 36000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 40 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 800 }
+}
+483 = {
+	aristocrats = { culture = sea_giant religion = cult_of_ancestors size = 500 }
+	artisans = { culture = sea_giant religion = cult_of_ancestors size = 2500 }
+	bureaucrats = { culture = sea_giant religion = cult_of_ancestors size = 400 }
+	clergymen = { culture = sea_giant religion = cult_of_ancestors size = 550 }
+	farmers = { culture = sea_giant religion = cult_of_ancestors size = 45000 }
+	officers = { culture = sea_giant religion = cult_of_ancestors size = 50 }
+	soldiers = { culture = sea_giant religion = cult_of_ancestors size = 1000 }
+}
+484 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 900 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 3000 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 480 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 660 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 54000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 60 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1200 }
+}
+485 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 750 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 2500 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 400 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 550 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 45000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 50 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1000 }
+}
+486 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 750 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 2500 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 400 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 550 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 45000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 50 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1000 }
+}
+487 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 600 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 2000 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 320 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 440 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 36000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 40 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 800 }
+}
+488 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 1050 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 3500 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 560 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 770 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 63000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 70 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 1400 }
+}
+489 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 600 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 2000 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 320 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 440 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 36000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 40 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 800 }
+}
+490 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 600 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 2000 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 320 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 440 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 36000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 40 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 800 }
+}
+8279 = {
+	aristocrats = { culture = atmoran religion = dragon_cult size = 450 }
+	artisans = { culture = atmoran religion = dragon_cult size = 1500 }
+	bureaucrats = { culture = atmoran religion = dragon_cult size = 240 }
+	clergymen = { culture = atmoran religion = dragon_cult size = 330 }
+	farmers = { culture = atmoran religion = dragon_cult size = 27000 }
+	officers = { culture = atmoran religion = dragon_cult size = 30 }
+	soldiers = { culture = atmoran religion = dragon_cult size = 600 }
+}
+8280 = {
+	aristocrats = { culture = atmoran religion = dragon_cult size = 500 }
+	artisans = { culture = atmoran religion = dragon_cult size = 2500 }
+	bureaucrats = { culture = atmoran religion = dragon_cult size = 400 }
+	clergymen = { culture = atmoran religion = dragon_cult size = 550 }
+	farmers = { culture = atmoran religion = dragon_cult size = 45000 }
+	officers = { culture = atmoran religion = dragon_cult size = 50 }
+	soldiers = { culture = atmoran religion = dragon_cult size = 1000 }
+}
+8281 = {
+	aristocrats = { culture = atmoran religion = dragon_cult size = 750 }
+	artisans = { culture = atmoran religion = dragon_cult size = 2500 }
+	bureaucrats = { culture = atmoran religion = dragon_cult size = 400 }
+	clergymen = { culture = atmoran religion = dragon_cult size = 550 }
+	farmers = { culture = atmoran religion = dragon_cult size = 45000 }
+	officers = { culture = atmoran religion = dragon_cult size = 50 }
+	soldiers = { culture = atmoran religion = dragon_cult size = 1000 }
+}
+8283 = {
+	aristocrats = { culture = atmoran religion = dragon_cult size = 900 }
+	artisans = { culture = atmoran religion = dragon_cult size = 3000 }
+	bureaucrats = { culture = atmoran religion = dragon_cult size = 480 }
+	clergymen = { culture = atmoran religion = dragon_cult size = 660 }
+	farmers = { culture = atmoran religion = dragon_cult size = 54000 }
+	officers = { culture = atmoran religion = dragon_cult size = 60 }
+	soldiers = { culture = atmoran religion = dragon_cult size = 1200 }
+}
+8284 = {
+	aristocrats = { culture = atmoran religion = dragon_cult size = 500 }
+	artisans = { culture = atmoran religion = dragon_cult size = 2500 }
+	bureaucrats = { culture = atmoran religion = dragon_cult size = 400 }
+	clergymen = { culture = atmoran religion = dragon_cult size = 550 }
+	farmers = { culture = atmoran religion = dragon_cult size = 45000 }
+	officers = { culture = atmoran religion = dragon_cult size = 50 }
+	soldiers = { culture = atmoran religion = dragon_cult size = 1000 }
+}
+8285 = {
+	aristocrats = { culture = atmoran religion = dragon_cult size = 600 }
+	artisans = { culture = atmoran religion = dragon_cult size = 2000 }
+	bureaucrats = { culture = atmoran religion = dragon_cult size = 320 }
+	clergymen = { culture = atmoran religion = dragon_cult size = 440 }
+	farmers = { culture = atmoran religion = dragon_cult size = 36000 }
+	officers = { culture = atmoran religion = dragon_cult size = 40 }
+	soldiers = { culture = atmoran religion = dragon_cult size = 800 }
+}
+8286 = {
+	aristocrats = { culture = atmoran religion = dragon_cult size = 450 }
+	artisans = { culture = atmoran religion = dragon_cult size = 1500 }
+	bureaucrats = { culture = atmoran religion = dragon_cult size = 240 }
+	clergymen = { culture = atmoran religion = dragon_cult size = 330 }
+	farmers = { culture = atmoran religion = dragon_cult size = 27000 }
+	officers = { culture = atmoran religion = dragon_cult size = 30 }
+	soldiers = { culture = atmoran religion = dragon_cult size = 600 }
+}
+8290 = {
+	aristocrats = { culture = sea_giant religion = cult_of_ancestors size = 500 }
+	artisans = { culture = sea_giant religion = cult_of_ancestors size = 2500 }
+	bureaucrats = { culture = sea_giant religion = cult_of_ancestors size = 400 }
+	clergymen = { culture = sea_giant religion = cult_of_ancestors size = 550 }
+	farmers = { culture = sea_giant religion = cult_of_ancestors size = 45000 }
+	officers = { culture = sea_giant religion = cult_of_ancestors size = 50 }
+	soldiers = { culture = sea_giant religion = cult_of_ancestors size = 1000 }
+}
+8291 = {
+	aristocrats = { culture = sea_giant religion = cult_of_ancestors size = 300 }
+	artisans = { culture = sea_giant religion = cult_of_ancestors size = 1500 }
+	bureaucrats = { culture = sea_giant religion = cult_of_ancestors size = 240 }
+	clergymen = { culture = sea_giant religion = cult_of_ancestors size = 330 }
+	farmers = { culture = sea_giant religion = cult_of_ancestors size = 27000 }
+	officers = { culture = sea_giant religion = cult_of_ancestors size = 30 }
+	soldiers = { culture = sea_giant religion = cult_of_ancestors size = 600 }
+}
+8292 = {
+	aristocrats = { culture = sea_giant religion = cult_of_ancestors size = 500 }
+	artisans = { culture = sea_giant religion = cult_of_ancestors size = 2500 }
+	bureaucrats = { culture = sea_giant religion = cult_of_ancestors size = 400 }
+	clergymen = { culture = sea_giant religion = cult_of_ancestors size = 550 }
+	farmers = { culture = sea_giant religion = cult_of_ancestors size = 45000 }
+	officers = { culture = sea_giant religion = cult_of_ancestors size = 50 }
+	soldiers = { culture = sea_giant religion = cult_of_ancestors size = 1000 }
+}
+8293 = {
+	aristocrats = { culture = sea_giant religion = cult_of_ancestors size = 400 }
+	artisans = { culture = sea_giant religion = cult_of_ancestors size = 2000 }
+	bureaucrats = { culture = sea_giant religion = cult_of_ancestors size = 320 }
+	clergymen = { culture = sea_giant religion = cult_of_ancestors size = 440 }
+	farmers = { culture = sea_giant religion = cult_of_ancestors size = 36000 }
+	officers = { culture = sea_giant religion = cult_of_ancestors size = 40 }
+	soldiers = { culture = sea_giant religion = cult_of_ancestors size = 800 }
+}
+8294 = {
+	aristocrats = { culture = sea_giant religion = cult_of_ancestors size = 700 }
+	artisans = { culture = sea_giant religion = cult_of_ancestors size = 3500 }
+	bureaucrats = { culture = sea_giant religion = cult_of_ancestors size = 560 }
+	clergymen = { culture = sea_giant religion = cult_of_ancestors size = 770 }
+	farmers = { culture = sea_giant religion = cult_of_ancestors size = 63000 }
+	officers = { culture = sea_giant religion = cult_of_ancestors size = 70 }
+	soldiers = { culture = sea_giant religion = cult_of_ancestors size = 1400 }
+}
+9602 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 500 }
+	artisans = { culture = glacial religion = dragon_cult size = 2500 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 400 }
+	clergymen = { culture = glacial religion = dragon_cult size = 550 }
+	farmers = { culture = glacial religion = dragon_cult size = 45000 }
+	officers = { culture = glacial religion = dragon_cult size = 50 }
+	soldiers = { culture = glacial religion = dragon_cult size = 1000 }
+}
+9603 = {
+	aristocrats = { culture = sea_giant religion = cult_of_ancestors size = 500 }
+	artisans = { culture = sea_giant religion = cult_of_ancestors size = 2500 }
+	bureaucrats = { culture = sea_giant religion = cult_of_ancestors size = 400 }
+	clergymen = { culture = sea_giant religion = cult_of_ancestors size = 550 }
+	farmers = { culture = sea_giant religion = cult_of_ancestors size = 45000 }
+	officers = { culture = sea_giant religion = cult_of_ancestors size = 50 }
+	soldiers = { culture = sea_giant religion = cult_of_ancestors size = 1000 }
+}
+9604 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 600 }
+	artisans = { culture = glacial religion = dragon_cult size = 3000 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 480 }
+	clergymen = { culture = glacial religion = dragon_cult size = 660 }
+	farmers = { culture = glacial religion = dragon_cult size = 54000 }
+	officers = { culture = glacial religion = dragon_cult size = 60 }
+	soldiers = { culture = glacial religion = dragon_cult size = 1200 }
+}
+9605 = {
+	aristocrats = { culture = glacial religion = dragon_cult size = 600 }
+	artisans = { culture = glacial religion = dragon_cult size = 3000 }
+	bureaucrats = { culture = glacial religion = dragon_cult size = 480 }
+	clergymen = { culture = glacial religion = dragon_cult size = 660 }
+	farmers = { culture = glacial religion = dragon_cult size = 54000 }
+	officers = { culture = glacial religion = dragon_cult size = 60 }
+	soldiers = { culture = glacial religion = dragon_cult size = 1200 }
+}
+9677 = {
+	aristocrats = { culture = sea_giant religion = cult_of_ancestors size = 400 }
+	artisans = { culture = sea_giant religion = cult_of_ancestors size = 2000 }
+	bureaucrats = { culture = sea_giant religion = cult_of_ancestors size = 120 }
+	clergymen = { culture = sea_giant religion = cult_of_ancestors size = 200 }
+	farmers = { culture = sea_giant religion = cult_of_ancestors size = 36000 }
+	officers = { culture = sea_giant religion = cult_of_ancestors size = 40 }
+	soldiers = { culture = sea_giant religion = cult_of_ancestors size = 1240 }
+}
+9678 = {
+	aristocrats = { culture = sea_giant religion = cult_of_ancestors size = 300 }
+	artisans = { culture = sea_giant religion = cult_of_ancestors size = 1500 }
+	bureaucrats = { culture = sea_giant religion = cult_of_ancestors size = 240 }
+	clergymen = { culture = sea_giant religion = cult_of_ancestors size = 330 }
+	farmers = { culture = sea_giant religion = cult_of_ancestors size = 27000 }
+	officers = { culture = sea_giant religion = cult_of_ancestors size = 30 }
+	soldiers = { culture = sea_giant religion = cult_of_ancestors size = 600 }
+}
+9679 = {
+	aristocrats = { culture = atmoran religion = nordic_pantheon size = 300 }
+	artisans = { culture = atmoran religion = nordic_pantheon size = 1500 }
+	bureaucrats = { culture = atmoran religion = nordic_pantheon size = 240 }
+	clergymen = { culture = atmoran religion = nordic_pantheon size = 330 }
+	farmers = { culture = atmoran religion = nordic_pantheon size = 27000 }
+	officers = { culture = atmoran religion = nordic_pantheon size = 30 }
+	soldiers = { culture = atmoran religion = nordic_pantheon size = 600 }
+}
+9680 = {
+	aristocrats = { culture = sea_giant religion = cult_of_ancestors size = 600 }
+	artisans = { culture = sea_giant religion = cult_of_ancestors size = 3000 }
+	bureaucrats = { culture = sea_giant religion = cult_of_ancestors size = 480 }
+	clergymen = { culture = sea_giant religion = cult_of_ancestors size = 660 }
+	farmers = { culture = sea_giant religion = cult_of_ancestors size = 54000 }
+	officers = { culture = sea_giant religion = cult_of_ancestors size = 60 }
+	soldiers = { culture = sea_giant religion = cult_of_ancestors size = 1200 }
+}
+9685 = {
+	aristocrats = { culture = sea_giant religion = cult_of_ancestors size = 600 }
+	artisans = { culture = sea_giant religion = cult_of_ancestors size = 3000 }
+	bureaucrats = { culture = sea_giant religion = cult_of_ancestors size = 480 }
+	clergymen = { culture = sea_giant religion = cult_of_ancestors size = 660 }
+	farmers = { culture = sea_giant religion = cult_of_ancestors size = 54000 }
+	officers = { culture = sea_giant religion = cult_of_ancestors size = 60 }
+	soldiers = { culture = sea_giant religion = cult_of_ancestors size = 1200 }
+}

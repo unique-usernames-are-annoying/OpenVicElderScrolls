@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = timber
+owner = IB5
+controller = IB5
+add_core = IB5

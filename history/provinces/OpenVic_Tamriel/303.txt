@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = tea
+owner = SB1
+controller = SB1
+add_core = SB1

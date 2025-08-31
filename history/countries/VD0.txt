@@ -1,0 +1,8 @@
+capital = 5611
+government = tribal
+religion = bosmer_pantheon
+primary_culture = bosmer
+nationalvalue = elven_tg
+literacy = 0
+non_state_culture_literacy = 0
+ruling_party = openvic_generic_reactionary

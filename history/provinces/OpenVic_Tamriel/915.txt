@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = timber
+owner = EB2
+controller = EB2
+add_core = EB2

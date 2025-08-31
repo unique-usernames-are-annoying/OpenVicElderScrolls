@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = timber
+owner = VB3
+controller = VB3
+add_core = VB3

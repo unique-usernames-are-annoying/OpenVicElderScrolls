@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = tobacco
+owner = CD6
+controller = CD6
+add_core = CD6

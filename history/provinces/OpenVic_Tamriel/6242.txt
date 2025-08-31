@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = tobacco
+owner = HG2
+controller = HG2
+add_core = HG2

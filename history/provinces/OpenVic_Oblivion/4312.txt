@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = grain
+owner = GA6
+controller = GA6
+add_core = GA6

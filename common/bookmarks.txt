@@ -1,0 +1,7 @@
+bookmark = {
+	name = "GC_NAME"
+	desc = "GC_DESC"
+	date = 1836.1.1
+	cameraX = 2304
+	cameraY = 1152
+}

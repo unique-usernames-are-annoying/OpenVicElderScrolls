@@ -1,0 +1,6 @@
+life_rating = 30
+trade_goods = precious_metal
+owner = NC7
+controller = NC7
+add_core = NC7
+add_core = NC8

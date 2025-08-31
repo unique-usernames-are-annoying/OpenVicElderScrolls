@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = cattle
+owner = MC4
+controller = MC4
+add_core = MC4

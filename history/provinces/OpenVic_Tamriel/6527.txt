@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = timber
+owner = AD4
+controller = AD4
+add_core = AD4

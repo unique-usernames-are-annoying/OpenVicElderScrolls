@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = dye
+owner = EC5
+controller = EC5
+add_core = EC5

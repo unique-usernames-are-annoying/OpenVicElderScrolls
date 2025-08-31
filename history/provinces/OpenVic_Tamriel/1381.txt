@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = tobacco
+owner = BE5
+controller = BE5
+add_core = BE5

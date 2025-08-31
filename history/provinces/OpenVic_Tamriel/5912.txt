@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = opium
+owner = CJ3
+controller = CJ3
+add_core = CJ3

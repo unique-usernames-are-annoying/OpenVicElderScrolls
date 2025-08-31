@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = cattle
+owner = AC3
+controller = AC3
+add_core = AC3

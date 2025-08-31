@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = cotton
+owner = AC9
+controller = AC9
+add_core = AC9

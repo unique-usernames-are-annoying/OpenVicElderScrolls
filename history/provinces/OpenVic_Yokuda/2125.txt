@@ -1,0 +1,6 @@
+life_rating = 30
+trade_goods = coffee
+owner = YC7
+controller = YC7
+add_core = YC7
+add_core = YA3

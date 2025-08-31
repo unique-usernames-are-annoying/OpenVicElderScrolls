@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = wool
+owner = NE2
+controller = NE2
+add_core = NE2

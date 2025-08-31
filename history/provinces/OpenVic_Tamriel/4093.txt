@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = fish
+owner = MA8
+controller = MA8
+add_core = MA8

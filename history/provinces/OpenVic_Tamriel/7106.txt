@@ -1,0 +1,6 @@
+life_rating = 30
+trade_goods = coffee
+owner = HF6
+controller = HF6
+add_core = HF6
+add_core = HB2

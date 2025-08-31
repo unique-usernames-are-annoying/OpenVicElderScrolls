@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = fish
+owner = VB1
+controller = VB1
+add_core = VB1

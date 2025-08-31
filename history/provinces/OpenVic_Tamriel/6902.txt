@@ -1,0 +1,6 @@
+life_rating = 30
+trade_goods = cattle
+owner = BD5
+controller = BD5
+add_core = BD5
+add_core = BA9

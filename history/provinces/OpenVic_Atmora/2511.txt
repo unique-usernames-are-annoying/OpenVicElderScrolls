@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = wool
+owner = DA4
+controller = DA4
+add_core = DA4

@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = cattle
+owner = HH5
+controller = HH5
+add_core = HH5

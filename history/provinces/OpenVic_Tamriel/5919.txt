@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = grain
+owner = CE9
+controller = CE9
+add_core = CE9

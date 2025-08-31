@@ -1,0 +1,6 @@
+life_rating = 30
+trade_goods = dye
+owner = ALG
+controller = ALG
+add_core = ALG
+add_core = CG9

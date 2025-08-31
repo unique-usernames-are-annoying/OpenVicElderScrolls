@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = cotton
+owner = AA4
+controller = AA4
+add_core = AA4

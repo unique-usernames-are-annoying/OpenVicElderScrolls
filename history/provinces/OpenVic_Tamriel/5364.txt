@@ -1,0 +1,6 @@
+life_rating = 30
+trade_goods = precious_metal
+owner = CC7
+controller = CC7
+add_core = CC7
+add_core = ED3

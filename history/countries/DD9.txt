@@ -1,0 +1,8 @@
+capital = 2206
+government = native
+religion = dragon_cult
+primary_culture = glacial
+nationalvalue = atmora_tg
+literacy = 0.2
+non_state_culture_literacy = 0.2
+ruling_party = openvic_generic_reactionary

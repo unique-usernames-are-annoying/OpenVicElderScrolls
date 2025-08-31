@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = grain
+owner = SAL
+controller = SAL
+add_core = SAL

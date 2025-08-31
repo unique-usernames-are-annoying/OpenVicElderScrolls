@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = fish
+owner = YA8
+controller = YA8
+add_core = YA8

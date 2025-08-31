@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = coffee
+owner = EC7
+controller = EC7
+add_core = EC7

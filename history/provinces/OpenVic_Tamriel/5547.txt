@@ -1,0 +1,6 @@
+life_rating = 30
+trade_goods = tea
+owner = CH5
+controller = CH5
+add_core = CH5
+add_core = CD9

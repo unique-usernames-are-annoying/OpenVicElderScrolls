@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = coal
+owner = MG4
+controller = MG4
+add_core = MG4

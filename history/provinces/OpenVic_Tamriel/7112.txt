@@ -1,0 +1,6 @@
+life_rating = 30
+trade_goods = tobacco
+owner = NA8
+controller = NA8
+add_core = NA8
+add_core = WIT

@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = coal
+owner = SB8
+controller = SB8
+add_core = SB8

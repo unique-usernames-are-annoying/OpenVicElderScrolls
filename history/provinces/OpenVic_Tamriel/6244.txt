@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = dye
+owner = HC4
+controller = HC4
+add_core = HC4

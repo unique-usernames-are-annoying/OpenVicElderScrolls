@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = cotton
+owner = MJ4
+controller = MJ4
+add_core = MJ4

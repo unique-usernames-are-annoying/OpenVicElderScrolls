@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = tea
+owner = DB8
+controller = DB8
+add_core = DB8

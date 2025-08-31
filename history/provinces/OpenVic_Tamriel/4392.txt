@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = cotton
+owner = EB8
+controller = EB8
+add_core = EB8

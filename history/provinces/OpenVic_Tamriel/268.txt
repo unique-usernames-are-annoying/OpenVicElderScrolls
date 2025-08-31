@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = tropical_wood
+owner = SA3
+controller = SA3
+add_core = SA3

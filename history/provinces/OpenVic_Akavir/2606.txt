@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = coal
+owner = UA7
+controller = UA7
+add_core = UA7

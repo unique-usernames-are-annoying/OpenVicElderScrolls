@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = coal
+owner = AF3
+controller = AF3
+add_core = AF3

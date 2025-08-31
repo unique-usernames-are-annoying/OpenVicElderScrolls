@@ -1,0 +1,94 @@
+graphical_culture = EuropeanGC
+color = { 106 150 205 }
+party = {
+	name = "openvic_generic_fascist"
+	start_date = 1905.1.1
+	end_date = 9999.1.1
+
+	ideology = fascist
+
+	trade_policy = protectionism
+	economic_policy = state_capitalism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+party = {
+	name = "openvic_generic_reactionary"
+	start_date = 1836.1.1
+	end_date = 9999.1.1
+
+	ideology = reactionary
+
+	trade_policy = protectionism
+	economic_policy = state_capitalism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+party = {
+	name = "openvic_generic_conservative"
+	start_date = 1836.1.1
+	end_date = 9999.1.1
+
+	ideology = conservative
+
+	trade_policy = protectionism
+	economic_policy = interventionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+party = {
+	name = "openvic_generic_socialist"
+	start_date = 1848.1.1
+	end_date = 9999.1.1
+
+	ideology = socialist
+
+	trade_policy = free_trade
+	economic_policy = planned_economy
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = "openvic_generic_communist"
+	start_date = 1848.1.1
+	end_date = 9999.1.1
+
+	ideology = communist
+
+	trade_policy = protectionism
+	economic_policy = planned_economy
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = "openvic_generic_liberal"
+	start_date = 1836.1.1
+	end_date = 9999.1.1
+
+	ideology = liberal
+
+	trade_policy = free_trade
+	economic_policy = laissez_faire
+	religious_policy = pluralism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = "openvic_generic_anarcho_liberal"
+	start_date = 1836.1.1
+	end_date = 9999.1.1
+
+	ideology = anarcho_liberal
+
+	trade_policy = free_trade
+	economic_policy = laissez_faire
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+unit_names = { }

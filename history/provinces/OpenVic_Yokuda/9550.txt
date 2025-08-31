@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = cattle
+owner = YA2
+controller = YA2
+add_core = YA2

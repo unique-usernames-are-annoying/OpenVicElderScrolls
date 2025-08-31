@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = timber
+owner = NG1
+controller = NG1
+add_core = NG1

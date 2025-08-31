@@ -1,0 +1,6 @@
+life_rating = 30
+trade_goods = tea
+owner = BF2
+controller = BF2
+add_core = BF2
+add_core = BA1

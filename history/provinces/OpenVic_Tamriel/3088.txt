@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = sulphur
+owner = VOL
+controller = VOL
+add_core = VOL

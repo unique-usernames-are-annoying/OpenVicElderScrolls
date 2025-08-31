@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = dye
+owner = SB6
+controller = SB6
+add_core = SB6

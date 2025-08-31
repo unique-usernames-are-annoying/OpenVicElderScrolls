@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = grain
+owner = UA5
+controller = UA5
+add_core = UA5

@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = tropical_wood
+owner = NE9
+controller = NE9
+add_core = NE9

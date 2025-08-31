@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = wool
+owner = YD0
+controller = YD0
+add_core = YD0

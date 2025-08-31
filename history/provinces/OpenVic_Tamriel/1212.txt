@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = tobacco
+owner = CG3
+controller = CG3
+add_core = CG3

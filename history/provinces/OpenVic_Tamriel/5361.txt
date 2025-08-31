@@ -1,0 +1,6 @@
+life_rating = 30
+trade_goods = iron
+owner = CE0
+controller = CE0
+add_core = CE0
+add_core = CG2

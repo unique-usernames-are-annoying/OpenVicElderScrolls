@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = coffee
+owner = NF7
+controller = NF7
+add_core = NF7

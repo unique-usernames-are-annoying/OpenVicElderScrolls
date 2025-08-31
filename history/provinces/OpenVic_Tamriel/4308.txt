@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = cattle
+owner = MJ7
+controller = MJ7
+add_core = MJ7

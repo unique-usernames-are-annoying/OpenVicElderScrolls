@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = fruit
+owner = BC5
+controller = BC5
+add_core = BC5

@@ -1,0 +1,8 @@
+capital = 1179
+government = tribal
+religion = nedic_pantheon
+primary_culture = minotaur
+nationalvalue = cyrodiil_tg
+literacy = 0
+non_state_culture_literacy = 0
+ruling_party = openvic_generic_reactionary

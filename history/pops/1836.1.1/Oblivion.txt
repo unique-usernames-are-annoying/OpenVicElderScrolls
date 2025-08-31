@@ -1,0 +1,2102 @@
+2701 = {
+	aristocrats = { culture = dremoran religion = molag_bal_cult size = 1500 }
+	artisans = { culture = dremoran religion = molag_bal_cult size = 7500 }
+	bureaucrats = { culture = dremoran religion = molag_bal_cult size = 1200 }
+	capitalists = { culture = dremoran religion = molag_bal_cult size = 150 }
+	clergymen = { culture = dremoran religion = molag_bal_cult size = 2250 }
+	farmers = { culture = dremoran religion = molag_bal_cult size = 135000 }
+	officers = { culture = dremoran religion = molag_bal_cult size = 150 }
+	soldiers = { culture = dremoran religion = molag_bal_cult size = 3000 }
+}
+2702 = {
+	aristocrats = { culture = dremoran religion = molag_bal_cult size = 500 }
+	artisans = { culture = dremoran religion = molag_bal_cult size = 2500 }
+	bureaucrats = { culture = dremoran religion = molag_bal_cult size = 400 }
+	capitalists = { culture = dremoran religion = molag_bal_cult size = 50 }
+	clergymen = { culture = dremoran religion = molag_bal_cult size = 750 }
+	farmers = { culture = dremoran religion = molag_bal_cult size = 45000 }
+	officers = { culture = dremoran religion = molag_bal_cult size = 50 }
+	soldiers = { culture = dremoran religion = molag_bal_cult size = 1000 }
+}
+2703 = {
+	aristocrats = { culture = harvester religion = molag_bal_cult size = 700 }
+	artisans = { culture = harvester religion = molag_bal_cult size = 3500 }
+	bureaucrats = { culture = harvester religion = molag_bal_cult size = 70 }
+	clergymen = { culture = harvester religion = molag_bal_cult size = 350 }
+	farmers = { culture = harvester religion = molag_bal_cult size = 63000 }
+	officers = { culture = harvester religion = molag_bal_cult size = 70 }
+	soldiers = { culture = harvester religion = molag_bal_cult size = 2310 }
+}
+2704 = {
+	aristocrats = { culture = harvester religion = molag_bal_cult size = 500 }
+	artisans = { culture = harvester religion = molag_bal_cult size = 2500 }
+	bureaucrats = { culture = harvester religion = molag_bal_cult size = 50 }
+	clergymen = { culture = harvester religion = molag_bal_cult size = 250 }
+	farmers = { culture = harvester religion = molag_bal_cult size = 45000 }
+	officers = { culture = harvester religion = molag_bal_cult size = 50 }
+	soldiers = { culture = harvester religion = molag_bal_cult size = 1650 }
+}
+2705 = {
+	aristocrats = { culture = dremoran religion = molag_bal_cult size = 1000 }
+	artisans = { culture = dremoran religion = molag_bal_cult size = 5000 }
+	bureaucrats = { culture = dremoran religion = molag_bal_cult size = 800 }
+	clergymen = { culture = dremoran religion = molag_bal_cult size = 1100 }
+	farmers = { culture = dremoran religion = molag_bal_cult size = 90000 }
+	officers = { culture = dremoran religion = molag_bal_cult size = 100 }
+	soldiers = { culture = dremoran religion = molag_bal_cult size = 2000 }
+}
+2706 = {
+	aristocrats = { culture = harvester religion = molag_bal_cult size = 500 }
+	artisans = { culture = harvester religion = molag_bal_cult size = 2500 }
+	bureaucrats = { culture = harvester religion = molag_bal_cult size = 50 }
+	clergymen = { culture = harvester religion = molag_bal_cult size = 250 }
+	farmers = { culture = harvester religion = molag_bal_cult size = 45000 }
+	officers = { culture = harvester religion = molag_bal_cult size = 50 }
+	soldiers = { culture = harvester religion = molag_bal_cult size = 1650 }
+}
+2707 = {
+	aristocrats = { culture = harvester religion = molag_bal_cult size = 800 }
+	artisans = { culture = harvester religion = molag_bal_cult size = 4000 }
+	bureaucrats = { culture = harvester religion = molag_bal_cult size = 80 }
+	clergymen = { culture = harvester religion = molag_bal_cult size = 400 }
+	farmers = { culture = harvester religion = molag_bal_cult size = 72000 }
+	officers = { culture = harvester religion = molag_bal_cult size = 80 }
+	soldiers = { culture = harvester religion = molag_bal_cult size = 2640 }
+}
+2708 = {
+	aristocrats = { culture = dremoran religion = molag_bal_cult size = 500 }
+	artisans = { culture = dremoran religion = molag_bal_cult size = 2500 }
+	bureaucrats = { culture = dremoran religion = molag_bal_cult size = 400 }
+	capitalists = { culture = dremoran religion = molag_bal_cult size = 50 }
+	clergymen = { culture = dremoran religion = molag_bal_cult size = 750 }
+	farmers = { culture = dremoran religion = molag_bal_cult size = 45000 }
+	officers = { culture = dremoran religion = molag_bal_cult size = 50 }
+	soldiers = { culture = dremoran religion = molag_bal_cult size = 1000 }
+}
+2709 = {
+	aristocrats = { culture = dremoran religion = molag_bal_cult size = 1200 }
+	artisans = { culture = dremoran religion = molag_bal_cult size = 6000 }
+	bureaucrats = { culture = dremoran religion = molag_bal_cult size = 960 }
+	capitalists = { culture = dremoran religion = molag_bal_cult size = 120 }
+	clergymen = { culture = dremoran religion = molag_bal_cult size = 1800 }
+	farmers = { culture = dremoran religion = molag_bal_cult size = 108000 }
+	officers = { culture = dremoran religion = molag_bal_cult size = 120 }
+	soldiers = { culture = dremoran religion = molag_bal_cult size = 2400 }
+}
+2710 = {
+	aristocrats = { culture = soul_shriven religion = meridia_cult size = 2500 }
+	artisans = { culture = soul_shriven religion = meridia_cult size = 12500 }
+	bureaucrats = { culture = soul_shriven religion = meridia_cult size = 2000 }
+	capitalists = { culture = soul_shriven religion = meridia_cult size = 250 }
+	clergymen = { culture = soul_shriven religion = meridia_cult size = 3750 }
+	farmers = { culture = soul_shriven religion = meridia_cult size = 225000 }
+	officers = { culture = soul_shriven religion = meridia_cult size = 250 }
+	soldiers = { culture = soul_shriven religion = meridia_cult size = 5000 }
+}
+2721 = {
+	aristocrats = { culture = harvester religion = molag_bal_cult size = 700 }
+	artisans = { culture = harvester religion = molag_bal_cult size = 3500 }
+	bureaucrats = { culture = harvester religion = molag_bal_cult size = 70 }
+	clergymen = { culture = harvester religion = molag_bal_cult size = 350 }
+	farmers = { culture = harvester religion = molag_bal_cult size = 63000 }
+	officers = { culture = harvester religion = molag_bal_cult size = 70 }
+	soldiers = { culture = harvester religion = molag_bal_cult size = 2310 }
+}
+2722 = {
+	aristocrats = { culture = dremoran religion = molag_bal_cult size = 1300 }
+	artisans = { culture = dremoran religion = molag_bal_cult size = 6500 }
+	bureaucrats = { culture = dremoran religion = molag_bal_cult size = 1040 }
+	capitalists = { culture = dremoran religion = molag_bal_cult size = 130 }
+	clergymen = { culture = dremoran religion = molag_bal_cult size = 1950 }
+	farmers = { culture = dremoran religion = molag_bal_cult size = 117000 }
+	officers = { culture = dremoran religion = molag_bal_cult size = 130 }
+	soldiers = { culture = dremoran religion = molag_bal_cult size = 2600 }
+}
+2723 = {
+	aristocrats = { culture = dremoran religion = molag_bal_cult size = 600 }
+	artisans = { culture = dremoran religion = molag_bal_cult size = 3000 }
+	bureaucrats = { culture = dremoran religion = molag_bal_cult size = 480 }
+	capitalists = { culture = dremoran religion = molag_bal_cult size = 60 }
+	clergymen = { culture = dremoran religion = molag_bal_cult size = 900 }
+	farmers = { culture = dremoran religion = molag_bal_cult size = 54000 }
+	officers = { culture = dremoran religion = molag_bal_cult size = 60 }
+	soldiers = { culture = dremoran religion = molag_bal_cult size = 1200 }
+}
+2724 = {
+	aristocrats = { culture = soul_shriven religion = molag_bal_cult size = 600 }
+	artisans = { culture = soul_shriven religion = molag_bal_cult size = 3000 }
+	bureaucrats = { culture = soul_shriven religion = molag_bal_cult size = 60 }
+	clergymen = { culture = soul_shriven religion = molag_bal_cult size = 300 }
+	farmers = { culture = soul_shriven religion = molag_bal_cult size = 54000 }
+	officers = { culture = soul_shriven religion = molag_bal_cult size = 60 }
+	soldiers = { culture = soul_shriven religion = molag_bal_cult size = 1980 }
+}
+2725 = {
+	aristocrats = { culture = soul_shriven religion = molag_bal_cult size = 500 }
+	artisans = { culture = soul_shriven religion = molag_bal_cult size = 2500 }
+	bureaucrats = { culture = soul_shriven religion = molag_bal_cult size = 50 }
+	clergymen = { culture = soul_shriven religion = molag_bal_cult size = 250 }
+	farmers = { culture = soul_shriven religion = molag_bal_cult size = 45000 }
+	officers = { culture = soul_shriven religion = molag_bal_cult size = 50 }
+	soldiers = { culture = soul_shriven religion = molag_bal_cult size = 1650 }
+}
+2726 = {
+	aristocrats = { culture = soul_shriven religion = molag_bal_cult size = 900 }
+	artisans = { culture = soul_shriven religion = molag_bal_cult size = 4500 }
+	bureaucrats = { culture = soul_shriven religion = molag_bal_cult size = 90 }
+	clergymen = { culture = soul_shriven religion = molag_bal_cult size = 450 }
+	farmers = { culture = soul_shriven religion = molag_bal_cult size = 81000 }
+	officers = { culture = soul_shriven religion = molag_bal_cult size = 90 }
+	soldiers = { culture = soul_shriven religion = molag_bal_cult size = 2970 }
+}
+2727 = {
+	aristocrats = { culture = dremoran religion = molag_bal_cult size = 750 }
+	artisans = { culture = dremoran religion = molag_bal_cult size = 2500 }
+	bureaucrats = { culture = dremoran religion = molag_bal_cult size = 400 }
+	clergymen = { culture = dremoran religion = molag_bal_cult size = 550 }
+	farmers = { culture = dremoran religion = molag_bal_cult size = 45000 }
+	officers = { culture = dremoran religion = molag_bal_cult size = 50 }
+	soldiers = { culture = dremoran religion = molag_bal_cult size = 1000 }
+}
+2728 = {
+	aristocrats = { culture = scamp religion = mehrunes_dagon_cult size = 500 }
+	artisans = { culture = scamp religion = mehrunes_dagon_cult size = 2500 }
+	bureaucrats = { culture = scamp religion = mehrunes_dagon_cult size = 50 }
+	clergymen = { culture = scamp religion = mehrunes_dagon_cult size = 250 }
+	farmers = { culture = scamp religion = mehrunes_dagon_cult size = 45000 }
+	officers = { culture = scamp religion = mehrunes_dagon_cult size = 50 }
+	soldiers = { culture = scamp religion = mehrunes_dagon_cult size = 1650 }
+}
+2729 = {
+	aristocrats = { culture = scamp religion = mehrunes_dagon_cult size = 300 }
+	artisans = { culture = scamp religion = mehrunes_dagon_cult size = 1500 }
+	bureaucrats = { culture = scamp religion = mehrunes_dagon_cult size = 30 }
+	clergymen = { culture = scamp religion = mehrunes_dagon_cult size = 150 }
+	farmers = { culture = scamp religion = mehrunes_dagon_cult size = 27000 }
+	officers = { culture = scamp religion = mehrunes_dagon_cult size = 30 }
+	soldiers = { culture = scamp religion = mehrunes_dagon_cult size = 990 }
+}
+2730 = {
+	aristocrats = { culture = scamp religion = mehrunes_dagon_cult size = 300 }
+	artisans = { culture = scamp religion = mehrunes_dagon_cult size = 1500 }
+	bureaucrats = { culture = scamp religion = mehrunes_dagon_cult size = 30 }
+	clergymen = { culture = scamp religion = mehrunes_dagon_cult size = 150 }
+	farmers = { culture = scamp religion = mehrunes_dagon_cult size = 27000 }
+	officers = { culture = scamp religion = mehrunes_dagon_cult size = 30 }
+	soldiers = { culture = scamp religion = mehrunes_dagon_cult size = 990 }
+}
+2741 = {
+	aristocrats = { culture = lamian religion = molag_bal_cult size = 800 }
+	artisans = { culture = lamian religion = molag_bal_cult size = 4000 }
+	bureaucrats = { culture = lamian religion = molag_bal_cult size = 80 }
+	clergymen = { culture = lamian religion = molag_bal_cult size = 400 }
+	farmers = { culture = lamian religion = molag_bal_cult size = 72000 }
+	officers = { culture = lamian religion = molag_bal_cult size = 80 }
+	soldiers = { culture = lamian religion = molag_bal_cult size = 2640 }
+}
+2742 = {
+	aristocrats = { culture = soul_shriven religion = molag_bal_cult size = 300 }
+	artisans = { culture = soul_shriven religion = molag_bal_cult size = 1500 }
+	bureaucrats = { culture = soul_shriven religion = molag_bal_cult size = 240 }
+	clergymen = { culture = soul_shriven religion = molag_bal_cult size = 480 }
+	farmers = { culture = soul_shriven religion = molag_bal_cult size = 27000 }
+	officers = { culture = soul_shriven religion = molag_bal_cult size = 30 }
+	soldiers = { culture = soul_shriven religion = molag_bal_cult size = 600 }
+}
+2743 = {
+	aristocrats = { culture = lamian religion = molag_bal_cult size = 600 }
+	artisans = { culture = lamian religion = molag_bal_cult size = 3000 }
+	bureaucrats = { culture = lamian religion = molag_bal_cult size = 60 }
+	clergymen = { culture = lamian religion = molag_bal_cult size = 300 }
+	farmers = { culture = lamian religion = molag_bal_cult size = 54000 }
+	officers = { culture = lamian religion = molag_bal_cult size = 60 }
+	soldiers = { culture = lamian religion = molag_bal_cult size = 1980 }
+}
+2744 = {
+	aristocrats = { culture = soul_shriven religion = molag_bal_cult size = 600 }
+	artisans = { culture = soul_shriven religion = molag_bal_cult size = 3000 }
+	bureaucrats = { culture = soul_shriven religion = molag_bal_cult size = 480 }
+	clergymen = { culture = soul_shriven religion = molag_bal_cult size = 960 }
+	farmers = { culture = soul_shriven religion = molag_bal_cult size = 54000 }
+	officers = { culture = soul_shriven religion = molag_bal_cult size = 60 }
+	soldiers = { culture = soul_shriven religion = molag_bal_cult size = 1200 }
+}
+2745 = {
+	aristocrats = { culture = dremoran religion = molag_bal_cult size = 3300 }
+	artisans = { culture = dremoran religion = molag_bal_cult size = 11000 }
+	bureaucrats = { culture = dremoran religion = molag_bal_cult size = 1760 }
+	clergymen = { culture = dremoran religion = molag_bal_cult size = 2420 }
+	farmers = { culture = dremoran religion = molag_bal_cult size = 198000 }
+	officers = { culture = dremoran religion = molag_bal_cult size = 220 }
+	soldiers = { culture = dremoran religion = molag_bal_cult size = 4400 }
+}
+2746 = {
+	aristocrats = { culture = dremoran religion = molag_bal_cult size = 600 }
+	artisans = { culture = dremoran religion = molag_bal_cult size = 3000 }
+	bureaucrats = { culture = dremoran religion = molag_bal_cult size = 480 }
+	clergymen = { culture = dremoran religion = molag_bal_cult size = 960 }
+	farmers = { culture = dremoran religion = molag_bal_cult size = 54000 }
+	officers = { culture = dremoran religion = molag_bal_cult size = 60 }
+	soldiers = { culture = dremoran religion = molag_bal_cult size = 1200 }
+}
+2747 = {
+	aristocrats = { culture = lamian religion = molag_bal_cult size = 500 }
+	artisans = { culture = lamian religion = molag_bal_cult size = 2500 }
+	bureaucrats = { culture = lamian religion = molag_bal_cult size = 50 }
+	clergymen = { culture = lamian religion = molag_bal_cult size = 250 }
+	farmers = { culture = lamian religion = molag_bal_cult size = 45000 }
+	officers = { culture = lamian religion = molag_bal_cult size = 50 }
+	soldiers = { culture = lamian religion = molag_bal_cult size = 1650 }
+}
+2748 = {
+	aristocrats = { culture = soul_shriven religion = molag_bal_cult size = 900 }
+	artisans = { culture = soul_shriven religion = molag_bal_cult size = 3000 }
+	bureaucrats = { culture = soul_shriven religion = molag_bal_cult size = 480 }
+	clergymen = { culture = soul_shriven religion = molag_bal_cult size = 660 }
+	farmers = { culture = soul_shriven religion = molag_bal_cult size = 54000 }
+	officers = { culture = soul_shriven religion = molag_bal_cult size = 60 }
+	soldiers = { culture = soul_shriven religion = molag_bal_cult size = 1200 }
+}
+2749 = {
+	aristocrats = { culture = soul_shriven religion = molag_bal_cult size = 600 }
+	artisans = { culture = soul_shriven religion = molag_bal_cult size = 2000 }
+	bureaucrats = { culture = soul_shriven religion = molag_bal_cult size = 320 }
+	clergymen = { culture = soul_shriven religion = molag_bal_cult size = 440 }
+	farmers = { culture = soul_shriven religion = molag_bal_cult size = 36000 }
+	officers = { culture = soul_shriven religion = molag_bal_cult size = 40 }
+	soldiers = { culture = soul_shriven religion = molag_bal_cult size = 800 }
+}
+2750 = {
+	aristocrats = { culture = soul_shriven religion = molag_bal_cult size = 600 }
+	artisans = { culture = soul_shriven religion = molag_bal_cult size = 3000 }
+	bureaucrats = { culture = soul_shriven religion = molag_bal_cult size = 480 }
+	clergymen = { culture = soul_shriven religion = molag_bal_cult size = 960 }
+	farmers = { culture = soul_shriven religion = molag_bal_cult size = 54000 }
+	officers = { culture = soul_shriven religion = molag_bal_cult size = 60 }
+	soldiers = { culture = soul_shriven religion = molag_bal_cult size = 1200 }
+}
+2751 = {
+	aristocrats = { culture = soul_shriven religion = molag_bal_cult size = 750 }
+	artisans = { culture = soul_shriven religion = molag_bal_cult size = 2500 }
+	bureaucrats = { culture = soul_shriven religion = molag_bal_cult size = 400 }
+	clergymen = { culture = soul_shriven religion = molag_bal_cult size = 550 }
+	farmers = { culture = soul_shriven religion = molag_bal_cult size = 45000 }
+	officers = { culture = soul_shriven religion = molag_bal_cult size = 50 }
+	soldiers = { culture = soul_shriven religion = molag_bal_cult size = 1000 }
+}
+2752 = {
+	aristocrats = { culture = lamian religion = molag_bal_cult size = 900 }
+	artisans = { culture = lamian religion = molag_bal_cult size = 4500 }
+	bureaucrats = { culture = lamian religion = molag_bal_cult size = 90 }
+	clergymen = { culture = lamian religion = molag_bal_cult size = 450 }
+	farmers = { culture = lamian religion = molag_bal_cult size = 81000 }
+	officers = { culture = lamian religion = molag_bal_cult size = 90 }
+	soldiers = { culture = lamian religion = molag_bal_cult size = 2970 }
+}
+2753 = {
+	aristocrats = { culture = argonian religion = hist size = 600 }
+	artisans = { culture = argonian religion = hist size = 3000 }
+	bureaucrats = { culture = argonian religion = hist size = 60 }
+	clergymen = { culture = argonian religion = hist size = 300 }
+	farmers = { culture = argonian religion = hist size = 54000 }
+	officers = { culture = argonian religion = hist size = 60 }
+	soldiers = { culture = argonian religion = hist size = 1980 }
+}
+2754 = {
+	aristocrats = { culture = soul_shriven religion = molag_bal_cult size = 300 }
+	artisans = { culture = soul_shriven religion = molag_bal_cult size = 1500 }
+	bureaucrats = { culture = soul_shriven religion = molag_bal_cult size = 240 }
+	clergymen = { culture = soul_shriven religion = molag_bal_cult size = 480 }
+	farmers = { culture = soul_shriven religion = molag_bal_cult size = 27000 }
+	officers = { culture = soul_shriven religion = molag_bal_cult size = 30 }
+	soldiers = { culture = soul_shriven religion = molag_bal_cult size = 600 }
+}
+2755 = {
+	aristocrats = { culture = argonian religion = hist size = 2000 }
+	artisans = { culture = argonian religion = hist size = 10000 }
+	bureaucrats = { culture = argonian religion = hist size = 200 }
+	clergymen = { culture = argonian religion = hist size = 1000 }
+	farmers = { culture = argonian religion = hist size = 180000 }
+	officers = { culture = argonian religion = hist size = 200 }
+	soldiers = { culture = argonian religion = hist size = 6600 }
+}
+2756 = {
+	aristocrats = { culture = vampire religion = molag_bal_cult size = 900 }
+	artisans = { culture = vampire religion = molag_bal_cult size = 3000 }
+	bureaucrats = { culture = vampire religion = molag_bal_cult size = 480 }
+	clergymen = { culture = vampire religion = molag_bal_cult size = 660 }
+	farmers = { culture = vampire religion = molag_bal_cult size = 54000 }
+	officers = { culture = vampire religion = molag_bal_cult size = 60 }
+	soldiers = { culture = vampire religion = molag_bal_cult size = 1200 }
+}
+2757 = {
+	aristocrats = { culture = soul_shriven religion = molag_bal_cult size = 500 }
+	artisans = { culture = soul_shriven religion = molag_bal_cult size = 2500 }
+	bureaucrats = { culture = soul_shriven religion = molag_bal_cult size = 50 }
+	clergymen = { culture = soul_shriven religion = molag_bal_cult size = 250 }
+	farmers = { culture = soul_shriven religion = molag_bal_cult size = 45000 }
+	officers = { culture = soul_shriven religion = molag_bal_cult size = 50 }
+	soldiers = { culture = soul_shriven religion = molag_bal_cult size = 1650 }
+}
+2758 = {
+	aristocrats = { culture = harvester religion = molag_bal_cult size = 750 }
+	artisans = { culture = harvester religion = molag_bal_cult size = 2500 }
+	bureaucrats = { culture = harvester religion = molag_bal_cult size = 400 }
+	clergymen = { culture = harvester religion = molag_bal_cult size = 550 }
+	farmers = { culture = harvester religion = molag_bal_cult size = 45000 }
+	officers = { culture = harvester religion = molag_bal_cult size = 50 }
+	soldiers = { culture = harvester religion = molag_bal_cult size = 1000 }
+}
+2759 = {
+	aristocrats = { culture = vampire religion = molag_bal_cult size = 750 }
+	artisans = { culture = vampire religion = molag_bal_cult size = 2500 }
+	bureaucrats = { culture = vampire religion = molag_bal_cult size = 400 }
+	clergymen = { culture = vampire religion = molag_bal_cult size = 550 }
+	farmers = { culture = vampire religion = molag_bal_cult size = 45000 }
+	officers = { culture = vampire religion = molag_bal_cult size = 50 }
+	soldiers = { culture = vampire religion = molag_bal_cult size = 1000 }
+}
+2760 = {
+	aristocrats = { culture = argonian religion = hist size = 400 }
+	artisans = { culture = argonian religion = hist size = 2000 }
+	bureaucrats = { culture = argonian religion = hist size = 320 }
+	clergymen = { culture = argonian religion = hist size = 640 }
+	farmers = { culture = argonian religion = hist size = 36000 }
+	officers = { culture = argonian religion = hist size = 40 }
+	soldiers = { culture = argonian religion = hist size = 800 }
+}
+2771 = {
+	aristocrats = { culture = scamp religion = mehrunes_dagon_cult size = 400 }
+	artisans = { culture = scamp religion = mehrunes_dagon_cult size = 2000 }
+	bureaucrats = { culture = scamp religion = mehrunes_dagon_cult size = 320 }
+	clergymen = { culture = scamp religion = mehrunes_dagon_cult size = 440 }
+	farmers = { culture = scamp religion = mehrunes_dagon_cult size = 36000 }
+	officers = { culture = scamp religion = mehrunes_dagon_cult size = 40 }
+	soldiers = { culture = scamp religion = mehrunes_dagon_cult size = 800 }
+}
+2772 = {
+	aristocrats = { culture = dremoran religion = molag_bal_cult size = 1400 }
+	artisans = { culture = dremoran religion = molag_bal_cult size = 7000 }
+	bureaucrats = { culture = dremoran religion = molag_bal_cult size = 1120 }
+	clergymen = { culture = dremoran religion = molag_bal_cult size = 1540 }
+	farmers = { culture = dremoran religion = molag_bal_cult size = 126000 }
+	officers = { culture = dremoran religion = molag_bal_cult size = 140 }
+	soldiers = { culture = dremoran religion = molag_bal_cult size = 2800 }
+}
+2773 = {
+	aristocrats = { culture = dremoran religion = molag_bal_cult size = 2700 }
+	artisans = { culture = dremoran religion = molag_bal_cult size = 9000 }
+	bureaucrats = { culture = dremoran religion = molag_bal_cult size = 1440 }
+	clergymen = { culture = dremoran religion = molag_bal_cult size = 1980 }
+	farmers = { culture = dremoran religion = molag_bal_cult size = 162000 }
+	officers = { culture = dremoran religion = molag_bal_cult size = 180 }
+	soldiers = { culture = dremoran religion = molag_bal_cult size = 3600 }
+}
+2774 = {
+	aristocrats = { culture = scamp religion = mehrunes_dagon_cult size = 700 }
+	artisans = { culture = scamp religion = mehrunes_dagon_cult size = 3500 }
+	bureaucrats = { culture = scamp religion = mehrunes_dagon_cult size = 560 }
+	clergymen = { culture = scamp religion = mehrunes_dagon_cult size = 770 }
+	farmers = { culture = scamp religion = mehrunes_dagon_cult size = 63000 }
+	officers = { culture = scamp religion = mehrunes_dagon_cult size = 70 }
+	soldiers = { culture = scamp religion = mehrunes_dagon_cult size = 1400 }
+}
+2775 = {
+	aristocrats = { culture = soul_shriven religion = meridia_cult size = 900 }
+	artisans = { culture = soul_shriven religion = meridia_cult size = 4500 }
+	bureaucrats = { culture = soul_shriven religion = meridia_cult size = 720 }
+	capitalists = { culture = soul_shriven religion = meridia_cult size = 90 }
+	clergymen = { culture = soul_shriven religion = meridia_cult size = 1350 }
+	farmers = { culture = soul_shriven religion = meridia_cult size = 81000 }
+	officers = { culture = soul_shriven religion = meridia_cult size = 90 }
+	soldiers = { culture = soul_shriven religion = meridia_cult size = 1800 }
+}
+2776 = {
+	aristocrats = { culture = harvester religion = molag_bal_cult size = 1200 }
+	artisans = { culture = harvester religion = molag_bal_cult size = 4000 }
+	bureaucrats = { culture = harvester religion = molag_bal_cult size = 640 }
+	clergymen = { culture = harvester religion = molag_bal_cult size = 880 }
+	farmers = { culture = harvester religion = molag_bal_cult size = 72000 }
+	officers = { culture = harvester religion = molag_bal_cult size = 80 }
+	soldiers = { culture = harvester religion = molag_bal_cult size = 1600 }
+}
+2777 = {
+	aristocrats = { culture = dremoran religion = molag_bal_cult size = 450 }
+	artisans = { culture = dremoran religion = molag_bal_cult size = 1500 }
+	bureaucrats = { culture = dremoran religion = molag_bal_cult size = 240 }
+	clergymen = { culture = dremoran religion = molag_bal_cult size = 330 }
+	farmers = { culture = dremoran religion = molag_bal_cult size = 27000 }
+	officers = { culture = dremoran religion = molag_bal_cult size = 30 }
+	soldiers = { culture = dremoran religion = molag_bal_cult size = 600 }
+}
+2778 = {
+	aristocrats = { culture = dremoran religion = molag_bal_cult size = 1500 }
+	artisans = { culture = dremoran religion = molag_bal_cult size = 5000 }
+	bureaucrats = { culture = dremoran religion = molag_bal_cult size = 800 }
+	clergymen = { culture = dremoran religion = molag_bal_cult size = 1100 }
+	farmers = { culture = dremoran religion = molag_bal_cult size = 90000 }
+	officers = { culture = dremoran religion = molag_bal_cult size = 100 }
+	soldiers = { culture = dremoran religion = molag_bal_cult size = 2000 }
+}
+2779 = {
+	aristocrats = { culture = scamp religion = mehrunes_dagon_cult size = 800 }
+	artisans = { culture = scamp religion = mehrunes_dagon_cult size = 4000 }
+	bureaucrats = { culture = scamp religion = mehrunes_dagon_cult size = 640 }
+	clergymen = { culture = scamp religion = mehrunes_dagon_cult size = 880 }
+	farmers = { culture = scamp religion = mehrunes_dagon_cult size = 72000 }
+	officers = { culture = scamp religion = mehrunes_dagon_cult size = 80 }
+	soldiers = { culture = scamp religion = mehrunes_dagon_cult size = 1600 }
+}
+2780 = {
+	aristocrats = { culture = dremoran religion = molag_bal_cult size = 1500 }
+	artisans = { culture = dremoran religion = molag_bal_cult size = 5000 }
+	bureaucrats = { culture = dremoran religion = molag_bal_cult size = 800 }
+	clergymen = { culture = dremoran religion = molag_bal_cult size = 1100 }
+	farmers = { culture = dremoran religion = molag_bal_cult size = 90000 }
+	officers = { culture = dremoran religion = molag_bal_cult size = 100 }
+	soldiers = { culture = dremoran religion = molag_bal_cult size = 2000 }
+}
+2791 = {
+	aristocrats = { culture = dremoran religion = molag_bal_cult size = 600 }
+	artisans = { culture = dremoran religion = molag_bal_cult size = 2000 }
+	bureaucrats = { culture = dremoran religion = molag_bal_cult size = 320 }
+	clergymen = { culture = dremoran religion = molag_bal_cult size = 440 }
+	farmers = { culture = dremoran religion = molag_bal_cult size = 36000 }
+	officers = { culture = dremoran religion = molag_bal_cult size = 40 }
+	soldiers = { culture = dremoran religion = molag_bal_cult size = 800 }
+}
+2792 = {
+	aristocrats = { culture = dremoran religion = molag_bal_cult size = 450 }
+	artisans = { culture = dremoran religion = molag_bal_cult size = 1500 }
+	bureaucrats = { culture = dremoran religion = molag_bal_cult size = 240 }
+	clergymen = { culture = dremoran religion = molag_bal_cult size = 330 }
+	farmers = { culture = dremoran religion = molag_bal_cult size = 27000 }
+	officers = { culture = dremoran religion = molag_bal_cult size = 30 }
+	soldiers = { culture = dremoran religion = molag_bal_cult size = 600 }
+}
+2794 = {
+	aristocrats = { culture = dremoran religion = molag_bal_cult size = 1050 }
+	artisans = { culture = dremoran religion = molag_bal_cult size = 3500 }
+	bureaucrats = { culture = dremoran religion = molag_bal_cult size = 560 }
+	clergymen = { culture = dremoran religion = molag_bal_cult size = 770 }
+	farmers = { culture = dremoran religion = molag_bal_cult size = 63000 }
+	officers = { culture = dremoran religion = molag_bal_cult size = 70 }
+	soldiers = { culture = dremoran religion = molag_bal_cult size = 1400 }
+}
+2795 = {
+	aristocrats = { culture = dremoran religion = molag_bal_cult size = 1950 }
+	artisans = { culture = dremoran religion = molag_bal_cult size = 6500 }
+	bureaucrats = { culture = dremoran religion = molag_bal_cult size = 1040 }
+	clergymen = { culture = dremoran religion = molag_bal_cult size = 1430 }
+	farmers = { culture = dremoran religion = molag_bal_cult size = 117000 }
+	officers = { culture = dremoran religion = molag_bal_cult size = 130 }
+	soldiers = { culture = dremoran religion = molag_bal_cult size = 2600 }
+}
+2796 = {
+	aristocrats = { culture = dremoran religion = molag_bal_cult size = 400 }
+	artisans = { culture = dremoran religion = molag_bal_cult size = 2000 }
+	bureaucrats = { culture = dremoran religion = molag_bal_cult size = 320 }
+	clergymen = { culture = dremoran religion = molag_bal_cult size = 440 }
+	farmers = { culture = dremoran religion = molag_bal_cult size = 36000 }
+	officers = { culture = dremoran religion = molag_bal_cult size = 40 }
+	soldiers = { culture = dremoran religion = molag_bal_cult size = 800 }
+}
+2797 = {
+	aristocrats = { culture = dremoran religion = molag_bal_cult size = 900 }
+	artisans = { culture = dremoran religion = molag_bal_cult size = 4500 }
+	bureaucrats = { culture = dremoran religion = molag_bal_cult size = 720 }
+	clergymen = { culture = dremoran religion = molag_bal_cult size = 990 }
+	farmers = { culture = dremoran religion = molag_bal_cult size = 81000 }
+	officers = { culture = dremoran religion = molag_bal_cult size = 90 }
+	soldiers = { culture = dremoran religion = molag_bal_cult size = 1800 }
+}
+2798 = {
+	aristocrats = { culture = dremoran religion = molag_bal_cult size = 1500 }
+	artisans = { culture = dremoran religion = molag_bal_cult size = 5000 }
+	bureaucrats = { culture = dremoran religion = molag_bal_cult size = 800 }
+	clergymen = { culture = dremoran religion = molag_bal_cult size = 1100 }
+	farmers = { culture = dremoran religion = molag_bal_cult size = 90000 }
+	officers = { culture = dremoran religion = molag_bal_cult size = 100 }
+	soldiers = { culture = dremoran religion = molag_bal_cult size = 2000 }
+}
+2799 = {
+	aristocrats = { culture = scamp religion = mehrunes_dagon_cult size = 500 }
+	artisans = { culture = scamp religion = mehrunes_dagon_cult size = 2500 }
+	bureaucrats = { culture = scamp religion = mehrunes_dagon_cult size = 400 }
+	clergymen = { culture = scamp religion = mehrunes_dagon_cult size = 550 }
+	farmers = { culture = scamp religion = mehrunes_dagon_cult size = 45000 }
+	officers = { culture = scamp religion = mehrunes_dagon_cult size = 50 }
+	soldiers = { culture = scamp religion = mehrunes_dagon_cult size = 1000 }
+}
+2800 = {
+	aristocrats = { culture = dremoran religion = molag_bal_cult size = 1000 }
+	artisans = { culture = dremoran religion = molag_bal_cult size = 5000 }
+	bureaucrats = { culture = dremoran religion = molag_bal_cult size = 800 }
+	clergymen = { culture = dremoran religion = molag_bal_cult size = 1100 }
+	farmers = { culture = dremoran religion = molag_bal_cult size = 90000 }
+	officers = { culture = dremoran religion = molag_bal_cult size = 100 }
+	soldiers = { culture = dremoran religion = molag_bal_cult size = 2000 }
+}
+2821 = {
+	aristocrats = { culture = dremoran religion = molag_bal_cult size = 1200 }
+	artisans = { culture = dremoran religion = molag_bal_cult size = 4000 }
+	bureaucrats = { culture = dremoran religion = molag_bal_cult size = 640 }
+	clergymen = { culture = dremoran religion = molag_bal_cult size = 880 }
+	farmers = { culture = dremoran religion = molag_bal_cult size = 72000 }
+	officers = { culture = dremoran religion = molag_bal_cult size = 80 }
+	soldiers = { culture = dremoran religion = molag_bal_cult size = 1600 }
+}
+2822 = {
+	aristocrats = { culture = dremoran religion = molag_bal_cult size = 1050 }
+	artisans = { culture = dremoran religion = molag_bal_cult size = 3500 }
+	bureaucrats = { culture = dremoran religion = molag_bal_cult size = 560 }
+	clergymen = { culture = dremoran religion = molag_bal_cult size = 770 }
+	farmers = { culture = dremoran religion = molag_bal_cult size = 63000 }
+	officers = { culture = dremoran religion = molag_bal_cult size = 70 }
+	soldiers = { culture = dremoran religion = molag_bal_cult size = 1400 }
+}
+2823 = {
+	aristocrats = { culture = scamp religion = mehrunes_dagon_cult size = 400 }
+	artisans = { culture = scamp religion = mehrunes_dagon_cult size = 2000 }
+	bureaucrats = { culture = scamp religion = mehrunes_dagon_cult size = 40 }
+	clergymen = { culture = scamp religion = mehrunes_dagon_cult size = 200 }
+	farmers = { culture = scamp religion = mehrunes_dagon_cult size = 36000 }
+	officers = { culture = scamp religion = mehrunes_dagon_cult size = 40 }
+	soldiers = { culture = scamp religion = mehrunes_dagon_cult size = 1320 }
+}
+2824 = {
+	aristocrats = { culture = dremoran religion = molag_bal_cult size = 1350 }
+	artisans = { culture = dremoran religion = molag_bal_cult size = 4500 }
+	bureaucrats = { culture = dremoran religion = molag_bal_cult size = 720 }
+	clergymen = { culture = dremoran religion = molag_bal_cult size = 990 }
+	farmers = { culture = dremoran religion = molag_bal_cult size = 81000 }
+	officers = { culture = dremoran religion = molag_bal_cult size = 90 }
+	soldiers = { culture = dremoran religion = molag_bal_cult size = 1800 }
+}
+2825 = {
+	aristocrats = { culture = dremoran religion = molag_bal_cult size = 600 }
+	artisans = { culture = dremoran religion = molag_bal_cult size = 2000 }
+	bureaucrats = { culture = dremoran religion = molag_bal_cult size = 320 }
+	clergymen = { culture = dremoran religion = molag_bal_cult size = 440 }
+	farmers = { culture = dremoran religion = molag_bal_cult size = 36000 }
+	officers = { culture = dremoran religion = molag_bal_cult size = 40 }
+	soldiers = { culture = dremoran religion = molag_bal_cult size = 800 }
+}
+2826 = {
+	aristocrats = { culture = dremoran religion = molag_bal_cult size = 500 }
+	artisans = { culture = dremoran religion = molag_bal_cult size = 2500 }
+	bureaucrats = { culture = dremoran religion = molag_bal_cult size = 400 }
+	clergymen = { culture = dremoran religion = molag_bal_cult size = 550 }
+	farmers = { culture = dremoran religion = molag_bal_cult size = 45000 }
+	officers = { culture = dremoran religion = molag_bal_cult size = 50 }
+	soldiers = { culture = dremoran religion = molag_bal_cult size = 1000 }
+}
+2827 = {
+	aristocrats = { culture = harvester religion = molag_bal_cult size = 500 }
+	artisans = { culture = harvester religion = molag_bal_cult size = 2500 }
+	bureaucrats = { culture = harvester religion = molag_bal_cult size = 400 }
+	clergymen = { culture = harvester religion = molag_bal_cult size = 550 }
+	farmers = { culture = harvester religion = molag_bal_cult size = 45000 }
+	officers = { culture = harvester religion = molag_bal_cult size = 50 }
+	soldiers = { culture = harvester religion = molag_bal_cult size = 1000 }
+}
+2828 = {
+	aristocrats = { culture = lamian religion = molag_bal_cult size = 900 }
+	artisans = { culture = lamian religion = molag_bal_cult size = 4500 }
+	bureaucrats = { culture = lamian religion = molag_bal_cult size = 90 }
+	clergymen = { culture = lamian religion = molag_bal_cult size = 450 }
+	farmers = { culture = lamian religion = molag_bal_cult size = 81000 }
+	officers = { culture = lamian religion = molag_bal_cult size = 90 }
+	soldiers = { culture = lamian religion = molag_bal_cult size = 2970 }
+}
+2829 = {
+	aristocrats = { culture = soul_shriven religion = molag_bal_cult size = 600 }
+	artisans = { culture = soul_shriven religion = molag_bal_cult size = 3000 }
+	bureaucrats = { culture = soul_shriven religion = molag_bal_cult size = 480 }
+	capitalists = { culture = soul_shriven religion = molag_bal_cult size = 60 }
+	clergymen = { culture = soul_shriven religion = molag_bal_cult size = 900 }
+	farmers = { culture = soul_shriven religion = molag_bal_cult size = 54000 }
+	officers = { culture = soul_shriven religion = molag_bal_cult size = 60 }
+	soldiers = { culture = soul_shriven religion = molag_bal_cult size = 1200 }
+}
+2830 = {
+	aristocrats = { culture = dremoran religion = molag_bal_cult size = 1950 }
+	artisans = { culture = dremoran religion = molag_bal_cult size = 6500 }
+	bureaucrats = { culture = dremoran religion = molag_bal_cult size = 1040 }
+	clergymen = { culture = dremoran religion = molag_bal_cult size = 1430 }
+	farmers = { culture = dremoran religion = molag_bal_cult size = 117000 }
+	officers = { culture = dremoran religion = molag_bal_cult size = 130 }
+	soldiers = { culture = dremoran religion = molag_bal_cult size = 2600 }
+}
+2831 = {
+	aristocrats = { culture = soul_shriven religion = molag_bal_cult size = 600 }
+	artisans = { culture = soul_shriven religion = molag_bal_cult size = 3000 }
+	bureaucrats = { culture = soul_shriven religion = molag_bal_cult size = 60 }
+	clergymen = { culture = soul_shriven religion = molag_bal_cult size = 300 }
+	farmers = { culture = soul_shriven religion = molag_bal_cult size = 54000 }
+	officers = { culture = soul_shriven religion = molag_bal_cult size = 60 }
+	soldiers = { culture = soul_shriven religion = molag_bal_cult size = 1980 }
+}
+2832 = {
+	aristocrats = { culture = soul_shriven religion = molag_bal_cult size = 1050 }
+	artisans = { culture = soul_shriven religion = molag_bal_cult size = 3500 }
+	bureaucrats = { culture = soul_shriven religion = molag_bal_cult size = 560 }
+	clergymen = { culture = soul_shriven religion = molag_bal_cult size = 770 }
+	farmers = { culture = soul_shriven religion = molag_bal_cult size = 63000 }
+	officers = { culture = soul_shriven religion = molag_bal_cult size = 70 }
+	soldiers = { culture = soul_shriven religion = molag_bal_cult size = 1400 }
+}
+2833 = {
+	aristocrats = { culture = harvester religion = molag_bal_cult size = 700 }
+	artisans = { culture = harvester religion = molag_bal_cult size = 3500 }
+	bureaucrats = { culture = harvester religion = molag_bal_cult size = 560 }
+	clergymen = { culture = harvester religion = molag_bal_cult size = 770 }
+	farmers = { culture = harvester religion = molag_bal_cult size = 63000 }
+	officers = { culture = harvester religion = molag_bal_cult size = 70 }
+	soldiers = { culture = harvester religion = molag_bal_cult size = 1400 }
+}
+2834 = {
+	aristocrats = { culture = harvester religion = molag_bal_cult size = 700 }
+	artisans = { culture = harvester religion = molag_bal_cult size = 3500 }
+	bureaucrats = { culture = harvester religion = molag_bal_cult size = 560 }
+	clergymen = { culture = harvester religion = molag_bal_cult size = 770 }
+	farmers = { culture = harvester religion = molag_bal_cult size = 63000 }
+	officers = { culture = harvester religion = molag_bal_cult size = 70 }
+	soldiers = { culture = harvester religion = molag_bal_cult size = 1400 }
+}
+2835 = {
+	aristocrats = { culture = harvester religion = molag_bal_cult size = 600 }
+	artisans = { culture = harvester religion = molag_bal_cult size = 3000 }
+	bureaucrats = { culture = harvester religion = molag_bal_cult size = 480 }
+	clergymen = { culture = harvester religion = molag_bal_cult size = 660 }
+	farmers = { culture = harvester religion = molag_bal_cult size = 54000 }
+	officers = { culture = harvester religion = molag_bal_cult size = 60 }
+	soldiers = { culture = harvester religion = molag_bal_cult size = 1200 }
+}
+2836 = {
+	aristocrats = { culture = vampire religion = molag_bal_cult size = 750 }
+	artisans = { culture = vampire religion = molag_bal_cult size = 2500 }
+	bureaucrats = { culture = vampire religion = molag_bal_cult size = 400 }
+	clergymen = { culture = vampire religion = molag_bal_cult size = 550 }
+	farmers = { culture = vampire religion = molag_bal_cult size = 45000 }
+	officers = { culture = vampire religion = molag_bal_cult size = 50 }
+	soldiers = { culture = vampire religion = molag_bal_cult size = 1000 }
+}
+2837 = {
+	aristocrats = { culture = harvester religion = molag_bal_cult size = 800 }
+	artisans = { culture = harvester religion = molag_bal_cult size = 4000 }
+	bureaucrats = { culture = harvester religion = molag_bal_cult size = 640 }
+	clergymen = { culture = harvester religion = molag_bal_cult size = 880 }
+	farmers = { culture = harvester religion = molag_bal_cult size = 72000 }
+	officers = { culture = harvester religion = molag_bal_cult size = 80 }
+	soldiers = { culture = harvester religion = molag_bal_cult size = 1600 }
+}
+2838 = {
+	aristocrats = { culture = vampire religion = molag_bal_cult size = 750 }
+	artisans = { culture = vampire religion = molag_bal_cult size = 2500 }
+	bureaucrats = { culture = vampire religion = molag_bal_cult size = 400 }
+	clergymen = { culture = vampire religion = molag_bal_cult size = 550 }
+	farmers = { culture = vampire religion = molag_bal_cult size = 45000 }
+	officers = { culture = vampire religion = molag_bal_cult size = 50 }
+	soldiers = { culture = vampire religion = molag_bal_cult size = 1000 }
+}
+2839 = {
+	aristocrats = { culture = soul_shriven religion = molag_bal_cult size = 700 }
+	artisans = { culture = soul_shriven religion = molag_bal_cult size = 3500 }
+	bureaucrats = { culture = soul_shriven religion = molag_bal_cult size = 560 }
+	clergymen = { culture = soul_shriven religion = molag_bal_cult size = 1120 }
+	farmers = { culture = soul_shriven religion = molag_bal_cult size = 63000 }
+	officers = { culture = soul_shriven religion = molag_bal_cult size = 70 }
+	soldiers = { culture = soul_shriven religion = molag_bal_cult size = 1400 }
+}
+2840 = {
+	aristocrats = { culture = soul_shriven religion = molag_bal_cult size = 1000 }
+	artisans = { culture = soul_shriven religion = molag_bal_cult size = 5000 }
+	bureaucrats = { culture = soul_shriven religion = molag_bal_cult size = 800 }
+	clergymen = { culture = soul_shriven religion = molag_bal_cult size = 1600 }
+	farmers = { culture = soul_shriven religion = molag_bal_cult size = 90000 }
+	officers = { culture = soul_shriven religion = molag_bal_cult size = 100 }
+	soldiers = { culture = soul_shriven religion = molag_bal_cult size = 2000 }
+}
+2841 = {
+	aristocrats = { culture = soul_shriven religion = molag_bal_cult size = 300 }
+	artisans = { culture = soul_shriven religion = molag_bal_cult size = 1500 }
+	bureaucrats = { culture = soul_shriven religion = molag_bal_cult size = 240 }
+	clergymen = { culture = soul_shriven religion = molag_bal_cult size = 480 }
+	farmers = { culture = soul_shriven religion = molag_bal_cult size = 27000 }
+	officers = { culture = soul_shriven religion = molag_bal_cult size = 30 }
+	soldiers = { culture = soul_shriven religion = molag_bal_cult size = 600 }
+}
+2843 = {
+	aristocrats = { culture = harvester religion = molag_bal_cult size = 700 }
+	artisans = { culture = harvester religion = molag_bal_cult size = 3500 }
+	bureaucrats = { culture = harvester religion = molag_bal_cult size = 70 }
+	clergymen = { culture = harvester religion = molag_bal_cult size = 350 }
+	farmers = { culture = harvester religion = molag_bal_cult size = 63000 }
+	officers = { culture = harvester religion = molag_bal_cult size = 70 }
+	soldiers = { culture = harvester religion = molag_bal_cult size = 2310 }
+}
+2844 = {
+	aristocrats = { culture = soul_shriven religion = molag_bal_cult size = 400 }
+	artisans = { culture = soul_shriven religion = molag_bal_cult size = 2000 }
+	bureaucrats = { culture = soul_shriven religion = molag_bal_cult size = 320 }
+	clergymen = { culture = soul_shriven religion = molag_bal_cult size = 640 }
+	farmers = { culture = soul_shriven religion = molag_bal_cult size = 36000 }
+	officers = { culture = soul_shriven religion = molag_bal_cult size = 40 }
+	soldiers = { culture = soul_shriven religion = molag_bal_cult size = 800 }
+}
+2845 = {
+	aristocrats = { culture = dremoran religion = molag_bal_cult size = 1350 }
+	artisans = { culture = dremoran religion = molag_bal_cult size = 4500 }
+	bureaucrats = { culture = dremoran religion = molag_bal_cult size = 720 }
+	clergymen = { culture = dremoran religion = molag_bal_cult size = 990 }
+	farmers = { culture = dremoran religion = molag_bal_cult size = 81000 }
+	officers = { culture = dremoran religion = molag_bal_cult size = 90 }
+	soldiers = { culture = dremoran religion = molag_bal_cult size = 1800 }
+}
+2846 = {
+	aristocrats = { culture = dremoran religion = molag_bal_cult size = 1050 }
+	artisans = { culture = dremoran religion = molag_bal_cult size = 3500 }
+	bureaucrats = { culture = dremoran religion = molag_bal_cult size = 560 }
+	clergymen = { culture = dremoran religion = molag_bal_cult size = 770 }
+	farmers = { culture = dremoran religion = molag_bal_cult size = 63000 }
+	officers = { culture = dremoran religion = molag_bal_cult size = 70 }
+	soldiers = { culture = dremoran religion = molag_bal_cult size = 1400 }
+}
+2847 = {
+	aristocrats = { culture = dremoran religion = molag_bal_cult size = 1050 }
+	artisans = { culture = dremoran religion = molag_bal_cult size = 3500 }
+	bureaucrats = { culture = dremoran religion = molag_bal_cult size = 560 }
+	clergymen = { culture = dremoran religion = molag_bal_cult size = 770 }
+	farmers = { culture = dremoran religion = molag_bal_cult size = 63000 }
+	officers = { culture = dremoran religion = molag_bal_cult size = 70 }
+	soldiers = { culture = dremoran religion = molag_bal_cult size = 1400 }
+}
+2848 = {
+	aristocrats = { culture = harvester religion = molag_bal_cult size = 800 }
+	artisans = { culture = harvester religion = molag_bal_cult size = 4000 }
+	bureaucrats = { culture = harvester religion = molag_bal_cult size = 80 }
+	clergymen = { culture = harvester religion = molag_bal_cult size = 400 }
+	farmers = { culture = harvester religion = molag_bal_cult size = 72000 }
+	officers = { culture = harvester religion = molag_bal_cult size = 80 }
+	soldiers = { culture = harvester religion = molag_bal_cult size = 2640 }
+}
+2849 = {
+	aristocrats = { culture = dremoran religion = molag_bal_cult size = 750 }
+	artisans = { culture = dremoran religion = molag_bal_cult size = 2500 }
+	bureaucrats = { culture = dremoran religion = molag_bal_cult size = 400 }
+	clergymen = { culture = dremoran religion = molag_bal_cult size = 550 }
+	farmers = { culture = dremoran religion = molag_bal_cult size = 45000 }
+	officers = { culture = dremoran religion = molag_bal_cult size = 50 }
+	soldiers = { culture = dremoran religion = molag_bal_cult size = 1000 }
+}
+2850 = {
+	aristocrats = { culture = dremoran religion = molag_bal_cult size = 500 }
+	artisans = { culture = dremoran religion = molag_bal_cult size = 2500 }
+	bureaucrats = { culture = dremoran religion = molag_bal_cult size = 400 }
+	clergymen = { culture = dremoran religion = molag_bal_cult size = 800 }
+	farmers = { culture = dremoran religion = molag_bal_cult size = 45000 }
+	officers = { culture = dremoran religion = molag_bal_cult size = 50 }
+	soldiers = { culture = dremoran religion = molag_bal_cult size = 1000 }
+}
+2851 = {
+	aristocrats = { culture = soul_shriven religion = molag_bal_cult size = 1800 }
+	artisans = { culture = soul_shriven religion = molag_bal_cult size = 6000 }
+	bureaucrats = { culture = soul_shriven religion = molag_bal_cult size = 960 }
+	clergymen = { culture = soul_shriven religion = molag_bal_cult size = 1320 }
+	farmers = { culture = soul_shriven religion = molag_bal_cult size = 108000 }
+	officers = { culture = soul_shriven religion = molag_bal_cult size = 120 }
+	soldiers = { culture = soul_shriven religion = molag_bal_cult size = 2400 }
+}
+2853 = {
+	aristocrats = { culture = harvester religion = molag_bal_cult size = 750 }
+	artisans = { culture = harvester religion = molag_bal_cult size = 2500 }
+	bureaucrats = { culture = harvester religion = molag_bal_cult size = 400 }
+	clergymen = { culture = harvester religion = molag_bal_cult size = 550 }
+	farmers = { culture = harvester religion = molag_bal_cult size = 45000 }
+	officers = { culture = harvester religion = molag_bal_cult size = 50 }
+	soldiers = { culture = harvester religion = molag_bal_cult size = 1000 }
+}
+2854 = {
+	aristocrats = { culture = soul_shriven religion = molag_bal_cult size = 750 }
+	artisans = { culture = soul_shriven religion = molag_bal_cult size = 2500 }
+	bureaucrats = { culture = soul_shriven religion = molag_bal_cult size = 400 }
+	clergymen = { culture = soul_shriven religion = molag_bal_cult size = 550 }
+	farmers = { culture = soul_shriven religion = molag_bal_cult size = 45000 }
+	officers = { culture = soul_shriven religion = molag_bal_cult size = 50 }
+	soldiers = { culture = soul_shriven religion = molag_bal_cult size = 1000 }
+}
+2855 = {
+	aristocrats = { culture = soul_shriven religion = molag_bal_cult size = 300 }
+	artisans = { culture = soul_shriven religion = molag_bal_cult size = 1500 }
+	bureaucrats = { culture = soul_shriven religion = molag_bal_cult size = 240 }
+	capitalists = { culture = soul_shriven religion = molag_bal_cult size = 30 }
+	clergymen = { culture = soul_shriven religion = molag_bal_cult size = 450 }
+	farmers = { culture = soul_shriven religion = molag_bal_cult size = 27000 }
+	officers = { culture = soul_shriven religion = molag_bal_cult size = 30 }
+	soldiers = { culture = soul_shriven religion = molag_bal_cult size = 600 }
+}
+2856 = {
+	aristocrats = { culture = soul_shriven religion = molag_bal_cult size = 1500 }
+	artisans = { culture = soul_shriven religion = molag_bal_cult size = 5000 }
+	bureaucrats = { culture = soul_shriven religion = molag_bal_cult size = 800 }
+	clergymen = { culture = soul_shriven religion = molag_bal_cult size = 1100 }
+	farmers = { culture = soul_shriven religion = molag_bal_cult size = 90000 }
+	officers = { culture = soul_shriven religion = molag_bal_cult size = 100 }
+	soldiers = { culture = soul_shriven religion = molag_bal_cult size = 2000 }
+}
+2857 = {
+	aristocrats = { culture = harvester religion = molag_bal_cult size = 800 }
+	artisans = { culture = harvester religion = molag_bal_cult size = 4000 }
+	bureaucrats = { culture = harvester religion = molag_bal_cult size = 640 }
+	clergymen = { culture = harvester religion = molag_bal_cult size = 880 }
+	farmers = { culture = harvester religion = molag_bal_cult size = 72000 }
+	officers = { culture = harvester religion = molag_bal_cult size = 80 }
+	soldiers = { culture = harvester religion = molag_bal_cult size = 1600 }
+}
+2858 = {
+	aristocrats = { culture = soul_shriven religion = molag_bal_cult size = 600 }
+	artisans = { culture = soul_shriven religion = molag_bal_cult size = 2000 }
+	bureaucrats = { culture = soul_shriven religion = molag_bal_cult size = 320 }
+	clergymen = { culture = soul_shriven religion = molag_bal_cult size = 440 }
+	farmers = { culture = soul_shriven religion = molag_bal_cult size = 36000 }
+	officers = { culture = soul_shriven religion = molag_bal_cult size = 40 }
+	soldiers = { culture = soul_shriven religion = molag_bal_cult size = 800 }
+}
+2859 = {
+	aristocrats = { culture = harvester religion = molag_bal_cult size = 400 }
+	artisans = { culture = harvester religion = molag_bal_cult size = 2000 }
+	bureaucrats = { culture = harvester religion = molag_bal_cult size = 320 }
+	clergymen = { culture = harvester religion = molag_bal_cult size = 440 }
+	farmers = { culture = harvester religion = molag_bal_cult size = 36000 }
+	officers = { culture = harvester religion = molag_bal_cult size = 40 }
+	soldiers = { culture = harvester religion = molag_bal_cult size = 800 }
+}
+2860 = {
+	aristocrats = { culture = harvester religion = molag_bal_cult size = 300 }
+	artisans = { culture = harvester religion = molag_bal_cult size = 1500 }
+	bureaucrats = { culture = harvester religion = molag_bal_cult size = 240 }
+	clergymen = { culture = harvester religion = molag_bal_cult size = 330 }
+	farmers = { culture = harvester religion = molag_bal_cult size = 27000 }
+	officers = { culture = harvester religion = molag_bal_cult size = 30 }
+	soldiers = { culture = harvester religion = molag_bal_cult size = 600 }
+}
+2861 = {
+	aristocrats = { culture = harvester religion = molag_bal_cult size = 600 }
+	artisans = { culture = harvester religion = molag_bal_cult size = 3000 }
+	bureaucrats = { culture = harvester religion = molag_bal_cult size = 480 }
+	clergymen = { culture = harvester religion = molag_bal_cult size = 660 }
+	farmers = { culture = harvester religion = molag_bal_cult size = 54000 }
+	officers = { culture = harvester religion = molag_bal_cult size = 60 }
+	soldiers = { culture = harvester religion = molag_bal_cult size = 1200 }
+}
+2862 = {
+	aristocrats = { culture = soul_shriven religion = meridia_cult size = 750 }
+	artisans = { culture = soul_shriven religion = meridia_cult size = 2500 }
+	bureaucrats = { culture = soul_shriven religion = meridia_cult size = 400 }
+	clergymen = { culture = soul_shriven religion = meridia_cult size = 550 }
+	farmers = { culture = soul_shriven religion = meridia_cult size = 45000 }
+	officers = { culture = soul_shriven religion = meridia_cult size = 50 }
+	soldiers = { culture = soul_shriven religion = meridia_cult size = 1000 }
+}
+2863 = {
+	aristocrats = { culture = harvester religion = molag_bal_cult size = 800 }
+	artisans = { culture = harvester religion = molag_bal_cult size = 4000 }
+	bureaucrats = { culture = harvester religion = molag_bal_cult size = 80 }
+	clergymen = { culture = harvester religion = molag_bal_cult size = 400 }
+	farmers = { culture = harvester religion = molag_bal_cult size = 72000 }
+	officers = { culture = harvester religion = molag_bal_cult size = 80 }
+	soldiers = { culture = harvester religion = molag_bal_cult size = 2640 }
+}
+2864 = {
+	aristocrats = { culture = harvester religion = molag_bal_cult size = 1050 }
+	artisans = { culture = harvester religion = molag_bal_cult size = 3500 }
+	bureaucrats = { culture = harvester religion = molag_bal_cult size = 560 }
+	clergymen = { culture = harvester religion = molag_bal_cult size = 770 }
+	farmers = { culture = harvester religion = molag_bal_cult size = 63000 }
+	officers = { culture = harvester religion = molag_bal_cult size = 70 }
+	soldiers = { culture = harvester religion = molag_bal_cult size = 1400 }
+}
+2865 = {
+	aristocrats = { culture = harvester religion = molag_bal_cult size = 1200 }
+	artisans = { culture = harvester religion = molag_bal_cult size = 4000 }
+	bureaucrats = { culture = harvester religion = molag_bal_cult size = 640 }
+	clergymen = { culture = harvester religion = molag_bal_cult size = 880 }
+	farmers = { culture = harvester religion = molag_bal_cult size = 72000 }
+	officers = { culture = harvester religion = molag_bal_cult size = 80 }
+	soldiers = { culture = harvester religion = molag_bal_cult size = 1600 }
+}
+2866 = {
+	aristocrats = { culture = harvester religion = molag_bal_cult size = 750 }
+	artisans = { culture = harvester religion = molag_bal_cult size = 2500 }
+	bureaucrats = { culture = harvester religion = molag_bal_cult size = 400 }
+	clergymen = { culture = harvester religion = molag_bal_cult size = 550 }
+	farmers = { culture = harvester religion = molag_bal_cult size = 45000 }
+	officers = { culture = harvester religion = molag_bal_cult size = 50 }
+	soldiers = { culture = harvester religion = molag_bal_cult size = 1000 }
+}
+2867 = {
+	aristocrats = { culture = dremoran religion = molag_bal_cult size = 500 }
+	artisans = { culture = dremoran religion = molag_bal_cult size = 2500 }
+	bureaucrats = { culture = dremoran religion = molag_bal_cult size = 400 }
+	clergymen = { culture = dremoran religion = molag_bal_cult size = 550 }
+	farmers = { culture = dremoran religion = molag_bal_cult size = 45000 }
+	officers = { culture = dremoran religion = molag_bal_cult size = 50 }
+	soldiers = { culture = dremoran religion = molag_bal_cult size = 1000 }
+}
+2868 = {
+	aristocrats = { culture = dremoran religion = molag_bal_cult size = 1200 }
+	artisans = { culture = dremoran religion = molag_bal_cult size = 4000 }
+	bureaucrats = { culture = dremoran religion = molag_bal_cult size = 640 }
+	clergymen = { culture = dremoran religion = molag_bal_cult size = 880 }
+	farmers = { culture = dremoran religion = molag_bal_cult size = 72000 }
+	officers = { culture = dremoran religion = molag_bal_cult size = 80 }
+	soldiers = { culture = dremoran religion = molag_bal_cult size = 1600 }
+}
+2869 = {
+	aristocrats = { culture = harvester religion = molag_bal_cult size = 600 }
+	artisans = { culture = harvester religion = molag_bal_cult size = 3000 }
+	bureaucrats = { culture = harvester religion = molag_bal_cult size = 480 }
+	clergymen = { culture = harvester religion = molag_bal_cult size = 660 }
+	farmers = { culture = harvester religion = molag_bal_cult size = 54000 }
+	officers = { culture = harvester religion = molag_bal_cult size = 60 }
+	soldiers = { culture = harvester religion = molag_bal_cult size = 1200 }
+}
+2870 = {
+	aristocrats = { culture = harvester religion = molag_bal_cult size = 300 }
+	artisans = { culture = harvester religion = molag_bal_cult size = 1500 }
+	bureaucrats = { culture = harvester religion = molag_bal_cult size = 240 }
+	clergymen = { culture = harvester religion = molag_bal_cult size = 330 }
+	farmers = { culture = harvester religion = molag_bal_cult size = 27000 }
+	officers = { culture = harvester religion = molag_bal_cult size = 30 }
+	soldiers = { culture = harvester religion = molag_bal_cult size = 600 }
+}
+2888 = {
+	aristocrats = { culture = soul_shriven religion = molag_bal_cult size = 700 }
+	artisans = { culture = soul_shriven religion = molag_bal_cult size = 3500 }
+	bureaucrats = { culture = soul_shriven religion = molag_bal_cult size = 560 }
+	clergymen = { culture = soul_shriven religion = molag_bal_cult size = 770 }
+	farmers = { culture = soul_shriven religion = molag_bal_cult size = 63000 }
+	officers = { culture = soul_shriven religion = molag_bal_cult size = 70 }
+	soldiers = { culture = soul_shriven religion = molag_bal_cult size = 1400 }
+}
+2889 = {
+	aristocrats = { culture = soul_shriven religion = molag_bal_cult size = 500 }
+	artisans = { culture = soul_shriven religion = molag_bal_cult size = 2500 }
+	bureaucrats = { culture = soul_shriven religion = molag_bal_cult size = 400 }
+	capitalists = { culture = soul_shriven religion = molag_bal_cult size = 50 }
+	clergymen = { culture = soul_shriven religion = molag_bal_cult size = 750 }
+	farmers = { culture = soul_shriven religion = molag_bal_cult size = 45000 }
+	officers = { culture = soul_shriven religion = molag_bal_cult size = 50 }
+	soldiers = { culture = soul_shriven religion = molag_bal_cult size = 1000 }
+}
+2890 = {
+	aristocrats = { culture = dremoran religion = molag_bal_cult size = 900 }
+	artisans = { culture = dremoran religion = molag_bal_cult size = 3000 }
+	bureaucrats = { culture = dremoran religion = molag_bal_cult size = 480 }
+	clergymen = { culture = dremoran religion = molag_bal_cult size = 660 }
+	farmers = { culture = dremoran religion = molag_bal_cult size = 54000 }
+	officers = { culture = dremoran religion = molag_bal_cult size = 60 }
+	soldiers = { culture = dremoran religion = molag_bal_cult size = 1200 }
+}
+2891 = {
+	aristocrats = { culture = vampire religion = molag_bal_cult size = 500 }
+	artisans = { culture = vampire religion = molag_bal_cult size = 2500 }
+	bureaucrats = { culture = vampire religion = molag_bal_cult size = 50 }
+	clergymen = { culture = vampire religion = molag_bal_cult size = 250 }
+	farmers = { culture = vampire religion = molag_bal_cult size = 45000 }
+	officers = { culture = vampire religion = molag_bal_cult size = 50 }
+	soldiers = { culture = vampire religion = molag_bal_cult size = 1650 }
+}
+2892 = {
+	aristocrats = { culture = vampire religion = molag_bal_cult size = 700 }
+	artisans = { culture = vampire religion = molag_bal_cult size = 3500 }
+	bureaucrats = { culture = vampire religion = molag_bal_cult size = 70 }
+	clergymen = { culture = vampire religion = molag_bal_cult size = 350 }
+	farmers = { culture = vampire religion = molag_bal_cult size = 63000 }
+	officers = { culture = vampire religion = molag_bal_cult size = 70 }
+	soldiers = { culture = vampire religion = molag_bal_cult size = 2310 }
+}
+2893 = {
+	aristocrats = { culture = harvester religion = molag_bal_cult size = 700 }
+	artisans = { culture = harvester religion = molag_bal_cult size = 3500 }
+	bureaucrats = { culture = harvester religion = molag_bal_cult size = 560 }
+	clergymen = { culture = harvester religion = molag_bal_cult size = 770 }
+	farmers = { culture = harvester religion = molag_bal_cult size = 63000 }
+	officers = { culture = harvester religion = molag_bal_cult size = 70 }
+	soldiers = { culture = harvester religion = molag_bal_cult size = 1400 }
+}
+2895 = {
+	aristocrats = { culture = soul_shriven religion = molag_bal_cult size = 900 }
+	artisans = { culture = soul_shriven religion = molag_bal_cult size = 3000 }
+	bureaucrats = { culture = soul_shriven religion = molag_bal_cult size = 480 }
+	clergymen = { culture = soul_shriven religion = molag_bal_cult size = 660 }
+	farmers = { culture = soul_shriven religion = molag_bal_cult size = 54000 }
+	officers = { culture = soul_shriven religion = molag_bal_cult size = 60 }
+	soldiers = { culture = soul_shriven religion = molag_bal_cult size = 1200 }
+}
+2896 = {
+	aristocrats = { culture = soul_shriven religion = molag_bal_cult size = 400 }
+	artisans = { culture = soul_shriven religion = molag_bal_cult size = 2000 }
+	bureaucrats = { culture = soul_shriven religion = molag_bal_cult size = 320 }
+	capitalists = { culture = soul_shriven religion = molag_bal_cult size = 40 }
+	clergymen = { culture = soul_shriven religion = molag_bal_cult size = 600 }
+	farmers = { culture = soul_shriven religion = molag_bal_cult size = 36000 }
+	officers = { culture = soul_shriven religion = molag_bal_cult size = 40 }
+	soldiers = { culture = soul_shriven religion = molag_bal_cult size = 800 }
+}
+2897 = {
+	aristocrats = { culture = harvester religion = molag_bal_cult size = 300 }
+	artisans = { culture = harvester religion = molag_bal_cult size = 1500 }
+	bureaucrats = { culture = harvester religion = molag_bal_cult size = 240 }
+	clergymen = { culture = harvester religion = molag_bal_cult size = 330 }
+	farmers = { culture = harvester religion = molag_bal_cult size = 27000 }
+	officers = { culture = harvester religion = molag_bal_cult size = 30 }
+	soldiers = { culture = harvester religion = molag_bal_cult size = 600 }
+}
+2898 = {
+	aristocrats = { culture = harvester religion = molag_bal_cult size = 300 }
+	artisans = { culture = harvester religion = molag_bal_cult size = 1500 }
+	bureaucrats = { culture = harvester religion = molag_bal_cult size = 240 }
+	clergymen = { culture = harvester religion = molag_bal_cult size = 330 }
+	farmers = { culture = harvester religion = molag_bal_cult size = 27000 }
+	officers = { culture = harvester religion = molag_bal_cult size = 30 }
+	soldiers = { culture = harvester religion = molag_bal_cult size = 600 }
+}
+2899 = {
+	aristocrats = { culture = arachnid religion = molag_bal_cult size = 500 }
+	artisans = { culture = arachnid religion = molag_bal_cult size = 2500 }
+	bureaucrats = { culture = arachnid religion = molag_bal_cult size = 50 }
+	clergymen = { culture = arachnid religion = molag_bal_cult size = 250 }
+	farmers = { culture = arachnid religion = molag_bal_cult size = 45000 }
+	officers = { culture = arachnid religion = molag_bal_cult size = 50 }
+	soldiers = { culture = arachnid religion = molag_bal_cult size = 1650 }
+}
+2901 = {
+	aristocrats = { culture = harvester religion = molag_bal_cult size = 500 }
+	artisans = { culture = harvester religion = molag_bal_cult size = 2500 }
+	bureaucrats = { culture = harvester religion = molag_bal_cult size = 400 }
+	clergymen = { culture = harvester religion = molag_bal_cult size = 550 }
+	farmers = { culture = harvester religion = molag_bal_cult size = 45000 }
+	officers = { culture = harvester religion = molag_bal_cult size = 50 }
+	soldiers = { culture = harvester religion = molag_bal_cult size = 1000 }
+}
+2902 = {
+	aristocrats = { culture = harvester religion = molag_bal_cult size = 700 }
+	artisans = { culture = harvester religion = molag_bal_cult size = 3500 }
+	bureaucrats = { culture = harvester religion = molag_bal_cult size = 560 }
+	clergymen = { culture = harvester religion = molag_bal_cult size = 770 }
+	farmers = { culture = harvester religion = molag_bal_cult size = 63000 }
+	officers = { culture = harvester religion = molag_bal_cult size = 70 }
+	soldiers = { culture = harvester religion = molag_bal_cult size = 1400 }
+}
+2903 = {
+	aristocrats = { culture = dremoran religion = molag_bal_cult size = 1000 }
+	artisans = { culture = dremoran religion = molag_bal_cult size = 5000 }
+	bureaucrats = { culture = dremoran religion = molag_bal_cult size = 800 }
+	clergymen = { culture = dremoran religion = molag_bal_cult size = 1100 }
+	farmers = { culture = dremoran religion = molag_bal_cult size = 90000 }
+	officers = { culture = dremoran religion = molag_bal_cult size = 100 }
+	soldiers = { culture = dremoran religion = molag_bal_cult size = 2000 }
+}
+2904 = {
+	aristocrats = { culture = dremoran religion = molag_bal_cult size = 700 }
+	artisans = { culture = dremoran religion = molag_bal_cult size = 3500 }
+	bureaucrats = { culture = dremoran religion = molag_bal_cult size = 560 }
+	clergymen = { culture = dremoran religion = molag_bal_cult size = 770 }
+	farmers = { culture = dremoran religion = molag_bal_cult size = 63000 }
+	officers = { culture = dremoran religion = molag_bal_cult size = 70 }
+	soldiers = { culture = dremoran religion = molag_bal_cult size = 1400 }
+}
+2905 = {
+	aristocrats = { culture = harvester religion = molag_bal_cult size = 700 }
+	artisans = { culture = harvester religion = molag_bal_cult size = 3500 }
+	bureaucrats = { culture = harvester religion = molag_bal_cult size = 560 }
+	clergymen = { culture = harvester religion = molag_bal_cult size = 770 }
+	farmers = { culture = harvester religion = molag_bal_cult size = 63000 }
+	officers = { culture = harvester religion = molag_bal_cult size = 70 }
+	soldiers = { culture = harvester religion = molag_bal_cult size = 1400 }
+}
+2906 = {
+	aristocrats = { culture = dremoran religion = molag_bal_cult size = 700 }
+	artisans = { culture = dremoran religion = molag_bal_cult size = 3500 }
+	bureaucrats = { culture = dremoran religion = molag_bal_cult size = 560 }
+	clergymen = { culture = dremoran religion = molag_bal_cult size = 770 }
+	farmers = { culture = dremoran religion = molag_bal_cult size = 63000 }
+	officers = { culture = dremoran religion = molag_bal_cult size = 70 }
+	soldiers = { culture = dremoran religion = molag_bal_cult size = 1400 }
+}
+2907 = {
+	aristocrats = { culture = arachnid religion = molag_bal_cult size = 600 }
+	artisans = { culture = arachnid religion = molag_bal_cult size = 3000 }
+	bureaucrats = { culture = arachnid religion = molag_bal_cult size = 60 }
+	clergymen = { culture = arachnid religion = molag_bal_cult size = 300 }
+	farmers = { culture = arachnid religion = molag_bal_cult size = 54000 }
+	officers = { culture = arachnid religion = molag_bal_cult size = 60 }
+	soldiers = { culture = arachnid religion = molag_bal_cult size = 1980 }
+}
+2908 = {
+	aristocrats = { culture = arachnid religion = molag_bal_cult size = 700 }
+	artisans = { culture = arachnid religion = molag_bal_cult size = 3500 }
+	bureaucrats = { culture = arachnid religion = molag_bal_cult size = 70 }
+	clergymen = { culture = arachnid religion = molag_bal_cult size = 350 }
+	farmers = { culture = arachnid religion = molag_bal_cult size = 63000 }
+	officers = { culture = arachnid religion = molag_bal_cult size = 70 }
+	soldiers = { culture = arachnid religion = molag_bal_cult size = 2310 }
+}
+2909 = {
+	aristocrats = { culture = arachnid religion = molag_bal_cult size = 700 }
+	artisans = { culture = arachnid religion = molag_bal_cult size = 3500 }
+	bureaucrats = { culture = arachnid religion = molag_bal_cult size = 70 }
+	clergymen = { culture = arachnid religion = molag_bal_cult size = 350 }
+	farmers = { culture = arachnid religion = molag_bal_cult size = 63000 }
+	officers = { culture = arachnid religion = molag_bal_cult size = 70 }
+	soldiers = { culture = arachnid religion = molag_bal_cult size = 2310 }
+}
+2910 = {
+	aristocrats = { culture = arachnid religion = molag_bal_cult size = 700 }
+	artisans = { culture = arachnid religion = molag_bal_cult size = 3500 }
+	bureaucrats = { culture = arachnid religion = molag_bal_cult size = 70 }
+	clergymen = { culture = arachnid religion = molag_bal_cult size = 350 }
+	farmers = { culture = arachnid religion = molag_bal_cult size = 63000 }
+	officers = { culture = arachnid religion = molag_bal_cult size = 70 }
+	soldiers = { culture = arachnid religion = molag_bal_cult size = 2310 }
+}
+2911 = {
+	aristocrats = { culture = dremoran religion = molag_bal_cult size = 450 }
+	artisans = { culture = dremoran religion = molag_bal_cult size = 1500 }
+	bureaucrats = { culture = dremoran religion = molag_bal_cult size = 240 }
+	clergymen = { culture = dremoran religion = molag_bal_cult size = 330 }
+	farmers = { culture = dremoran religion = molag_bal_cult size = 27000 }
+	officers = { culture = dremoran religion = molag_bal_cult size = 30 }
+	soldiers = { culture = dremoran religion = molag_bal_cult size = 600 }
+}
+2912 = {
+	aristocrats = { culture = argonian religion = hist size = 900 }
+	artisans = { culture = argonian religion = hist size = 4500 }
+	bureaucrats = { culture = argonian religion = hist size = 90 }
+	clergymen = { culture = argonian religion = hist size = 450 }
+	farmers = { culture = argonian religion = hist size = 81000 }
+	officers = { culture = argonian religion = hist size = 90 }
+	soldiers = { culture = argonian religion = hist size = 2970 }
+}
+2913 = {
+	aristocrats = { culture = dremoran religion = molag_bal_cult size = 900 }
+	artisans = { culture = dremoran religion = molag_bal_cult size = 3000 }
+	bureaucrats = { culture = dremoran religion = molag_bal_cult size = 480 }
+	clergymen = { culture = dremoran religion = molag_bal_cult size = 660 }
+	farmers = { culture = dremoran religion = molag_bal_cult size = 54000 }
+	officers = { culture = dremoran religion = molag_bal_cult size = 60 }
+	soldiers = { culture = dremoran religion = molag_bal_cult size = 1200 }
+}
+2914 = {
+	aristocrats = { culture = soul_shriven religion = meridia_cult size = 900 }
+	artisans = { culture = soul_shriven religion = meridia_cult size = 3000 }
+	bureaucrats = { culture = soul_shriven religion = meridia_cult size = 480 }
+	clergymen = { culture = soul_shriven religion = meridia_cult size = 660 }
+	farmers = { culture = soul_shriven religion = meridia_cult size = 54000 }
+	officers = { culture = soul_shriven religion = meridia_cult size = 60 }
+	soldiers = { culture = soul_shriven religion = meridia_cult size = 1200 }
+}
+2915 = {
+	aristocrats = { culture = argonian religion = hist size = 1600 }
+	artisans = { culture = argonian religion = hist size = 8000 }
+	bureaucrats = { culture = argonian religion = hist size = 160 }
+	clergymen = { culture = argonian religion = hist size = 800 }
+	farmers = { culture = argonian religion = hist size = 144000 }
+	officers = { culture = argonian religion = hist size = 160 }
+	soldiers = { culture = argonian religion = hist size = 5280 }
+}
+2916 = {
+	aristocrats = { culture = scamp religion = mehrunes_dagon_cult size = 1500 }
+	artisans = { culture = scamp religion = mehrunes_dagon_cult size = 5000 }
+	bureaucrats = { culture = scamp religion = mehrunes_dagon_cult size = 800 }
+	clergymen = { culture = scamp religion = mehrunes_dagon_cult size = 1100 }
+	farmers = { culture = scamp religion = mehrunes_dagon_cult size = 90000 }
+	officers = { culture = scamp religion = mehrunes_dagon_cult size = 100 }
+	soldiers = { culture = scamp religion = mehrunes_dagon_cult size = 2000 }
+}
+2917 = {
+	aristocrats = { culture = argonian religion = hist size = 1050 }
+	artisans = { culture = argonian religion = hist size = 3500 }
+	bureaucrats = { culture = argonian religion = hist size = 560 }
+	clergymen = { culture = argonian religion = hist size = 770 }
+	farmers = { culture = argonian religion = hist size = 63000 }
+	officers = { culture = argonian religion = hist size = 70 }
+	soldiers = { culture = argonian religion = hist size = 1400 }
+}
+2918 = {
+	aristocrats = { culture = scamp religion = mehrunes_dagon_cult size = 600 }
+	artisans = { culture = scamp religion = mehrunes_dagon_cult size = 3000 }
+	bureaucrats = { culture = scamp religion = mehrunes_dagon_cult size = 480 }
+	clergymen = { culture = scamp religion = mehrunes_dagon_cult size = 660 }
+	farmers = { culture = scamp religion = mehrunes_dagon_cult size = 54000 }
+	officers = { culture = scamp religion = mehrunes_dagon_cult size = 60 }
+	soldiers = { culture = scamp religion = mehrunes_dagon_cult size = 1200 }
+}
+2919 = {
+	aristocrats = { culture = scamp religion = mehrunes_dagon_cult size = 500 }
+	artisans = { culture = scamp religion = mehrunes_dagon_cult size = 2500 }
+	bureaucrats = { culture = scamp religion = mehrunes_dagon_cult size = 400 }
+	clergymen = { culture = scamp religion = mehrunes_dagon_cult size = 550 }
+	farmers = { culture = scamp religion = mehrunes_dagon_cult size = 45000 }
+	officers = { culture = scamp religion = mehrunes_dagon_cult size = 50 }
+	soldiers = { culture = scamp religion = mehrunes_dagon_cult size = 1000 }
+}
+2920 = {
+	aristocrats = { culture = argonian religion = hist size = 1000 }
+	artisans = { culture = argonian religion = hist size = 5000 }
+	bureaucrats = { culture = argonian religion = hist size = 800 }
+	clergymen = { culture = argonian religion = hist size = 1100 }
+	farmers = { culture = argonian religion = hist size = 90000 }
+	officers = { culture = argonian religion = hist size = 100 }
+	soldiers = { culture = argonian religion = hist size = 2000 }
+}
+2951 = {
+	aristocrats = { culture = soul_shriven religion = meridia_cult size = 600 }
+	artisans = { culture = soul_shriven religion = meridia_cult size = 2000 }
+	bureaucrats = { culture = soul_shriven religion = meridia_cult size = 320 }
+	clergymen = { culture = soul_shriven religion = meridia_cult size = 440 }
+	farmers = { culture = soul_shriven religion = meridia_cult size = 36000 }
+	officers = { culture = soul_shriven religion = meridia_cult size = 40 }
+	soldiers = { culture = soul_shriven religion = meridia_cult size = 800 }
+}
+2952 = {
+	aristocrats = { culture = soul_shriven religion = meridia_cult size = 500 }
+	artisans = { culture = soul_shriven religion = meridia_cult size = 2500 }
+	bureaucrats = { culture = soul_shriven religion = meridia_cult size = 400 }
+	capitalists = { culture = soul_shriven religion = meridia_cult size = 50 }
+	clergymen = { culture = soul_shriven religion = meridia_cult size = 750 }
+	farmers = { culture = soul_shriven religion = meridia_cult size = 45000 }
+	officers = { culture = soul_shriven religion = meridia_cult size = 50 }
+	soldiers = { culture = soul_shriven religion = meridia_cult size = 1000 }
+}
+2953 = {
+	aristocrats = { culture = soul_shriven religion = meridia_cult size = 1300 }
+	artisans = { culture = soul_shriven religion = meridia_cult size = 6500 }
+	bureaucrats = { culture = soul_shriven religion = meridia_cult size = 1040 }
+	capitalists = { culture = soul_shriven religion = meridia_cult size = 130 }
+	clergymen = { culture = soul_shriven religion = meridia_cult size = 1950 }
+	farmers = { culture = soul_shriven religion = meridia_cult size = 117000 }
+	officers = { culture = soul_shriven religion = meridia_cult size = 130 }
+	soldiers = { culture = soul_shriven religion = meridia_cult size = 2600 }
+}
+2954 = {
+	aristocrats = { culture = daedroth religion = molag_bal_cult size = 700 }
+	artisans = { culture = daedroth religion = molag_bal_cult size = 3500 }
+	bureaucrats = { culture = daedroth religion = molag_bal_cult size = 560 }
+	clergymen = { culture = daedroth religion = molag_bal_cult size = 770 }
+	farmers = { culture = daedroth religion = molag_bal_cult size = 63000 }
+	officers = { culture = daedroth religion = molag_bal_cult size = 70 }
+	soldiers = { culture = daedroth religion = molag_bal_cult size = 1400 }
+}
+2955 = {
+	aristocrats = { culture = soul_shriven religion = meridia_cult size = 1200 }
+	artisans = { culture = soul_shriven religion = meridia_cult size = 6000 }
+	bureaucrats = { culture = soul_shriven religion = meridia_cult size = 960 }
+	capitalists = { culture = soul_shriven religion = meridia_cult size = 120 }
+	clergymen = { culture = soul_shriven religion = meridia_cult size = 1800 }
+	farmers = { culture = soul_shriven religion = meridia_cult size = 108000 }
+	officers = { culture = soul_shriven religion = meridia_cult size = 120 }
+	soldiers = { culture = soul_shriven religion = meridia_cult size = 2400 }
+}
+2956 = {
+	aristocrats = { culture = xivilai religion = molag_bal_cult size = 900 }
+	artisans = { culture = xivilai religion = molag_bal_cult size = 3000 }
+	bureaucrats = { culture = xivilai religion = molag_bal_cult size = 480 }
+	clergymen = { culture = xivilai religion = molag_bal_cult size = 660 }
+	farmers = { culture = xivilai religion = molag_bal_cult size = 54000 }
+	officers = { culture = xivilai religion = molag_bal_cult size = 60 }
+	soldiers = { culture = xivilai religion = molag_bal_cult size = 1200 }
+}
+2957 = {
+	aristocrats = { culture = dremoran religion = molag_bal_cult size = 2250 }
+	artisans = { culture = dremoran religion = molag_bal_cult size = 7500 }
+	bureaucrats = { culture = dremoran religion = molag_bal_cult size = 1200 }
+	clergymen = { culture = dremoran religion = molag_bal_cult size = 1650 }
+	farmers = { culture = dremoran religion = molag_bal_cult size = 135000 }
+	officers = { culture = dremoran religion = molag_bal_cult size = 150 }
+	soldiers = { culture = dremoran religion = molag_bal_cult size = 3000 }
+}
+2958 = {
+	aristocrats = { culture = dremoran religion = molag_bal_cult size = 500 }
+	artisans = { culture = dremoran religion = molag_bal_cult size = 2500 }
+	bureaucrats = { culture = dremoran religion = molag_bal_cult size = 400 }
+	clergymen = { culture = dremoran religion = molag_bal_cult size = 550 }
+	farmers = { culture = dremoran religion = molag_bal_cult size = 45000 }
+	officers = { culture = dremoran religion = molag_bal_cult size = 50 }
+	soldiers = { culture = dremoran religion = molag_bal_cult size = 1000 }
+}
+2959 = {
+	aristocrats = { culture = daedroth religion = molag_bal_cult size = 600 }
+	artisans = { culture = daedroth religion = molag_bal_cult size = 3000 }
+	bureaucrats = { culture = daedroth religion = molag_bal_cult size = 480 }
+	clergymen = { culture = daedroth religion = molag_bal_cult size = 660 }
+	farmers = { culture = daedroth religion = molag_bal_cult size = 54000 }
+	officers = { culture = daedroth religion = molag_bal_cult size = 60 }
+	soldiers = { culture = daedroth religion = molag_bal_cult size = 1200 }
+}
+2960 = {
+	aristocrats = { culture = xivilai religion = molag_bal_cult size = 1200 }
+	artisans = { culture = xivilai religion = molag_bal_cult size = 4000 }
+	bureaucrats = { culture = xivilai religion = molag_bal_cult size = 640 }
+	clergymen = { culture = xivilai religion = molag_bal_cult size = 880 }
+	farmers = { culture = xivilai religion = molag_bal_cult size = 72000 }
+	officers = { culture = xivilai religion = molag_bal_cult size = 80 }
+	soldiers = { culture = xivilai religion = molag_bal_cult size = 1600 }
+}
+2970 = {
+	aristocrats = { culture = argonian religion = hist size = 2100 }
+	artisans = { culture = argonian religion = hist size = 10500 }
+	bureaucrats = { culture = argonian religion = hist size = 210 }
+	clergymen = { culture = argonian religion = hist size = 1050 }
+	farmers = { culture = argonian religion = hist size = 189000 }
+	officers = { culture = argonian religion = hist size = 210 }
+	soldiers = { culture = argonian religion = hist size = 6930 }
+}
+3160 = {
+	aristocrats = { culture = daedroth religion = molag_bal_cult size = 600 }
+	artisans = { culture = daedroth religion = molag_bal_cult size = 3000 }
+	bureaucrats = { culture = daedroth religion = molag_bal_cult size = 60 }
+	clergymen = { culture = daedroth religion = molag_bal_cult size = 300 }
+	farmers = { culture = daedroth religion = molag_bal_cult size = 54000 }
+	officers = { culture = daedroth religion = molag_bal_cult size = 60 }
+	soldiers = { culture = daedroth religion = molag_bal_cult size = 1980 }
+}
+3161 = {
+	aristocrats = { culture = dremoran religion = molag_bal_cult size = 450 }
+	artisans = { culture = dremoran religion = molag_bal_cult size = 1500 }
+	bureaucrats = { culture = dremoran religion = molag_bal_cult size = 240 }
+	clergymen = { culture = dremoran religion = molag_bal_cult size = 330 }
+	farmers = { culture = dremoran religion = molag_bal_cult size = 27000 }
+	officers = { culture = dremoran religion = molag_bal_cult size = 30 }
+	soldiers = { culture = dremoran religion = molag_bal_cult size = 600 }
+}
+3162 = {
+	aristocrats = { culture = soul_shriven religion = molag_bal_cult size = 700 }
+	artisans = { culture = soul_shriven religion = molag_bal_cult size = 3500 }
+	bureaucrats = { culture = soul_shriven religion = molag_bal_cult size = 560 }
+	capitalists = { culture = soul_shriven religion = molag_bal_cult size = 70 }
+	clergymen = { culture = soul_shriven religion = molag_bal_cult size = 1050 }
+	farmers = { culture = soul_shriven religion = molag_bal_cult size = 63000 }
+	officers = { culture = soul_shriven religion = molag_bal_cult size = 70 }
+	soldiers = { culture = soul_shriven religion = molag_bal_cult size = 1400 }
+}
+3163 = {
+	aristocrats = { culture = soul_shriven religion = molag_bal_cult size = 1500 }
+	artisans = { culture = soul_shriven religion = molag_bal_cult size = 5000 }
+	bureaucrats = { culture = soul_shriven religion = molag_bal_cult size = 800 }
+	clergymen = { culture = soul_shriven religion = molag_bal_cult size = 1100 }
+	farmers = { culture = soul_shriven religion = molag_bal_cult size = 90000 }
+	officers = { culture = soul_shriven religion = molag_bal_cult size = 100 }
+	soldiers = { culture = soul_shriven religion = molag_bal_cult size = 2000 }
+}
+3164 = {
+	aristocrats = { culture = dremoran religion = molag_bal_cult size = 800 }
+	artisans = { culture = dremoran religion = molag_bal_cult size = 4000 }
+	bureaucrats = { culture = dremoran religion = molag_bal_cult size = 640 }
+	capitalists = { culture = dremoran religion = molag_bal_cult size = 80 }
+	clergymen = { culture = dremoran religion = molag_bal_cult size = 1200 }
+	farmers = { culture = dremoran religion = molag_bal_cult size = 72000 }
+	officers = { culture = dremoran religion = molag_bal_cult size = 80 }
+	soldiers = { culture = dremoran religion = molag_bal_cult size = 1600 }
+}
+3165 = {
+	aristocrats = { culture = daedroth religion = molag_bal_cult size = 500 }
+	artisans = { culture = daedroth religion = molag_bal_cult size = 2500 }
+	bureaucrats = { culture = daedroth religion = molag_bal_cult size = 50 }
+	clergymen = { culture = daedroth religion = molag_bal_cult size = 250 }
+	farmers = { culture = daedroth religion = molag_bal_cult size = 45000 }
+	officers = { culture = daedroth religion = molag_bal_cult size = 50 }
+	soldiers = { culture = daedroth religion = molag_bal_cult size = 1650 }
+}
+3166 = {
+	aristocrats = { culture = dremoran religion = molag_bal_cult size = 450 }
+	artisans = { culture = dremoran religion = molag_bal_cult size = 1500 }
+	bureaucrats = { culture = dremoran religion = molag_bal_cult size = 240 }
+	clergymen = { culture = dremoran religion = molag_bal_cult size = 330 }
+	farmers = { culture = dremoran religion = molag_bal_cult size = 27000 }
+	officers = { culture = dremoran religion = molag_bal_cult size = 30 }
+	soldiers = { culture = dremoran religion = molag_bal_cult size = 600 }
+}
+3167 = {
+	aristocrats = { culture = soul_shriven religion = molag_bal_cult size = 500 }
+	artisans = { culture = soul_shriven religion = molag_bal_cult size = 2500 }
+	bureaucrats = { culture = soul_shriven religion = molag_bal_cult size = 400 }
+	capitalists = { culture = soul_shriven religion = molag_bal_cult size = 50 }
+	clergymen = { culture = soul_shriven religion = molag_bal_cult size = 750 }
+	farmers = { culture = soul_shriven religion = molag_bal_cult size = 45000 }
+	officers = { culture = soul_shriven religion = molag_bal_cult size = 50 }
+	soldiers = { culture = soul_shriven religion = molag_bal_cult size = 1000 }
+}
+3168 = {
+	aristocrats = { culture = dremoran religion = molag_bal_cult size = 750 }
+	artisans = { culture = dremoran religion = molag_bal_cult size = 2500 }
+	bureaucrats = { culture = dremoran religion = molag_bal_cult size = 400 }
+	clergymen = { culture = dremoran religion = molag_bal_cult size = 550 }
+	farmers = { culture = dremoran religion = molag_bal_cult size = 45000 }
+	officers = { culture = dremoran religion = molag_bal_cult size = 50 }
+	soldiers = { culture = dremoran religion = molag_bal_cult size = 1000 }
+}
+3169 = {
+	aristocrats = { culture = dremoran religion = molag_bal_cult size = 450 }
+	artisans = { culture = dremoran religion = molag_bal_cult size = 1500 }
+	bureaucrats = { culture = dremoran religion = molag_bal_cult size = 240 }
+	clergymen = { culture = dremoran religion = molag_bal_cult size = 330 }
+	farmers = { culture = dremoran religion = molag_bal_cult size = 27000 }
+	officers = { culture = dremoran religion = molag_bal_cult size = 30 }
+	soldiers = { culture = dremoran religion = molag_bal_cult size = 600 }
+}
+3170 = {
+	aristocrats = { culture = dremoran religion = molag_bal_cult size = 1650 }
+	artisans = { culture = dremoran religion = molag_bal_cult size = 5500 }
+	bureaucrats = { culture = dremoran religion = molag_bal_cult size = 880 }
+	clergymen = { culture = dremoran religion = molag_bal_cult size = 1210 }
+	farmers = { culture = dremoran religion = molag_bal_cult size = 99000 }
+	officers = { culture = dremoran religion = molag_bal_cult size = 110 }
+	soldiers = { culture = dremoran religion = molag_bal_cult size = 2200 }
+}
+3171 = {
+	aristocrats = { culture = soul_shriven religion = molag_bal_cult size = 500 }
+	artisans = { culture = soul_shriven religion = molag_bal_cult size = 2500 }
+	bureaucrats = { culture = soul_shriven religion = molag_bal_cult size = 50 }
+	clergymen = { culture = soul_shriven religion = molag_bal_cult size = 250 }
+	farmers = { culture = soul_shriven religion = molag_bal_cult size = 45000 }
+	officers = { culture = soul_shriven religion = molag_bal_cult size = 50 }
+	soldiers = { culture = soul_shriven religion = molag_bal_cult size = 1650 }
+}
+3172 = {
+	aristocrats = { culture = soul_shriven religion = molag_bal_cult size = 600 }
+	artisans = { culture = soul_shriven religion = molag_bal_cult size = 3000 }
+	bureaucrats = { culture = soul_shriven religion = molag_bal_cult size = 60 }
+	clergymen = { culture = soul_shriven religion = molag_bal_cult size = 300 }
+	farmers = { culture = soul_shriven religion = molag_bal_cult size = 54000 }
+	officers = { culture = soul_shriven religion = molag_bal_cult size = 60 }
+	soldiers = { culture = soul_shriven religion = molag_bal_cult size = 1980 }
+}
+3173 = {
+	aristocrats = { culture = soul_shriven religion = molag_bal_cult size = 1050 }
+	artisans = { culture = soul_shriven religion = molag_bal_cult size = 3500 }
+	bureaucrats = { culture = soul_shriven religion = molag_bal_cult size = 560 }
+	clergymen = { culture = soul_shriven religion = molag_bal_cult size = 770 }
+	farmers = { culture = soul_shriven religion = molag_bal_cult size = 63000 }
+	officers = { culture = soul_shriven religion = molag_bal_cult size = 70 }
+	soldiers = { culture = soul_shriven religion = molag_bal_cult size = 1400 }
+}
+3174 = {
+	aristocrats = { culture = vampire religion = molag_bal_cult size = 1800 }
+	artisans = { culture = vampire religion = molag_bal_cult size = 6000 }
+	bureaucrats = { culture = vampire religion = molag_bal_cult size = 960 }
+	clergymen = { culture = vampire religion = molag_bal_cult size = 1320 }
+	farmers = { culture = vampire religion = molag_bal_cult size = 108000 }
+	officers = { culture = vampire religion = molag_bal_cult size = 120 }
+	soldiers = { culture = vampire religion = molag_bal_cult size = 2400 }
+}
+3175 = {
+	aristocrats = { culture = scamp religion = mehrunes_dagon_cult size = 1000 }
+	artisans = { culture = scamp religion = mehrunes_dagon_cult size = 5000 }
+	bureaucrats = { culture = scamp religion = mehrunes_dagon_cult size = 100 }
+	clergymen = { culture = scamp religion = mehrunes_dagon_cult size = 500 }
+	farmers = { culture = scamp religion = mehrunes_dagon_cult size = 90000 }
+	officers = { culture = scamp religion = mehrunes_dagon_cult size = 100 }
+	soldiers = { culture = scamp religion = mehrunes_dagon_cult size = 3300 }
+}
+3176 = {
+	aristocrats = { culture = soul_shriven religion = molag_bal_cult size = 500 }
+	artisans = { culture = soul_shriven religion = molag_bal_cult size = 2500 }
+	bureaucrats = { culture = soul_shriven religion = molag_bal_cult size = 400 }
+	clergymen = { culture = soul_shriven religion = molag_bal_cult size = 550 }
+	farmers = { culture = soul_shriven religion = molag_bal_cult size = 45000 }
+	officers = { culture = soul_shriven religion = molag_bal_cult size = 50 }
+	soldiers = { culture = soul_shriven religion = molag_bal_cult size = 1000 }
+}
+3177 = {
+	aristocrats = { culture = xivilai religion = molag_bal_cult size = 900 }
+	artisans = { culture = xivilai religion = molag_bal_cult size = 3000 }
+	bureaucrats = { culture = xivilai religion = molag_bal_cult size = 480 }
+	clergymen = { culture = xivilai religion = molag_bal_cult size = 660 }
+	farmers = { culture = xivilai religion = molag_bal_cult size = 54000 }
+	officers = { culture = xivilai religion = molag_bal_cult size = 60 }
+	soldiers = { culture = xivilai religion = molag_bal_cult size = 1200 }
+}
+3178 = {
+	aristocrats = { culture = soul_shriven religion = molag_bal_cult size = 700 }
+	artisans = { culture = soul_shriven religion = molag_bal_cult size = 3500 }
+	bureaucrats = { culture = soul_shriven religion = molag_bal_cult size = 560 }
+	capitalists = { culture = soul_shriven religion = molag_bal_cult size = 70 }
+	clergymen = { culture = soul_shriven religion = molag_bal_cult size = 1050 }
+	farmers = { culture = soul_shriven religion = molag_bal_cult size = 63000 }
+	officers = { culture = soul_shriven religion = molag_bal_cult size = 70 }
+	soldiers = { culture = soul_shriven religion = molag_bal_cult size = 1400 }
+}
+3179 = {
+	aristocrats = { culture = soul_shriven religion = molag_bal_cult size = 1050 }
+	artisans = { culture = soul_shriven religion = molag_bal_cult size = 3500 }
+	bureaucrats = { culture = soul_shriven religion = molag_bal_cult size = 560 }
+	clergymen = { culture = soul_shriven religion = molag_bal_cult size = 770 }
+	farmers = { culture = soul_shriven religion = molag_bal_cult size = 63000 }
+	officers = { culture = soul_shriven religion = molag_bal_cult size = 70 }
+	soldiers = { culture = soul_shriven religion = molag_bal_cult size = 1400 }
+}
+3180 = {
+	aristocrats = { culture = soul_shriven religion = molag_bal_cult size = 600 }
+	artisans = { culture = soul_shriven religion = molag_bal_cult size = 2000 }
+	bureaucrats = { culture = soul_shriven religion = molag_bal_cult size = 320 }
+	clergymen = { culture = soul_shriven religion = molag_bal_cult size = 440 }
+	farmers = { culture = soul_shriven religion = molag_bal_cult size = 36000 }
+	officers = { culture = soul_shriven religion = molag_bal_cult size = 40 }
+	soldiers = { culture = soul_shriven religion = molag_bal_cult size = 800 }
+}
+3181 = {
+	aristocrats = { culture = dremoran religion = molag_bal_cult size = 1200 }
+	artisans = { culture = dremoran religion = molag_bal_cult size = 4000 }
+	bureaucrats = { culture = dremoran religion = molag_bal_cult size = 640 }
+	clergymen = { culture = dremoran religion = molag_bal_cult size = 880 }
+	farmers = { culture = dremoran religion = molag_bal_cult size = 72000 }
+	officers = { culture = dremoran religion = molag_bal_cult size = 80 }
+	soldiers = { culture = dremoran religion = molag_bal_cult size = 1600 }
+}
+3182 = {
+	aristocrats = { culture = dremoran religion = molag_bal_cult size = 900 }
+	artisans = { culture = dremoran religion = molag_bal_cult size = 3000 }
+	bureaucrats = { culture = dremoran religion = molag_bal_cult size = 480 }
+	clergymen = { culture = dremoran religion = molag_bal_cult size = 660 }
+	farmers = { culture = dremoran religion = molag_bal_cult size = 54000 }
+	officers = { culture = dremoran religion = molag_bal_cult size = 60 }
+	soldiers = { culture = dremoran religion = molag_bal_cult size = 1200 }
+}
+3183 = {
+	aristocrats = { culture = soul_shriven religion = molag_bal_cult size = 600 }
+	artisans = { culture = soul_shriven religion = molag_bal_cult size = 3000 }
+	bureaucrats = { culture = soul_shriven religion = molag_bal_cult size = 480 }
+	capitalists = { culture = soul_shriven religion = molag_bal_cult size = 60 }
+	clergymen = { culture = soul_shriven religion = molag_bal_cult size = 900 }
+	farmers = { culture = soul_shriven religion = molag_bal_cult size = 54000 }
+	officers = { culture = soul_shriven religion = molag_bal_cult size = 60 }
+	soldiers = { culture = soul_shriven religion = molag_bal_cult size = 1200 }
+}
+3184 = {
+	aristocrats = { culture = soul_shriven religion = molag_bal_cult size = 700 }
+	artisans = { culture = soul_shriven religion = molag_bal_cult size = 3500 }
+	bureaucrats = { culture = soul_shriven religion = molag_bal_cult size = 70 }
+	clergymen = { culture = soul_shriven religion = molag_bal_cult size = 350 }
+	farmers = { culture = soul_shriven religion = molag_bal_cult size = 63000 }
+	officers = { culture = soul_shriven religion = molag_bal_cult size = 70 }
+	soldiers = { culture = soul_shriven religion = molag_bal_cult size = 2310 }
+}
+3185 = {
+	aristocrats = { culture = dremoran religion = molag_bal_cult size = 1050 }
+	artisans = { culture = dremoran religion = molag_bal_cult size = 3500 }
+	bureaucrats = { culture = dremoran religion = molag_bal_cult size = 560 }
+	clergymen = { culture = dremoran religion = molag_bal_cult size = 770 }
+	farmers = { culture = dremoran religion = molag_bal_cult size = 63000 }
+	officers = { culture = dremoran religion = molag_bal_cult size = 70 }
+	soldiers = { culture = dremoran religion = molag_bal_cult size = 1400 }
+}
+3186 = {
+	aristocrats = { culture = soul_shriven religion = molag_bal_cult size = 600 }
+	artisans = { culture = soul_shriven religion = molag_bal_cult size = 3000 }
+	bureaucrats = { culture = soul_shriven religion = molag_bal_cult size = 480 }
+	capitalists = { culture = soul_shriven religion = molag_bal_cult size = 60 }
+	clergymen = { culture = soul_shriven religion = molag_bal_cult size = 900 }
+	farmers = { culture = soul_shriven religion = molag_bal_cult size = 54000 }
+	officers = { culture = soul_shriven religion = molag_bal_cult size = 60 }
+	soldiers = { culture = soul_shriven religion = molag_bal_cult size = 1200 }
+}
+3187 = {
+	aristocrats = { culture = scamp religion = mehrunes_dagon_cult size = 700 }
+	artisans = { culture = scamp religion = mehrunes_dagon_cult size = 3500 }
+	bureaucrats = { culture = scamp religion = mehrunes_dagon_cult size = 70 }
+	clergymen = { culture = scamp religion = mehrunes_dagon_cult size = 350 }
+	farmers = { culture = scamp religion = mehrunes_dagon_cult size = 63000 }
+	officers = { culture = scamp religion = mehrunes_dagon_cult size = 70 }
+	soldiers = { culture = scamp religion = mehrunes_dagon_cult size = 2310 }
+}
+3188 = {
+	aristocrats = { culture = dremoran religion = molag_bal_cult size = 3450 }
+	artisans = { culture = dremoran religion = molag_bal_cult size = 11500 }
+	bureaucrats = { culture = dremoran religion = molag_bal_cult size = 1840 }
+	clergymen = { culture = dremoran religion = molag_bal_cult size = 2530 }
+	farmers = { culture = dremoran religion = molag_bal_cult size = 207000 }
+	officers = { culture = dremoran religion = molag_bal_cult size = 230 }
+	soldiers = { culture = dremoran religion = molag_bal_cult size = 4600 }
+}
+3189 = {
+	aristocrats = { culture = vampire religion = molag_bal_cult size = 600 }
+	artisans = { culture = vampire religion = molag_bal_cult size = 2000 }
+	bureaucrats = { culture = vampire religion = molag_bal_cult size = 320 }
+	clergymen = { culture = vampire religion = molag_bal_cult size = 440 }
+	farmers = { culture = vampire religion = molag_bal_cult size = 36000 }
+	officers = { culture = vampire religion = molag_bal_cult size = 40 }
+	soldiers = { culture = vampire religion = molag_bal_cult size = 800 }
+}
+3190 = {
+	aristocrats = { culture = scamp religion = mehrunes_dagon_cult size = 300 }
+	artisans = { culture = scamp religion = mehrunes_dagon_cult size = 1500 }
+	bureaucrats = { culture = scamp religion = mehrunes_dagon_cult size = 30 }
+	clergymen = { culture = scamp religion = mehrunes_dagon_cult size = 150 }
+	farmers = { culture = scamp religion = mehrunes_dagon_cult size = 27000 }
+	officers = { culture = scamp religion = mehrunes_dagon_cult size = 30 }
+	soldiers = { culture = scamp religion = mehrunes_dagon_cult size = 990 }
+}
+3763 = {
+	aristocrats = { culture = xivilai religion = mehrunes_dagon_cult size = 2100 }
+	artisans = { culture = xivilai religion = mehrunes_dagon_cult size = 7000 }
+	bureaucrats = { culture = xivilai religion = mehrunes_dagon_cult size = 1120 }
+	clergymen = { culture = xivilai religion = mehrunes_dagon_cult size = 1540 }
+	farmers = { culture = xivilai religion = mehrunes_dagon_cult size = 126000 }
+	officers = { culture = xivilai religion = mehrunes_dagon_cult size = 140 }
+	soldiers = { culture = xivilai religion = mehrunes_dagon_cult size = 2800 }
+}
+3768 = {
+	aristocrats = { culture = daedroth religion = mehrunes_dagon_cult size = 400 }
+	artisans = { culture = daedroth religion = mehrunes_dagon_cult size = 2000 }
+	bureaucrats = { culture = daedroth religion = mehrunes_dagon_cult size = 40 }
+	clergymen = { culture = daedroth religion = mehrunes_dagon_cult size = 200 }
+	farmers = { culture = daedroth religion = mehrunes_dagon_cult size = 36000 }
+	officers = { culture = daedroth religion = mehrunes_dagon_cult size = 40 }
+	soldiers = { culture = daedroth religion = mehrunes_dagon_cult size = 1320 }
+}
+3863 = {
+	aristocrats = { culture = clannfear religion = mehrunes_dagon_cult size = 400 }
+	artisans = { culture = clannfear religion = mehrunes_dagon_cult size = 2000 }
+	bureaucrats = { culture = clannfear religion = mehrunes_dagon_cult size = 40 }
+	clergymen = { culture = clannfear religion = mehrunes_dagon_cult size = 200 }
+	farmers = { culture = clannfear religion = mehrunes_dagon_cult size = 36000 }
+	officers = { culture = clannfear religion = mehrunes_dagon_cult size = 40 }
+	soldiers = { culture = clannfear religion = mehrunes_dagon_cult size = 1320 }
+}
+3864 = {
+	aristocrats = { culture = xivilai religion = mehrunes_dagon_cult size = 750 }
+	artisans = { culture = xivilai religion = mehrunes_dagon_cult size = 2500 }
+	bureaucrats = { culture = xivilai religion = mehrunes_dagon_cult size = 400 }
+	clergymen = { culture = xivilai religion = mehrunes_dagon_cult size = 550 }
+	farmers = { culture = xivilai religion = mehrunes_dagon_cult size = 45000 }
+	officers = { culture = xivilai religion = mehrunes_dagon_cult size = 50 }
+	soldiers = { culture = xivilai religion = mehrunes_dagon_cult size = 1000 }
+}
+3877 = {
+	aristocrats = { culture = clannfear religion = mehrunes_dagon_cult size = 1900 }
+	artisans = { culture = clannfear religion = mehrunes_dagon_cult size = 9500 }
+	bureaucrats = { culture = clannfear religion = mehrunes_dagon_cult size = 190 }
+	clergymen = { culture = clannfear religion = mehrunes_dagon_cult size = 950 }
+	farmers = { culture = clannfear religion = mehrunes_dagon_cult size = 171000 }
+	officers = { culture = clannfear religion = mehrunes_dagon_cult size = 190 }
+	soldiers = { culture = clannfear religion = mehrunes_dagon_cult size = 6270 }
+}
+3879 = {
+	aristocrats = { culture = arachnid religion = mephala_cult size = 600 }
+	artisans = { culture = arachnid religion = mephala_cult size = 3000 }
+	bureaucrats = { culture = arachnid religion = mephala_cult size = 60 }
+	clergymen = { culture = arachnid religion = mephala_cult size = 300 }
+	farmers = { culture = arachnid religion = mephala_cult size = 54000 }
+	officers = { culture = arachnid religion = mephala_cult size = 60 }
+	soldiers = { culture = arachnid religion = mephala_cult size = 1980 }
+}
+3891 = {
+	aristocrats = { culture = xivilai religion = mehrunes_dagon_cult size = 1500 }
+	artisans = { culture = xivilai religion = mehrunes_dagon_cult size = 5000 }
+	bureaucrats = { culture = xivilai religion = mehrunes_dagon_cult size = 800 }
+	clergymen = { culture = xivilai religion = mehrunes_dagon_cult size = 1100 }
+	farmers = { culture = xivilai religion = mehrunes_dagon_cult size = 90000 }
+	officers = { culture = xivilai religion = mehrunes_dagon_cult size = 100 }
+	soldiers = { culture = xivilai religion = mehrunes_dagon_cult size = 2000 }
+}
+4065 = {
+	aristocrats = { culture = xivilai religion = mehrunes_dagon_cult size = 1500 }
+	artisans = { culture = xivilai religion = mehrunes_dagon_cult size = 5000 }
+	bureaucrats = { culture = xivilai religion = mehrunes_dagon_cult size = 800 }
+	clergymen = { culture = xivilai religion = mehrunes_dagon_cult size = 1100 }
+	farmers = { culture = xivilai religion = mehrunes_dagon_cult size = 90000 }
+	officers = { culture = xivilai religion = mehrunes_dagon_cult size = 100 }
+	soldiers = { culture = xivilai religion = mehrunes_dagon_cult size = 2000 }
+}
+4075 = {
+	aristocrats = { culture = xivilai religion = mehrunes_dagon_cult size = 1050 }
+	artisans = { culture = xivilai religion = mehrunes_dagon_cult size = 3500 }
+	bureaucrats = { culture = xivilai religion = mehrunes_dagon_cult size = 560 }
+	clergymen = { culture = xivilai religion = mehrunes_dagon_cult size = 770 }
+	farmers = { culture = xivilai religion = mehrunes_dagon_cult size = 63000 }
+	officers = { culture = xivilai religion = mehrunes_dagon_cult size = 70 }
+	soldiers = { culture = xivilai religion = mehrunes_dagon_cult size = 1400 }
+}
+4076 = {
+	aristocrats = { culture = scamp religion = mehrunes_dagon_cult size = 700 }
+	artisans = { culture = scamp religion = mehrunes_dagon_cult size = 3500 }
+	bureaucrats = { culture = scamp religion = mehrunes_dagon_cult size = 70 }
+	clergymen = { culture = scamp religion = mehrunes_dagon_cult size = 350 }
+	farmers = { culture = scamp religion = mehrunes_dagon_cult size = 63000 }
+	officers = { culture = scamp religion = mehrunes_dagon_cult size = 70 }
+	soldiers = { culture = scamp religion = mehrunes_dagon_cult size = 2310 }
+}
+4077 = {
+	aristocrats = { culture = xivilai religion = mehrunes_dagon_cult size = 800 }
+	artisans = { culture = xivilai religion = mehrunes_dagon_cult size = 4000 }
+	bureaucrats = { culture = xivilai religion = mehrunes_dagon_cult size = 640 }
+	capitalists = { culture = xivilai religion = mehrunes_dagon_cult size = 80 }
+	clergymen = { culture = xivilai religion = mehrunes_dagon_cult size = 1200 }
+	farmers = { culture = xivilai religion = mehrunes_dagon_cult size = 72000 }
+	officers = { culture = xivilai religion = mehrunes_dagon_cult size = 80 }
+	soldiers = { culture = xivilai religion = mehrunes_dagon_cult size = 1600 }
+}
+4141 = {
+	aristocrats = { culture = daedroth religion = mehrunes_dagon_cult size = 800 }
+	artisans = { culture = daedroth religion = mehrunes_dagon_cult size = 4000 }
+	bureaucrats = { culture = daedroth religion = mehrunes_dagon_cult size = 80 }
+	clergymen = { culture = daedroth religion = mehrunes_dagon_cult size = 400 }
+	farmers = { culture = daedroth religion = mehrunes_dagon_cult size = 72000 }
+	officers = { culture = daedroth religion = mehrunes_dagon_cult size = 80 }
+	soldiers = { culture = daedroth religion = mehrunes_dagon_cult size = 2640 }
+}
+4143 = {
+	aristocrats = { culture = xivilai religion = mehrunes_dagon_cult size = 1100 }
+	artisans = { culture = xivilai religion = mehrunes_dagon_cult size = 5500 }
+	bureaucrats = { culture = xivilai religion = mehrunes_dagon_cult size = 880 }
+	capitalists = { culture = xivilai religion = mehrunes_dagon_cult size = 110 }
+	clergymen = { culture = xivilai religion = mehrunes_dagon_cult size = 1650 }
+	farmers = { culture = xivilai religion = mehrunes_dagon_cult size = 99000 }
+	officers = { culture = xivilai religion = mehrunes_dagon_cult size = 110 }
+	soldiers = { culture = xivilai religion = mehrunes_dagon_cult size = 2200 }
+}
+4151 = {
+	aristocrats = { culture = daedroth religion = mehrunes_dagon_cult size = 300 }
+	artisans = { culture = daedroth religion = mehrunes_dagon_cult size = 1500 }
+	bureaucrats = { culture = daedroth religion = mehrunes_dagon_cult size = 30 }
+	clergymen = { culture = daedroth religion = mehrunes_dagon_cult size = 150 }
+	farmers = { culture = daedroth religion = mehrunes_dagon_cult size = 27000 }
+	officers = { culture = daedroth religion = mehrunes_dagon_cult size = 30 }
+	soldiers = { culture = daedroth religion = mehrunes_dagon_cult size = 990 }
+}
+4154 = {
+	aristocrats = { culture = clannfear religion = mehrunes_dagon_cult size = 1000 }
+	artisans = { culture = clannfear religion = mehrunes_dagon_cult size = 5000 }
+	bureaucrats = { culture = clannfear religion = mehrunes_dagon_cult size = 800 }
+	capitalists = { culture = clannfear religion = mehrunes_dagon_cult size = 100 }
+	clergymen = { culture = clannfear religion = mehrunes_dagon_cult size = 1500 }
+	farmers = { culture = clannfear religion = mehrunes_dagon_cult size = 90000 }
+	officers = { culture = clannfear religion = mehrunes_dagon_cult size = 100 }
+	soldiers = { culture = clannfear religion = mehrunes_dagon_cult size = 2000 }
+}
+4171 = {
+	aristocrats = { culture = clannfear religion = mehrunes_dagon_cult size = 1200 }
+	artisans = { culture = clannfear religion = mehrunes_dagon_cult size = 6000 }
+	bureaucrats = { culture = clannfear religion = mehrunes_dagon_cult size = 960 }
+	capitalists = { culture = clannfear religion = mehrunes_dagon_cult size = 120 }
+	clergymen = { culture = clannfear religion = mehrunes_dagon_cult size = 1800 }
+	farmers = { culture = clannfear religion = mehrunes_dagon_cult size = 108000 }
+	officers = { culture = clannfear religion = mehrunes_dagon_cult size = 120 }
+	soldiers = { culture = clannfear religion = mehrunes_dagon_cult size = 2400 }
+}
+4186 = {
+	aristocrats = { culture = clannfear religion = mehrunes_dagon_cult size = 700 }
+	artisans = { culture = clannfear religion = mehrunes_dagon_cult size = 3500 }
+	bureaucrats = { culture = clannfear religion = mehrunes_dagon_cult size = 70 }
+	clergymen = { culture = clannfear religion = mehrunes_dagon_cult size = 350 }
+	farmers = { culture = clannfear religion = mehrunes_dagon_cult size = 63000 }
+	officers = { culture = clannfear religion = mehrunes_dagon_cult size = 70 }
+	soldiers = { culture = clannfear religion = mehrunes_dagon_cult size = 2310 }
+}
+4189 = {
+	aristocrats = { culture = clannfear religion = mehrunes_dagon_cult size = 1350 }
+	artisans = { culture = clannfear religion = mehrunes_dagon_cult size = 4500 }
+	bureaucrats = { culture = clannfear religion = mehrunes_dagon_cult size = 720 }
+	clergymen = { culture = clannfear religion = mehrunes_dagon_cult size = 990 }
+	farmers = { culture = clannfear religion = mehrunes_dagon_cult size = 81000 }
+	officers = { culture = clannfear religion = mehrunes_dagon_cult size = 90 }
+	soldiers = { culture = clannfear religion = mehrunes_dagon_cult size = 1800 }
+}
+4193 = {
+	aristocrats = { culture = daedroth religion = mehrunes_dagon_cult size = 600 }
+	artisans = { culture = daedroth religion = mehrunes_dagon_cult size = 3000 }
+	bureaucrats = { culture = daedroth religion = mehrunes_dagon_cult size = 60 }
+	clergymen = { culture = daedroth religion = mehrunes_dagon_cult size = 300 }
+	farmers = { culture = daedroth religion = mehrunes_dagon_cult size = 54000 }
+	officers = { culture = daedroth religion = mehrunes_dagon_cult size = 60 }
+	soldiers = { culture = daedroth religion = mehrunes_dagon_cult size = 1980 }
+}
+4194 = {
+	aristocrats = { culture = scamp religion = mehrunes_dagon_cult size = 1100 }
+	artisans = { culture = scamp religion = mehrunes_dagon_cult size = 5500 }
+	bureaucrats = { culture = scamp religion = mehrunes_dagon_cult size = 880 }
+	capitalists = { culture = scamp religion = mehrunes_dagon_cult size = 110 }
+	clergymen = { culture = scamp religion = mehrunes_dagon_cult size = 1650 }
+	farmers = { culture = scamp religion = mehrunes_dagon_cult size = 99000 }
+	officers = { culture = scamp religion = mehrunes_dagon_cult size = 110 }
+	soldiers = { culture = scamp religion = mehrunes_dagon_cult size = 2200 }
+}
+4197 = {
+	aristocrats = { culture = xivilai religion = mehrunes_dagon_cult size = 1050 }
+	artisans = { culture = xivilai religion = mehrunes_dagon_cult size = 3500 }
+	bureaucrats = { culture = xivilai religion = mehrunes_dagon_cult size = 560 }
+	clergymen = { culture = xivilai religion = mehrunes_dagon_cult size = 770 }
+	farmers = { culture = xivilai religion = mehrunes_dagon_cult size = 63000 }
+	officers = { culture = xivilai religion = mehrunes_dagon_cult size = 70 }
+	soldiers = { culture = xivilai religion = mehrunes_dagon_cult size = 1400 }
+}
+4200 = {
+	aristocrats = { culture = daedroth religion = mehrunes_dagon_cult size = 500 }
+	artisans = { culture = daedroth religion = mehrunes_dagon_cult size = 2500 }
+	bureaucrats = { culture = daedroth religion = mehrunes_dagon_cult size = 50 }
+	clergymen = { culture = daedroth religion = mehrunes_dagon_cult size = 250 }
+	farmers = { culture = daedroth religion = mehrunes_dagon_cult size = 45000 }
+	officers = { culture = daedroth religion = mehrunes_dagon_cult size = 50 }
+	soldiers = { culture = daedroth religion = mehrunes_dagon_cult size = 1650 }
+}
+4281 = {
+	aristocrats = { culture = xivilai religion = mehrunes_dagon_cult size = 3000 }
+	artisans = { culture = xivilai religion = mehrunes_dagon_cult size = 10000 }
+	bureaucrats = { culture = xivilai religion = mehrunes_dagon_cult size = 1600 }
+	clergymen = { culture = xivilai religion = mehrunes_dagon_cult size = 2200 }
+	farmers = { culture = xivilai religion = mehrunes_dagon_cult size = 180000 }
+	officers = { culture = xivilai religion = mehrunes_dagon_cult size = 200 }
+	soldiers = { culture = xivilai religion = mehrunes_dagon_cult size = 4000 }
+}
+4282 = {
+	aristocrats = { culture = xivilai religion = mehrunes_dagon_cult size = 750 }
+	artisans = { culture = xivilai religion = mehrunes_dagon_cult size = 2500 }
+	bureaucrats = { culture = xivilai religion = mehrunes_dagon_cult size = 400 }
+	clergymen = { culture = xivilai religion = mehrunes_dagon_cult size = 550 }
+	farmers = { culture = xivilai religion = mehrunes_dagon_cult size = 45000 }
+	officers = { culture = xivilai religion = mehrunes_dagon_cult size = 50 }
+	soldiers = { culture = xivilai religion = mehrunes_dagon_cult size = 1000 }
+}
+4283 = {
+	aristocrats = { culture = xivilai religion = mehrunes_dagon_cult size = 600 }
+	artisans = { culture = xivilai religion = mehrunes_dagon_cult size = 2000 }
+	bureaucrats = { culture = xivilai religion = mehrunes_dagon_cult size = 320 }
+	clergymen = { culture = xivilai religion = mehrunes_dagon_cult size = 440 }
+	farmers = { culture = xivilai religion = mehrunes_dagon_cult size = 36000 }
+	officers = { culture = xivilai religion = mehrunes_dagon_cult size = 40 }
+	soldiers = { culture = xivilai religion = mehrunes_dagon_cult size = 800 }
+}
+4284 = {
+	aristocrats = { culture = clannfear religion = mehrunes_dagon_cult size = 750 }
+	artisans = { culture = clannfear religion = mehrunes_dagon_cult size = 2500 }
+	bureaucrats = { culture = clannfear religion = mehrunes_dagon_cult size = 400 }
+	clergymen = { culture = clannfear religion = mehrunes_dagon_cult size = 550 }
+	farmers = { culture = clannfear religion = mehrunes_dagon_cult size = 45000 }
+	officers = { culture = clannfear religion = mehrunes_dagon_cult size = 50 }
+	soldiers = { culture = clannfear religion = mehrunes_dagon_cult size = 1000 }
+}
+4285 = {
+	aristocrats = { culture = xivilai religion = mehrunes_dagon_cult size = 1200 }
+	artisans = { culture = xivilai religion = mehrunes_dagon_cult size = 4000 }
+	bureaucrats = { culture = xivilai religion = mehrunes_dagon_cult size = 640 }
+	clergymen = { culture = xivilai religion = mehrunes_dagon_cult size = 880 }
+	farmers = { culture = xivilai religion = mehrunes_dagon_cult size = 72000 }
+	officers = { culture = xivilai religion = mehrunes_dagon_cult size = 80 }
+	soldiers = { culture = xivilai religion = mehrunes_dagon_cult size = 1600 }
+}
+4287 = {
+	aristocrats = { culture = xivilai religion = mehrunes_dagon_cult size = 2400 }
+	artisans = { culture = xivilai religion = mehrunes_dagon_cult size = 8000 }
+	bureaucrats = { culture = xivilai religion = mehrunes_dagon_cult size = 1280 }
+	clergymen = { culture = xivilai religion = mehrunes_dagon_cult size = 1760 }
+	farmers = { culture = xivilai religion = mehrunes_dagon_cult size = 144000 }
+	officers = { culture = xivilai religion = mehrunes_dagon_cult size = 160 }
+	soldiers = { culture = xivilai religion = mehrunes_dagon_cult size = 3200 }
+}
+4288 = {
+	aristocrats = { culture = daedroth religion = mehrunes_dagon_cult size = 400 }
+	artisans = { culture = daedroth religion = mehrunes_dagon_cult size = 2000 }
+	bureaucrats = { culture = daedroth religion = mehrunes_dagon_cult size = 40 }
+	clergymen = { culture = daedroth religion = mehrunes_dagon_cult size = 200 }
+	farmers = { culture = daedroth religion = mehrunes_dagon_cult size = 36000 }
+	officers = { culture = daedroth religion = mehrunes_dagon_cult size = 40 }
+	soldiers = { culture = daedroth religion = mehrunes_dagon_cult size = 1320 }
+}
+4290 = {
+	aristocrats = { culture = clannfear religion = mehrunes_dagon_cult size = 700 }
+	artisans = { culture = clannfear religion = mehrunes_dagon_cult size = 3500 }
+	bureaucrats = { culture = clannfear religion = mehrunes_dagon_cult size = 70 }
+	clergymen = { culture = clannfear religion = mehrunes_dagon_cult size = 350 }
+	farmers = { culture = clannfear religion = mehrunes_dagon_cult size = 63000 }
+	officers = { culture = clannfear religion = mehrunes_dagon_cult size = 70 }
+	soldiers = { culture = clannfear religion = mehrunes_dagon_cult size = 2310 }
+}
+4291 = {
+	aristocrats = { culture = clannfear religion = mehrunes_dagon_cult size = 700 }
+	artisans = { culture = clannfear religion = mehrunes_dagon_cult size = 3500 }
+	bureaucrats = { culture = clannfear religion = mehrunes_dagon_cult size = 70 }
+	clergymen = { culture = clannfear religion = mehrunes_dagon_cult size = 350 }
+	farmers = { culture = clannfear religion = mehrunes_dagon_cult size = 63000 }
+	officers = { culture = clannfear religion = mehrunes_dagon_cult size = 70 }
+	soldiers = { culture = clannfear religion = mehrunes_dagon_cult size = 2310 }
+}
+4295 = {
+	aristocrats = { culture = scamp religion = mehrunes_dagon_cult size = 450 }
+	artisans = { culture = scamp religion = mehrunes_dagon_cult size = 1500 }
+	bureaucrats = { culture = scamp religion = mehrunes_dagon_cult size = 240 }
+	clergymen = { culture = scamp religion = mehrunes_dagon_cult size = 330 }
+	farmers = { culture = scamp religion = mehrunes_dagon_cult size = 27000 }
+	officers = { culture = scamp religion = mehrunes_dagon_cult size = 30 }
+	soldiers = { culture = scamp religion = mehrunes_dagon_cult size = 600 }
+}
+4298 = {
+	aristocrats = { culture = xivilai religion = mehrunes_dagon_cult size = 2000 }
+	artisans = { culture = xivilai religion = mehrunes_dagon_cult size = 10000 }
+	bureaucrats = { culture = xivilai religion = mehrunes_dagon_cult size = 1600 }
+	capitalists = { culture = xivilai religion = mehrunes_dagon_cult size = 200 }
+	clergymen = { culture = xivilai religion = mehrunes_dagon_cult size = 3000 }
+	farmers = { culture = xivilai religion = mehrunes_dagon_cult size = 180000 }
+	officers = { culture = xivilai religion = mehrunes_dagon_cult size = 200 }
+	soldiers = { culture = xivilai religion = mehrunes_dagon_cult size = 4000 }
+}
+4311 = {
+	aristocrats = { culture = xivilai religion = mehrunes_dagon_cult size = 4200 }
+	artisans = { culture = xivilai religion = mehrunes_dagon_cult size = 14000 }
+	bureaucrats = { culture = xivilai religion = mehrunes_dagon_cult size = 2240 }
+	clergymen = { culture = xivilai religion = mehrunes_dagon_cult size = 3080 }
+	farmers = { culture = xivilai religion = mehrunes_dagon_cult size = 252000 }
+	officers = { culture = xivilai religion = mehrunes_dagon_cult size = 280 }
+	soldiers = { culture = xivilai religion = mehrunes_dagon_cult size = 5600 }
+}
+4312 = {
+	aristocrats = { culture = arachnid religion = mephala_cult size = 500 }
+	artisans = { culture = arachnid religion = mephala_cult size = 2500 }
+	bureaucrats = { culture = arachnid religion = mephala_cult size = 50 }
+	clergymen = { culture = arachnid religion = mephala_cult size = 250 }
+	farmers = { culture = arachnid religion = mephala_cult size = 45000 }
+	officers = { culture = arachnid religion = mephala_cult size = 50 }
+	soldiers = { culture = arachnid religion = mephala_cult size = 1650 }
+}
+4313 = {
+	aristocrats = { culture = arachnid religion = mephala_cult size = 500 }
+	artisans = { culture = arachnid religion = mephala_cult size = 2500 }
+	bureaucrats = { culture = arachnid religion = mephala_cult size = 50 }
+	clergymen = { culture = arachnid religion = mephala_cult size = 250 }
+	farmers = { culture = arachnid religion = mephala_cult size = 45000 }
+	officers = { culture = arachnid religion = mephala_cult size = 50 }
+	soldiers = { culture = arachnid religion = mephala_cult size = 1650 }
+}
+4314 = {
+	aristocrats = { culture = daedroth religion = mephala_cult size = 600 }
+	artisans = { culture = daedroth religion = mephala_cult size = 3000 }
+	bureaucrats = { culture = daedroth religion = mephala_cult size = 60 }
+	clergymen = { culture = daedroth religion = mephala_cult size = 300 }
+	farmers = { culture = daedroth religion = mephala_cult size = 54000 }
+	officers = { culture = daedroth religion = mephala_cult size = 60 }
+	soldiers = { culture = daedroth religion = mephala_cult size = 1980 }
+}
+4315 = {
+	aristocrats = { culture = scamp religion = mehrunes_dagon_cult size = 700 }
+	artisans = { culture = scamp religion = mehrunes_dagon_cult size = 3500 }
+	bureaucrats = { culture = scamp religion = mehrunes_dagon_cult size = 70 }
+	clergymen = { culture = scamp religion = mehrunes_dagon_cult size = 350 }
+	farmers = { culture = scamp religion = mehrunes_dagon_cult size = 63000 }
+	officers = { culture = scamp religion = mehrunes_dagon_cult size = 70 }
+	soldiers = { culture = scamp religion = mehrunes_dagon_cult size = 2310 }
+}
+4316 = {
+	aristocrats = { culture = xivilai religion = mehrunes_dagon_cult size = 900 }
+	artisans = { culture = xivilai religion = mehrunes_dagon_cult size = 3000 }
+	bureaucrats = { culture = xivilai religion = mehrunes_dagon_cult size = 480 }
+	clergymen = { culture = xivilai religion = mehrunes_dagon_cult size = 660 }
+	farmers = { culture = xivilai religion = mehrunes_dagon_cult size = 54000 }
+	officers = { culture = xivilai religion = mehrunes_dagon_cult size = 60 }
+	soldiers = { culture = xivilai religion = mehrunes_dagon_cult size = 1200 }
+}
+4317 = {
+	aristocrats = { culture = xivilai religion = mehrunes_dagon_cult size = 450 }
+	artisans = { culture = xivilai religion = mehrunes_dagon_cult size = 1500 }
+	bureaucrats = { culture = xivilai religion = mehrunes_dagon_cult size = 240 }
+	clergymen = { culture = xivilai religion = mehrunes_dagon_cult size = 330 }
+	farmers = { culture = xivilai religion = mehrunes_dagon_cult size = 27000 }
+	officers = { culture = xivilai religion = mehrunes_dagon_cult size = 30 }
+	soldiers = { culture = xivilai religion = mehrunes_dagon_cult size = 600 }
+}
+4318 = {
+	aristocrats = { culture = xivilai religion = mehrunes_dagon_cult size = 750 }
+	artisans = { culture = xivilai religion = mehrunes_dagon_cult size = 2500 }
+	bureaucrats = { culture = xivilai religion = mehrunes_dagon_cult size = 400 }
+	clergymen = { culture = xivilai religion = mehrunes_dagon_cult size = 550 }
+	farmers = { culture = xivilai religion = mehrunes_dagon_cult size = 45000 }
+	officers = { culture = xivilai religion = mehrunes_dagon_cult size = 50 }
+	soldiers = { culture = xivilai religion = mehrunes_dagon_cult size = 1000 }
+}
+4319 = {
+	aristocrats = { culture = xivilai religion = mehrunes_dagon_cult size = 1800 }
+	artisans = { culture = xivilai religion = mehrunes_dagon_cult size = 6000 }
+	bureaucrats = { culture = xivilai religion = mehrunes_dagon_cult size = 960 }
+	clergymen = { culture = xivilai religion = mehrunes_dagon_cult size = 1320 }
+	farmers = { culture = xivilai religion = mehrunes_dagon_cult size = 108000 }
+	officers = { culture = xivilai religion = mehrunes_dagon_cult size = 120 }
+	soldiers = { culture = xivilai religion = mehrunes_dagon_cult size = 2400 }
+}
+4320 = {
+	aristocrats = { culture = scamp religion = mehrunes_dagon_cult size = 600 }
+	artisans = { culture = scamp religion = mehrunes_dagon_cult size = 3000 }
+	bureaucrats = { culture = scamp religion = mehrunes_dagon_cult size = 60 }
+	clergymen = { culture = scamp religion = mehrunes_dagon_cult size = 300 }
+	farmers = { culture = scamp religion = mehrunes_dagon_cult size = 54000 }
+	officers = { culture = scamp religion = mehrunes_dagon_cult size = 60 }
+	soldiers = { culture = scamp religion = mehrunes_dagon_cult size = 1980 }
+}
+4325 = {
+	aristocrats = { culture = arachnid religion = mephala_cult size = 1300 }
+	artisans = { culture = arachnid religion = mephala_cult size = 6500 }
+	bureaucrats = { culture = arachnid religion = mephala_cult size = 130 }
+	clergymen = { culture = arachnid religion = mephala_cult size = 650 }
+	farmers = { culture = arachnid religion = mephala_cult size = 117000 }
+	officers = { culture = arachnid religion = mephala_cult size = 130 }
+	soldiers = { culture = arachnid religion = mephala_cult size = 4290 }
+}
+4327 = {
+	aristocrats = { culture = clannfear religion = mehrunes_dagon_cult size = 500 }
+	artisans = { culture = clannfear religion = mehrunes_dagon_cult size = 2500 }
+	bureaucrats = { culture = clannfear religion = mehrunes_dagon_cult size = 400 }
+	capitalists = { culture = clannfear religion = mehrunes_dagon_cult size = 50 }
+	clergymen = { culture = clannfear religion = mehrunes_dagon_cult size = 750 }
+	farmers = { culture = clannfear religion = mehrunes_dagon_cult size = 45000 }
+	officers = { culture = clannfear religion = mehrunes_dagon_cult size = 50 }
+	soldiers = { culture = clannfear religion = mehrunes_dagon_cult size = 1000 }
+}
+4330 = {
+	aristocrats = { culture = xivilai religion = mehrunes_dagon_cult size = 750 }
+	artisans = { culture = xivilai religion = mehrunes_dagon_cult size = 2500 }
+	bureaucrats = { culture = xivilai religion = mehrunes_dagon_cult size = 400 }
+	clergymen = { culture = xivilai religion = mehrunes_dagon_cult size = 550 }
+	farmers = { culture = xivilai religion = mehrunes_dagon_cult size = 45000 }
+	officers = { culture = xivilai religion = mehrunes_dagon_cult size = 50 }
+	soldiers = { culture = xivilai religion = mehrunes_dagon_cult size = 1000 }
+}
+4337 = {
+	aristocrats = { culture = xivilai religion = mehrunes_dagon_cult size = 600 }
+	artisans = { culture = xivilai religion = mehrunes_dagon_cult size = 3000 }
+	bureaucrats = { culture = xivilai religion = mehrunes_dagon_cult size = 480 }
+	capitalists = { culture = xivilai religion = mehrunes_dagon_cult size = 60 }
+	clergymen = { culture = xivilai religion = mehrunes_dagon_cult size = 900 }
+	farmers = { culture = xivilai religion = mehrunes_dagon_cult size = 54000 }
+	officers = { culture = xivilai religion = mehrunes_dagon_cult size = 60 }
+	soldiers = { culture = xivilai religion = mehrunes_dagon_cult size = 1200 }
+}
+4342 = {
+	aristocrats = { culture = scamp religion = mehrunes_dagon_cult size = 800 }
+	artisans = { culture = scamp religion = mehrunes_dagon_cult size = 4000 }
+	bureaucrats = { culture = scamp religion = mehrunes_dagon_cult size = 640 }
+	capitalists = { culture = scamp religion = mehrunes_dagon_cult size = 80 }
+	clergymen = { culture = scamp religion = mehrunes_dagon_cult size = 1200 }
+	farmers = { culture = scamp religion = mehrunes_dagon_cult size = 72000 }
+	officers = { culture = scamp religion = mehrunes_dagon_cult size = 80 }
+	soldiers = { culture = scamp religion = mehrunes_dagon_cult size = 1600 }
+}
+4344 = {
+	aristocrats = { culture = xivilai religion = mehrunes_dagon_cult size = 1400 }
+	artisans = { culture = xivilai religion = mehrunes_dagon_cult size = 7000 }
+	bureaucrats = { culture = xivilai religion = mehrunes_dagon_cult size = 1120 }
+	capitalists = { culture = xivilai religion = mehrunes_dagon_cult size = 140 }
+	clergymen = { culture = xivilai religion = mehrunes_dagon_cult size = 2100 }
+	farmers = { culture = xivilai religion = mehrunes_dagon_cult size = 126000 }
+	officers = { culture = xivilai religion = mehrunes_dagon_cult size = 140 }
+	soldiers = { culture = xivilai religion = mehrunes_dagon_cult size = 2800 }
+}
+4353 = {
+	aristocrats = { culture = xivilai religion = mephala_cult size = 1400 }
+	artisans = { culture = xivilai religion = mephala_cult size = 7000 }
+	bureaucrats = { culture = xivilai religion = mephala_cult size = 1120 }
+	capitalists = { culture = xivilai religion = mephala_cult size = 140 }
+	clergymen = { culture = xivilai religion = mephala_cult size = 2100 }
+	farmers = { culture = xivilai religion = mephala_cult size = 126000 }
+	officers = { culture = xivilai religion = mephala_cult size = 140 }
+	soldiers = { culture = xivilai religion = mephala_cult size = 2800 }
+}

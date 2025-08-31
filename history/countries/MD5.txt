@@ -1,0 +1,8 @@
+capital = 1045
+government = tribal
+religion = chimer_pantheon
+primary_culture = ashlander_chimer
+nationalvalue = exiled_tg
+literacy = 0
+non_state_culture_literacy = 0
+ruling_party = openvic_generic_reactionary

@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = tobacco
+owner = CC9
+controller = CC9
+add_core = CC9

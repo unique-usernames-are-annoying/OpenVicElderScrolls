@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = coffee
+owner = SE0
+controller = SE0
+add_core = SE0

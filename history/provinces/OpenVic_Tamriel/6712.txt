@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = fruit
+owner = AF6
+controller = AF6
+add_core = AF6

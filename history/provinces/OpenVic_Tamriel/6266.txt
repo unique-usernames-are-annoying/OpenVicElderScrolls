@@ -1,0 +1,6 @@
+life_rating = 30
+trade_goods = coal
+owner = BD7
+controller = BD7
+add_core = BD7
+add_core = HA7

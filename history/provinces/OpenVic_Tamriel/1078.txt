@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = tea
+owner = AC6
+controller = AC6
+add_core = AC6

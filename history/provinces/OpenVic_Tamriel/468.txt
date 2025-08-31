@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = coal
+owner = SC9
+controller = SC9
+add_core = SC9

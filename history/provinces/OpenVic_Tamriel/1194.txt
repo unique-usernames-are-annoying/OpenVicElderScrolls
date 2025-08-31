@@ -1,0 +1,6 @@
+life_rating = 30
+trade_goods = timber
+owner = CH7
+controller = CH7
+add_core = CH7
+add_core = CB6

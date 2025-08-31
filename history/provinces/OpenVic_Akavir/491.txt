@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = fish
+owner = JB3
+controller = JB3
+add_core = JB3

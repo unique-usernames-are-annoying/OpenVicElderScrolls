@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = tea
+owner = MH7
+controller = MH7
+add_core = MH7

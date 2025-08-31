@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = tropical_wood
+owner = RA4
+controller = RA4
+add_core = RA4

@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = dye
+owner = AE9
+controller = AE9
+add_core = AE9

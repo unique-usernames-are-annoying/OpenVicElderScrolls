@@ -1,0 +1,8 @@
+capital = 6257
+government = tribal
+religion = celestials
+primary_culture = keptu
+nationalvalue = cyrodiil_tg
+literacy = 0
+non_state_culture_literacy = 0
+ruling_party = openvic_generic_reactionary

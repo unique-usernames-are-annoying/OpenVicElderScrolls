@@ -1,0 +1,6 @@
+life_rating = 30
+trade_goods = grain
+owner = FRS
+controller = FRS
+add_core = FRS
+add_core = NG0

@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = coal
+owner = MH5
+controller = MH5
+add_core = MH5

@@ -1,0 +1,6 @@
+life_rating = 30
+trade_goods = tea
+owner = NB6
+controller = NB6
+add_core = NB6
+add_core = NE9

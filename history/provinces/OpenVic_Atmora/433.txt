@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = fish
+owner = DB2
+controller = DB2
+add_core = DB2

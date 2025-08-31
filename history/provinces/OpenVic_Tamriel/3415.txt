@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = cattle
+owner = MA5
+controller = MA5
+add_core = MA5

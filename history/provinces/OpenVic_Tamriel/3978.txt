@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = grain
+owner = MA4
+controller = MA4
+add_core = MA4

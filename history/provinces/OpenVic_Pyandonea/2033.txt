@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = fish
+owner = PC0
+controller = PC0
+add_core = PC0

@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = grain
+owner = PB7
+controller = PB7
+add_core = PB7

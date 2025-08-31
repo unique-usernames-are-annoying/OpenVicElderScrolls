@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = iron
+owner = BE7
+controller = BE7
+add_core = BE7

@@ -1,0 +1,8 @@
+capital = 1087
+government = tribal
+religion = nocturnal_cult
+primary_culture = lilmothiit
+nationalvalue = elven_tg
+literacy = 0
+non_state_culture_literacy = 0
+ruling_party = openvic_generic_reactionary

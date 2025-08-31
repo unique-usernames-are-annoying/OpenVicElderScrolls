@@ -1,0 +1,6 @@
+life_rating = 30
+trade_goods = tropical_wood
+owner = YB6
+controller = YB6
+add_core = YB6
+add_core = YA6

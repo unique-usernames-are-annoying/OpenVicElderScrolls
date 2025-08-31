@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = fruit
+owner = VC2
+controller = VC2
+add_core = VC2

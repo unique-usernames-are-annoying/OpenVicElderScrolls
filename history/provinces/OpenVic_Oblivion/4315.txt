@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = grain
+owner = GA8
+controller = GA8
+add_core = GA8

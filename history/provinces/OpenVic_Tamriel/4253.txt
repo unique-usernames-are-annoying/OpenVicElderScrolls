@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = tobacco
+owner = MF8
+controller = MF8
+add_core = MF8

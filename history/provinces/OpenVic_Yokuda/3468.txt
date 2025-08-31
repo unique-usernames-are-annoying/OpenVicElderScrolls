@@ -1,0 +1,6 @@
+life_rating = 30
+trade_goods = cattle
+owner = YB7
+controller = YB7
+add_core = YB7
+add_core = YB5

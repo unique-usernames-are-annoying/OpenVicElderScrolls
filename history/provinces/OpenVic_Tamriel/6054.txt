@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = dye
+owner = CD4
+controller = CD4
+add_core = CD4

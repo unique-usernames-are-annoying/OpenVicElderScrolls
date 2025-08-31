@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = grain
+owner = BLA
+controller = BLA
+add_core = BLA

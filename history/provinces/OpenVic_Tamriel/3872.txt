@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = opium
+owner = RA9
+controller = RA9
+add_core = RA9

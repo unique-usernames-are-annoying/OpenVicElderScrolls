@@ -1,0 +1,6 @@
+life_rating = 30
+trade_goods = tropical_wood
+owner = CH4
+controller = CH4
+add_core = CH4
+add_core = CA9

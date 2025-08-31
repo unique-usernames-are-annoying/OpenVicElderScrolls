@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = coffee
+owner = ND2
+controller = ND2
+add_core = ND2

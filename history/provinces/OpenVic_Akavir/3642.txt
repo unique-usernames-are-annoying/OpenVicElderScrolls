@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = tobacco
+owner = UA3
+controller = UA3
+add_core = UA3

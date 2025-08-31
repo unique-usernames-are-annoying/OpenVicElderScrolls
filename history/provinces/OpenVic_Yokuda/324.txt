@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = tropical_wood
+owner = THR
+controller = THR
+add_core = THR

@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = fish
+owner = BF1
+controller = BF1
+add_core = BF1

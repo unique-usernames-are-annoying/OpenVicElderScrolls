@@ -1,0 +1,8 @@
+capital = 6861
+government = tribal
+religion = malacath_cult
+primary_culture = goblin
+nationalvalue = orsimer_tg
+literacy = 0
+non_state_culture_literacy = 0
+ruling_party = openvic_generic_reactionary

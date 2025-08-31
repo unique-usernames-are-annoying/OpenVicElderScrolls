@@ -1,0 +1,6 @@
+life_rating = 30
+trade_goods = tobacco
+owner = SB7
+controller = SB7
+add_core = SB7
+add_core = SD4

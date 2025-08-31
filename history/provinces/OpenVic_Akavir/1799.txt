@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = cattle
+owner = KHE
+controller = KHE
+add_core = KHE

@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = fruit
+owner = NC3
+controller = NC3
+add_core = NC3

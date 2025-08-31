@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = timber
+owner = UA2
+controller = UA2
+add_core = UA2

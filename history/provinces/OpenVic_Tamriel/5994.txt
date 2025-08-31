@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = tea
+owner = CF6
+controller = CF6
+add_core = CF6

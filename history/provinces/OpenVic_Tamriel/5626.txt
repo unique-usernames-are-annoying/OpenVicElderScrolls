@@ -1,0 +1,6 @@
+life_rating = 30
+trade_goods = fish
+owner = CD1
+controller = CD1
+add_core = CD1
+add_core = CE8

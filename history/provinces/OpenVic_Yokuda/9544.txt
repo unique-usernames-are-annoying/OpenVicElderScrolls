@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = grain
+owner = YA9
+controller = YA9
+add_core = YA9

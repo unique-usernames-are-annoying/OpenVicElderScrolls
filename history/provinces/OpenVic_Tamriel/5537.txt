@@ -1,0 +1,6 @@
+life_rating = 30
+trade_goods = grain
+owner = CG7
+controller = CG7
+add_core = CG7
+add_core = CB7

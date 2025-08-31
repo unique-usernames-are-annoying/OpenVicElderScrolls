@@ -1,0 +1,6 @@
+life_rating = 30
+trade_goods = grain
+owner = YC5
+controller = YC5
+add_core = YC5
+add_core = YC6

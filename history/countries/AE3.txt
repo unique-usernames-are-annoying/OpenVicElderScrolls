@@ -1,0 +1,8 @@
+capital = 3843
+government = native
+religion = hist
+primary_culture = archein
+nationalvalue = marshan_tg
+literacy = 0.2
+non_state_culture_literacy = 0.2
+ruling_party = openvic_generic_reactionary

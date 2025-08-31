@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = tobacco
+owner = PB2
+controller = PB2
+add_core = PB2

@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = cotton
+owner = DB3
+controller = DB3
+add_core = DB3

@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = cotton
+owner = ND7
+controller = ND7
+add_core = ND7

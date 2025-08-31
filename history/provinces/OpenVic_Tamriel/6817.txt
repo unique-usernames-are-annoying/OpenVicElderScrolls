@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = coal
+owner = AD7
+controller = AD7
+add_core = AD7

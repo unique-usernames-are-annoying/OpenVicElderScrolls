@@ -1,0 +1,6 @@
+life_rating = 30
+trade_goods = cattle
+owner = UA7
+controller = UA7
+add_core = UA7
+add_core = UA8

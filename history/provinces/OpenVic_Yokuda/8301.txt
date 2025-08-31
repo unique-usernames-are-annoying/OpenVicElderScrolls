@@ -1,0 +1,6 @@
+life_rating = 30
+trade_goods = tea
+owner = YC0
+controller = YC0
+add_core = YC0
+add_core = YA6

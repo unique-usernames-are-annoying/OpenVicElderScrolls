@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = grain
+owner = MF9
+controller = MF9
+add_core = MF9

@@ -1,0 +1,6 @@
+life_rating = 30
+trade_goods = cattle
+owner = NF6
+controller = NF6
+add_core = NF6
+add_core = NF3

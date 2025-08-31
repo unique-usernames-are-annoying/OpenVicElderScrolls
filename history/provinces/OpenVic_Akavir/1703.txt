@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = wool
+owner = OC5
+controller = OC5
+add_core = OC5

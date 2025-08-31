@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = coal
+owner = VC0
+controller = VC0
+add_core = VC0

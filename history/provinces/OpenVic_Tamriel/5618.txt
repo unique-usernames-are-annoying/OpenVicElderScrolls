@@ -1,0 +1,6 @@
+life_rating = 30
+trade_goods = tobacco
+owner = CB1
+controller = CB1
+add_core = CB1
+add_core = CB2

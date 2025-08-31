@@ -1,0 +1,8 @@
+capital = 834
+government = tribal
+religion = hircine_cult
+primary_culture = centaur
+nationalvalue = elven_tg
+literacy = 0
+non_state_culture_literacy = 0
+ruling_party = openvic_generic_reactionary

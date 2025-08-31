@@ -1,0 +1,6 @@
+life_rating = 30
+trade_goods = dye
+owner = OA4
+controller = OA4
+add_core = OA4
+add_core = OA3

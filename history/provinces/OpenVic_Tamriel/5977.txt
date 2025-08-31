@@ -1,0 +1,6 @@
+life_rating = 30
+trade_goods = grain
+owner = MOG
+controller = MOG
+add_core = MOG
+add_core = CG5

@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = grain
+owner = JA9
+controller = JA9
+add_core = JA9

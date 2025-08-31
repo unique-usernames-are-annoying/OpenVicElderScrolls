@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = cattle
+owner = VC4
+controller = VC4
+add_core = VC4

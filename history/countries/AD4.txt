@@ -1,0 +1,8 @@
+capital = 6527
+government = native
+religion = kothri_pantheon
+primary_culture = kothringi
+nationalvalue = marshan_tg
+literacy = 0.2
+non_state_culture_literacy = 0.2
+ruling_party = openvic_generic_reactionary

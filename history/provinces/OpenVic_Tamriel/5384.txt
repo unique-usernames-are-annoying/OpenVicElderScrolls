@@ -1,0 +1,6 @@
+life_rating = 30
+trade_goods = dye
+owner = MOK
+controller = MOK
+add_core = MOK
+add_core = CJ3

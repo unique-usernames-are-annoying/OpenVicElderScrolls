@@ -1,0 +1,6 @@
+life_rating = 30
+trade_goods = cattle
+owner = HG0
+controller = HG0
+add_core = HG0
+add_core = HF9

@@ -1,0 +1,6 @@
+life_rating = 30
+trade_goods = tea
+owner = MIT
+controller = MIT
+add_core = MIT
+add_core = CI3

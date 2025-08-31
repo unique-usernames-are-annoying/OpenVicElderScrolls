@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = wool
+owner = MC7
+controller = MC7
+add_core = MC7

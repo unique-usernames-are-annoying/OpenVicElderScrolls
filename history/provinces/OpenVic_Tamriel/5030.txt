@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = tropical_wood
+owner = VB4
+controller = VB4
+add_core = VB4

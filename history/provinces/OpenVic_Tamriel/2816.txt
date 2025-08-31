@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = cattle
+owner = ND3
+controller = ND3
+add_core = ND3

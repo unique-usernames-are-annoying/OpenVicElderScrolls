@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = fish
+owner = GA2
+controller = GA2
+add_core = GA2

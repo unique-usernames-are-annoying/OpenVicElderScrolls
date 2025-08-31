@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = dye
+owner = JB1
+controller = JB1
+add_core = JB1

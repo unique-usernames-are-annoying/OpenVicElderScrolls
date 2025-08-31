@@ -1,0 +1,6 @@
+life_rating = 30
+trade_goods = timber
+owner = BD3
+controller = BD3
+add_core = BD3
+add_core = BB4

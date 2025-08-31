@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = cotton
+owner = MG7
+controller = MG7
+add_core = MG7

@@ -1,0 +1,8 @@
+capital = 1080
+government = native
+religion = elder_gods
+primary_culture = yespest
+nationalvalue = marshan_tg
+literacy = 0.2
+non_state_culture_literacy = 0.2
+ruling_party = openvic_generic_reactionary

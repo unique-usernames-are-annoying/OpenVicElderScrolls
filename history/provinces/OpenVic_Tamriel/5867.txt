@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = cattle
+owner = CJ9
+controller = CJ9
+add_core = CJ9

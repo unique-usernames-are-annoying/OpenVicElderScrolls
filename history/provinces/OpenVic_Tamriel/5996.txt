@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = coal
+owner = CJ5
+controller = CJ5
+add_core = CJ5

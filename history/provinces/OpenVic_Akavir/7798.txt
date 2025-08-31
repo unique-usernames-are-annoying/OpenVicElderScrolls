@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = timber
+owner = OB7
+controller = OB7
+add_core = OB7

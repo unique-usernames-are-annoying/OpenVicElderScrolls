@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = sulphur
+owner = VB0
+controller = VB0
+add_core = VB0

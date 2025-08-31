@@ -1,0 +1,8 @@
+capital = 1687
+government = tribal
+religion = golden_paw_cult
+primary_culture = canis_men
+nationalvalue = akavir_tg
+literacy = 0
+non_state_culture_literacy = 0
+ruling_party = openvic_generic_reactionary

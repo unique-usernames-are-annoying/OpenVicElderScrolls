@@ -1,0 +1,6 @@
+life_rating = 30
+trade_goods = fish
+owner = HG0
+controller = HG0
+add_core = HG0
+add_core = HF0

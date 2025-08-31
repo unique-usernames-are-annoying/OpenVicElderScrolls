@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = coal
+owner = CA4
+controller = CA4
+add_core = CA4

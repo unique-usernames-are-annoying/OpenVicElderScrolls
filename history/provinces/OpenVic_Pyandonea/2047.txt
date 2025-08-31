@@ -1,0 +1,5 @@
+life_rating = 30
+trade_goods = silk
+owner = PB0
+controller = PB0
+add_core = PB0

@@ -1,5 +1,6 @@
+terrain = coastline
 life_rating = 30
-trade_goods = tobacco
+trade_goods = silk
 owner = SE0
 controller = SE0
 add_core = SE0

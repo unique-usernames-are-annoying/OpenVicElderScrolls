@@ -1,5 +1,6 @@
+terrain = highlands
 life_rating = 30
-trade_goods = wool
+trade_goods = cattle
 owner = NF7
 controller = NF7
 add_core = NF7

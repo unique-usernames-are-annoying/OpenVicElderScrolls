@@ -1,5 +1,6 @@
+terrain = chasm
 life_rating = 30
-trade_goods = fruit
+trade_goods = dye
 owner = LA9
 controller = LA9
 add_core = LA9

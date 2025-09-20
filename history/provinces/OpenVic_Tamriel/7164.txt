@@ -1,5 +1,6 @@
+terrain = hills
 life_rating = 30
-trade_goods = iron
+trade_goods = sulphur
 owner = NA7
 controller = NA7
 add_core = NA7

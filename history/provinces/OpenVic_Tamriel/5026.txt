@@ -1,2 +1,6 @@
+terrain = mountain_meadows
 life_rating = 30
-trade_goods = coal
+trade_goods = tobacco
+owner = VE2
+controller = VE2
+add_core = VE2

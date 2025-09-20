@@ -1,3 +1,4 @@
+terrain = urban_thorn
 life_rating = 30
 trade_goods = grain
 owner = AA1

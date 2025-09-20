@@ -1,5 +1,6 @@
+terrain = urban_leyawiin
 life_rating = 30
-trade_goods = timber
+trade_goods = wool
 owner = CA1
 controller = CA1
 add_core = CA1

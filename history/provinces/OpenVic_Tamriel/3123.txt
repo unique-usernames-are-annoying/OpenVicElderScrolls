@@ -1,5 +1,6 @@
+terrain = forest
 life_rating = 30
-trade_goods = coal
+trade_goods = fish
 owner = NA3
 controller = NA3
 add_core = NA3

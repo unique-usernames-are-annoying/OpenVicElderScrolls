@@ -1,5 +1,6 @@
+terrain = withered_forest
 life_rating = 30
-trade_goods = dye
+trade_goods = grain
 owner = LA1
 controller = LA1
 add_core = LA1

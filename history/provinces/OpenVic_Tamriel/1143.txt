@@ -1,3 +1,4 @@
+terrain = woods
 life_rating = 30
 trade_goods = tea
 owner = CC7

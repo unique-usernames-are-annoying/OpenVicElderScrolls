@@ -1,5 +1,6 @@
+terrain = mountain
 life_rating = 30
-trade_goods = fruit
+trade_goods = precious_metal
 owner = NG7
 controller = NG7
 add_core = NG7

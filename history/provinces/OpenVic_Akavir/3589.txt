@@ -1,5 +1,6 @@
+terrain = hills
 life_rating = 30
-trade_goods = opium
+trade_goods = grain
 owner = UB2
 controller = UB2
 add_core = UB2

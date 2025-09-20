@@ -1,5 +1,6 @@
+terrain = mountain_meadows
 life_rating = 30
-trade_goods = timber
+trade_goods = tea
 owner = BB0
 controller = BB0
 add_core = BB0

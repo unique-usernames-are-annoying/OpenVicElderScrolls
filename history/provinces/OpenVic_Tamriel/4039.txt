@@ -1,5 +1,6 @@
+terrain = mountain
 life_rating = 30
-trade_goods = coal
+trade_goods = tropical_wood
 owner = MG0
 controller = MG0
 add_core = MG0

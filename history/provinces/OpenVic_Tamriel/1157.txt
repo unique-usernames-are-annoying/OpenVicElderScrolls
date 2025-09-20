@@ -1,5 +1,6 @@
+terrain = farmlands
 life_rating = 30
-trade_goods = tobacco
+trade_goods = sulphur
 owner = CH4
 controller = CH4
 add_core = CH4

@@ -1,5 +1,6 @@
+terrain = savannah
 life_rating = 30
-trade_goods = tobacco
+trade_goods = fish
 owner = ED1
 controller = ED1
 add_core = ED1

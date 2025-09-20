@@ -1,5 +1,6 @@
+terrain = orcish_stronghold
 life_rating = 30
-trade_goods = grain
+trade_goods = tropical_wood
 owner = MH1
 controller = MH1
 add_core = MH1

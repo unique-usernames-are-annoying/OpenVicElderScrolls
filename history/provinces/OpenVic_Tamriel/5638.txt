@@ -1,5 +1,6 @@
+terrain = woods
 life_rating = 30
-trade_goods = coffee
+trade_goods = opium
 owner = CB4
 controller = CB4
 add_core = CB4

@@ -1,5 +1,6 @@
+terrain = savannah
 life_rating = 30
-trade_goods = fruit
+trade_goods = cattle
 owner = VD0
 controller = VD0
 add_core = VD0

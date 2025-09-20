@@ -1,5 +1,6 @@
+terrain = drylands
 life_rating = 30
-trade_goods = tea
+trade_goods = cotton
 owner = HC5
 controller = HC5
 add_core = HC5

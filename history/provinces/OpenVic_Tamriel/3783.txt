@@ -1,5 +1,6 @@
+terrain = dwemer_stronghold
 life_rating = 30
-trade_goods = dye
+trade_goods = coffee
 owner = ME1
 controller = ME1
 add_core = ME1

@@ -1,5 +1,6 @@
+terrain = taiga
 life_rating = 30
-trade_goods = dye
+trade_goods = timber
 owner = NB1
 controller = NB1
 add_core = NB1

@@ -1,5 +1,6 @@
+terrain = jungle
 life_rating = 30
-trade_goods = wool
+trade_goods = fruit
 owner = JA4
 controller = JA4
 add_core = JA4

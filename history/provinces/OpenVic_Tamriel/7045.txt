@@ -1,3 +1,4 @@
+terrain = urban_northpoint
 life_rating = 30
 trade_goods = grain
 owner = BB2

@@ -1,5 +1,6 @@
+terrain = woods
 life_rating = 30
-trade_goods = grain
+trade_goods = tropical_wood
 owner = MOG
 controller = MOG
 add_core = MOG

@@ -1,5 +1,6 @@
+terrain = urban_shaesci
 life_rating = 30
-trade_goods = fish
+trade_goods = grain
 owner = TA7
 controller = TA7
 add_core = TA7

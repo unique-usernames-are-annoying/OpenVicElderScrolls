@@ -1,4 +1,4 @@
-capital = 2273
+capital = 1567
 government = monarchy
 religion = nordic_pantheon
 primary_culture = atmoran

@@ -1,5 +1,6 @@
+terrain = urban_jianhax
 life_rating = 30
-trade_goods = cattle
+trade_goods = grain
 owner = OC4
 controller = OC4
 add_core = OC4

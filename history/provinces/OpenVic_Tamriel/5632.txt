@@ -1,5 +1,6 @@
+terrain = woods
 life_rating = 30
-trade_goods = fruit
+trade_goods = silk
 owner = CE1
 controller = CE1
 add_core = CE1

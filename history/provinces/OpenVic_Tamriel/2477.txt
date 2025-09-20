@@ -1,5 +1,6 @@
+terrain = hills
 life_rating = 30
-trade_goods = fruit
+trade_goods = tea
 owner = SB5
 controller = SB5
 add_core = SB5

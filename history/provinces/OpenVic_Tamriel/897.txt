@@ -1,5 +1,6 @@
+terrain = savannah
 life_rating = 30
-trade_goods = wool
+trade_goods = fruit
 owner = EA9
 controller = EA9
 add_core = EA9

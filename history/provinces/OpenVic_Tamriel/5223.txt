@@ -1,5 +1,6 @@
+terrain = steppe
 life_rating = 30
-trade_goods = cotton
+trade_goods = coal
 owner = EC4
 controller = EC4
 add_core = EC4

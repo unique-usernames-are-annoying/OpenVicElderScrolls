@@ -1,5 +1,6 @@
+terrain = coastline
 life_rating = 30
-trade_goods = grain
+trade_goods = tobacco
 owner = VC0
 controller = VC0
 add_core = VC0

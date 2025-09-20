@@ -1,5 +1,6 @@
+terrain = woods
 life_rating = 30
-trade_goods = sulphur
+trade_goods = cattle
 owner = VA1
 controller = VA1
 add_core = VA1

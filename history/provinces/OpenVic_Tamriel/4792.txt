@@ -1,5 +1,6 @@
+terrain = woods
 life_rating = 30
-trade_goods = dye
+trade_goods = wool
 owner = SD3
 controller = SD3
 add_core = SD3

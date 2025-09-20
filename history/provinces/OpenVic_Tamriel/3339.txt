@@ -1,5 +1,6 @@
+terrain = highlands
 life_rating = 30
-trade_goods = tropical_wood
+trade_goods = tea
 owner = MC4
 controller = MC4
 add_core = MC4

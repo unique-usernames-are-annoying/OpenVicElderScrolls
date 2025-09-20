@@ -1,2 +1,3 @@
+terrain = dread_massive
 life_rating = 30
-trade_goods = cotton
+trade_goods = tobacco

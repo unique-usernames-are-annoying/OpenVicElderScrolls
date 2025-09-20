@@ -1,5 +1,6 @@
+terrain = mountain
 life_rating = 30
-trade_goods = cotton
+trade_goods = grain
 owner = IA7
 controller = IA7
 add_core = IA7

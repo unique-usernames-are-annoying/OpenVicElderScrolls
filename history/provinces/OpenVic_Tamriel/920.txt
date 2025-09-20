@@ -1,3 +1,4 @@
+terrain = steppe
 life_rating = 30
 trade_goods = coffee
 owner = EB0

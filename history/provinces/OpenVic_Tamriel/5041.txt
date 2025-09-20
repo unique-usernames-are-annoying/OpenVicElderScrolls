@@ -1,5 +1,6 @@
+terrain = forest
 life_rating = 30
-trade_goods = cotton
+trade_goods = coal
 owner = IMG
 controller = IMG
 add_core = IMG

@@ -1,5 +1,6 @@
+terrain = caves
 life_rating = 30
-trade_goods = fish
+trade_goods = iron
 owner = ALH
 controller = ALH
 add_core = ALH

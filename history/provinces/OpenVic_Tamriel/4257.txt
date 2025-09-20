@@ -1,5 +1,6 @@
+terrain = ashlands
 life_rating = 30
-trade_goods = tobacco
+trade_goods = timber
 owner = TON
 controller = TON
 add_core = TON

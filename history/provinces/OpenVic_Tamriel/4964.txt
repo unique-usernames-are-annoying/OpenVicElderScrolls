@@ -1,5 +1,6 @@
+terrain = coastline
 life_rating = 30
-trade_goods = wool
+trade_goods = coffee
 owner = VB8
 controller = VB8
 add_core = VB8

@@ -1,5 +1,6 @@
+terrain = mountain_meadows
 life_rating = 30
-trade_goods = tea
+trade_goods = timber
 owner = NF9
 controller = NF9
 add_core = NF9

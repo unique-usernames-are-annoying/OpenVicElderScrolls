@@ -1,5 +1,6 @@
+terrain = glacier
 life_rating = 30
-trade_goods = silk
+trade_goods = timber
 owner = DE3
 controller = DE3
 add_core = DE3

@@ -1,5 +1,6 @@
+terrain = coastline
 life_rating = 30
-trade_goods = tea
+trade_goods = cattle
 owner = JA1
 controller = JA1
 add_core = JA1

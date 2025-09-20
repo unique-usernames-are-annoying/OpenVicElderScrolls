@@ -1,3 +1,4 @@
+terrain = coastline
 life_rating = 30
 trade_goods = grain
 owner = ALG

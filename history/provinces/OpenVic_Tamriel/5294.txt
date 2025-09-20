@@ -1,5 +1,6 @@
+terrain = drylands
 life_rating = 30
-trade_goods = dye
+trade_goods = tea
 owner = EB2
 controller = EB2
 add_core = EB2

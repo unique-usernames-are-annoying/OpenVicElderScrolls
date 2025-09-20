@@ -1,5 +1,6 @@
+terrain = hills
 life_rating = 30
-trade_goods = timber
+trade_goods = fruit
 owner = VC7
 controller = VC7
 add_core = VC7

@@ -1,5 +1,6 @@
+terrain = cold_wastes
 life_rating = 30
-trade_goods = tea
+trade_goods = fruit
 owner = LB4
 controller = LB4
 add_core = LB4

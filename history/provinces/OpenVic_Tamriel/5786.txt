@@ -1,5 +1,6 @@
+terrain = grasslands
 life_rating = 30
-trade_goods = grain
+trade_goods = tea
 owner = CF0
 controller = CF0
 add_core = CF0

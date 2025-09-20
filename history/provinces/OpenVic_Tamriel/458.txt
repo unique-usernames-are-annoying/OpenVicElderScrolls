@@ -1,5 +1,6 @@
+terrain = woods
 life_rating = 30
-trade_goods = cotton
+trade_goods = grain
 owner = SB7
 controller = SB7
 add_core = SB7

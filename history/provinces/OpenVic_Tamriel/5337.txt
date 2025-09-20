@@ -1,5 +1,6 @@
+terrain = woods
 life_rating = 30
-trade_goods = dye
+trade_goods = fish
 owner = CH4
 controller = CH4
 add_core = CH4

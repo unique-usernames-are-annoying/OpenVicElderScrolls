@@ -1,5 +1,6 @@
+terrain = highlands
 life_rating = 30
-trade_goods = timber
+trade_goods = wool
 owner = BB6
 controller = BB6
 add_core = BB6

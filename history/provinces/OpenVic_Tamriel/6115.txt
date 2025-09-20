@@ -1,5 +1,6 @@
+terrain = craglands
 life_rating = 30
-trade_goods = grain
+trade_goods = coal
 owner = HH0
 controller = HH0
 add_core = HH0

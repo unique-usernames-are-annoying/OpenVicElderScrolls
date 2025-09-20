@@ -1,5 +1,6 @@
+terrain = urban_skywatch
 life_rating = 30
-trade_goods = cattle
+trade_goods = tea
 owner = SC9
 controller = SC9
 add_core = SC9

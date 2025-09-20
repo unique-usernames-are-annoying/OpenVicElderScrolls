@@ -1,5 +1,6 @@
+terrain = grasslands
 life_rating = 30
-trade_goods = grain
+trade_goods = fruit
 owner = CF8
 controller = CF8
 add_core = CF8

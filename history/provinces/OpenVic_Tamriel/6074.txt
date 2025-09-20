@@ -1,5 +1,6 @@
+terrain = orcish_stronghold
 life_rating = 30
-trade_goods = fish
+trade_goods = fruit
 owner = HH2
 controller = HH2
 add_core = HH2

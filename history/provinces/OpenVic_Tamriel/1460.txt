@@ -1,5 +1,6 @@
+terrain = moorlands
 life_rating = 30
-trade_goods = fish
+trade_goods = dye
 owner = HC9
 controller = HC9
 add_core = HC9

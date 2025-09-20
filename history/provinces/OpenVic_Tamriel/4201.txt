@@ -1,5 +1,6 @@
+terrain = grasslands
 life_rating = 30
-trade_goods = silk
+trade_goods = grain
 owner = MI6
 controller = MI6
 add_core = MI6

@@ -1,5 +1,6 @@
+terrain = hills
 life_rating = 30
-trade_goods = fish
+trade_goods = cattle
 owner = CA4
 controller = CA4
 add_core = CA4

@@ -1,5 +1,6 @@
+terrain = coastline
 life_rating = 30
-trade_goods = wool
+trade_goods = cotton
 owner = JA1
 controller = JA1
 add_core = JA1

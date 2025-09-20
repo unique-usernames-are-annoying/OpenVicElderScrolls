@@ -1,5 +1,6 @@
+terrain = craglands
 life_rating = 30
-trade_goods = fish
+trade_goods = grain
 owner = YB4
 controller = YB4
 add_core = YB4

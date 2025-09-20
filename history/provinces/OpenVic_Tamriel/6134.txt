@@ -1,5 +1,6 @@
+terrain = grasslands
 life_rating = 30
-trade_goods = timber
+trade_goods = dye
 owner = CC4
 controller = CC4
 add_core = CC4

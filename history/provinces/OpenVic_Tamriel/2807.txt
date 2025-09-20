@@ -1,2 +1,3 @@
+terrain = taiga
 life_rating = 30
-trade_goods = timber
+trade_goods = fruit

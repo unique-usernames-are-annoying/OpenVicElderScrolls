@@ -1,5 +1,6 @@
+terrain = fungal_forest
 life_rating = 30
-trade_goods = grain
+trade_goods = dye
 owner = MG4
 controller = MG4
 add_core = MG4

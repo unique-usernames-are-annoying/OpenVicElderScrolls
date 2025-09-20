@@ -1,5 +1,6 @@
+terrain = hills
 life_rating = 30
-trade_goods = grain
+trade_goods = fish
 owner = VB0
 controller = VB0
 add_core = VB0

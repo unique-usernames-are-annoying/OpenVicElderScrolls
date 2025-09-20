@@ -1,5 +1,6 @@
+terrain = forest
 life_rating = 30
-trade_goods = iron
+trade_goods = tea
 owner = VC3
 controller = VC3
 add_core = VC3

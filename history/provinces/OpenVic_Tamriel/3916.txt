@@ -1,5 +1,6 @@
+terrain = hills
 life_rating = 30
-trade_goods = tropical_wood
+trade_goods = tea
 owner = ME6
 controller = ME6
 add_core = ME6

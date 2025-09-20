@@ -1,5 +1,6 @@
+terrain = barrow
 life_rating = 30
-trade_goods = cattle
+trade_goods = iron
 owner = ND8
 controller = ND8
 add_core = ND8

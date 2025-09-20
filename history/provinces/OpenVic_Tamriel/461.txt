@@ -1,5 +1,6 @@
+terrain = mountain_meadows
 life_rating = 30
-trade_goods = tea
+trade_goods = fruit
 owner = SC3
 controller = SC3
 add_core = SC3

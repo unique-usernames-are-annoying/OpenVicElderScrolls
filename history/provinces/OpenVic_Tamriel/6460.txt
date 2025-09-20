@@ -1,5 +1,6 @@
+terrain = jungle
 life_rating = 30
-trade_goods = coal
+trade_goods = wool
 owner = AF3
 controller = AF3
 add_core = AF3

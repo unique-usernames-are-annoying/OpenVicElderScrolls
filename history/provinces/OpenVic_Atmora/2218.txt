@@ -1,5 +1,6 @@
+terrain = hot_springs
 life_rating = 30
-trade_goods = fruit
+trade_goods = tea
 owner = DB0
 controller = DB0
 add_core = DB0

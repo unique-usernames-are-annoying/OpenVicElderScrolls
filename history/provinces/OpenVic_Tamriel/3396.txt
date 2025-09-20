@@ -1,5 +1,6 @@
+terrain = mountain_meadows
 life_rating = 30
-trade_goods = grain
+trade_goods = tobacco
 owner = MA5
 controller = MA5
 add_core = MA5

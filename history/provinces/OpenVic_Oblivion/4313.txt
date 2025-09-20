@@ -1,5 +1,6 @@
+terrain = deadlands_volcanic_peak
 life_rating = 30
-trade_goods = fish
+trade_goods = grain
 owner = GA6
 controller = GA6
 add_core = GA6

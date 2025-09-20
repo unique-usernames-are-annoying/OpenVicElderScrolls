@@ -1,5 +1,6 @@
+terrain = barrow
 life_rating = 30
-trade_goods = dye
+trade_goods = tea
 owner = NC5
 controller = NC5
 add_core = NC5

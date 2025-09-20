@@ -1,5 +1,6 @@
+terrain = drylands
 life_rating = 30
-trade_goods = grain
+trade_goods = fruit
 owner = CC6
 controller = CC6
 add_core = CC6

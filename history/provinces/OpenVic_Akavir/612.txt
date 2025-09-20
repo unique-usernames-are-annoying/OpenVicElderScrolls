@@ -1,5 +1,6 @@
+terrain = coastal_desert
 life_rating = 30
-trade_goods = dye
+trade_goods = tobacco
 owner = OB0
 controller = OB0
 add_core = OB0

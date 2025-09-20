@@ -1,5 +1,6 @@
+terrain = tundra
 life_rating = 30
 trade_goods = grain
-owner = NB6
-controller = NB6
-add_core = NB6
+owner = NG8
+controller = NG8
+add_core = NG8

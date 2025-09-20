@@ -1,5 +1,6 @@
+terrain = blackreach_forest
 life_rating = 30
-trade_goods = cattle
+trade_goods = grain
 owner = RA2
 controller = RA2
 add_core = RA2

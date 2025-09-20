@@ -1,5 +1,6 @@
+terrain = hills
 life_rating = 30
-trade_goods = fish
+trade_goods = wool
 owner = IB2
 controller = IB2
 add_core = IB2

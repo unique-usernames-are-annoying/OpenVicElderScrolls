@@ -1,5 +1,6 @@
+terrain = mudflats
 life_rating = 30
-trade_goods = cotton
+trade_goods = sulphur
 owner = CA5
 controller = CA5
 add_core = CA5

@@ -1,5 +1,6 @@
+terrain = highlands
 life_rating = 30
-trade_goods = grain
+trade_goods = wool
 owner = BC9
 controller = BC9
 add_core = BC9

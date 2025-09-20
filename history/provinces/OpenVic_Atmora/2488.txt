@@ -1,5 +1,6 @@
+terrain = mountain_meadows
 life_rating = 30
-trade_goods = iron
+trade_goods = cattle
 owner = DE1
 controller = DE1
 add_core = DE1

@@ -1,5 +1,6 @@
+terrain = marsh
 life_rating = 30
-trade_goods = fruit
+trade_goods = cattle
 owner = ME3
 controller = ME3
 add_core = ME3

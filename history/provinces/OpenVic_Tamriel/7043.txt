@@ -1,5 +1,6 @@
+terrain = heathlands
 life_rating = 30
-trade_goods = grain
+trade_goods = fish
 owner = BB2
 controller = BB2
 add_core = BB2

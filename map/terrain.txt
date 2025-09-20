@@ -1,0 +1,1409 @@
+terrain = 64
+
+categories = {
+	ocean = {
+		movement_cost = 1.0
+		is_water = yes
+		color = { 0 0 255 }
+	}
+	glacier = {
+		color = { 235 235 235 }
+		movement_cost = 1.25
+		combat_width = -0.6
+		defence = 1
+		supply_limit = 10
+	}
+	impassable_mountains = {
+		color = { 150 150 150 }
+		movement_cost = 5
+		combat_width = -0.75
+		defence = 5
+	}
+	mountain = {
+		color = { 117 108 119 }
+		movement_cost = 1.5
+		combat_width = -0.5
+		defence = 2
+		supply_limit = 10
+	}
+	farmlands = {
+		color = { 100 200 100 }
+		movement_cost = 1.15
+		supply_limit = 35
+	}
+	grasslands = {
+		color = { 175 250 125 }
+		movement_cost = 1
+		supply_limit = 30
+	}
+	coastline = {
+		color = { 153 255 204 }
+		movement_cost = 1
+		combat_width = -0.1
+		supply_limit = 30
+	}
+	steppe = {
+		color = { 133 173 0 }
+		movement_cost = 1
+		supply_limit = 20
+	}
+	drylands = {
+		color = { 220 210 0 }
+		movement_cost = 1.1
+		supply_limit = 15
+	}
+	craglands = {
+		color = { 149 136 154 }
+		movement_cost = 1.1
+		combat_width = -0.3
+		supply_limit = 25
+	}
+	savannah = {
+		color = { 91 123 45 }
+		movement_cost = 1
+		supply_limit = 30
+	}
+	hot_springs = {
+		color = { 194 123 160 }
+		movement_cost = 1.1
+		combat_width = -0.1
+		supply_limit = 20
+	}
+	salt_plains = {
+		color = { 208 182 130 }
+		movement_cost = 1.24
+		supply_limit = 15
+	}
+	forest = {
+		color = { 14 122 12 }
+		movement_cost = 1.35
+		combat_width = -0.25
+		defence = 1
+		supply_limit = 25
+	}
+	fungal_forest = {
+		color = { 64 76 56 }
+		movement_cost = 1.15
+		combat_width = -0.25
+		defence = 1
+		supply_limit = 25
+	}
+	woods = {
+		color = { 125 165 75 }
+		movement_cost = 1.25
+		combat_width = -0.15
+		defence = 1
+		supply_limit = 25
+	}
+	taiga = {
+		color = { 102 153 102 }
+		movement_cost = 1.3
+		combat_width = -0.35
+		defence = 1
+		supply_limit = 15
+	}
+	hills = {
+		color = { 135 70 0 }
+		movement_cost = 1.35
+		combat_width = -0.2
+		defence = 1
+		supply_limit = 25
+	}
+	highlands = {
+		color = { 12 12 12 }
+		movement_cost = 1.45
+		combat_width = -0.25
+		defence = 1
+		supply_limit = 15
+	}
+	jungle = {
+		color = { 40 180 149 }
+		movement_cost = 1.35
+		combat_width = -0.35
+		defence = 1
+		supply_limit = 30
+	}
+	marsh = {
+		color = { 76 112 105 }
+		movement_cost = 1.4
+		combat_width = -0.2
+		defence = 1
+		supply_limit = 20
+	}
+	mudflats = {
+		color = { 204 65 37 }
+		movement_cost = 1.15
+		combat_width = -0.25
+		defence = 1
+		supply_limit = 30
+	}
+	bayou = {
+		color = { 70 130 90 }
+		movement_cost = 1.4
+		combat_width = -0.35
+		defence = 1
+		supply_limit = 20
+	}
+	desert = {
+		color = { 200 180 0 }
+		movement_cost = 1.2
+		supply_limit = 10
+	}
+	coastal_desert = {
+		color = { 200 128 0 }
+		movement_cost = 1.15
+		supply_limit = 20
+	}
+	ashlands = {
+		color = { 180 180 180 }
+		movement_cost = 1.35
+		supply_limit = 10
+	}
+	lava = {
+		color = { 204 0 0 }
+		movement_cost = 1.5
+		combat_width = -0.35
+		defence = 1
+		supply_limit = 5
+	}
+	barrow = {
+		color = { 0 100 100 }
+		movement_cost = 1.35
+		combat_width = -0.35
+		defence = 2
+		supply_limit = 25
+	}
+	dwemer_stronghold = {
+		color = { 85 0 255 }
+		movement_cost = 1.45
+		combat_width = -0.5
+		defence = 2
+		supply_limit = 20
+	}
+	urban_red_mountain = {
+		color = { 255 0 0 }
+		movement_cost = 1.25
+		combat_width = -0.5
+		defence = 2
+		supply_limit = 25
+	}
+	urban_mournhold = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_kogoruhn = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_ald_ruhn = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_necrom = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_narsis = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_tear = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_telvannis = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_ebonheart = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_nchardak = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_galom_daeus = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_kemel_ze = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_bamz_amschend = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.15
+		defence = 2
+		supply_limit = 25
+	}
+	urban_forelhost = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_frulthuul = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	tundra = {
+		color = { 225 250 153 }
+		movement_cost = 1.5
+		supply_limit = 12
+	}
+	mountain_meadows = {
+		color = { 51 255 153 }
+		movement_cost = 1.25
+		combat_width = -0.2
+		defence = 2
+		supply_limit = 20
+	}
+	caves = {
+		color = { 46 75 78 }
+		movement_cost = 2
+		combat_width = -0.6
+		defence = 3
+		supply_limit = 10
+	}
+	urban_solitude = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_markarth = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_whiterun = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_windhelm = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_riften = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_daggerfall = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_camlorn = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_wayrest = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_shornhelm = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_evermore = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	orcish_stronghold = {
+		color = { 0 51 0 }
+		movement_cost = 1.45
+		combat_width = -0.5
+		defence = 2
+		supply_limit = 12
+	}
+	urban_northpoint = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_farrun = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_jehanna = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_dawnstar = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_winterhold = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_morthal = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_falkreath = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_blacklight = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_balmora = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_sadrith_mora = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_firewatch = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	deadlands_ashen_wastes = {
+		color = { 115 115 115 }
+		movement_cost = 1.15
+		supply_limit = 10
+	}
+	deadlands_smouldering_badlands = {
+		color = { 255 153 0 }
+		movement_cost = 1.25
+		defence = 1
+		supply_limit = 10
+	}
+	deadlands_boiling_coast = {
+		color = { 204 0 0 }
+		movement_cost = 1.5
+		defence = 2
+		supply_limit = 10
+	}
+	deadlands_burning_hills = {
+		color = { 255 100 0 }
+		movement_cost = 1.75
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 10
+	}
+	deadlands_daedric_keep = {
+		color = { 0 0 0 }
+		movement_cost = 1.25
+		combat_width = -0.35
+		defence = 2
+		supply_limit = 30
+	}
+	deadlands_volcanic_peak = {
+		color = { 255 0 0 }
+		movement_cost = 2
+		combat_width = -0.5
+		defence = 2
+		supply_limit = 5
+	}
+	deadlands_lava_cave = {
+		color = { 70 70 70 }
+		movement_cost = 1.75
+		combat_width = -0.6
+		defence = 2
+		supply_limit = 5
+	}
+	deadlands_sulfuric_desolation = {
+		color = { 15 200 100 }
+		movement_cost = 1.35
+		defence = 2
+		supply_limit = 10
+	}
+	urban_ardent_hope = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_mehrunes_dagon = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_jynds_foundry = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_zynoahzs_gaol = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_wretched_spire = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_world_breaker = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_razorworks = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_vivec = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_alinor = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_anvil = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_archon = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_arenthia = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_blackrose = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_bravil = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_bruma = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_cheydinhal = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_chorrol = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_cloudrest = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_corinthe = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_dragonstar = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_dune = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_dusk = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_elden_root = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_elinhir = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_falinesti = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_firsthold = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_gideon = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_gilane = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_greenheart = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_haven = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_hegathe = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_helstrom = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_imperial_city = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_kvatch = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_leyawiin = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_lillandril = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_lilmoth = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_orcrest = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_port_hunding = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_rihad = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_rimmen = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_riverhold = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_senchal = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_sentinel = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_shimmerene = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_silvenar = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_skaven = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_skingrad = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_skywatch = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_soulrest = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_southpoint = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_stormhold = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_sunhold = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_taneth = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_thorn = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_torval = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_woodhearth = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_abbarbas = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_secula = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_etho_sul = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_kituna_vos = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_wega = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_arch = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_totambu = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_makan = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_lumut = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_tagon = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_yul = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_greymoor_keep = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_silent_city = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_dusktown = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_hollow_city = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_lightless_oubliette = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_haj_uxith = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_reaver_citadel = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_contempt_court = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_quey = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_black_harbor = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_yneslea = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_jylkurfyk = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_forelgrim = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_dragon_sanctuary = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_tsaesci = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_ionith = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_umsiuesci = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_shaesci = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_tzuosci = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_eoryuesci = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_tosh_raka = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_jhaotun = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_darhax = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_jianhax = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_pohax = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_tang_mo = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_koda = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_umpa = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_abu = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_kita = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_kamala = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_jerbronheim = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_jun_kamal = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	black_pyramid = {
+		color = { 0 0 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	blackreach_forest = {
+		color = { 54 200 141 }
+		movement_cost = 1.15
+		combat_width = -0.25
+		defence = 1
+		supply_limit = 25
+	}
+	cold_wastes = {
+		color = { 106 57 105 }
+		movement_cost = 1.1
+		combat_width = -0.3
+		supply_limit = 25
+	}
+	withered_forest = {
+		color = { 51 57 114 }
+		movement_cost = 1.5
+		combat_width = -0.25
+		supply_limit = 12
+	}
+	azure_plains = {
+		color = { 139 157 240 }
+		movement_cost = 1.1
+		supply_limit = 15
+	}
+	chasm = {
+		color = { 11 19 54 }
+		movement_cost = 1.45
+		combat_width = -0.25
+		defence = 1
+		supply_limit = 15
+	}
+	dread_massive = {
+		color = { 45 41 64 }
+		movement_cost = 1.5
+		combat_width = -0.5
+		defence = 2
+		supply_limit = 10
+	}
+	heathlands = {
+		color = { 163 111 168 }
+		movement_cost = 1.35
+		combat_width = -0.2
+		defence = 1
+		supply_limit = 25
+	}
+	moorlands = {
+		color = { 182 159 101 }
+		movement_cost = 1.15
+		combat_width = -0.25
+		defence = 1
+		supply_limit = 30
+	}
+	plateau = {
+		color = { 210 203 175 }
+		movement_cost = 1.45
+		combat_width = -0.25
+		defence = 1
+		supply_limit = 15
+	}
+	urban_gonfalon_bay = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_amenos = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+	urban_vastyr = {
+		color = { 255 153 0 }
+		movement_cost = 1
+		combat_width = -0.25
+		defence = 2
+		supply_limit = 25
+	}
+}
+
+ocean1 = {
+	type = ocean
+	color = { 254 }
+	has_texture = no
+}
+
+text_0 = { type = grasslands color = { 0 } priority = 0 }
+text_1 = { type = grasslands color = { 1 } priority = 1 }
+text_2 = { type = grasslands color = { 2 } priority = 2 }
+text_3 = { type = drylands color = { 3 } priority = 3 }
+
+text_4 = { type = forest color = { 4 } priority = 4 }
+text_5 = { type = forest color = { 5 } priority = 5 }
+text_6 = { type = jungle color = { 6 } priority = 6 }
+text_7 = { type = jungle color = { 7 } priority = 7 }
+
+text_8 = { type = marsh color = { 8 } priority = 8 }
+text_9 = { type = marsh color = { 9 } priority = 9 }
+text_10 = { type = marsh color = { 10 } priority = 10 }
+text_11 = { type = marsh color = { 11 } priority = 11 }
+
+text_12 = { type = desert color = { 12 } priority = 12 }
+text_13 = { type = desert color = { 13 } priority = 13 }
+text_14 = { type = desert color = { 14 } priority = 14 }
+text_15 = { type = drylands color = { 15 } priority = 15 }
+
+text_16 = { type = desert color = { 16 } priority = 16 }
+text_17 = { type = drylands color = { 17 } priority = 17 }
+text_18 = { type = drylands color = { 18 } priority = 18 }
+text_19 = { type = mountain color = { 19 } priority = 19 }
+
+text_20 = { type = mountain color = { 20 } priority = 20 }
+text_21 = { type = mountain color = { 21 } priority = 21 }
+text_22 = { type = desert color = { 22 } priority = 22 }
+text_23 = { type = desert color = { 23 } priority = 23 }
+
+text_24 = { type = desert color = { 24 } priority = 24 }
+text_25 = { type = desert color = { 25 } priority = 25 }
+text_26 = { type = desert color = { 26 } priority = 26 }
+text_27 = { type = desert color = { 27 } priority = 27 }
+
+text_28 = { type = desert color = { 28 } priority = 28 }
+text_29 = { type = desert color = { 29 } priority = 29 }
+text_30 = { type = grasslands color = { 30 } priority = 30 }
+text_31 = { type = grasslands color = { 31 } priority = 31 }
+
+text_32 = { type = desert color = { 32 } priority = 32 }
+text_33 = { type = desert color = { 33 } priority = 33 }
+text_34 = { type = grasslands color = { 34 } priority = 34 }
+text_35 = { type = grasslands color = { 35 } priority = 35 }
+
+text_36 = { type = mountain color = { 36 } priority = 36 }
+text_37 = { type = unused color = { 37 } priority = 37 }
+text_38 = { type = unused color = { 38 } priority = 38 }
+text_39 = { type = unused color = { 39 } priority = 39 }
+
+text_40 = { type = unused color = { 40 } priority = 40 }
+text_41 = { type = unused color = { 41 } priority = 41 }
+text_42 = { type = unused color = { 42 } priority = 42 }
+text_43 = { type = unused color = { 43 } priority = 43 }
+
+text_44 = { type = unused color = { 44 } priority = 44 }
+text_45 = { type = unused color = { 45 } priority = 45 }
+text_46 = { type = unused color = { 46 } priority = 46 }
+text_47 = { type = unused color = { 47 } priority = 47 }
+
+text_48 = { type = unused color = { 48 } priority = 48 }
+text_49 = { type = unused color = { 49 } priority = 49 }
+text_50 = { type = unused color = { 50 } priority = 50 }
+text_51 = { type = unused color = { 51 } priority = 51 }
+
+text_52 = { type = coastline color = { 52 } priority = 52 }
+text_53 = { type = unused color = { 53 } priority = 53 }
+text_54 = { type = unused color = { 54 } priority = 54 }
+text_55 = { type = unused color = { 55 } priority = 55 }
+
+text_56 = { type = unused color = { 56 } priority = 56 }
+text_57 = { type = unused color = { 57 } priority = 57 }
+text_58 = { type = unused color = { 58 } priority = 58 }
+text_59 = { type = unused color = { 59 } priority = 59 }
+
+text_60 = { type = unused color = { 60 } priority = 60 }
+text_61 = { type = unused color = { 61 } priority = 61 }
+text_62 = { type = unused color = { 62 } priority = 62 }
+text_63 = { type = unused color = { 63 } priority = 63 }
+
+pti = {
+	type = plains
+	color = {
+		64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83
+		84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99
+		100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119
+		120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139
+		140 141 142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159
+		160 161 162 163 164 165 166 167 168 169 170 171 172 173 174 175 176 177 178 179
+		180 181 182 183 184 185 186 187 188 189 190 191 192 193 194 195 196 197 198 199
+		200 201 202 203 204 205 206 207 208 209 210 211 212 213 214 215 216 217 218 219
+		220 221 222 223 224 225 226 227 228 229 230 231 232 233 234 235 236 237 238 239
+		240 241 242 243 244 245 246 247 248 249 250 251 252 253     255
+	}
+	has_texture = no
+}

@@ -1,5 +1,6 @@
+terrain = farmlands
 life_rating = 30
-trade_goods = fish
+trade_goods = tobacco
 owner = PC0
 controller = PC0
 add_core = PC0

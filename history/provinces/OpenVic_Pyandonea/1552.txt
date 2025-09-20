@@ -1,5 +1,6 @@
+terrain = coastline
 life_rating = 30
-trade_goods = fruit
+trade_goods = fish
 owner = PB8
 controller = PB8
 add_core = PB8

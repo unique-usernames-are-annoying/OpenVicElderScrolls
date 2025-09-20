@@ -1,5 +1,6 @@
+terrain = woods
 life_rating = 30
-trade_goods = grain
+trade_goods = coal
 owner = HF3
 controller = HF3
 add_core = HF3

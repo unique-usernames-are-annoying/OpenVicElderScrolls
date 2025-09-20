@@ -1,5 +1,6 @@
+terrain = dwemer_stronghold
 life_rating = 30
-trade_goods = sulphur
+trade_goods = tropical_wood
 owner = NF9
 controller = NF9
 add_core = NF9

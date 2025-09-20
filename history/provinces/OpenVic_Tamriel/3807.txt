@@ -1,5 +1,6 @@
+terrain = fungal_forest
 life_rating = 30
-trade_goods = grain
+trade_goods = coal
 owner = MD9
 controller = MD9
 add_core = MD9

@@ -1,5 +1,6 @@
+terrain = mountain
 life_rating = 30
-trade_goods = tropical_wood
+trade_goods = tea
 owner = BD3
 controller = BD3
 add_core = BD3

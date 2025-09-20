@@ -1,5 +1,6 @@
+terrain = withered_forest
 life_rating = 30
-trade_goods = cattle
+trade_goods = coal
 owner = LB1
 controller = LB1
 add_core = LB1

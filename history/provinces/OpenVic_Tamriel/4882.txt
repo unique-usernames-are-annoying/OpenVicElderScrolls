@@ -1,5 +1,6 @@
+terrain = forest
 life_rating = 30
-trade_goods = coal
+trade_goods = timber
 owner = EB9
 controller = EB9
 add_core = EB9

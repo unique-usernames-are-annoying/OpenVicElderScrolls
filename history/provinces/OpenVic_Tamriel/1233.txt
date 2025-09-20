@@ -1,5 +1,6 @@
+terrain = grasslands
 life_rating = 30
-trade_goods = precious_metal
+trade_goods = tea
 owner = CG1
 controller = CG1
 add_core = CG1

@@ -1,5 +1,6 @@
+terrain = woods
 life_rating = 30
-trade_goods = tea
+trade_goods = timber
 owner = CD7
 controller = CD7
 add_core = CD7

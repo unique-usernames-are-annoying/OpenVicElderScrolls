@@ -1,5 +1,6 @@
+terrain = woods
 life_rating = 30
-trade_goods = coal
+trade_goods = tea
 owner = VA3
 controller = VA3
 add_core = VA3

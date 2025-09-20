@@ -1,5 +1,6 @@
+terrain = woods
 life_rating = 30
-trade_goods = coffee
+trade_goods = timber
 owner = SB0
 controller = SB0
 add_core = SB0

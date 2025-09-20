@@ -1,5 +1,6 @@
+terrain = woods
 life_rating = 30
-trade_goods = tea
+trade_goods = grain
 owner = CC7
 controller = CC7
 add_core = CC7

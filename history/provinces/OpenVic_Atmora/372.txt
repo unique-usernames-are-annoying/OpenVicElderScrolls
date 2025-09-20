@@ -1,5 +1,6 @@
+terrain = glacier
 life_rating = 30
-trade_goods = fish
+trade_goods = timber
 owner = DD8
 controller = DD8
 add_core = DD8

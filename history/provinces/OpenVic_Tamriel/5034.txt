@@ -1,5 +1,6 @@
+terrain = forest
 life_rating = 30
-trade_goods = grain
-owner = VC7
-controller = VC7
-add_core = VC7
+trade_goods = tea
+owner = VE2
+controller = VE2
+add_core = VE2

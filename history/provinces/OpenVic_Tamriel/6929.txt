@@ -1,5 +1,6 @@
+terrain = hills
 life_rating = 30
-trade_goods = cotton
+trade_goods = grain
 owner = BE4
 controller = BE4
 add_core = BE4

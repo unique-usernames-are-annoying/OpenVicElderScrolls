@@ -1,5 +1,6 @@
+terrain = glacier
 life_rating = 30
-trade_goods = tobacco
+trade_goods = coal
 owner = STA
 controller = STA
 add_core = STA

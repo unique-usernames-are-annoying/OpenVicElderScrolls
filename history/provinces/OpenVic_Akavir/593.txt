@@ -1,5 +1,6 @@
+terrain = hills
 life_rating = 30
-trade_goods = cattle
+trade_goods = coal
 owner = JA8
 controller = JA8
 add_core = JA8

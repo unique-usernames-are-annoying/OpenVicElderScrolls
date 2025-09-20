@@ -1,5 +1,6 @@
+terrain = farmlands
 life_rating = 30
-trade_goods = tea
+trade_goods = grain
 owner = SOT
 controller = SOT
 add_core = SOT

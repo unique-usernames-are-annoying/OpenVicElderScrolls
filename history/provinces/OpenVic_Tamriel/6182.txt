@@ -1,3 +1,4 @@
+terrain = drylands
 life_rating = 30
 trade_goods = grain
 owner = HF5

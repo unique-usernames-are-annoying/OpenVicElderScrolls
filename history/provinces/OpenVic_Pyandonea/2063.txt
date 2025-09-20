@@ -1,5 +1,6 @@
+terrain = hills
 life_rating = 30
-trade_goods = fruit
+trade_goods = cotton
 owner = PB1
 controller = PB1
 add_core = PB1

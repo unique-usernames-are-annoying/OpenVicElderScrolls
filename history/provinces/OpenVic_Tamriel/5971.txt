@@ -1,5 +1,6 @@
+terrain = highlands
 life_rating = 30
-trade_goods = grain
+trade_goods = cotton
 owner = ALH
 controller = ALH
 add_core = ALH

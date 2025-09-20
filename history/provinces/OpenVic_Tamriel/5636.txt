@@ -1,5 +1,6 @@
+terrain = caves
 life_rating = 30
-trade_goods = grain
+trade_goods = fish
 owner = CE1
 controller = CE1
 add_core = CE1

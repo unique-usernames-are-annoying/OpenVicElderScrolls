@@ -1,5 +1,6 @@
+terrain = hills
 life_rating = 30
-trade_goods = wool
+trade_goods = dye
 owner = YA9
 controller = YA9
 add_core = YA9

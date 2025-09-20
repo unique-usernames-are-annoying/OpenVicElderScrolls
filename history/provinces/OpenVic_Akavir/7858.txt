@@ -1,5 +1,6 @@
+terrain = steppe
 life_rating = 30
-trade_goods = grain
+trade_goods = cotton
 owner = OC4
 controller = OC4
 add_core = OC4

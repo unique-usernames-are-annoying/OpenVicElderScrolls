@@ -1,5 +1,6 @@
+terrain = hills
 life_rating = 30
-trade_goods = dye
+trade_goods = coal
 owner = CD7
 controller = CD7
 add_core = CD7

@@ -1,5 +1,6 @@
+terrain = highlands
 life_rating = 30
-trade_goods = tea
+trade_goods = grain
 owner = EB0
 controller = EB0
 add_core = EB0

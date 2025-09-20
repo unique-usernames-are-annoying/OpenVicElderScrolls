@@ -1,5 +1,6 @@
+terrain = urban_jehanna
 life_rating = 30
-trade_goods = timber
+trade_goods = tropical_wood
 owner = BC9
 controller = BC9
 add_core = BC9

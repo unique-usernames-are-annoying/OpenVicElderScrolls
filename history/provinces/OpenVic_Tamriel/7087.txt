@@ -1,5 +1,6 @@
+terrain = highlands
 life_rating = 30
-trade_goods = dye
+trade_goods = timber
 owner = NA3
 controller = NA3
 add_core = NA3

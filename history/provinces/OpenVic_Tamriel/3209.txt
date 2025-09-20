@@ -1,5 +1,6 @@
+terrain = orcish_stronghold
 life_rating = 30
-trade_goods = coal
+trade_goods = cattle
 owner = MH8
 controller = MH8
 add_core = MH8

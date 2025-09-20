@@ -1,5 +1,6 @@
+terrain = woods
 life_rating = 30
-trade_goods = tobacco
+trade_goods = grain
 owner = SD3
 controller = SD3
 add_core = SD3

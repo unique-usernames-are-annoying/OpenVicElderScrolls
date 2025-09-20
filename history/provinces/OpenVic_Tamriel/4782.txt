@@ -1,5 +1,6 @@
+terrain = highlands
 life_rating = 30
-trade_goods = tobacco
+trade_goods = tea
 owner = SC7
 controller = SC7
 add_core = SC7

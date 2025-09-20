@@ -1,5 +1,6 @@
+terrain = hills
 life_rating = 30
-trade_goods = tea
+trade_goods = timber
 owner = SA6
 controller = SA6
 add_core = SA6

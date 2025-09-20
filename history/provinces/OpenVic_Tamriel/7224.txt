@@ -1,5 +1,6 @@
+terrain = mountain_meadows
 life_rating = 30
-trade_goods = tea
+trade_goods = fish
 owner = NC4
 controller = NC4
 add_core = NC4

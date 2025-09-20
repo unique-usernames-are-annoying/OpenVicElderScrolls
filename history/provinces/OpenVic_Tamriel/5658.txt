@@ -1,5 +1,6 @@
+terrain = urban_chorrol
 life_rating = 30
-trade_goods = tea
+trade_goods = fish
 owner = CF0
 controller = CF0
 add_core = CF0

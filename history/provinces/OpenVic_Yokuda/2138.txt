@@ -1,5 +1,6 @@
+terrain = coastal_desert
 life_rating = 30
-trade_goods = iron
+trade_goods = cotton
 owner = YB9
 controller = YB9
 add_core = YB9

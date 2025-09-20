@@ -1,5 +1,6 @@
+terrain = mountain_meadows
 life_rating = 30
-trade_goods = timber
+trade_goods = fish
 owner = SB6
 controller = SB6
 add_core = SB6

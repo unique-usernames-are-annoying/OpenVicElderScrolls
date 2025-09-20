@@ -1,5 +1,6 @@
+terrain = highlands
 life_rating = 30
-trade_goods = fruit
+trade_goods = cattle
 owner = SA4
 controller = SA4
 add_core = SA4

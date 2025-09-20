@@ -1,5 +1,6 @@
+terrain = mountain_meadows
 life_rating = 30
-trade_goods = tobacco
+trade_goods = coal
 owner = MC4
 controller = MC4
 add_core = MC4

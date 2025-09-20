@@ -1,5 +1,6 @@
+terrain = urban_archon
 life_rating = 30
-trade_goods = dye
+trade_goods = tobacco
 owner = AE1
 controller = AE1
 add_core = AE1

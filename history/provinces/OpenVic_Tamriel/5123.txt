@@ -1,5 +1,6 @@
+terrain = desert
 life_rating = 30
-trade_goods = wool
+trade_goods = dye
 owner = EA6
 controller = EA6
 add_core = EA6

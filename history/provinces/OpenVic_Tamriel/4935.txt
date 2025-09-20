@@ -1,5 +1,6 @@
+terrain = forest
 life_rating = 30
-trade_goods = cattle
+trade_goods = fruit
 owner = VC1
 controller = VC1
 add_core = VC1

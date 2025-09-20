@@ -1,5 +1,6 @@
+terrain = dwemer_stronghold
 life_rating = 30
-trade_goods = cotton
+trade_goods = coal
 owner = ME8
 controller = ME8
 add_core = ME8

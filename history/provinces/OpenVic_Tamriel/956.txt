@@ -1,2 +1,3 @@
+terrain = craglands
 life_rating = 30
-trade_goods = grain
+trade_goods = tobacco

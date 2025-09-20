@@ -1,5 +1,6 @@
+terrain = coastline
 life_rating = 30
-trade_goods = tea
+trade_goods = grain
 owner = SA1
 controller = SA1
 add_core = SA1

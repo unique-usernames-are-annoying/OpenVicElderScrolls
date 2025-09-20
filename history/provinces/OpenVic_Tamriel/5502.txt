@@ -1,5 +1,6 @@
+terrain = marsh
 life_rating = 30
-trade_goods = tropical_wood
+trade_goods = cattle
 owner = CG9
 controller = CG9
 add_core = CG9

@@ -1,3 +1,15 @@
+monarchy = {
+	fascist = yes
+	reactionary = yes
+	conservative = yes
+	socialist = yes
+	communist = yes
+	liberal = yes
+	anarcho_liberal = yes
+
+	election = no
+	appoint_ruling_party = yes
+}
 republic = {
 	fascist = yes
 	reactionary = yes
@@ -10,7 +22,7 @@ republic = {
 	election = no
 	appoint_ruling_party = yes
 }
-monarchy = {
+tribal = {
 	fascist = yes
 	reactionary = yes
 	conservative = yes
@@ -35,18 +47,6 @@ native = {
 	appoint_ruling_party = yes
 }
 theocracy = {
-	fascist = yes
-	reactionary = yes
-	conservative = yes
-	socialist = yes
-	communist = yes
-	liberal = yes
-	anarcho_liberal = yes
-
-	election = no
-	appoint_ruling_party = yes
-}
-tribal = {
 	fascist = yes
 	reactionary = yes
 	conservative = yes

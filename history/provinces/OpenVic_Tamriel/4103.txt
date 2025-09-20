@@ -1,5 +1,6 @@
+terrain = heathlands
 life_rating = 30
-trade_goods = tea
+trade_goods = tobacco
 owner = MG3
 controller = MG3
 add_core = MG3

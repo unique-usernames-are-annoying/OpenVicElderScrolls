@@ -1,5 +1,6 @@
+terrain = barrow
 life_rating = 30
-trade_goods = timber
+trade_goods = fish
 owner = NA2
 controller = NA2
 add_core = NA2

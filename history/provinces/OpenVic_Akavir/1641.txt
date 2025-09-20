@@ -1,5 +1,6 @@
+terrain = jungle
 life_rating = 30
-trade_goods = timber
+trade_goods = tea
 owner = TA7
 controller = TA7
 add_core = TA7

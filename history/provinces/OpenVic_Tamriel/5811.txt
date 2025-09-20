@@ -1,5 +1,6 @@
+terrain = mountain
 life_rating = 30
-trade_goods = coal
+trade_goods = grain
 owner = CG2
 controller = CG2
 add_core = CG2

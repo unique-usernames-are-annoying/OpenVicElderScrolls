@@ -1,5 +1,6 @@
+terrain = mountain
 life_rating = 30
-trade_goods = tea
+trade_goods = opium
 owner = CE0
 controller = CE0
 add_core = CE0

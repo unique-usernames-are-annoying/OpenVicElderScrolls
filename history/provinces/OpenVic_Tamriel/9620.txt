@@ -1,5 +1,6 @@
+terrain = tundra
 life_rating = 30
-trade_goods = tropical_wood
+trade_goods = iron
 owner = BB2
 controller = BB2
 add_core = BB2

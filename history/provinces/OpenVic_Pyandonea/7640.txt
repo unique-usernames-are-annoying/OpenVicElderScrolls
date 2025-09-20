@@ -1,5 +1,6 @@
+terrain = coastline
 life_rating = 30
-trade_goods = coffee
+trade_goods = tobacco
 owner = PC2
 controller = PC2
 add_core = PC2

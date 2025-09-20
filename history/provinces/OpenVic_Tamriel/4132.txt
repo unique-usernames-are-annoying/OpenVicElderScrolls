@@ -1,5 +1,6 @@
+terrain = fungal_forest
 life_rating = 30
-trade_goods = grain
+trade_goods = iron
 owner = MJ2
 controller = MJ2
 add_core = MJ2

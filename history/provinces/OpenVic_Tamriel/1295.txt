@@ -1,5 +1,6 @@
+terrain = barrow
 life_rating = 30
-trade_goods = wool
+trade_goods = grain
 owner = NB4
 controller = NB4
 add_core = NB4

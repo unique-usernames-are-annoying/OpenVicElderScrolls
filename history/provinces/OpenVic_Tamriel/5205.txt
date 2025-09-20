@@ -1,5 +1,6 @@
+terrain = savannah
 life_rating = 30
-trade_goods = timber
+trade_goods = iron
 owner = EC7
 controller = EC7
 add_core = EC7

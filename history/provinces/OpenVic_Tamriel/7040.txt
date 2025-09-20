@@ -1,5 +1,6 @@
+terrain = heathlands
 life_rating = 30
-trade_goods = cattle
+trade_goods = fish
 owner = BE7
 controller = BE7
 add_core = BE7

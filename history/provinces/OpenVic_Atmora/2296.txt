@@ -1,5 +1,6 @@
+terrain = mountain
 life_rating = 30
-trade_goods = tobacco
+trade_goods = opium
 owner = DA1
 controller = DA1
 add_core = DA1

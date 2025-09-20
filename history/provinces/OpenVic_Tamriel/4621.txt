@@ -1,5 +1,6 @@
+terrain = woods
 life_rating = 30
-trade_goods = opium
+trade_goods = coal
 owner = SC5
 controller = SC5
 add_core = SC5

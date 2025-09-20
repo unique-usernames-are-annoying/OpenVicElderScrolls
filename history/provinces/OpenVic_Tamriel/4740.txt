@@ -1,5 +1,6 @@
+terrain = urban_dusk
 life_rating = 30
-trade_goods = coal
+trade_goods = precious_metal
 owner = SC0
 controller = SC0
 add_core = SC0

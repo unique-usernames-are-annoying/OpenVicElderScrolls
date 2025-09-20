@@ -1,5 +1,6 @@
+terrain = deadlands_smouldering_badlands
 life_rating = 30
-trade_goods = grain
+trade_goods = tea
 owner = GA1
 controller = GA1
 add_core = GA1

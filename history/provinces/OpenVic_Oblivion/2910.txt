@@ -1,3 +1,4 @@
+terrain = cold_wastes
 life_rating = 30
 trade_goods = cattle
 owner = LB4

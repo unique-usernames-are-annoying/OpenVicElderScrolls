@@ -1,5 +1,6 @@
+terrain = jungle
 life_rating = 30
-trade_goods = tobacco
+trade_goods = cotton
 owner = YC5
 controller = YC5
 add_core = YC5

@@ -1,5 +1,6 @@
+terrain = taiga
 life_rating = 30
-trade_goods = grain
+trade_goods = timber
 owner = NC5
 controller = NC5
 add_core = NC5

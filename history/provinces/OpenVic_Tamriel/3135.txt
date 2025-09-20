@@ -1,5 +1,6 @@
+terrain = hills
 life_rating = 30
-trade_goods = wool
+trade_goods = grain
 owner = NF9
 controller = NF9
 add_core = NF9

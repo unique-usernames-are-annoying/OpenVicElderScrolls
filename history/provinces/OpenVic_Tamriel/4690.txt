@@ -1,5 +1,6 @@
+terrain = urban_shimmerene
 life_rating = 30
-trade_goods = precious_metal
+trade_goods = timber
 owner = SB0
 controller = SB0
 add_core = SB0

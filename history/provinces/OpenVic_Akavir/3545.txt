@@ -1,5 +1,6 @@
+terrain = mountain
 life_rating = 30
-trade_goods = wool
+trade_goods = tea
 owner = UA6
 controller = UA6
 add_core = UA6

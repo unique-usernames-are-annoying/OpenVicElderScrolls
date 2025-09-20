@@ -1,5 +1,6 @@
+terrain = craglands
 life_rating = 30
-trade_goods = fruit
+trade_goods = timber
 owner = YB6
 controller = YB6
 add_core = YB6

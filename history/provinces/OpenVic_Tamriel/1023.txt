@@ -1,5 +1,6 @@
+terrain = plateau
 life_rating = 30
-trade_goods = tobacco
+trade_goods = grain
 owner = MB9
 controller = MB9
 add_core = MB9

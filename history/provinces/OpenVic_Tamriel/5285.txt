@@ -1,5 +1,6 @@
+terrain = urban_corinthe
 life_rating = 30
-trade_goods = dye
+trade_goods = grain
 owner = EC9
 controller = EC9
 add_core = EC9

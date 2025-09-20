@@ -1,5 +1,6 @@
+terrain = jungle
 life_rating = 30
-trade_goods = coal
+trade_goods = cattle
 owner = JA2
 controller = JA2
 add_core = JA2

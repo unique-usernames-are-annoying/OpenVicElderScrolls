@@ -1,5 +1,6 @@
+terrain = lava
 life_rating = 30
-trade_goods = iron
+trade_goods = timber
 owner = MJ3
 controller = MJ3
 add_core = MJ3

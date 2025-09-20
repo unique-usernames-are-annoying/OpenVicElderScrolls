@@ -1,5 +1,6 @@
+terrain = jungle
 life_rating = 30
-trade_goods = precious_metal
+trade_goods = fish
 owner = UB0
 controller = UB0
 add_core = UB0

@@ -1,5 +1,6 @@
+terrain = forest
 life_rating = 30
-trade_goods = grain
+trade_goods = timber
 owner = CD0
 controller = CD0
 add_core = CD0

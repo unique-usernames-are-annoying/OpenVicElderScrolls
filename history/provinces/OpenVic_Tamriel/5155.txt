@@ -1,5 +1,6 @@
+terrain = farmlands
 life_rating = 30
-trade_goods = timber
+trade_goods = iron
 owner = EB6
 controller = EB6
 add_core = EB6

@@ -1,5 +1,6 @@
+terrain = mountain
 life_rating = 30
-trade_goods = dye
+trade_goods = fruit
 owner = DE3
 controller = DE3
 add_core = DE3

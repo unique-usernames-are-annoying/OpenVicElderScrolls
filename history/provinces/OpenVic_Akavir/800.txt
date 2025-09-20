@@ -1,5 +1,6 @@
+terrain = urban_black_harbor
 life_rating = 30
-trade_goods = tea
+trade_goods = wool
 owner = IA8
 controller = IA8
 add_core = IA8

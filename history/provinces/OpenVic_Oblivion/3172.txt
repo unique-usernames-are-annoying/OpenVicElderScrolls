@@ -1,5 +1,6 @@
+terrain = cold_wastes
 life_rating = 30
-trade_goods = wool
+trade_goods = tea
 owner = LB1
 controller = LB1
 add_core = LB1

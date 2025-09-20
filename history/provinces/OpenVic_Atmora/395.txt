@@ -1,5 +1,6 @@
+terrain = glacier
 life_rating = 30
-trade_goods = timber
+trade_goods = grain
 owner = DE1
 controller = DE1
 add_core = DE1

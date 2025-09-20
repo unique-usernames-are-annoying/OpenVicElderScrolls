@@ -1,5 +1,6 @@
+terrain = bayou
 life_rating = 30
-trade_goods = grain
+trade_goods = coal
 owner = AF2
 controller = AF2
 add_core = AF2

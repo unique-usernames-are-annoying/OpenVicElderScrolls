@@ -1,5 +1,6 @@
+terrain = hills
 life_rating = 30
-trade_goods = iron
+trade_goods = fish
 owner = JA5
 controller = JA5
 add_core = JA5

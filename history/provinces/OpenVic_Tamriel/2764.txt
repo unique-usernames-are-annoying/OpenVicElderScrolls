@@ -1,5 +1,6 @@
+terrain = hills
 life_rating = 30
-trade_goods = coffee
+trade_goods = cotton
 owner = NE6
 controller = NE6
 add_core = NE6

@@ -1,3 +1,4 @@
+terrain = ashlands
 life_rating = 30
 trade_goods = tobacco
 owner = TON

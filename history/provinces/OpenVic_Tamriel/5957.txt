@@ -1,5 +1,6 @@
+terrain = grasslands
 life_rating = 30
-trade_goods = cotton
+trade_goods = grain
 owner = CF6
 controller = CF6
 add_core = CF6

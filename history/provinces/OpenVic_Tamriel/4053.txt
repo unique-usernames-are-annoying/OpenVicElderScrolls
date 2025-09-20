@@ -1,5 +1,6 @@
+terrain = dwemer_stronghold
 life_rating = 30
-trade_goods = tobacco
+trade_goods = timber
 owner = MG0
 controller = MG0
 add_core = MG0

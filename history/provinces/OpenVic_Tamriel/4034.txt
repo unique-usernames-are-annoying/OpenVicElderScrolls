@@ -1,5 +1,6 @@
+terrain = highlands
 life_rating = 30
-trade_goods = cattle
+trade_goods = fruit
 owner = MG0
 controller = MG0
 add_core = MG0

@@ -1,5 +1,6 @@
+terrain = hills
 life_rating = 30
-trade_goods = tea
+trade_goods = wool
 owner = MI1
 controller = MI1
 add_core = MI1

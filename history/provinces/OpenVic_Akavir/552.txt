@@ -1,5 +1,6 @@
+terrain = jungle
 life_rating = 30
-trade_goods = grain
+trade_goods = tobacco
 owner = JA5
 controller = JA5
 add_core = JA5

@@ -1,5 +1,6 @@
+terrain = hills
 life_rating = 30
-trade_goods = tobacco
+trade_goods = fish
 owner = CC9
 controller = CC9
 add_core = CC9

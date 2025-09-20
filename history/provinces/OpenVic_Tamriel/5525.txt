@@ -1,3 +1,4 @@
+terrain = grasslands
 life_rating = 30
 trade_goods = fruit
 owner = CJ3

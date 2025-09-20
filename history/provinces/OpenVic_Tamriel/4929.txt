@@ -1,5 +1,6 @@
+terrain = hills
 life_rating = 30
-trade_goods = tropical_wood
+trade_goods = grain
 owner = VB1
 controller = VB1
 add_core = VB1

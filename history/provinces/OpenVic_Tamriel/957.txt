@@ -1,5 +1,6 @@
+terrain = urban_blacklight
 life_rating = 30
-trade_goods = grain
+trade_goods = fish
 owner = MH3
 controller = MH3
 add_core = MH3

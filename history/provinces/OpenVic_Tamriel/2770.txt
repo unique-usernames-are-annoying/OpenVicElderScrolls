@@ -1,5 +1,6 @@
+terrain = tundra
 life_rating = 30
-trade_goods = cattle
+trade_goods = wool
 owner = NA8
 controller = NA8
 add_core = NA8

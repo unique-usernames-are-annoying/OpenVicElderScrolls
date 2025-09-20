@@ -1,5 +1,6 @@
+terrain = urban_dragon_sanctuary
 life_rating = 30
-trade_goods = cattle
+trade_goods = grain
 owner = DA3
 controller = DA3
 add_core = DA3

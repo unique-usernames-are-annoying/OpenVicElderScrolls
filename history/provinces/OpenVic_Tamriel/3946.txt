@@ -1,5 +1,6 @@
+terrain = mudflats
 life_rating = 30
-trade_goods = timber
+trade_goods = fish
 owner = ME9
 controller = ME9
 add_core = ME9

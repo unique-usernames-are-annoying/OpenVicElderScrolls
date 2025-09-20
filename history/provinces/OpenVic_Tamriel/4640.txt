@@ -1,5 +1,6 @@
+terrain = coastline
 life_rating = 30
-trade_goods = cattle
+trade_goods = wool
 owner = SC0
 controller = SC0
 add_core = SC0

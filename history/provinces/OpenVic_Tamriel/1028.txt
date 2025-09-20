@@ -1,5 +1,6 @@
+terrain = urban_telvannis
 life_rating = 30
-trade_goods = fruit
+trade_goods = tea
 owner = MB6
 controller = MB6
 add_core = MB6

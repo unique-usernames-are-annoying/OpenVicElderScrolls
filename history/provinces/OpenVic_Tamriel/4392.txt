@@ -1,5 +1,6 @@
+terrain = coastline
 life_rating = 30
-trade_goods = cotton
+trade_goods = precious_metal
 owner = EB8
 controller = EB8
 add_core = EB8

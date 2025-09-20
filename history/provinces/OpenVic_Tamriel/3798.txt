@@ -1,5 +1,6 @@
+terrain = marsh
 life_rating = 30
-trade_goods = grain
+trade_goods = precious_metal
 owner = ME1
 controller = ME1
 add_core = ME1

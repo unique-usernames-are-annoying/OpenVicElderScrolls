@@ -1,5 +1,6 @@
+terrain = tundra
 life_rating = 30
-trade_goods = cattle
+trade_goods = coffee
 owner = BD6
 controller = BD6
 add_core = BD6

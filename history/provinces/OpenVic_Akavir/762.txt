@@ -1,5 +1,6 @@
+terrain = coastline
 life_rating = 30
-trade_goods = tea
+trade_goods = cotton
 owner = OA4
 controller = OA4
 add_core = OA4

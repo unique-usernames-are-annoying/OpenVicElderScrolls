@@ -1,5 +1,6 @@
+terrain = mountain
 life_rating = 30
-trade_goods = cotton
+trade_goods = wool
 owner = KA4
 controller = KA4
 add_core = KA4

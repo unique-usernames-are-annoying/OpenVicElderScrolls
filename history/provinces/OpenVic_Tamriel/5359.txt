@@ -1,5 +1,6 @@
+terrain = drylands
 life_rating = 30
-trade_goods = fish
+trade_goods = wool
 owner = CC4
 controller = CC4
 add_core = CC4

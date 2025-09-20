@@ -1,5 +1,6 @@
+terrain = urban_rimmen
 life_rating = 30
-trade_goods = timber
+trade_goods = coal
 owner = EC3
 controller = EC3
 add_core = EC3

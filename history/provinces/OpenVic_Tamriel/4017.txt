@@ -1,5 +1,6 @@
+terrain = highlands
 life_rating = 30
-trade_goods = fruit
+trade_goods = cotton
 owner = MA7
 controller = MA7
 add_core = MA7

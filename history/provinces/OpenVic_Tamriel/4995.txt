@@ -1,5 +1,6 @@
+terrain = forest
 life_rating = 30
-trade_goods = tobacco
+trade_goods = wool
 owner = VC3
 controller = VC3
 add_core = VC3

@@ -1,5 +1,6 @@
+terrain = highlands
 life_rating = 30
-trade_goods = grain
+trade_goods = fruit
 owner = HH4
 controller = HH4
 add_core = HH4

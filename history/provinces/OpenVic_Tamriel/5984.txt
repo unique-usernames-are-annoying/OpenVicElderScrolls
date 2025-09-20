@@ -1,5 +1,6 @@
+terrain = woods
 life_rating = 30
-trade_goods = timber
+trade_goods = dye
 owner = MOK
 controller = MOK
 add_core = MOK

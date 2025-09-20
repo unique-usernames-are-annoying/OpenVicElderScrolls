@@ -1,5 +1,6 @@
+terrain = taiga
 life_rating = 30
-trade_goods = dye
+trade_goods = cotton
 owner = KA2
 controller = KA2
 add_core = KA2

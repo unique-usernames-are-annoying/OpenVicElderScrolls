@@ -1,5 +1,6 @@
+terrain = azure_plains
 life_rating = 30
-trade_goods = tea
+trade_goods = coffee
 owner = LA3
 controller = LA3
 add_core = LA3

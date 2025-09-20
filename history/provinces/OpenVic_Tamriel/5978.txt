@@ -1,5 +1,6 @@
+terrain = highlands
 life_rating = 30
-trade_goods = coffee
+trade_goods = tea
 owner = CF7
 controller = CF7
 add_core = CF7

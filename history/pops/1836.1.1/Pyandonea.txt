@@ -1,3 +1,330 @@
+209 = {
+	aristocrats = { culture = maormer religion = serpent_king size = 800 }
+	artisans = { culture = maormer religion = serpent_king size = 4000 }
+	bureaucrats = { culture = maormer religion = serpent_king size = 640 }
+	capitalists = { culture = maormer religion = serpent_king size = 80 }
+	clergymen = { culture = maormer religion = serpent_king size = 1200 }
+	farmers = { culture = maormer religion = serpent_king size = 72000 }
+	officers = { culture = maormer religion = serpent_king size = 80 }
+	soldiers = { culture = maormer religion = serpent_king size = 1600 }
+}
+210 = {
+	aristocrats = { culture = maormer religion = serpent_king size = 600 }
+	artisans = { culture = maormer religion = serpent_king size = 3000 }
+	bureaucrats = { culture = maormer religion = serpent_king size = 480 }
+	capitalists = { culture = maormer religion = serpent_king size = 60 }
+	clergymen = { culture = maormer religion = serpent_king size = 900 }
+	farmers = { culture = maormer religion = serpent_king size = 54000 }
+	officers = { culture = maormer religion = serpent_king size = 60 }
+	soldiers = { culture = maormer religion = serpent_king size = 1200 }
+}
+211 = {
+	aristocrats = { culture = maormer religion = serpent_king size = 900 }
+	artisans = { culture = maormer religion = serpent_king size = 4500 }
+	bureaucrats = { culture = maormer religion = serpent_king size = 720 }
+	capitalists = { culture = maormer religion = serpent_king size = 90 }
+	clergymen = { culture = maormer religion = serpent_king size = 1350 }
+	farmers = { culture = maormer religion = serpent_king size = 81000 }
+	officers = { culture = maormer religion = serpent_king size = 90 }
+	soldiers = { culture = maormer religion = serpent_king size = 1800 }
+}
+212 = {
+	aristocrats = { culture = maormer religion = serpent_king size = 400 }
+	artisans = { culture = maormer religion = serpent_king size = 2000 }
+	bureaucrats = { culture = maormer religion = serpent_king size = 320 }
+	capitalists = { culture = maormer religion = serpent_king size = 40 }
+	clergymen = { culture = maormer religion = serpent_king size = 600 }
+	farmers = { culture = maormer religion = serpent_king size = 36000 }
+	officers = { culture = maormer religion = serpent_king size = 40 }
+	soldiers = { culture = maormer religion = serpent_king size = 800 }
+}
+213 = {
+	aristocrats = { culture = maormer religion = serpent_king size = 700 }
+	artisans = { culture = maormer religion = serpent_king size = 3500 }
+	bureaucrats = { culture = maormer religion = serpent_king size = 560 }
+	capitalists = { culture = maormer religion = serpent_king size = 70 }
+	clergymen = { culture = maormer religion = serpent_king size = 1050 }
+	farmers = { culture = maormer religion = serpent_king size = 63000 }
+	officers = { culture = maormer religion = serpent_king size = 70 }
+	soldiers = { culture = maormer religion = serpent_king size = 1400 }
+}
+214 = {
+	aristocrats = { culture = maormer religion = serpent_king size = 700 }
+	artisans = { culture = maormer religion = serpent_king size = 3500 }
+	bureaucrats = { culture = maormer religion = serpent_king size = 560 }
+	capitalists = { culture = maormer religion = serpent_king size = 70 }
+	clergymen = { culture = maormer religion = serpent_king size = 1050 }
+	farmers = { culture = maormer religion = serpent_king size = 63000 }
+	officers = { culture = maormer religion = serpent_king size = 70 }
+	soldiers = { culture = maormer religion = serpent_king size = 1400 }
+}
+215 = {
+	aristocrats = { culture = maormer religion = serpent_king size = 1000 }
+	artisans = { culture = maormer religion = serpent_king size = 5000 }
+	bureaucrats = { culture = maormer religion = serpent_king size = 800 }
+	capitalists = { culture = maormer religion = serpent_king size = 100 }
+	clergymen = { culture = maormer religion = serpent_king size = 1500 }
+	farmers = { culture = maormer religion = serpent_king size = 90000 }
+	officers = { culture = maormer religion = serpent_king size = 100 }
+	soldiers = { culture = maormer religion = serpent_king size = 2000 }
+}
+216 = {
+	aristocrats = { culture = maormer religion = mother_sea size = 400 }
+	artisans = { culture = maormer religion = mother_sea size = 2000 }
+	bureaucrats = { culture = maormer religion = mother_sea size = 320 }
+	capitalists = { culture = maormer religion = mother_sea size = 40 }
+	clergymen = { culture = maormer religion = mother_sea size = 600 }
+	farmers = { culture = maormer religion = mother_sea size = 36000 }
+	officers = { culture = maormer religion = mother_sea size = 40 }
+	soldiers = { culture = maormer religion = mother_sea size = 800 }
+}
+217 = {
+	aristocrats = { culture = maormer religion = serpent_king size = 600 }
+	artisans = { culture = maormer religion = serpent_king size = 2000 }
+	bureaucrats = { culture = maormer religion = serpent_king size = 320 }
+	clergymen = { culture = maormer religion = serpent_king size = 440 }
+	farmers = { culture = maormer religion = serpent_king size = 36000 }
+	officers = { culture = maormer religion = serpent_king size = 40 }
+	soldiers = { culture = maormer religion = serpent_king size = 800 }
+}
+218 = {
+	aristocrats = { culture = maormer religion = serpent_king size = 750 }
+	artisans = { culture = maormer religion = serpent_king size = 2500 }
+	bureaucrats = { culture = maormer religion = serpent_king size = 400 }
+	clergymen = { culture = maormer religion = serpent_king size = 550 }
+	farmers = { culture = maormer religion = serpent_king size = 45000 }
+	officers = { culture = maormer religion = serpent_king size = 50 }
+	soldiers = { culture = maormer religion = serpent_king size = 1000 }
+}
+219 = {
+	aristocrats = { culture = maormer religion = serpent_king size = 700 }
+	artisans = { culture = maormer religion = serpent_king size = 3500 }
+	bureaucrats = { culture = maormer religion = serpent_king size = 560 }
+	capitalists = { culture = maormer religion = serpent_king size = 70 }
+	clergymen = { culture = maormer religion = serpent_king size = 1050 }
+	farmers = { culture = maormer religion = serpent_king size = 63000 }
+	officers = { culture = maormer religion = serpent_king size = 70 }
+	soldiers = { culture = maormer religion = serpent_king size = 1400 }
+}
+220 = {
+	aristocrats = { culture = maormer religion = serpent_king size = 2400 }
+	artisans = { culture = maormer religion = serpent_king size = 12000 }
+	bureaucrats = { culture = maormer religion = serpent_king size = 1920 }
+	capitalists = { culture = maormer religion = serpent_king size = 240 }
+	clergymen = { culture = maormer religion = serpent_king size = 3600 }
+	farmers = { culture = maormer religion = serpent_king size = 216000 }
+	officers = { culture = maormer religion = serpent_king size = 240 }
+	soldiers = { culture = maormer religion = serpent_king size = 4800 }
+}
+221 = {
+	aristocrats = { culture = maormer religion = serpent_king size = 900 }
+	artisans = { culture = maormer religion = serpent_king size = 3000 }
+	bureaucrats = { culture = maormer religion = serpent_king size = 480 }
+	clergymen = { culture = maormer religion = serpent_king size = 660 }
+	farmers = { culture = maormer religion = serpent_king size = 54000 }
+	officers = { culture = maormer religion = serpent_king size = 60 }
+	soldiers = { culture = maormer religion = serpent_king size = 1200 }
+}
+222 = {
+	aristocrats = { culture = maormer religion = serpent_king size = 900 }
+	artisans = { culture = maormer religion = serpent_king size = 3000 }
+	bureaucrats = { culture = maormer religion = serpent_king size = 480 }
+	clergymen = { culture = maormer religion = serpent_king size = 660 }
+	farmers = { culture = maormer religion = serpent_king size = 54000 }
+	officers = { culture = maormer religion = serpent_king size = 60 }
+	soldiers = { culture = maormer religion = serpent_king size = 1200 }
+}
+223 = {
+	aristocrats = { culture = maormer religion = hermeus_mora_cult size = 500 }
+	artisans = { culture = maormer religion = hermeus_mora_cult size = 2500 }
+	bureaucrats = { culture = maormer religion = hermeus_mora_cult size = 400 }
+	clergymen = { culture = maormer religion = hermeus_mora_cult size = 550 }
+	farmers = { culture = maormer religion = hermeus_mora_cult size = 45000 }
+	officers = { culture = maormer religion = hermeus_mora_cult size = 50 }
+	soldiers = { culture = maormer religion = hermeus_mora_cult size = 1000 }
+}
+224 = {
+	aristocrats = { culture = maormer religion = serpent_king size = 2700 }
+	artisans = { culture = maormer religion = serpent_king size = 9000 }
+	bureaucrats = { culture = maormer religion = serpent_king size = 1440 }
+	clergymen = { culture = maormer religion = serpent_king size = 1980 }
+	farmers = { culture = maormer religion = serpent_king size = 162000 }
+	officers = { culture = maormer religion = serpent_king size = 180 }
+	soldiers = { culture = maormer religion = serpent_king size = 3600 }
+}
+225 = {
+	aristocrats = { culture = maormer religion = serpent_king size = 600 }
+	artisans = { culture = maormer religion = serpent_king size = 3000 }
+	bureaucrats = { culture = maormer religion = serpent_king size = 480 }
+	clergymen = { culture = maormer religion = serpent_king size = 660 }
+	farmers = { culture = maormer religion = serpent_king size = 54000 }
+	officers = { culture = maormer religion = serpent_king size = 60 }
+	soldiers = { culture = maormer religion = serpent_king size = 1200 }
+}
+226 = {
+	aristocrats = { culture = maormer religion = serpent_king size = 1050 }
+	artisans = { culture = maormer religion = serpent_king size = 3500 }
+	bureaucrats = { culture = maormer religion = serpent_king size = 560 }
+	clergymen = { culture = maormer religion = serpent_king size = 770 }
+	farmers = { culture = maormer religion = serpent_king size = 63000 }
+	officers = { culture = maormer religion = serpent_king size = 70 }
+	soldiers = { culture = maormer religion = serpent_king size = 1400 }
+}
+227 = {
+	aristocrats = { culture = maormer religion = serpent_king size = 450 }
+	artisans = { culture = maormer religion = serpent_king size = 1500 }
+	bureaucrats = { culture = maormer religion = serpent_king size = 240 }
+	clergymen = { culture = maormer religion = serpent_king size = 330 }
+	farmers = { culture = maormer religion = serpent_king size = 27000 }
+	officers = { culture = maormer religion = serpent_king size = 30 }
+	soldiers = { culture = maormer religion = serpent_king size = 600 }
+}
+228 = {
+	aristocrats = { culture = maormer religion = serpent_king size = 750 }
+	artisans = { culture = maormer religion = serpent_king size = 2500 }
+	bureaucrats = { culture = maormer religion = serpent_king size = 400 }
+	clergymen = { culture = maormer religion = serpent_king size = 550 }
+	farmers = { culture = maormer religion = serpent_king size = 45000 }
+	officers = { culture = maormer religion = serpent_king size = 50 }
+	soldiers = { culture = maormer religion = serpent_king size = 1000 }
+}
+229 = {
+	aristocrats = { culture = maormer religion = serpent_king size = 500 }
+	artisans = { culture = maormer religion = serpent_king size = 2500 }
+	bureaucrats = { culture = maormer religion = serpent_king size = 400 }
+	capitalists = { culture = maormer religion = serpent_king size = 50 }
+	clergymen = { culture = maormer religion = serpent_king size = 750 }
+	farmers = { culture = maormer religion = serpent_king size = 45000 }
+	officers = { culture = maormer religion = serpent_king size = 50 }
+	soldiers = { culture = maormer religion = serpent_king size = 1000 }
+}
+230 = {
+	aristocrats = { culture = maormer religion = serpent_king size = 500 }
+	artisans = { culture = maormer religion = serpent_king size = 2500 }
+	bureaucrats = { culture = maormer religion = serpent_king size = 400 }
+	capitalists = { culture = maormer religion = serpent_king size = 50 }
+	clergymen = { culture = maormer religion = serpent_king size = 750 }
+	farmers = { culture = maormer religion = serpent_king size = 45000 }
+	officers = { culture = maormer religion = serpent_king size = 50 }
+	soldiers = { culture = maormer religion = serpent_king size = 1000 }
+}
+231 = {
+	aristocrats = { culture = maormer religion = serpent_king size = 1050 }
+	artisans = { culture = maormer religion = serpent_king size = 3500 }
+	bureaucrats = { culture = maormer religion = serpent_king size = 560 }
+	clergymen = { culture = maormer religion = serpent_king size = 770 }
+	farmers = { culture = maormer religion = serpent_king size = 63000 }
+	officers = { culture = maormer religion = serpent_king size = 70 }
+	soldiers = { culture = maormer religion = serpent_king size = 1400 }
+}
+232 = {
+	aristocrats = { culture = maormer religion = serpent_king size = 700 }
+	artisans = { culture = maormer religion = serpent_king size = 3500 }
+	bureaucrats = { culture = maormer religion = serpent_king size = 560 }
+	clergymen = { culture = maormer religion = serpent_king size = 1120 }
+	farmers = { culture = maormer religion = serpent_king size = 63000 }
+	officers = { culture = maormer religion = serpent_king size = 70 }
+	soldiers = { culture = maormer religion = serpent_king size = 1400 }
+}
+233 = {
+	aristocrats = { culture = maormer religion = serpent_king size = 1200 }
+	artisans = { culture = maormer religion = serpent_king size = 4000 }
+	bureaucrats = { culture = maormer religion = serpent_king size = 640 }
+	clergymen = { culture = maormer religion = serpent_king size = 880 }
+	farmers = { culture = maormer religion = serpent_king size = 72000 }
+	officers = { culture = maormer religion = serpent_king size = 80 }
+	soldiers = { culture = maormer religion = serpent_king size = 1600 }
+}
+234 = {
+	aristocrats = { culture = maormer religion = serpent_king size = 1350 }
+	artisans = { culture = maormer religion = serpent_king size = 4500 }
+	bureaucrats = { culture = maormer religion = serpent_king size = 720 }
+	clergymen = { culture = maormer religion = serpent_king size = 990 }
+	farmers = { culture = maormer religion = serpent_king size = 81000 }
+	officers = { culture = maormer religion = serpent_king size = 90 }
+	soldiers = { culture = maormer religion = serpent_king size = 1800 }
+}
+235 = {
+	aristocrats = { culture = maormer religion = serpent_king size = 450 }
+	artisans = { culture = maormer religion = serpent_king size = 1500 }
+	bureaucrats = { culture = maormer religion = serpent_king size = 240 }
+	clergymen = { culture = maormer religion = serpent_king size = 330 }
+	farmers = { culture = maormer religion = serpent_king size = 27000 }
+	officers = { culture = maormer religion = serpent_king size = 30 }
+	soldiers = { culture = maormer religion = serpent_king size = 600 }
+}
+236 = {
+	aristocrats = { culture = maormer religion = serpent_king size = 450 }
+	artisans = { culture = maormer religion = serpent_king size = 1500 }
+	bureaucrats = { culture = maormer religion = serpent_king size = 240 }
+	clergymen = { culture = maormer religion = serpent_king size = 330 }
+	farmers = { culture = maormer religion = serpent_king size = 27000 }
+	officers = { culture = maormer religion = serpent_king size = 30 }
+	soldiers = { culture = maormer religion = serpent_king size = 600 }
+}
+237 = {
+	aristocrats = { culture = maormer religion = hermeus_mora_cult size = 600 }
+	artisans = { culture = maormer religion = hermeus_mora_cult size = 3000 }
+	bureaucrats = { culture = maormer religion = hermeus_mora_cult size = 480 }
+	clergymen = { culture = maormer religion = hermeus_mora_cult size = 660 }
+	farmers = { culture = maormer religion = hermeus_mora_cult size = 54000 }
+	officers = { culture = maormer religion = hermeus_mora_cult size = 60 }
+	soldiers = { culture = maormer religion = hermeus_mora_cult size = 1200 }
+}
+238 = {
+	aristocrats = { culture = maormer religion = hermeus_mora_cult size = 700 }
+	artisans = { culture = maormer religion = hermeus_mora_cult size = 3500 }
+	bureaucrats = { culture = maormer religion = hermeus_mora_cult size = 560 }
+	clergymen = { culture = maormer religion = hermeus_mora_cult size = 770 }
+	farmers = { culture = maormer religion = hermeus_mora_cult size = 63000 }
+	officers = { culture = maormer religion = hermeus_mora_cult size = 70 }
+	soldiers = { culture = maormer religion = hermeus_mora_cult size = 1400 }
+}
+239 = {
+	aristocrats = { culture = maormer religion = hermeus_mora_cult size = 1000 }
+	artisans = { culture = maormer religion = hermeus_mora_cult size = 5000 }
+	bureaucrats = { culture = maormer religion = hermeus_mora_cult size = 800 }
+	clergymen = { culture = maormer religion = hermeus_mora_cult size = 1100 }
+	farmers = { culture = maormer religion = hermeus_mora_cult size = 90000 }
+	officers = { culture = maormer religion = hermeus_mora_cult size = 100 }
+	soldiers = { culture = maormer religion = hermeus_mora_cult size = 2000 }
+}
+240 = {
+	aristocrats = { culture = maormer religion = serpent_king size = 750 }
+	artisans = { culture = maormer religion = serpent_king size = 2500 }
+	bureaucrats = { culture = maormer religion = serpent_king size = 400 }
+	clergymen = { culture = maormer religion = serpent_king size = 550 }
+	farmers = { culture = maormer religion = serpent_king size = 45000 }
+	officers = { culture = maormer religion = serpent_king size = 50 }
+	soldiers = { culture = maormer religion = serpent_king size = 1000 }
+}
+241 = {
+	aristocrats = { culture = maormer religion = serpent_king size = 800 }
+	artisans = { culture = maormer religion = serpent_king size = 4000 }
+	bureaucrats = { culture = maormer religion = serpent_king size = 640 }
+	clergymen = { culture = maormer religion = serpent_king size = 880 }
+	farmers = { culture = maormer religion = serpent_king size = 72000 }
+	officers = { culture = maormer religion = serpent_king size = 80 }
+	soldiers = { culture = maormer religion = serpent_king size = 1600 }
+}
+244 = {
+	aristocrats = { culture = maormer religion = hermeus_mora_cult size = 700 }
+	artisans = { culture = maormer religion = hermeus_mora_cult size = 3500 }
+	bureaucrats = { culture = maormer religion = hermeus_mora_cult size = 560 }
+	clergymen = { culture = maormer religion = hermeus_mora_cult size = 770 }
+	farmers = { culture = maormer religion = hermeus_mora_cult size = 63000 }
+	officers = { culture = maormer religion = hermeus_mora_cult size = 70 }
+	soldiers = { culture = maormer religion = hermeus_mora_cult size = 1400 }
+}
+245 = {
+	aristocrats = { culture = maormer religion = hermeus_mora_cult size = 700 }
+	artisans = { culture = maormer religion = hermeus_mora_cult size = 3500 }
+	bureaucrats = { culture = maormer religion = hermeus_mora_cult size = 560 }
+	clergymen = { culture = maormer religion = hermeus_mora_cult size = 770 }
+	farmers = { culture = maormer religion = hermeus_mora_cult size = 63000 }
+	officers = { culture = maormer religion = hermeus_mora_cult size = 70 }
+	soldiers = { culture = maormer religion = hermeus_mora_cult size = 1400 }
+}
 1551 = {
 	aristocrats = { culture = maormer religion = mother_sea size = 700 }
 	artisans = { culture = maormer religion = mother_sea size = 3500 }
@@ -908,16 +1235,6 @@
 	officers = { culture = maormer religion = serpent_king size = 40 }
 	soldiers = { culture = maormer religion = serpent_king size = 800 }
 }
-209 = {
-	aristocrats = { culture = maormer religion = serpent_king size = 800 }
-	artisans = { culture = maormer religion = serpent_king size = 4000 }
-	bureaucrats = { culture = maormer religion = serpent_king size = 640 }
-	capitalists = { culture = maormer religion = serpent_king size = 80 }
-	clergymen = { culture = maormer religion = serpent_king size = 1200 }
-	farmers = { culture = maormer religion = serpent_king size = 72000 }
-	officers = { culture = maormer religion = serpent_king size = 80 }
-	soldiers = { culture = maormer religion = serpent_king size = 1600 }
-}
 2090 = {
 	aristocrats = { culture = maormer religion = serpent_king size = 400 }
 	artisans = { culture = maormer religion = serpent_king size = 2000 }
@@ -1010,16 +1327,6 @@
 	officers = { culture = maormer religion = serpent_king size = 50 }
 	soldiers = { culture = maormer religion = serpent_king size = 1000 }
 }
-210 = {
-	aristocrats = { culture = maormer religion = serpent_king size = 600 }
-	artisans = { culture = maormer religion = serpent_king size = 3000 }
-	bureaucrats = { culture = maormer religion = serpent_king size = 480 }
-	capitalists = { culture = maormer religion = serpent_king size = 60 }
-	clergymen = { culture = maormer religion = serpent_king size = 900 }
-	farmers = { culture = maormer religion = serpent_king size = 54000 }
-	officers = { culture = maormer religion = serpent_king size = 60 }
-	soldiers = { culture = maormer religion = serpent_king size = 1200 }
-}
 2100 = {
 	aristocrats = { culture = maormer religion = mother_sea size = 600 }
 	artisans = { culture = maormer religion = mother_sea size = 2000 }
@@ -1073,313 +1380,6 @@
 	farmers = { culture = maormer religion = serpent_king size = 27000 }
 	officers = { culture = maormer religion = serpent_king size = 30 }
 	soldiers = { culture = maormer religion = serpent_king size = 600 }
-}
-211 = {
-	aristocrats = { culture = maormer religion = serpent_king size = 900 }
-	artisans = { culture = maormer religion = serpent_king size = 4500 }
-	bureaucrats = { culture = maormer religion = serpent_king size = 720 }
-	capitalists = { culture = maormer religion = serpent_king size = 90 }
-	clergymen = { culture = maormer religion = serpent_king size = 1350 }
-	farmers = { culture = maormer religion = serpent_king size = 81000 }
-	officers = { culture = maormer religion = serpent_king size = 90 }
-	soldiers = { culture = maormer religion = serpent_king size = 1800 }
-}
-212 = {
-	aristocrats = { culture = maormer religion = serpent_king size = 400 }
-	artisans = { culture = maormer religion = serpent_king size = 2000 }
-	bureaucrats = { culture = maormer religion = serpent_king size = 320 }
-	capitalists = { culture = maormer religion = serpent_king size = 40 }
-	clergymen = { culture = maormer religion = serpent_king size = 600 }
-	farmers = { culture = maormer religion = serpent_king size = 36000 }
-	officers = { culture = maormer religion = serpent_king size = 40 }
-	soldiers = { culture = maormer religion = serpent_king size = 800 }
-}
-213 = {
-	aristocrats = { culture = maormer religion = serpent_king size = 700 }
-	artisans = { culture = maormer religion = serpent_king size = 3500 }
-	bureaucrats = { culture = maormer religion = serpent_king size = 560 }
-	capitalists = { culture = maormer religion = serpent_king size = 70 }
-	clergymen = { culture = maormer religion = serpent_king size = 1050 }
-	farmers = { culture = maormer religion = serpent_king size = 63000 }
-	officers = { culture = maormer religion = serpent_king size = 70 }
-	soldiers = { culture = maormer religion = serpent_king size = 1400 }
-}
-214 = {
-	aristocrats = { culture = maormer religion = serpent_king size = 700 }
-	artisans = { culture = maormer religion = serpent_king size = 3500 }
-	bureaucrats = { culture = maormer religion = serpent_king size = 560 }
-	capitalists = { culture = maormer religion = serpent_king size = 70 }
-	clergymen = { culture = maormer religion = serpent_king size = 1050 }
-	farmers = { culture = maormer religion = serpent_king size = 63000 }
-	officers = { culture = maormer religion = serpent_king size = 70 }
-	soldiers = { culture = maormer religion = serpent_king size = 1400 }
-}
-215 = {
-	aristocrats = { culture = maormer religion = serpent_king size = 1000 }
-	artisans = { culture = maormer religion = serpent_king size = 5000 }
-	bureaucrats = { culture = maormer religion = serpent_king size = 800 }
-	capitalists = { culture = maormer religion = serpent_king size = 100 }
-	clergymen = { culture = maormer religion = serpent_king size = 1500 }
-	farmers = { culture = maormer religion = serpent_king size = 90000 }
-	officers = { culture = maormer religion = serpent_king size = 100 }
-	soldiers = { culture = maormer religion = serpent_king size = 2000 }
-}
-216 = {
-	aristocrats = { culture = maormer religion = mother_sea size = 400 }
-	artisans = { culture = maormer religion = mother_sea size = 2000 }
-	bureaucrats = { culture = maormer religion = mother_sea size = 320 }
-	capitalists = { culture = maormer religion = mother_sea size = 40 }
-	clergymen = { culture = maormer religion = mother_sea size = 600 }
-	farmers = { culture = maormer religion = mother_sea size = 36000 }
-	officers = { culture = maormer religion = mother_sea size = 40 }
-	soldiers = { culture = maormer religion = mother_sea size = 800 }
-}
-217 = {
-	aristocrats = { culture = maormer religion = serpent_king size = 600 }
-	artisans = { culture = maormer religion = serpent_king size = 2000 }
-	bureaucrats = { culture = maormer religion = serpent_king size = 320 }
-	clergymen = { culture = maormer religion = serpent_king size = 440 }
-	farmers = { culture = maormer religion = serpent_king size = 36000 }
-	officers = { culture = maormer religion = serpent_king size = 40 }
-	soldiers = { culture = maormer religion = serpent_king size = 800 }
-}
-218 = {
-	aristocrats = { culture = maormer religion = serpent_king size = 750 }
-	artisans = { culture = maormer religion = serpent_king size = 2500 }
-	bureaucrats = { culture = maormer religion = serpent_king size = 400 }
-	clergymen = { culture = maormer religion = serpent_king size = 550 }
-	farmers = { culture = maormer religion = serpent_king size = 45000 }
-	officers = { culture = maormer religion = serpent_king size = 50 }
-	soldiers = { culture = maormer religion = serpent_king size = 1000 }
-}
-219 = {
-	aristocrats = { culture = maormer religion = serpent_king size = 700 }
-	artisans = { culture = maormer religion = serpent_king size = 3500 }
-	bureaucrats = { culture = maormer religion = serpent_king size = 560 }
-	capitalists = { culture = maormer religion = serpent_king size = 70 }
-	clergymen = { culture = maormer religion = serpent_king size = 1050 }
-	farmers = { culture = maormer religion = serpent_king size = 63000 }
-	officers = { culture = maormer religion = serpent_king size = 70 }
-	soldiers = { culture = maormer religion = serpent_king size = 1400 }
-}
-220 = {
-	aristocrats = { culture = maormer religion = serpent_king size = 2400 }
-	artisans = { culture = maormer religion = serpent_king size = 12000 }
-	bureaucrats = { culture = maormer religion = serpent_king size = 1920 }
-	capitalists = { culture = maormer religion = serpent_king size = 240 }
-	clergymen = { culture = maormer religion = serpent_king size = 3600 }
-	farmers = { culture = maormer religion = serpent_king size = 216000 }
-	officers = { culture = maormer religion = serpent_king size = 240 }
-	soldiers = { culture = maormer religion = serpent_king size = 4800 }
-}
-221 = {
-	aristocrats = { culture = maormer religion = serpent_king size = 900 }
-	artisans = { culture = maormer religion = serpent_king size = 3000 }
-	bureaucrats = { culture = maormer religion = serpent_king size = 480 }
-	clergymen = { culture = maormer religion = serpent_king size = 660 }
-	farmers = { culture = maormer religion = serpent_king size = 54000 }
-	officers = { culture = maormer religion = serpent_king size = 60 }
-	soldiers = { culture = maormer religion = serpent_king size = 1200 }
-}
-222 = {
-	aristocrats = { culture = maormer religion = serpent_king size = 900 }
-	artisans = { culture = maormer religion = serpent_king size = 3000 }
-	bureaucrats = { culture = maormer religion = serpent_king size = 480 }
-	clergymen = { culture = maormer religion = serpent_king size = 660 }
-	farmers = { culture = maormer religion = serpent_king size = 54000 }
-	officers = { culture = maormer religion = serpent_king size = 60 }
-	soldiers = { culture = maormer religion = serpent_king size = 1200 }
-}
-223 = {
-	aristocrats = { culture = maormer religion = hermeus_mora_cult size = 500 }
-	artisans = { culture = maormer religion = hermeus_mora_cult size = 2500 }
-	bureaucrats = { culture = maormer religion = hermeus_mora_cult size = 400 }
-	clergymen = { culture = maormer religion = hermeus_mora_cult size = 550 }
-	farmers = { culture = maormer religion = hermeus_mora_cult size = 45000 }
-	officers = { culture = maormer religion = hermeus_mora_cult size = 50 }
-	soldiers = { culture = maormer religion = hermeus_mora_cult size = 1000 }
-}
-224 = {
-	aristocrats = { culture = maormer religion = serpent_king size = 2700 }
-	artisans = { culture = maormer religion = serpent_king size = 9000 }
-	bureaucrats = { culture = maormer religion = serpent_king size = 1440 }
-	clergymen = { culture = maormer religion = serpent_king size = 1980 }
-	farmers = { culture = maormer religion = serpent_king size = 162000 }
-	officers = { culture = maormer religion = serpent_king size = 180 }
-	soldiers = { culture = maormer religion = serpent_king size = 3600 }
-}
-225 = {
-	aristocrats = { culture = maormer religion = serpent_king size = 600 }
-	artisans = { culture = maormer religion = serpent_king size = 3000 }
-	bureaucrats = { culture = maormer religion = serpent_king size = 480 }
-	clergymen = { culture = maormer religion = serpent_king size = 660 }
-	farmers = { culture = maormer religion = serpent_king size = 54000 }
-	officers = { culture = maormer religion = serpent_king size = 60 }
-	soldiers = { culture = maormer religion = serpent_king size = 1200 }
-}
-226 = {
-	aristocrats = { culture = maormer religion = serpent_king size = 1050 }
-	artisans = { culture = maormer religion = serpent_king size = 3500 }
-	bureaucrats = { culture = maormer religion = serpent_king size = 560 }
-	clergymen = { culture = maormer religion = serpent_king size = 770 }
-	farmers = { culture = maormer religion = serpent_king size = 63000 }
-	officers = { culture = maormer religion = serpent_king size = 70 }
-	soldiers = { culture = maormer religion = serpent_king size = 1400 }
-}
-227 = {
-	aristocrats = { culture = maormer religion = serpent_king size = 450 }
-	artisans = { culture = maormer religion = serpent_king size = 1500 }
-	bureaucrats = { culture = maormer religion = serpent_king size = 240 }
-	clergymen = { culture = maormer religion = serpent_king size = 330 }
-	farmers = { culture = maormer religion = serpent_king size = 27000 }
-	officers = { culture = maormer religion = serpent_king size = 30 }
-	soldiers = { culture = maormer religion = serpent_king size = 600 }
-}
-228 = {
-	aristocrats = { culture = maormer religion = serpent_king size = 750 }
-	artisans = { culture = maormer religion = serpent_king size = 2500 }
-	bureaucrats = { culture = maormer religion = serpent_king size = 400 }
-	clergymen = { culture = maormer religion = serpent_king size = 550 }
-	farmers = { culture = maormer religion = serpent_king size = 45000 }
-	officers = { culture = maormer religion = serpent_king size = 50 }
-	soldiers = { culture = maormer religion = serpent_king size = 1000 }
-}
-229 = {
-	aristocrats = { culture = maormer religion = serpent_king size = 500 }
-	artisans = { culture = maormer religion = serpent_king size = 2500 }
-	bureaucrats = { culture = maormer religion = serpent_king size = 400 }
-	capitalists = { culture = maormer religion = serpent_king size = 50 }
-	clergymen = { culture = maormer religion = serpent_king size = 750 }
-	farmers = { culture = maormer religion = serpent_king size = 45000 }
-	officers = { culture = maormer religion = serpent_king size = 50 }
-	soldiers = { culture = maormer religion = serpent_king size = 1000 }
-}
-230 = {
-	aristocrats = { culture = maormer religion = serpent_king size = 500 }
-	artisans = { culture = maormer religion = serpent_king size = 2500 }
-	bureaucrats = { culture = maormer religion = serpent_king size = 400 }
-	capitalists = { culture = maormer religion = serpent_king size = 50 }
-	clergymen = { culture = maormer religion = serpent_king size = 750 }
-	farmers = { culture = maormer religion = serpent_king size = 45000 }
-	officers = { culture = maormer religion = serpent_king size = 50 }
-	soldiers = { culture = maormer religion = serpent_king size = 1000 }
-}
-231 = {
-	aristocrats = { culture = maormer religion = serpent_king size = 1050 }
-	artisans = { culture = maormer religion = serpent_king size = 3500 }
-	bureaucrats = { culture = maormer religion = serpent_king size = 560 }
-	clergymen = { culture = maormer religion = serpent_king size = 770 }
-	farmers = { culture = maormer religion = serpent_king size = 63000 }
-	officers = { culture = maormer religion = serpent_king size = 70 }
-	soldiers = { culture = maormer religion = serpent_king size = 1400 }
-}
-232 = {
-	aristocrats = { culture = maormer religion = serpent_king size = 700 }
-	artisans = { culture = maormer religion = serpent_king size = 3500 }
-	bureaucrats = { culture = maormer religion = serpent_king size = 560 }
-	clergymen = { culture = maormer religion = serpent_king size = 1120 }
-	farmers = { culture = maormer religion = serpent_king size = 63000 }
-	officers = { culture = maormer religion = serpent_king size = 70 }
-	soldiers = { culture = maormer religion = serpent_king size = 1400 }
-}
-233 = {
-	aristocrats = { culture = maormer religion = serpent_king size = 1200 }
-	artisans = { culture = maormer religion = serpent_king size = 4000 }
-	bureaucrats = { culture = maormer religion = serpent_king size = 640 }
-	clergymen = { culture = maormer religion = serpent_king size = 880 }
-	farmers = { culture = maormer religion = serpent_king size = 72000 }
-	officers = { culture = maormer religion = serpent_king size = 80 }
-	soldiers = { culture = maormer religion = serpent_king size = 1600 }
-}
-234 = {
-	aristocrats = { culture = maormer religion = serpent_king size = 1350 }
-	artisans = { culture = maormer religion = serpent_king size = 4500 }
-	bureaucrats = { culture = maormer religion = serpent_king size = 720 }
-	clergymen = { culture = maormer religion = serpent_king size = 990 }
-	farmers = { culture = maormer religion = serpent_king size = 81000 }
-	officers = { culture = maormer religion = serpent_king size = 90 }
-	soldiers = { culture = maormer religion = serpent_king size = 1800 }
-}
-235 = {
-	aristocrats = { culture = maormer religion = serpent_king size = 450 }
-	artisans = { culture = maormer religion = serpent_king size = 1500 }
-	bureaucrats = { culture = maormer religion = serpent_king size = 240 }
-	clergymen = { culture = maormer religion = serpent_king size = 330 }
-	farmers = { culture = maormer religion = serpent_king size = 27000 }
-	officers = { culture = maormer religion = serpent_king size = 30 }
-	soldiers = { culture = maormer religion = serpent_king size = 600 }
-}
-236 = {
-	aristocrats = { culture = maormer religion = serpent_king size = 450 }
-	artisans = { culture = maormer religion = serpent_king size = 1500 }
-	bureaucrats = { culture = maormer religion = serpent_king size = 240 }
-	clergymen = { culture = maormer religion = serpent_king size = 330 }
-	farmers = { culture = maormer religion = serpent_king size = 27000 }
-	officers = { culture = maormer religion = serpent_king size = 30 }
-	soldiers = { culture = maormer religion = serpent_king size = 600 }
-}
-237 = {
-	aristocrats = { culture = maormer religion = hermeus_mora_cult size = 600 }
-	artisans = { culture = maormer religion = hermeus_mora_cult size = 3000 }
-	bureaucrats = { culture = maormer religion = hermeus_mora_cult size = 480 }
-	clergymen = { culture = maormer religion = hermeus_mora_cult size = 660 }
-	farmers = { culture = maormer religion = hermeus_mora_cult size = 54000 }
-	officers = { culture = maormer religion = hermeus_mora_cult size = 60 }
-	soldiers = { culture = maormer religion = hermeus_mora_cult size = 1200 }
-}
-238 = {
-	aristocrats = { culture = maormer religion = hermeus_mora_cult size = 700 }
-	artisans = { culture = maormer religion = hermeus_mora_cult size = 3500 }
-	bureaucrats = { culture = maormer religion = hermeus_mora_cult size = 560 }
-	clergymen = { culture = maormer religion = hermeus_mora_cult size = 770 }
-	farmers = { culture = maormer religion = hermeus_mora_cult size = 63000 }
-	officers = { culture = maormer religion = hermeus_mora_cult size = 70 }
-	soldiers = { culture = maormer religion = hermeus_mora_cult size = 1400 }
-}
-239 = {
-	aristocrats = { culture = maormer religion = hermeus_mora_cult size = 1000 }
-	artisans = { culture = maormer religion = hermeus_mora_cult size = 5000 }
-	bureaucrats = { culture = maormer religion = hermeus_mora_cult size = 800 }
-	clergymen = { culture = maormer religion = hermeus_mora_cult size = 1100 }
-	farmers = { culture = maormer religion = hermeus_mora_cult size = 90000 }
-	officers = { culture = maormer religion = hermeus_mora_cult size = 100 }
-	soldiers = { culture = maormer religion = hermeus_mora_cult size = 2000 }
-}
-240 = {
-	aristocrats = { culture = maormer religion = serpent_king size = 750 }
-	artisans = { culture = maormer religion = serpent_king size = 2500 }
-	bureaucrats = { culture = maormer religion = serpent_king size = 400 }
-	clergymen = { culture = maormer religion = serpent_king size = 550 }
-	farmers = { culture = maormer religion = serpent_king size = 45000 }
-	officers = { culture = maormer religion = serpent_king size = 50 }
-	soldiers = { culture = maormer religion = serpent_king size = 1000 }
-}
-241 = {
-	aristocrats = { culture = maormer religion = serpent_king size = 800 }
-	artisans = { culture = maormer religion = serpent_king size = 4000 }
-	bureaucrats = { culture = maormer religion = serpent_king size = 640 }
-	clergymen = { culture = maormer religion = serpent_king size = 880 }
-	farmers = { culture = maormer religion = serpent_king size = 72000 }
-	officers = { culture = maormer religion = serpent_king size = 80 }
-	soldiers = { culture = maormer religion = serpent_king size = 1600 }
-}
-244 = {
-	aristocrats = { culture = maormer religion = hermeus_mora_cult size = 700 }
-	artisans = { culture = maormer religion = hermeus_mora_cult size = 3500 }
-	bureaucrats = { culture = maormer religion = hermeus_mora_cult size = 560 }
-	clergymen = { culture = maormer religion = hermeus_mora_cult size = 770 }
-	farmers = { culture = maormer religion = hermeus_mora_cult size = 63000 }
-	officers = { culture = maormer religion = hermeus_mora_cult size = 70 }
-	soldiers = { culture = maormer religion = hermeus_mora_cult size = 1400 }
-}
-245 = {
-	aristocrats = { culture = maormer religion = hermeus_mora_cult size = 700 }
-	artisans = { culture = maormer religion = hermeus_mora_cult size = 3500 }
-	bureaucrats = { culture = maormer religion = hermeus_mora_cult size = 560 }
-	clergymen = { culture = maormer religion = hermeus_mora_cult size = 770 }
-	farmers = { culture = maormer religion = hermeus_mora_cult size = 63000 }
-	officers = { culture = maormer religion = hermeus_mora_cult size = 70 }
-	soldiers = { culture = maormer religion = hermeus_mora_cult size = 1400 }
 }
 7606 = {
 	aristocrats = { culture = maormer religion = serpent_king size = 600 }

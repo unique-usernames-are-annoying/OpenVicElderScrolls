@@ -1,5 +1,6 @@
+terrain = azure_plains
 life_rating = 30
-trade_goods = coal
+trade_goods = cattle
 owner = LB9
 controller = LB9
 add_core = LB9

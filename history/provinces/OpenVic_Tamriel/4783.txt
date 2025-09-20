@@ -1,5 +1,6 @@
+terrain = mountain
 life_rating = 30
-trade_goods = tobacco
+trade_goods = timber
 owner = SA4
 controller = SA4
 add_core = SA4

@@ -1,5 +1,6 @@
+terrain = forest
 life_rating = 30
-trade_goods = timber
+trade_goods = wool
 owner = VB4
 controller = VB4
 add_core = VB4

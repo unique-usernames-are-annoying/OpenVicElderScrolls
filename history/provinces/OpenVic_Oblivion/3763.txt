@@ -1,5 +1,6 @@
+terrain = deadlands_daedric_keep
 life_rating = 30
-trade_goods = tea
+trade_goods = grain
 owner = GA5
 controller = GA5
 add_core = GA5

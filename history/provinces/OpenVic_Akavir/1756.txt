@@ -1,5 +1,6 @@
+terrain = savannah
 life_rating = 30
-trade_goods = tropical_wood
+trade_goods = coffee
 owner = JA9
 controller = JA9
 add_core = JA9

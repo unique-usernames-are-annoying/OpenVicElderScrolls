@@ -1,5 +1,6 @@
+terrain = highlands
 life_rating = 30
-trade_goods = fruit
+trade_goods = wool
 owner = KA7
 controller = KA7
 add_core = KA7

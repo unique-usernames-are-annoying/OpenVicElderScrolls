@@ -1,2 +1,3 @@
+terrain = urban_vivec
 life_rating = 30
-trade_goods = coal
+trade_goods = dye

@@ -1,5 +1,6 @@
+terrain = forest
 life_rating = 30
-trade_goods = coal
+trade_goods = cotton
 owner = OA4
 controller = OA4
 add_core = OA4

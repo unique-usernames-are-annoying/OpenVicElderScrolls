@@ -1,5 +1,6 @@
+terrain = desert
 life_rating = 30
-trade_goods = cattle
+trade_goods = tobacco
 owner = EB3
 controller = EB3
 add_core = EB3

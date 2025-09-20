@@ -1,5 +1,6 @@
+terrain = mountain
 life_rating = 30
-trade_goods = grain
+trade_goods = cotton
 owner = BB6
 controller = BB6
 add_core = BB6

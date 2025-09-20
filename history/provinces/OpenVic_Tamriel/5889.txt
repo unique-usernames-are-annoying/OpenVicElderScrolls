@@ -1,5 +1,6 @@
+terrain = woods
 life_rating = 30
-trade_goods = dye
+trade_goods = cattle
 owner = CF1
 controller = CF1
 add_core = CF1

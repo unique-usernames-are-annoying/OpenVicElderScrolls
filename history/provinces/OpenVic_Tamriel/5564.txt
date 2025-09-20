@@ -1,5 +1,6 @@
+terrain = woods
 life_rating = 30
-trade_goods = cattle
+trade_goods = grain
 owner = CB3
 controller = CB3
 add_core = CB3

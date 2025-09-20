@@ -1,5 +1,6 @@
+terrain = highlands
 life_rating = 30
-trade_goods = fish
+trade_goods = cattle
 owner = SD6
 controller = SD6
 add_core = SD6

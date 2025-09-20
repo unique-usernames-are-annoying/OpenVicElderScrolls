@@ -1,5 +1,6 @@
+terrain = mountain
 life_rating = 30
-trade_goods = tobacco
+trade_goods = cotton
 owner = DE1
 controller = DE1
 add_core = DE1

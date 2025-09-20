@@ -1,5 +1,6 @@
+terrain = coastline
 life_rating = 30
-trade_goods = tea
+trade_goods = fish
 owner = EB1
 controller = EB1
 add_core = EB1

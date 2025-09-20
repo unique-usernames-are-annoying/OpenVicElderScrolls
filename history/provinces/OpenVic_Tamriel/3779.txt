@@ -1,5 +1,6 @@
+terrain = salt_plains
 life_rating = 30
-trade_goods = cotton
+trade_goods = timber
 owner = MD6
 controller = MD6
 add_core = MD6

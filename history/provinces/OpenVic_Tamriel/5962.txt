@@ -1,5 +1,6 @@
+terrain = hills
 life_rating = 30
-trade_goods = coal
+trade_goods = opium
 owner = CH1
 controller = CH1
 add_core = CH1

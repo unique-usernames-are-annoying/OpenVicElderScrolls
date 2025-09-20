@@ -1,5 +1,6 @@
+terrain = caves
 life_rating = 30
-trade_goods = cotton
+trade_goods = iron
 owner = RA3
 controller = RA3
 add_core = RA3

@@ -1,5 +1,6 @@
+terrain = marsh
 life_rating = 30
-trade_goods = grain
+trade_goods = coal
 owner = CB9
 controller = CB9
 add_core = CB9

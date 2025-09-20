@@ -1,5 +1,6 @@
+terrain = savannah
 life_rating = 30
-trade_goods = grain
+trade_goods = tobacco
 owner = EB7
 controller = EB7
 add_core = EB7

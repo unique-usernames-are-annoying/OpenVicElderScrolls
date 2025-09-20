@@ -1,5 +1,6 @@
+terrain = mountain
 life_rating = 30
-trade_goods = iron
+trade_goods = cattle
 owner = BE6
 controller = BE6
 add_core = BE6

@@ -1,5 +1,6 @@
+terrain = urban_evermore
 life_rating = 30
-trade_goods = cattle
+trade_goods = tea
 owner = BD7
 controller = BD7
 add_core = BD7

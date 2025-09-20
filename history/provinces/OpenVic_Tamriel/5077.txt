@@ -1,5 +1,6 @@
+terrain = drylands
 life_rating = 30
-trade_goods = coffee
+trade_goods = cattle
 owner = EC3
 controller = EC3
 add_core = EC3

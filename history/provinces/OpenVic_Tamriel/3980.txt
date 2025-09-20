@@ -1,5 +1,6 @@
+terrain = hills
 life_rating = 30
-trade_goods = fish
+trade_goods = grain
 owner = MF3
 controller = MF3
 add_core = MF3

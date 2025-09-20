@@ -1,2 +1,3 @@
+terrain = deadlands_smouldering_badlands
 life_rating = 30
-trade_goods = tea
+trade_goods = fruit

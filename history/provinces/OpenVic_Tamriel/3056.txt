@@ -1,5 +1,6 @@
+terrain = hills
 life_rating = 30
-trade_goods = cattle
+trade_goods = silk
 owner = NB4
 controller = NB4
 add_core = NB4

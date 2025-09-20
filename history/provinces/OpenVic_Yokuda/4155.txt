@@ -1,5 +1,6 @@
+terrain = craglands
 life_rating = 30
-trade_goods = dye
+trade_goods = tobacco
 owner = YC0
 controller = YC0
 add_core = YC0

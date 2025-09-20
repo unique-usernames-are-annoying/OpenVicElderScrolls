@@ -1,5 +1,6 @@
+terrain = orcish_stronghold
 life_rating = 30
-trade_goods = grain
+trade_goods = silk
 owner = NC9
 controller = NC9
 add_core = NC9

@@ -1,5 +1,6 @@
+terrain = forest
 life_rating = 30
-trade_goods = tobacco
+trade_goods = grain
 owner = CD1
 controller = CD1
 add_core = CD1

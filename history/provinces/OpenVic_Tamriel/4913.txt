@@ -1,5 +1,6 @@
+terrain = hills
 life_rating = 30
-trade_goods = fruit
+trade_goods = coal
 owner = VB5
 controller = VB5
 add_core = VB5

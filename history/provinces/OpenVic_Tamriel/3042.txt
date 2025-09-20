@@ -1,5 +1,6 @@
+terrain = moorlands
 life_rating = 30
-trade_goods = coal
+trade_goods = tea
 owner = NF1
 controller = NF1
 add_core = NF1

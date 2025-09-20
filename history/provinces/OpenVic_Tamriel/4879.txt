@@ -1,5 +1,6 @@
+terrain = coastline
 life_rating = 30
-trade_goods = timber
+trade_goods = fish
 owner = VA8
 controller = VA8
 add_core = VA8

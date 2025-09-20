@@ -1,5 +1,6 @@
+terrain = orcish_stronghold
 life_rating = 30
-trade_goods = cattle
+trade_goods = fruit
 owner = ND3
 controller = ND3
 add_core = ND3

@@ -1,5 +1,6 @@
+terrain = savannah
 life_rating = 30
-trade_goods = coffee
+trade_goods = cattle
 owner = EA7
 controller = EA7
 add_core = EA7

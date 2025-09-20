@@ -1,5 +1,6 @@
+terrain = coastline
 life_rating = 30
-trade_goods = timber
+trade_goods = fruit
 owner = PA5
 controller = PA5
 add_core = PA5

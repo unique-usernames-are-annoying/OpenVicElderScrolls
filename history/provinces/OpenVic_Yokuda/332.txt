@@ -1,5 +1,6 @@
+terrain = coastal_desert
 life_rating = 30
-trade_goods = cattle
+trade_goods = grain
 owner = YA3
 controller = YA3
 add_core = YA3

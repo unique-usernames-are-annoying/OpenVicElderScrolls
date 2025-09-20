@@ -1,5 +1,6 @@
+terrain = jungle
 life_rating = 30
-trade_goods = silk
+trade_goods = grain
 owner = UA7
 controller = UA7
 add_core = UA7

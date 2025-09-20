@@ -1,5 +1,6 @@
+terrain = marsh
 life_rating = 30
-trade_goods = grain
+trade_goods = precious_metal
 owner = CG4
 controller = CG4
 add_core = CG4

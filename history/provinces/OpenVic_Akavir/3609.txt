@@ -1,5 +1,6 @@
+terrain = mountain
 life_rating = 30
-trade_goods = tea
+trade_goods = cotton
 owner = UB3
 controller = UB3
 add_core = UB3

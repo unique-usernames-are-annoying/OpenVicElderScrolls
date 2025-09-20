@@ -1,5 +1,6 @@
+terrain = mountain_meadows
 life_rating = 30
-trade_goods = timber
+trade_goods = grain
 owner = CE1
 controller = CE1
 add_core = CE1

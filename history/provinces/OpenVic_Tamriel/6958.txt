@@ -1,5 +1,6 @@
+terrain = highlands
 life_rating = 30
-trade_goods = tobacco
+trade_goods = dye
 owner = BC1
 controller = BC1
 add_core = BC1

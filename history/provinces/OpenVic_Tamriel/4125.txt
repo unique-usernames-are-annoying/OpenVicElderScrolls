@@ -1,5 +1,6 @@
+terrain = fungal_forest
 life_rating = 30
-trade_goods = grain
+trade_goods = wool
 owner = MG9
 controller = MG9
 add_core = MG9

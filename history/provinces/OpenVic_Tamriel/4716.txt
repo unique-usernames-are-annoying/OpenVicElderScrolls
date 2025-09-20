@@ -1,5 +1,6 @@
+terrain = woods
 life_rating = 30
-trade_goods = fruit
+trade_goods = grain
 owner = SA3
 controller = SA3
 add_core = SA3

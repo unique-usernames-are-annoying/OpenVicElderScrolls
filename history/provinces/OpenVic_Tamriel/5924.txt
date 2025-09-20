@@ -1,5 +1,6 @@
+terrain = mountain
 life_rating = 30
-trade_goods = tea
+trade_goods = cattle
 owner = MIT
 controller = MIT
 add_core = MIT

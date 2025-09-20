@@ -1,5 +1,6 @@
+terrain = desert
 life_rating = 30
-trade_goods = tobacco
+trade_goods = cattle
 owner = PA6
 controller = PA6
 add_core = PA6

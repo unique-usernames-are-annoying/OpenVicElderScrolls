@@ -1,5 +1,6 @@
+terrain = jungle
 life_rating = 30
-trade_goods = grain
+trade_goods = dye
 owner = IA8
 controller = IA8
 add_core = IA8

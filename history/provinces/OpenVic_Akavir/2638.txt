@@ -1,5 +1,6 @@
+terrain = farmlands
 life_rating = 30
-trade_goods = cattle
+trade_goods = timber
 owner = OC2
 controller = OC2
 add_core = OC2

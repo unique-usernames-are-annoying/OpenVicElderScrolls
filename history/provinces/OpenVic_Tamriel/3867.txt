@@ -1,5 +1,6 @@
+terrain = caves
 life_rating = 30
-trade_goods = fish
+trade_goods = dye
 owner = RA6
 controller = RA6
 add_core = RA6

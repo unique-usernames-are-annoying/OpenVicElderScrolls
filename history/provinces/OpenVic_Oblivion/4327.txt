@@ -1,5 +1,6 @@
+terrain = deadlands_burning_hills
 life_rating = 30
-trade_goods = timber
+trade_goods = wool
 owner = GA3
 controller = GA3
 add_core = GA3

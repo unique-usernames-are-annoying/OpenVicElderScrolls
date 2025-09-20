@@ -1,5 +1,6 @@
+terrain = dwemer_stronghold
 life_rating = 30
-trade_goods = tea
+trade_goods = grain
 owner = NA8
 controller = NA8
 add_core = NA8

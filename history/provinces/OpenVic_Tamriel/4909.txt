@@ -1,5 +1,6 @@
+terrain = hills
 life_rating = 30
-trade_goods = cattle
+trade_goods = precious_metal
 owner = VB4
 controller = VB4
 add_core = VB4

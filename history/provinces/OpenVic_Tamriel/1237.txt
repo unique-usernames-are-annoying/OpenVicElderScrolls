@@ -1,5 +1,6 @@
+terrain = mountain
 life_rating = 30
-trade_goods = fruit
+trade_goods = silk
 owner = CF2
 controller = CF2
 add_core = CF2

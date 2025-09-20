@@ -1,5 +1,6 @@
+terrain = heathlands
 life_rating = 30
-trade_goods = cotton
+trade_goods = grain
 owner = HF5
 controller = HF5
 add_core = HF5

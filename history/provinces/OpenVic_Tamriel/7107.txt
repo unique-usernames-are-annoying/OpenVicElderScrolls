@@ -1,5 +1,6 @@
+terrain = drylands
 life_rating = 30
-trade_goods = timber
+trade_goods = coffee
 owner = HH3
 controller = HH3
 add_core = HH3

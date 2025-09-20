@@ -1,5 +1,6 @@
+terrain = steppe
 life_rating = 30
-trade_goods = wool
+trade_goods = cotton
 owner = EB2
 controller = EB2
 add_core = EB2

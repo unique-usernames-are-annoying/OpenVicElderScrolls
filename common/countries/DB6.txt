@@ -1,5 +1,5 @@
 graphical_culture = EuropeanGC
-color = { 4 136 4 }
+color = { 4 36 134 }
 party = {
 	name = "openvic_generic_fascist"
 	start_date = 1905.1.1

@@ -1,5 +1,6 @@
+terrain = taiga
 life_rating = 30
-trade_goods = fruit
+trade_goods = timber
 owner = NGH
 controller = NGH
 add_core = NGH

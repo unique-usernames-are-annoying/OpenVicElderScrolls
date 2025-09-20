@@ -1,3 +1,4 @@
+terrain = urban_pohax
 life_rating = 30
 trade_goods = grain
 owner = OC5

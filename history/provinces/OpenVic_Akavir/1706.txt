@@ -1,5 +1,6 @@
+terrain = marsh
 life_rating = 30
-trade_goods = grain
+trade_goods = tobacco
 owner = OC2
 controller = OC2
 add_core = OC2

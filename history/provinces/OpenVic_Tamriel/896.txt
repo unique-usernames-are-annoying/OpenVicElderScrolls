@@ -1,5 +1,6 @@
+terrain = hills
 life_rating = 30
-trade_goods = tropical_wood
+trade_goods = fruit
 owner = EC8
 controller = EC8
 add_core = EC8

@@ -1,5 +1,6 @@
+terrain = hills
 life_rating = 30
-trade_goods = tea
+trade_goods = fish
 owner = OA6
 controller = OA6
 add_core = OA6

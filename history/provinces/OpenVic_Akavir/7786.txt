@@ -1,5 +1,6 @@
+terrain = hills
 life_rating = 30
-trade_goods = grain
+trade_goods = tea
 owner = OA9
 controller = OA9
 add_core = OA9

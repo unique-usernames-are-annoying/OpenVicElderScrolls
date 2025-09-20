@@ -1,5 +1,6 @@
+terrain = highlands
 life_rating = 30
-trade_goods = timber
+trade_goods = grain
 owner = DA4
 controller = DA4
 add_core = DA4

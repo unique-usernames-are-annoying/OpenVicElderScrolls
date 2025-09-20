@@ -1,5 +1,6 @@
+terrain = hills
 life_rating = 30
-trade_goods = dye
+trade_goods = grain
 owner = SB3
 controller = SB3
 add_core = SB3

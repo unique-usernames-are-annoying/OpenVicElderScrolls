@@ -1,5 +1,6 @@
+terrain = mountain_meadows
 life_rating = 30
-trade_goods = tropical_wood
-owner = VB4
-controller = VB4
-add_core = VB4
+trade_goods = grain
+owner = VE2
+controller = VE2
+add_core = VE2

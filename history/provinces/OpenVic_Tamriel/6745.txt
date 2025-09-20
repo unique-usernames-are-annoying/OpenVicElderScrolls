@@ -1,5 +1,6 @@
+terrain = urban_blackrose
 life_rating = 30
-trade_goods = wool
+trade_goods = fruit
 owner = AD6
 controller = AD6
 add_core = AD6

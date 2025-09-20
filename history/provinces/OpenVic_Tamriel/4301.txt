@@ -1,5 +1,6 @@
+terrain = dwemer_stronghold
 life_rating = 30
-trade_goods = fish
+trade_goods = grain
 owner = MH2
 controller = MH2
 add_core = MH2

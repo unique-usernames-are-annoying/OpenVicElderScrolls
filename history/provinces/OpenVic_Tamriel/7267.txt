@@ -1,5 +1,6 @@
+terrain = mountain
 life_rating = 30
-trade_goods = timber
+trade_goods = grain
 owner = HF7
 controller = HF7
 add_core = HF7

@@ -1,5 +1,6 @@
+terrain = taiga
 life_rating = 30
-trade_goods = cattle
+trade_goods = timber
 owner = NF2
 controller = NF2
 add_core = NF2

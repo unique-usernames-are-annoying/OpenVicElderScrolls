@@ -1,5 +1,6 @@
+terrain = woods
 life_rating = 30
-trade_goods = grain
+trade_goods = tobacco
 owner = VA4
 controller = VA4
 add_core = VA4

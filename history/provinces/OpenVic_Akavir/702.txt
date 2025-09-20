@@ -1,5 +1,6 @@
+terrain = farmlands
 life_rating = 30
-trade_goods = timber
+trade_goods = dye
 owner = UA7
 controller = UA7
 add_core = UA7

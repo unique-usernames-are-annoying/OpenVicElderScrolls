@@ -1,5 +1,6 @@
+terrain = marsh
 life_rating = 30
-trade_goods = cattle
+trade_goods = timber
 owner = AD0
 controller = AD0
 add_core = AD0

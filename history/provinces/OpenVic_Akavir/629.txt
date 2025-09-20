@@ -1,5 +1,6 @@
+terrain = coastal_desert
 life_rating = 30
-trade_goods = fruit
+trade_goods = timber
 owner = OB1
 controller = OB1
 add_core = OB1

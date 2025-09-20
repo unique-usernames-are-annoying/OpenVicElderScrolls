@@ -1,5 +1,6 @@
+terrain = hills
 life_rating = 30
-trade_goods = cotton
+trade_goods = cattle
 owner = BD7
 controller = BD7
 add_core = BD7

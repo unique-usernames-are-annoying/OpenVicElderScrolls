@@ -1,5 +1,6 @@
+terrain = urban_arenthia
 life_rating = 30
-trade_goods = grain
+trade_goods = silk
 owner = VD0
 controller = VD0
 add_core = VD0

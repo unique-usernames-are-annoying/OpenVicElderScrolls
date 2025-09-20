@@ -1,5 +1,6 @@
+terrain = mountain
 life_rating = 30
-trade_goods = coal
+trade_goods = timber
 owner = SD8
 controller = SD8
 add_core = SD8

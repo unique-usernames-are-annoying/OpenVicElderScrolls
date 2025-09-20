@@ -1,5 +1,6 @@
+terrain = hills
 life_rating = 30
-trade_goods = grain
+trade_goods = tobacco
 owner = MC5
 controller = MC5
 add_core = MC5

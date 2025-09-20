@@ -1,5 +1,6 @@
+terrain = coastline
 life_rating = 30
-trade_goods = tropical_wood
+trade_goods = dye
 owner = VE0
 controller = VE0
 add_core = VE0

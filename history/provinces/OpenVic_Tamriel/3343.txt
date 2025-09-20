@@ -1,5 +1,6 @@
+terrain = hills
 life_rating = 30
-trade_goods = iron
+trade_goods = grain
 owner = MC6
 controller = MC6
 add_core = MC6

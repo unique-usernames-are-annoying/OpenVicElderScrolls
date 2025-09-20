@@ -1,5 +1,6 @@
+terrain = urban_nchardak
 life_rating = 30
-trade_goods = cotton
+trade_goods = coal
 owner = MJ0
 controller = MJ0
 add_core = MJ0

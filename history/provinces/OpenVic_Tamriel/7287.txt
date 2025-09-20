@@ -1,5 +1,6 @@
+terrain = heathlands
 life_rating = 30
-trade_goods = precious_metal
+trade_goods = sulphur
 owner = ND7
 controller = ND7
 add_core = ND7

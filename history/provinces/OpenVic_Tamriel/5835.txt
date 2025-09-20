@@ -1,5 +1,6 @@
+terrain = woods
 life_rating = 30
-trade_goods = coal
+trade_goods = coffee
 owner = CE2
 controller = CE2
 add_core = CE2

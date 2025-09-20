@@ -1,5 +1,6 @@
+terrain = deadlands_daedric_keep
 life_rating = 30
-trade_goods = tobacco
+trade_goods = grain
 owner = GA4
 controller = GA4
 add_core = GA4

@@ -1,5 +1,6 @@
+terrain = highlands
 life_rating = 30
-trade_goods = grain
+trade_goods = dye
 owner = MD0
 controller = MD0
 add_core = MD0

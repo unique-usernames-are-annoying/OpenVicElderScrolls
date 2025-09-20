@@ -1,5 +1,6 @@
+terrain = bayou
 life_rating = 30
-trade_goods = silk
+trade_goods = grain
 owner = AB2
 controller = AB2
 add_core = AB2

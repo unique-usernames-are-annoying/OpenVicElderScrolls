@@ -1,5 +1,6 @@
+terrain = caves
 life_rating = 30
-trade_goods = wool
+trade_goods = coal
 owner = CH9
 controller = CH9
 add_core = CH9

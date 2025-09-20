@@ -1,5 +1,6 @@
+terrain = drylands
 life_rating = 30
-trade_goods = tea
+trade_goods = grain
 owner = EC3
 controller = EC3
 add_core = EC3

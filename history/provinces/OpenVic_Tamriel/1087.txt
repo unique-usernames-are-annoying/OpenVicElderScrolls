@@ -1,5 +1,6 @@
+terrain = urban_soulrest
 life_rating = 30
-trade_goods = tropical_wood
+trade_goods = grain
 owner = AA5
 controller = AA5
 add_core = AA5

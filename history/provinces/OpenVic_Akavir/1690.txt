@@ -1,5 +1,6 @@
+terrain = jungle
 life_rating = 30
-trade_goods = iron
+trade_goods = timber
 owner = OC7
 controller = OC7
 add_core = OC7

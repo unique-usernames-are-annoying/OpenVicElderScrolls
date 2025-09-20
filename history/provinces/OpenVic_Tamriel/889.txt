@@ -1,3 +1,4 @@
+terrain = urban_riverhold
 life_rating = 30
 trade_goods = cotton
 owner = EA2

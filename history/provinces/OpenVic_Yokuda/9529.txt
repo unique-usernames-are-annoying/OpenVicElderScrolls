@@ -1,5 +1,6 @@
+terrain = jungle
 life_rating = 30
-trade_goods = silk
+trade_goods = coal
 owner = YC9
 controller = YC9
 add_core = YC9

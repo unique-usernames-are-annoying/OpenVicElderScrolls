@@ -1,5 +1,6 @@
+terrain = mountain
 life_rating = 30
-trade_goods = dye
+trade_goods = grain
 owner = TA7
 controller = TA7
 add_core = TA7

@@ -1,5 +1,6 @@
+terrain = savannah
 life_rating = 30
-trade_goods = precious_metal
+trade_goods = grain
 owner = OA9
 controller = OA9
 add_core = OA9

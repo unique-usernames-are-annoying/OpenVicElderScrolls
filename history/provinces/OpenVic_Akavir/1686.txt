@@ -1,5 +1,6 @@
+terrain = hills
 life_rating = 30
-trade_goods = coffee
+trade_goods = coal
 owner = OC7
 controller = OC7
 add_core = OC7

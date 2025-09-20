@@ -1,5 +1,6 @@
+terrain = woods
 life_rating = 30
-trade_goods = fish
+trade_goods = grain
 owner = BE8
 controller = BE8
 add_core = BE8

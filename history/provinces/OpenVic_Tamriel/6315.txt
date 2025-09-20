@@ -1,5 +1,6 @@
+terrain = desert
 life_rating = 30
-trade_goods = fruit
+trade_goods = grain
 owner = HG1
 controller = HG1
 add_core = HG1

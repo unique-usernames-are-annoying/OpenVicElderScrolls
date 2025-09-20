@@ -1,5 +1,6 @@
+terrain = cold_wastes
 life_rating = 30
-trade_goods = timber
+trade_goods = grain
 owner = LA2
 controller = LA2
 add_core = LA2

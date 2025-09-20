@@ -1,5 +1,6 @@
+terrain = farmlands
 life_rating = 30
-trade_goods = fruit
+trade_goods = dye
 owner = SB1
 controller = SB1
 add_core = SB1

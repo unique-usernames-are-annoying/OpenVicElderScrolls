@@ -1,5 +1,6 @@
+terrain = deadlands_ashen_wastes
 life_rating = 30
-trade_goods = grain
+trade_goods = cattle
 owner = GA8
 controller = GA8
 add_core = GA8

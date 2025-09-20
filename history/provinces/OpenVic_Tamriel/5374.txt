@@ -1,5 +1,6 @@
+terrain = forest
 life_rating = 30
-trade_goods = dye
+trade_goods = cotton
 owner = CB0
 controller = CB0
 add_core = CB0

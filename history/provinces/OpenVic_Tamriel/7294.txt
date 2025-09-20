@@ -1,5 +1,6 @@
+terrain = mountain_meadows
 life_rating = 30
-trade_goods = coffee
+trade_goods = grain
 owner = ND2
 controller = ND2
 add_core = ND2

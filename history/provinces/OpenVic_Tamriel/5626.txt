@@ -1,5 +1,6 @@
+terrain = caves
 life_rating = 30
-trade_goods = fish
+trade_goods = dye
 owner = CD1
 controller = CD1
 add_core = CD1

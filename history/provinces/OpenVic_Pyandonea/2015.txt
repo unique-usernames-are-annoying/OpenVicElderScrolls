@@ -1,5 +1,6 @@
+terrain = urban_wega
 life_rating = 30
-trade_goods = grain
+trade_goods = coal
 owner = PC1
 controller = PC1
 add_core = PC1

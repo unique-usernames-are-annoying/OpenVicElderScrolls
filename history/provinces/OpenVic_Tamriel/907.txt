@@ -1,5 +1,6 @@
+terrain = steppe
 life_rating = 30
-trade_goods = cattle
+trade_goods = fruit
 owner = EC8
 controller = EC8
 add_core = EC8

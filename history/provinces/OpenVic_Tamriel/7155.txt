@@ -1,5 +1,6 @@
+terrain = barrow
 life_rating = 30
-trade_goods = opium
+trade_goods = timber
 owner = NC1
 controller = NC1
 add_core = NC1

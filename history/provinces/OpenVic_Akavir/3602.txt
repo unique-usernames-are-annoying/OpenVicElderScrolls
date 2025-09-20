@@ -1,5 +1,6 @@
+terrain = farmlands
 life_rating = 30
-trade_goods = grain
+trade_goods = fruit
 owner = TA8
 controller = TA8
 add_core = TA8

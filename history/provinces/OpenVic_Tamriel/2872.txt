@@ -1,5 +1,6 @@
+terrain = dwemer_stronghold
 life_rating = 30
-trade_goods = cotton
+trade_goods = fish
 owner = NA4
 controller = NA4
 add_core = NA4

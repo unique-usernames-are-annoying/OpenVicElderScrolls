@@ -1,2 +1,3 @@
+terrain = caves
 life_rating = 30
-trade_goods = fish
+trade_goods = tea

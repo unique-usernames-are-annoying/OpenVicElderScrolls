@@ -1,5 +1,6 @@
+terrain = deadlands_volcanic_peak
 life_rating = 30
-trade_goods = opium
+trade_goods = coal
 owner = GA4
 controller = GA4
 add_core = GA4

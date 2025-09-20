@@ -1,5 +1,6 @@
+terrain = coastline
 life_rating = 30
-trade_goods = tobacco
+trade_goods = cotton
 owner = SC3
 controller = SC3
 add_core = SC3

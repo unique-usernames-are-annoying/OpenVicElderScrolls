@@ -1,5 +1,6 @@
+terrain = bayou
 life_rating = 30
-trade_goods = cotton
+trade_goods = grain
 owner = AC9
 controller = AC9
 add_core = AC9

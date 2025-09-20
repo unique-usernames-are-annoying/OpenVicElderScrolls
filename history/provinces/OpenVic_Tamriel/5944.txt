@@ -1,5 +1,6 @@
+terrain = forest
 life_rating = 30
-trade_goods = cotton
+trade_goods = tea
 owner = CF3
 controller = CF3
 add_core = CF3

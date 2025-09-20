@@ -1,5 +1,6 @@
+terrain = coastline
 life_rating = 30
-trade_goods = cotton
+trade_goods = grain
 owner = EB1
 controller = EB1
 add_core = EB1

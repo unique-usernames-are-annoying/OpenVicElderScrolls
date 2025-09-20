@@ -1,5 +1,6 @@
+terrain = mountain
 life_rating = 30
-trade_goods = dye
+trade_goods = wool
 owner = HC4
 controller = HC4
 add_core = HC4

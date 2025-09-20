@@ -1,5 +1,6 @@
+terrain = urban_imperial_city
 life_rating = 30
-trade_goods = fish
+trade_goods = tea
 owner = CH1
 controller = CH1
 add_core = CH1

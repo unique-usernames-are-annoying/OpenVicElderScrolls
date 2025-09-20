@@ -1,5 +1,6 @@
+terrain = mountain
 life_rating = 30
-trade_goods = fish
+trade_goods = timber
 owner = OC1
 controller = OC1
 add_core = OC1

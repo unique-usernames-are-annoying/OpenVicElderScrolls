@@ -1,5 +1,6 @@
+terrain = coastline
 life_rating = 30
-trade_goods = tea
+trade_goods = cattle
 owner = YA4
 controller = YA4
 add_core = YA4

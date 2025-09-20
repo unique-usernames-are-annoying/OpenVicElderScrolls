@@ -1,5 +1,6 @@
+terrain = savannah
 life_rating = 30
-trade_goods = iron
+trade_goods = cattle
 owner = OB5
 controller = OB5
 add_core = OB5

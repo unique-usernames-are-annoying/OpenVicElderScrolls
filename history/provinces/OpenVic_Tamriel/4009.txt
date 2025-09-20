@@ -1,3 +1,4 @@
+terrain = fungal_forest
 life_rating = 30
 trade_goods = timber
 owner = MF5

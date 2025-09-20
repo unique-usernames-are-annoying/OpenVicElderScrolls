@@ -1,5 +1,6 @@
+terrain = hot_springs
 life_rating = 30
-trade_goods = cattle
+trade_goods = tea
 owner = DE1
 controller = DE1
 add_core = DE1

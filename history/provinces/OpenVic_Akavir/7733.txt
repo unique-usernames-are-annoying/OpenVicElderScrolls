@@ -1,5 +1,6 @@
+terrain = mountain
 life_rating = 30
-trade_goods = fruit
+trade_goods = wool
 owner = JB3
 controller = JB3
 add_core = JB3

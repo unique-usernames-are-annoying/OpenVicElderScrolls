@@ -1,5 +1,6 @@
+terrain = ashlands
 life_rating = 30
-trade_goods = fish
+trade_goods = wool
 owner = MD3
 controller = MD3
 add_core = MD3

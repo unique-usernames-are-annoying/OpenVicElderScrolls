@@ -1,5 +1,6 @@
+terrain = farmlands
 life_rating = 30
-trade_goods = fish
+trade_goods = timber
 owner = NB2
 controller = NB2
 add_core = NB2

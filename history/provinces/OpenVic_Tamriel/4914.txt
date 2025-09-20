@@ -1,5 +1,6 @@
+terrain = hills
 life_rating = 30
-trade_goods = grain
+trade_goods = fruit
 owner = VD9
 controller = VD9
 add_core = VD9

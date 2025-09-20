@@ -1,5 +1,6 @@
+terrain = chasm
 life_rating = 30
-trade_goods = cotton
+trade_goods = grain
 owner = LA2
 controller = LA2
 add_core = LA2

@@ -1,5 +1,6 @@
+terrain = woods
 life_rating = 30
-trade_goods = fish
+trade_goods = tobacco
 owner = SA1
 controller = SA1
 add_core = SA1

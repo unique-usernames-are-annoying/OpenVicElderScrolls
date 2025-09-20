@@ -1,6 +1,6 @@
 capital = 3895
 government = theocracy
-religion = magne_ge
+religion = magna_ge
 primary_culture = ayleid
 nationalvalue = cyrodiil_tg
 civilized = yes

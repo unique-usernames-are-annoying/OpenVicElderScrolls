@@ -1,5 +1,6 @@
+terrain = tundra
 life_rating = 30
-trade_goods = grain
+trade_goods = tea
 owner = VOL
 controller = VOL
 add_core = VOL

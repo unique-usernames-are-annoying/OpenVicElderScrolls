@@ -1,5 +1,6 @@
+terrain = mountain_meadows
 life_rating = 30
-trade_goods = timber
+trade_goods = cotton
 owner = TSS
 controller = TSS
 add_core = TSS

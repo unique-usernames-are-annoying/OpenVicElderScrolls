@@ -1,5 +1,6 @@
+terrain = hills
 life_rating = 30
-trade_goods = cattle
+trade_goods = grain
 owner = BE7
 controller = BE7
 add_core = BE7

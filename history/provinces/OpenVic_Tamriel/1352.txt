@@ -1,5 +1,6 @@
+terrain = mountain_meadows
 life_rating = 30
-trade_goods = cotton
+trade_goods = dye
 owner = ND7
 controller = ND7
 add_core = ND7

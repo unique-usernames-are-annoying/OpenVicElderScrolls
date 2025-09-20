@@ -1,5 +1,6 @@
+terrain = ashlands
 life_rating = 30
-trade_goods = tobacco
+trade_goods = dye
 owner = ME2
 controller = ME2
 add_core = ME2

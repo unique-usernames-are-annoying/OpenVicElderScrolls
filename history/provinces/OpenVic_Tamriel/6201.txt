@@ -1,5 +1,6 @@
+terrain = dwemer_stronghold
 life_rating = 30
-trade_goods = dye
+trade_goods = wool
 owner = HA6
 controller = HA6
 add_core = HA6

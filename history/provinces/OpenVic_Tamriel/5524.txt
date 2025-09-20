@@ -1,5 +1,6 @@
+terrain = coastline
 life_rating = 30
-trade_goods = fruit
+trade_goods = wool
 owner = CG1
 controller = CG1
 add_core = CG1

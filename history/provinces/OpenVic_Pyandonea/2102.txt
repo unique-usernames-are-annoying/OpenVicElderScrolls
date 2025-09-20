@@ -1,5 +1,6 @@
+terrain = coastline
 life_rating = 30
-trade_goods = fruit
+trade_goods = coffee
 owner = PB6
 controller = PB6
 add_core = PB6

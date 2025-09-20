@@ -1,5 +1,6 @@
+terrain = hills
 life_rating = 30
-trade_goods = fish
+trade_goods = timber
 owner = MJ1
 controller = MJ1
 add_core = MJ1

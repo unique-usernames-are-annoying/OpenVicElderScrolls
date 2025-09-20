@@ -1,5 +1,6 @@
+terrain = bayou
 life_rating = 30
-trade_goods = iron
+trade_goods = wool
 owner = MC3
 controller = MC3
 add_core = MC3

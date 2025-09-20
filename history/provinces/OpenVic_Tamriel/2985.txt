@@ -1,5 +1,6 @@
+terrain = blackreach_forest
 life_rating = 30
-trade_goods = grain
+trade_goods = fruit
 owner = NGH
 controller = NGH
 add_core = NGH

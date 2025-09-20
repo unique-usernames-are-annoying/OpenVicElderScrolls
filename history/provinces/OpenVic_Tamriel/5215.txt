@@ -1,5 +1,6 @@
+terrain = hills
 life_rating = 30
-trade_goods = cotton
+trade_goods = coffee
 owner = EA2
 controller = EA2
 add_core = EA2

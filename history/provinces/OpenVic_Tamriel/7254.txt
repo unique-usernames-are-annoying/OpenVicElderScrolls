@@ -1,5 +1,6 @@
+terrain = highlands
 life_rating = 30
-trade_goods = cattle
+trade_goods = timber
 owner = ND0
 controller = ND0
 add_core = ND0

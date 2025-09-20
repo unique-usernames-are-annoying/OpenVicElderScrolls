@@ -1,5 +1,6 @@
+terrain = highlands
 life_rating = 30
-trade_goods = iron
+trade_goods = tea
 owner = OA6
 controller = OA6
 add_core = OA6

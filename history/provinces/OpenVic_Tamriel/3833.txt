@@ -1,5 +1,6 @@
+terrain = mudflats
 life_rating = 30
-trade_goods = sulphur
+trade_goods = fruit
 owner = ME8
 controller = ME8
 add_core = ME8

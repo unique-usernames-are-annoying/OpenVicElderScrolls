@@ -1,5 +1,6 @@
+terrain = urban_anvil
 life_rating = 30
-trade_goods = cotton
+trade_goods = tea
 owner = CH4
 controller = CH4
 add_core = CH4

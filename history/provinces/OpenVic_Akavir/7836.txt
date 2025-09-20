@@ -1,5 +1,6 @@
+terrain = hills
 life_rating = 30
-trade_goods = tea
+trade_goods = cattle
 owner = OB2
 controller = OB2
 add_core = OB2

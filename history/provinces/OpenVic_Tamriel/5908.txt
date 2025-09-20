@@ -1,5 +1,6 @@
+terrain = woods
 life_rating = 30
-trade_goods = tea
+trade_goods = timber
 owner = CF2
 controller = CF2
 add_core = CF2

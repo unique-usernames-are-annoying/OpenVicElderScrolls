@@ -1,5 +1,6 @@
+terrain = mountain
 life_rating = 30
-trade_goods = wool
+trade_goods = coal
 owner = SC1
 controller = SC1
 add_core = SC1

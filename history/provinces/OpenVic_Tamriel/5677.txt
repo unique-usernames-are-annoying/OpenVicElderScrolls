@@ -1,5 +1,6 @@
+terrain = grasslands
 life_rating = 30
-trade_goods = timber
+trade_goods = grain
 owner = CC6
 controller = CC6
 add_core = CC6

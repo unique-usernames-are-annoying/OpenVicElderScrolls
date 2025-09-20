@@ -1,2 +1,3 @@
+terrain = lava
 life_rating = 30
-trade_goods = tea
+trade_goods = cattle

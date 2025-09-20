@@ -1,5 +1,6 @@
+terrain = woods
 life_rating = 30
-trade_goods = tobacco
+trade_goods = coffee
 owner = SA9
 controller = SA9
 add_core = SA9

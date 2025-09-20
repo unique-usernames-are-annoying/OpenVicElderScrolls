@@ -1,7 +1,7 @@
 capital = 2978
 government = republic
 religion = dragon_cult
-primary_culture = atmoran
+primary_culture = nord
 nationalvalue = northern_tg
 civilized = yes
 literacy = 0.5

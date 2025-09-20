@@ -1,5 +1,6 @@
+terrain = savannah
 life_rating = 30
-trade_goods = fish
+trade_goods = grain
 owner = OB8
 controller = OB8
 add_core = OB8

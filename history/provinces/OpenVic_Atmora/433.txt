@@ -1,5 +1,6 @@
+terrain = highlands
 life_rating = 30
-trade_goods = fish
+trade_goods = fruit
 owner = DB2
 controller = DB2
 add_core = DB2

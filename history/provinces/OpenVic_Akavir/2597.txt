@@ -1,5 +1,6 @@
+terrain = woods
 life_rating = 30
-trade_goods = grain
+trade_goods = tea
 owner = OC1
 controller = OC1
 add_core = OC1

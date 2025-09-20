@@ -1,5 +1,6 @@
+terrain = heathlands
 life_rating = 30
-trade_goods = tea
+trade_goods = grain
 owner = NC6
 controller = NC6
 add_core = NC6

@@ -1,5 +1,6 @@
+terrain = highlands
 life_rating = 30
-trade_goods = timber
+trade_goods = sulphur
 owner = ND8
 controller = ND8
 add_core = ND8

@@ -1,5 +1,6 @@
+terrain = glacier
 life_rating = 30
-trade_goods = grain
+trade_goods = cattle
 owner = STA
 controller = STA
 add_core = STA

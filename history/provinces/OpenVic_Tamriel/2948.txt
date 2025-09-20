@@ -1,5 +1,6 @@
+terrain = highlands
 life_rating = 30
-trade_goods = fish
+trade_goods = grain
 owner = NF2
 controller = NF2
 add_core = NF2

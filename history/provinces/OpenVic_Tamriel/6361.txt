@@ -1,5 +1,6 @@
+terrain = drylands
 life_rating = 30
-trade_goods = grain
+trade_goods = tea
 owner = HH1
 controller = HH1
 add_core = HH1

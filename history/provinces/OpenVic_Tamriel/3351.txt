@@ -1,5 +1,6 @@
+terrain = tundra
 life_rating = 30
-trade_goods = cotton
+trade_goods = grain
 owner = MC7
 controller = MC7
 add_core = MC7

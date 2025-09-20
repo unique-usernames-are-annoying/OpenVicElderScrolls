@@ -1,3 +1,4 @@
+terrain = black_pyramid
 life_rating = 30
 trade_goods = grain
 owner = LB6

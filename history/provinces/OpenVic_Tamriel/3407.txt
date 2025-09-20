@@ -1,5 +1,6 @@
+terrain = highlands
 life_rating = 30
-trade_goods = fish
+trade_goods = coal
 owner = MI1
 controller = MI1
 add_core = MI1

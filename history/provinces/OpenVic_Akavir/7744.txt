@@ -1,5 +1,6 @@
+terrain = forest
 life_rating = 30
-trade_goods = cotton
+trade_goods = cattle
 owner = JB1
 controller = JB1
 add_core = JB1

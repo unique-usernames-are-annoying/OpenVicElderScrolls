@@ -1,0 +1,1259 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_crisis_temperature_bar_frame"
+		texturefile = "gfx\\interface\\crisis_temperature_bar_frame.tga"
+	}
+
+	spriteType = {
+		name = "GFX_flashpoint_tension_icon"
+		texturefile = "gfx\\interface\\flashpoint_tension_icon.dds"
+	}
+
+	spriteType = {
+		name = "GFX_close_province"
+		texturefile = "gfx\\interface\\close_province.dds"
+	}
+
+	spriteType = {
+		name = "GFX_rally_land_icon"
+		texturefile = "gfx\\interface\\rally_land_icon.tga"
+	}
+	spriteType = {
+		name = "GFX_rally_naval_icon"
+		texturefile = "gfx\\interface\\rally_naval_icon.tga"
+	}
+	spriteType = {
+		name = "GFX_rally_land_checkbox"
+		texturefile = "gfx\\interface\\rally_land_checkbox.tga"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_rally_naval_checkbox"
+		texturefile = "gfx\\interface\\rally_naval_checkbox.tga"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_rally_merge_small"
+		texturefile = "gfx\\interface\\rally_merge_small.tga"
+	}
+
+	spriteType = {
+		name = "GFX_province_natfocus_bg"
+		texturefile = "gfx\\interface\\province_natfocus_bg.dds"
+	}
+
+	spriteType = {
+		name = "GFX_province_uncolonized_bg"
+		texturefile = "gfx\\interface\\province_uncolonized_bg.dds"
+	}
+
+	spriteType = {
+		name = "GFX_open_popscreen"
+		texturefile = "gfx\\interface\\open_popscreen.tga"
+	}
+
+	spriteType = {
+		name = "GFX_crime_strip"
+		textureFile = "gfx\\interface\\crime_strip.dds"
+		noOfFrames = 9
+	}
+	spriteType = {
+		name = "GFX_party_loyalty_strip"
+		textureFile = "gfx\\interface\\party_loyalty_strip.dds"
+		noOfFrames = 8
+	}
+	spriteType = {
+		name = "GFX_province_colony_icon"
+		textureFile = "gfx\\interface\\province_colony_icon.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_province_natfocus_strip"
+		textureFile = "gfx\\interface\\province_natfocus_strip.dds"
+		noOfFrames = 31
+	}
+	spriteType = {
+		name = "GFX_province_natfocus_strip_small"
+		textureFile = "gfx\\interface\\province_natfocus_strip_small.dds"
+		noOfFrames = 31
+	}
+	spriteType = {
+		name = "GFX_province_fort_strip"
+		textureFile = "gfx\\interface\\province_fort_strip.dds"
+		noOfFrames = 7
+	}
+	spriteType = {
+		name = "GFX_province_navalbase_strip"
+		textureFile = "gfx\\interface\\province_navalbase_strip.dds"
+		noOfFrames = 7
+	}
+	spriteType = {
+		name = "GFX_province_infra_strip"
+		textureFile = "gfx\\interface\\province_infra_strip.dds"
+		noOfFrames = 7
+	}
+	spriteType = {
+		name = "GFX_province_expanding"
+		texturefile = "gfx\\interface\\province_expanding.dds"
+	}
+	spriteType = {
+		name = "GFX_province_revolt"
+		texturefile = "gfx\\interface\\province_revolt.dds"
+	}
+	spriteType = {
+		name = "GFX_province_crimefight"
+		texturefile = "gfx\\interface\\province_crimefight.dds"
+	}
+
+	spriteType = {
+		name = "GFX_province_pop"
+		texturefile = "gfx\\interface\\province_pop.dds"
+	}
+
+	spriteType = {
+		name = "GFX_province_immi"
+		texturefile = "gfx\\interface\\province_immi.dds"
+	}
+
+	spriteType = {
+		name = "GFX_province_growth"
+		texturefile = "gfx\\interface\\province_growth.dds"
+	}
+
+	spriteType = {
+		name = "GFX_provinceview_bg"
+		texturefile = "gfx\\interface\\province_bg.dds"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_military_progress_overlay"
+		texturefile = "gfx\\interface\\military_progress_overlay.dds"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_liferating_overlay"
+		texturefile = "gfx\\interface\\liferating_overlay.dds"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_province_recruit_bg"
+		texturefile = "gfx\\interface\\province_recruit_bg.dds"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_province_recruit_button"
+		texturefile = "gfx\\interface\\province_recruit_button.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_province_recruit_group_button"
+		texturefile = "gfx\\interface\\province_recruit_group_button.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_province_recruit_bg_wide"
+		texturefile = "gfx\\interface\\province_recruit_bg_wide.dds"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_province_recruit_button_wide"
+		texturefile = "gfx\\interface\\province_recruit_button_wide.dds"
+		norefcount = yes
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_province_recruit_group_button_wide"
+		texturefile = "gfx\\interface\\province_recruit_group_button_wide.dds"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_province_remove_recruit"
+		texturefile = "gfx\\interface\\province_remove_recruit.tga"
+		norefcount = yes
+	}
+
+	spriteType = {
+		name = "GFX_province_siege_icon"
+		texturefile = "gfx\\interface\\siege_icon.tga"
+	}
+
+	spriteType = {
+		name = "GFX_province_other_bg"
+		texturefile = "gfx\\interface\\province_other_bg.tga"
+	}
+
+	spriteType = {
+		name = "GFX_province_colony_bg"
+		texturefile = "gfx\\interface\\province_colony_bg.tga"
+	}
+
+	progressbartype = {
+		name = "GFX_occupation_progress"
+		color = { 0.0 0.5 0.0 }
+		colortwo = { 1.0 0.0 0.0 }
+		textureFile1 = "gfx\\interface\\occupation_progress1.tga"
+		textureFile2 = "gfx\\interface\\occupation_progress2.tga"
+		size = { x = 128 y = 16 }
+		effectFile = "gfx\\FX\\progress.fx"
+	}
+
+	progressbartype = {
+		name = "GFX_building_progress"
+		color = { 0.0 0.5 0.0 }
+		colortwo = { 1.0 0.0 0.0 }
+		textureFile1 = "gfx\\interface\\expand_progress1.tga"
+		textureFile2 = "gfx\\interface\\expand_progress2.tga"
+		size = { x = 112 y = 16 }
+		effectFile = "gfx\\FX\\progress.fx"
+	}
+
+	progressbartype = {
+		name = "GFX_military_progress"
+		color = { 0.0 0.5 0.0 }
+		colortwo = { 1.0 0.0 0.0 }
+		textureFile1 = "gfx\\interface\\military_progress1.tga"
+		textureFile2 = "gfx\\interface\\military_progress2.tga"
+		size = { x = 93 y = 18 }
+		effectFile = "gfx\\FX\\progress.fx"
+	}
+
+	progressbartype = {
+		name = "GFX_liferating_progress"
+		color = { 0.0 0.5 0.0 }
+		colortwo = { 1.0 0.0 0.0 }
+		textureFile1 = "gfx\\interface\\liferating_progress1.tga"
+		textureFile2 = "gfx\\interface\\liferating_progress2.tga"
+		size = { x = 52 y = 8 }
+		effectFile = "gfx\\FX\\progress.fx"
+	}
+
+	PieChartType = {
+		name = "GFX_province_chart"
+		size = 25
+	}
+
+	PieChartType = {
+		name = "GFX_province_chart_small"
+		size = 14
+	}
+
+	### Terrain ###
+
+	spriteType = {
+		name = "GFX_terrainimg_urban_kemel_ze"
+		texturefile = "gfx\interface\terrain\urban_kemel_ze.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_telvannis"
+		texturefile = "gfx\interface\terrain\urban_telvannis.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_jianhax"
+		texturefile = "gfx\interface\terrain\urban_jianhax.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_steppe"
+		texturefile = "gfx\interface\terrain\steppe.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_bamz_amschend"
+		texturefile = "gfx\interface\terrain\urban_bamz_amschend.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_bayou"
+		texturefile = "gfx\interface\terrain\bayou.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_dawnstar"
+		texturefile = "gfx\interface\terrain\urban_dawnstar.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_blacklight"
+		texturefile = "gfx\interface\terrain\urban_blacklight.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_bruma"
+		texturefile = "gfx\interface\terrain\urban_bruma.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_abu"
+		texturefile = "gfx\interface\terrain\urban_abu.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_etho_sul"
+		texturefile = "gfx\interface\terrain\urban_etho_sul.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_wayrest"
+		texturefile = "gfx\interface\terrain\urban_wayrest.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_camlorn"
+		texturefile = "gfx\interface\terrain\urban_camlorn.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_wretched_spire"
+		texturefile = "gfx\interface\terrain\urban_wretched_spire.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_dusktown"
+		texturefile = "gfx\interface\terrain\urban_dusktown.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_jynds_foundry"
+		texturefile = "gfx\interface\terrain\urban_jynds_foundry.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_black_harbor"
+		texturefile = "gfx\interface\terrain\urban_black_harbor.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_galom_daeus"
+		texturefile = "gfx\interface\terrain\urban_galom_daeus.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_riverhold"
+		texturefile = "gfx\interface\terrain\urban_riverhold.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_tzuosci"
+		texturefile = "gfx\interface\terrain\urban_tzuosci.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_gideon"
+		texturefile = "gfx\interface\terrain\urban_gideon.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_koda"
+		texturefile = "gfx\interface\terrain\urban_koda.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_orcish_stronghold"
+		texturefile = "gfx\interface\terrain\orcish_stronghold.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_kita"
+		texturefile = "gfx\interface\terrain\urban_kita.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_taiga"
+		texturefile = "gfx\interface\terrain\taiga.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_black_pyramid"
+		texturefile = "gfx\interface\terrain\black_pyramid.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_shimmerene"
+		texturefile = "gfx\interface\terrain\urban_shimmerene.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_solitude"
+		texturefile = "gfx\interface\terrain\urban_solitude.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_jungle"
+		texturefile = "gfx\interface\terrain\jungle.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_ashlands"
+		texturefile = "gfx\interface\terrain\ashlands.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_corinthe"
+		texturefile = "gfx\interface\terrain\urban_corinthe.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_lumut"
+		texturefile = "gfx\interface\terrain\urban_lumut.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_jylkurfyk"
+		texturefile = "gfx\interface\terrain\urban_jylkurfyk.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_highlands"
+		texturefile = "gfx\interface\terrain\highlands.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_firsthold"
+		texturefile = "gfx\interface\terrain\urban_firsthold.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_jehanna"
+		texturefile = "gfx\interface\terrain\urban_jehanna.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_darhax"
+		texturefile = "gfx\interface\terrain\urban_darhax.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_falkreath"
+		texturefile = "gfx\interface\terrain\urban_falkreath.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_deadlands_sulfuric_desolation"
+		texturefile = "gfx\interface\terrain\deadlands_sulfuric_desolation.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_hills"
+		texturefile = "gfx\interface\terrain\hills.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_quey"
+		texturefile = "gfx\interface\terrain\urban_quey.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_sentinel"
+		texturefile = "gfx\interface\terrain\urban_sentinel.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_azure_plains"
+		texturefile = "gfx\interface\terrain\azure_plains.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_skywatch"
+		texturefile = "gfx\interface\terrain\urban_skywatch.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_forelhost"
+		texturefile = "gfx\interface\terrain\urban_forelhost.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_tosh_raka"
+		texturefile = "gfx\interface\terrain\urban_tosh_raka.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_ebonheart"
+		texturefile = "gfx\interface\terrain\urban_ebonheart.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_reaver_citadel"
+		texturefile = "gfx\interface\terrain\urban_reaver_citadel.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_nchardak"
+		texturefile = "gfx\interface\terrain\urban_nchardak.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_vastyr"
+		texturefile = "gfx\interface\terrain\urban_vastyr.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_stormhold"
+		texturefile = "gfx\interface\terrain\urban_stormhold.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_winterhold"
+		texturefile = "gfx\interface\terrain\urban_winterhold.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_markarth"
+		texturefile = "gfx\interface\terrain\urban_markarth.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_moorlands"
+		texturefile = "gfx\interface\terrain\moorlands.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_lillandril"
+		texturefile = "gfx\interface\terrain\urban_lillandril.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_imperial_city"
+		texturefile = "gfx\interface\terrain\urban_imperial_city.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_necrom"
+		texturefile = "gfx\interface\terrain\urban_necrom.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_morthal"
+		texturefile = "gfx\interface\terrain\urban_morthal.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_kvatch"
+		texturefile = "gfx\interface\terrain\urban_kvatch.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_hegathe"
+		texturefile = "gfx\interface\terrain\urban_hegathe.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_taneth"
+		texturefile = "gfx\interface\terrain\urban_taneth.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_elden_root"
+		texturefile = "gfx\interface\terrain\urban_elden_root.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_haj_uxith"
+		texturefile = "gfx\interface\terrain\urban_haj_uxith.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_hollow_city"
+		texturefile = "gfx\interface\terrain\urban_hollow_city.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_arch"
+		texturefile = "gfx\interface\terrain\urban_arch.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_drylands"
+		texturefile = "gfx\interface\terrain\drylands.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_world_breaker"
+		texturefile = "gfx\interface\terrain\urban_world_breaker.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_torval"
+		texturefile = "gfx\interface\terrain\urban_torval.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_jerbronheim"
+		texturefile = "gfx\interface\terrain\urban_jerbronheim.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_haven"
+		texturefile = "gfx\interface\terrain\urban_haven.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_inland_ocean"
+		texturefile = "gfx\interface\terrain\inland_ocean.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_shornhelm"
+		texturefile = "gfx\interface\terrain\urban_shornhelm.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_cloudrest"
+		texturefile = "gfx\interface\terrain\urban_cloudrest.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_evermore"
+		texturefile = "gfx\interface\terrain\urban_evermore.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_marsh"
+		texturefile = "gfx\interface\terrain\marsh.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_port_hunding"
+		texturefile = "gfx\interface\terrain\urban_port_hunding.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_tsaesci"
+		texturefile = "gfx\interface\terrain\urban_tsaesci.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_deadlands_lava_cave"
+		texturefile = "gfx\interface\terrain\deadlands_lava_cave.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_umpa"
+		texturefile = "gfx\interface\terrain\urban_umpa.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_ionith"
+		texturefile = "gfx\interface\terrain\urban_ionith.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_falinesti"
+		texturefile = "gfx\interface\terrain\urban_falinesti.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_vivec"
+		texturefile = "gfx\interface\terrain\urban_vivec.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_deadlands_burning_hills"
+		texturefile = "gfx\interface\terrain\deadlands_burning_hills.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_fungal_forest"
+		texturefile = "gfx\interface\terrain\fungal_forest.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_plateau"
+		texturefile = "gfx\interface\terrain\plateau.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_mehrunes_dagon"
+		texturefile = "gfx\interface\terrain\urban_mehrunes_dagon.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_greenheart"
+		texturefile = "gfx\interface\terrain\urban_greenheart.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_sunhold"
+		texturefile = "gfx\interface\terrain\urban_sunhold.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_deadlands_ashen_wastes"
+		texturefile = "gfx\interface\terrain\deadlands_ashen_wastes.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_mountain"
+		texturefile = "gfx\interface\terrain\mountain.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_tundra"
+		texturefile = "gfx\interface\terrain\tundra.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_rihad"
+		texturefile = "gfx\interface\terrain\urban_rihad.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_firewatch"
+		texturefile = "gfx\interface\terrain\urban_firewatch.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_savannah"
+		texturefile = "gfx\interface\terrain\savannah.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_riften"
+		texturefile = "gfx\interface\terrain\urban_riften.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_pohax"
+		texturefile = "gfx\interface\terrain\urban_pohax.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_dragon_sanctuary"
+		texturefile = "gfx\interface\terrain\urban_dragon_sanctuary.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_mountain_meadows"
+		texturefile = "gfx\interface\terrain\mountain_meadows.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_abbarbas"
+		texturefile = "gfx\interface\terrain\urban_abbarbas.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_caves"
+		texturefile = "gfx\interface\terrain\caves.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_tang_mo"
+		texturefile = "gfx\interface\terrain\urban_tang_mo.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_whiterun"
+		texturefile = "gfx\interface\terrain\urban_whiterun.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_skaven"
+		texturefile = "gfx\interface\terrain\urban_skaven.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_red_mountain"
+		texturefile = "gfx\interface\terrain\urban_red_mountain.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_zynoahzs_gaol"
+		texturefile = "gfx\interface\terrain\urban_zynoahzs_gaol.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_grasslands"
+		texturefile = "gfx\interface\terrain\grasslands.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_coastline"
+		texturefile = "gfx\interface\terrain\coastline.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_lava"
+		texturefile = "gfx\interface\terrain\lava.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_kamala"
+		texturefile = "gfx\interface\terrain\urban_kamala.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_thorn"
+		texturefile = "gfx\interface\terrain\urban_thorn.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_dread_massive"
+		texturefile = "gfx\interface\terrain\dread_massive.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_impassable_mountains"
+		texturefile = "gfx\interface\terrain\impassable_mountains.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_makan"
+		texturefile = "gfx\interface\terrain\urban_makan.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_balmora"
+		texturefile = "gfx\interface\terrain\urban_balmora.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_silent_city"
+		texturefile = "gfx\interface\terrain\urban_silent_city.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_skingrad"
+		texturefile = "gfx\interface\terrain\urban_skingrad.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_wega"
+		texturefile = "gfx\interface\terrain\urban_wega.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_kituna_vos"
+		texturefile = "gfx\interface\terrain\urban_kituna_vos.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_chasm"
+		texturefile = "gfx\interface\terrain\chasm.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_woodhearth"
+		texturefile = "gfx\interface\terrain\urban_woodhearth.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_yneslea"
+		texturefile = "gfx\interface\terrain\urban_yneslea.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_withered_forest"
+		texturefile = "gfx\interface\terrain\withered_forest.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_shaesci"
+		texturefile = "gfx\interface\terrain\urban_shaesci.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_anvil"
+		texturefile = "gfx\interface\terrain\urban_anvil.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_forest"
+		texturefile = "gfx\interface\terrain\forest.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_umsiuesci"
+		texturefile = "gfx\interface\terrain\urban_umsiuesci.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_blackreach_forest"
+		texturefile = "gfx\interface\terrain\blackreach_forest.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_senchal"
+		texturefile = "gfx\interface\terrain\urban_senchal.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_lightless_oubliette"
+		texturefile = "gfx\interface\terrain\urban_lightless_oubliette.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_greymoor_keep"
+		texturefile = "gfx\interface\terrain\urban_greymoor_keep.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_deadlands_daedric_keep"
+		texturefile = "gfx\interface\terrain\deadlands_daedric_keep.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_woods"
+		texturefile = "gfx\interface\terrain\woods.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_frulthuul"
+		texturefile = "gfx\interface\terrain\urban_frulthuul.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_secula"
+		texturefile = "gfx\interface\terrain\urban_secula.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_totambu"
+		texturefile = "gfx\interface\terrain\urban_totambu.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_coastal_desert"
+		texturefile = "gfx\interface\terrain\coastal_desert.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_ardent_hope"
+		texturefile = "gfx\interface\terrain\urban_ardent_hope.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_daggerfall"
+		texturefile = "gfx\interface\terrain\urban_daggerfall.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_forelgrim"
+		texturefile = "gfx\interface\terrain\urban_forelgrim.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_helstrom"
+		texturefile = "gfx\interface\terrain\urban_helstrom.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_deadlands_smouldering_badlands"
+		texturefile = "gfx\interface\terrain\deadlands_smouldering_badlands.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_sadrith_mora"
+		texturefile = "gfx\interface\terrain\urban_sadrith_mora.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_desert"
+		texturefile = "gfx\interface\terrain\desert.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_tagon"
+		texturefile = "gfx\interface\terrain\urban_tagon.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_eoryuesci"
+		texturefile = "gfx\interface\terrain\urban_eoryuesci.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_northpoint"
+		texturefile = "gfx\interface\terrain\urban_northpoint.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_gonfalon_bay"
+		texturefile = "gfx\interface\terrain\urban_gonfalon_bay.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_heathlands"
+		texturefile = "gfx\interface\terrain\heathlands.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_orcrest"
+		texturefile = "gfx\interface\terrain\urban_orcrest.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_lilmoth"
+		texturefile = "gfx\interface\terrain\urban_lilmoth.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_soulrest"
+		texturefile = "gfx\interface\terrain\urban_soulrest.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_dune"
+		texturefile = "gfx\interface\terrain\urban_dune.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_jhaotun"
+		texturefile = "gfx\interface\terrain\urban_jhaotun.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_narsis"
+		texturefile = "gfx\interface\terrain\urban_narsis.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_farrun"
+		texturefile = "gfx\interface\terrain\urban_farrun.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_mournhold"
+		texturefile = "gfx\interface\terrain\urban_mournhold.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_deadlands_boiling_coast"
+		texturefile = "gfx\interface\terrain\deadlands_boiling_coast.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_barrow"
+		texturefile = "gfx\interface\terrain\barrow.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_jun_kamal"
+		texturefile = "gfx\interface\terrain\urban_jun_kamal.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_alinor"
+		texturefile = "gfx\interface\terrain\urban_alinor.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_blackrose"
+		texturefile = "gfx\interface\terrain\urban_blackrose.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_cold_wastes"
+		texturefile = "gfx\interface\terrain\cold_wastes.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_yul"
+		texturefile = "gfx\interface\terrain\urban_yul.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_dragonstar"
+		texturefile = "gfx\interface\terrain\urban_dragonstar.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_archon"
+		texturefile = "gfx\interface\terrain\urban_archon.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_gilane"
+		texturefile = "gfx\interface\terrain\urban_gilane.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_rimmen"
+		texturefile = "gfx\interface\terrain\urban_rimmen.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_windhelm"
+		texturefile = "gfx\interface\terrain\urban_windhelm.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_silvenar"
+		texturefile = "gfx\interface\terrain\urban_silvenar.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_dusk"
+		texturefile = "gfx\interface\terrain\urban_dusk.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_razorworks"
+		texturefile = "gfx\interface\terrain\urban_razorworks.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_dwemer_stronghold"
+		texturefile = "gfx\interface\terrain\dwemer_stronghold.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_arenthia"
+		texturefile = "gfx\interface\terrain\urban_arenthia.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_leyawiin"
+		texturefile = "gfx\interface\terrain\urban_leyawiin.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_ald_ruhn"
+		texturefile = "gfx\interface\terrain\urban_ald_ruhn.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_bravil"
+		texturefile = "gfx\interface\terrain\urban_bravil.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_elinhir"
+		texturefile = "gfx\interface\terrain\urban_elinhir.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_contempt_court"
+		texturefile = "gfx\interface\terrain\urban_contempt_court.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_deadlands_volcanic_peak"
+		texturefile = "gfx\interface\terrain\deadlands_volcanic_peak.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_southpoint"
+		texturefile = "gfx\interface\terrain\urban_southpoint.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_mudflats"
+		texturefile = "gfx\interface\terrain\mudflats.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_craglands"
+		texturefile = "gfx\interface\terrain\craglands.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_hot_springs"
+		texturefile = "gfx\interface\terrain\hot_springs.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_glacier"
+		texturefile = "gfx\interface\terrain\glacier.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_kogoruhn"
+		texturefile = "gfx\interface\terrain\urban_kogoruhn.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_tear"
+		texturefile = "gfx\interface\terrain\urban_tear.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_amenos"
+		texturefile = "gfx\interface\terrain\urban_amenos.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_farmlands"
+		texturefile = "gfx\interface\terrain\farmlands.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_cheydinhal"
+		texturefile = "gfx\interface\terrain\urban_cheydinhal.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_urban_chorrol"
+		texturefile = "gfx\interface\terrain\urban_chorrol.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_salt_plains"
+		texturefile = "gfx\interface\terrain\salt_plains.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_terrainimg_ocean"
+		texturefile = "gfx\interface\terrain\inland_ocean.tga"
+		norefcount = yes
+	}
+
+	spriteType = {
+		name = "GFX_invest_rail_button"
+		texturefile = "gfx\\interface\\invest_rail_button.tga"
+	}
+	spriteType = {
+		name = "GFX_invest_factory_button"
+		texturefile = "gfx\\interface\\invest_factory_button.tga"
+	}
+	spriteType = {
+		name = "GFX_investrail_progress_overlay"
+		texturefile = "gfx\\interface\\investrail_progress_overlay.tga"
+		allwaystransparent = yes
+	}
+
+	progressbartype = {
+		name = "GFX_colonist_progress"
+		color = { 0.0 0.5 0.0 }
+		colortwo = { 1.0 0.0 0.0 }
+		textureFile1 = "gfx\\interface\\occupation_progress1.tga"
+		textureFile2 = "gfx\\interface\\occupation_progress2.tga"
+		size = { x = 256 y = 16 }
+		effectFile = "gfx\\FX\\progress.fx"
+	}
+	progressbartype = {
+		name = "GFX_investrail_progress"
+		color = { 0.0 0.5 0.0 }
+		colortwo = { 1.0 0.0 0.0 }
+		textureFile1 = "gfx\\interface\\investrail_progress2.tga"
+		textureFile2 = "gfx\\interface\\investrail_progress1.tga"
+		size = { x = 66 y = 6 }
+		effectFile = "gfx\\FX\\progress.fx"
+	}
+
+	spriteType = {
+		name = "GFX_rally_point_flag"
+		texturefile = "gfx\\interface\\rally_point_flag.tga"
+	}
+	spriteType = {
+		name = "GFX_rally_point_merge"
+		texturefile = "gfx\\interface\\rally_point_merge.tga"
+	}
+
+	spriteType = {
+		name = "GFX_colony_invest_strip"
+		textureFile = "gfx\\interface\\colony_invest_strip.dds"
+		noOfFrames = 5
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_colony_invest_add_strip"
+		textureFile = "gfx\\interface\\colony_invest_add_strip.dds"
+		noOfFrames = 5
+		effectFile = "gfx\\FX\\buttonstate.fx"
+		norefcount = yes
+	}
+}

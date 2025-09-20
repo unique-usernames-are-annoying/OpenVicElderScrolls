@@ -1,5 +1,6 @@
+terrain = hills
 life_rating = 30
-trade_goods = wool
+trade_goods = timber
 owner = CE2
 controller = CE2
 add_core = CE2

@@ -6,10 +6,7 @@
 }
 86 = {
 	building_position = {
-		naval_base = {
-			x = 582
-			y = 1344
-		}
+		naval_base = { x = 582 y = 1344 }
 	}
 }
 114 = {
@@ -44,10 +41,7 @@
 }
 175 = {
 	building_position = {
-		naval_base = {
-			x = 447
-			y = 1367
-		}
+		naval_base = { x = 447 y = 1367 }
 	}
 }
 184 = {
@@ -184,10 +178,7 @@
 }
 249 = {
 	building_position = {
-		naval_base = {
-			x = 611
-			y = 743
-		}
+		naval_base = { x = 611 y = 743 }
 	}
 }
 250 = {
@@ -270,10 +261,7 @@
 }
 285 = {
 	building_position = {
-		naval_base = {
-			x = 419
-			y = 1223
-		}
+		naval_base = { x = 419 y = 1223 }
 	}
 }
 286 = {
@@ -362,18 +350,12 @@
 }
 320 = {
 	building_position = {
-		naval_base = {
-			x = 702
-			y = 997
-		}
+		naval_base = { x = 702 y = 997 }
 	}
 }
 321 = {
 	building_position = {
-		naval_base = {
-			x = 649
-			y = 986
-		}
+		naval_base = { x = 649 y = 986 }
 	}
 }
 323 = {
@@ -456,10 +438,7 @@
 }
 338 = {
 	building_position = {
-		naval_base = {
-			x = 546
-			y = 1113
-		}
+		naval_base = { x = 546 y = 1113 }
 	}
 }
 339 = {
@@ -548,10 +527,7 @@
 }
 371 = {
 	building_position = {
-		naval_base = {
-			x = 1605
-			y = 2259
-		}
+		naval_base = { x = 1605 y = 2259 }
 	}
 }
 372 = {
@@ -682,10 +658,7 @@
 }
 406 = {
 	building_position = {
-		naval_base = {
-			x = 2644
-			y = 1690
-		}
+		naval_base = { x = 2644 y = 1690 }
 	}
 }
 407 = {
@@ -696,10 +669,7 @@
 }
 408 = {
 	building_position = {
-		naval_base = {
-			x = 2749
-			y = 1800
-		}
+		naval_base = { x = 2749 y = 1800 }
 	}
 }
 409 = {
@@ -794,10 +764,7 @@
 }
 438 = {
 	building_position = {
-		naval_base = {
-			x = 680
-			y = 633
-		}
+		naval_base = { x = 680 y = 633 }
 	}
 }
 440 = {
@@ -808,10 +775,7 @@
 }
 446 = {
 	building_position = {
-		naval_base = {
-			x = 1565
-			y = 2085
-		}
+		naval_base = { x = 1565 y = 2085 }
 	}
 }
 447 = {
@@ -828,10 +792,7 @@
 }
 449 = {
 	building_position = {
-		naval_base = {
-			x = 1550
-			y = 2099
-		}
+		naval_base = { x = 1550 y = 2099 }
 	}
 }
 450 = {
@@ -890,10 +851,7 @@
 }
 467 = {
 	building_position = {
-		naval_base = {
-			x = 883
-			y = 884
-		}
+		naval_base = { x = 883 y = 884 }
 	}
 }
 468 = {
@@ -1072,10 +1030,7 @@
 }
 516 = {
 	building_position = {
-		naval_base = {
-			x = 2961
-			y = 746
-		}
+		naval_base = { x = 2961 y = 746 }
 	}
 }
 517 = {
@@ -1182,18 +1137,12 @@
 }
 550 = {
 	building_position = {
-		naval_base = {
-			x = 3926
-			y = 786
-		}
+		naval_base = { x = 3926 y = 786 }
 	}
 }
 551 = {
 	building_position = {
-		naval_base = {
-			x = 3929
-			y = 772
-		}
+		naval_base = { x = 3929 y = 772 }
 	}
 }
 552 = {
@@ -1228,10 +1177,7 @@
 }
 557 = {
 	building_position = {
-		naval_base = {
-			x = 3881
-			y = 721
-		}
+		naval_base = { x = 3881 y = 721 }
 	}
 }
 558 = {
@@ -1308,10 +1254,7 @@
 }
 570 = {
 	building_position = {
-		naval_base = {
-			x = 3899
-			y = 876
-		}
+		naval_base = { x = 3899 y = 876 }
 	}
 }
 571 = {
@@ -1334,10 +1277,7 @@
 }
 574 = {
 	building_position = {
-		naval_base = {
-			x = 3927
-			y = 902
-		}
+		naval_base = { x = 3927 y = 902 }
 	}
 }
 575 = {
@@ -1444,10 +1384,7 @@
 }
 596 = {
 	building_position = {
-		naval_base = {
-			x = 3725
-			y = 842
-		}
+		naval_base = { x = 3725 y = 842 }
 	}
 }
 597 = {
@@ -1560,10 +1497,7 @@
 }
 622 = {
 	building_position = {
-		naval_base = {
-			x = 3667
-			y = 594
-		}
+		naval_base = { x = 3667 y = 594 }
 	}
 }
 623 = {
@@ -1640,10 +1574,7 @@
 }
 665 = {
 	building_position = {
-		naval_base = {
-			x = 3594
-			y = 898
-		}
+		naval_base = { x = 3594 y = 898 }
 	}
 }
 667 = {
@@ -1678,18 +1609,12 @@
 }
 680 = {
 	building_position = {
-		naval_base = {
-			x = 2951
-			y = 796
-		}
+		naval_base = { x = 2951 y = 796 }
 	}
 }
 681 = {
 	building_position = {
-		naval_base = {
-			x = 2952
-			y = 781
-		}
+		naval_base = { x = 2952 y = 781 }
 	}
 }
 684 = {
@@ -1766,10 +1691,7 @@
 }
 706 = {
 	building_position = {
-		naval_base = {
-			x = 2979
-			y = 541
-		}
+		naval_base = { x = 2979 y = 541 }
 	}
 }
 707 = {
@@ -1780,10 +1702,7 @@
 }
 708 = {
 	building_position = {
-		naval_base = {
-			x = 3187
-			y = 507
-		}
+		naval_base = { x = 3187 y = 507 }
 	}
 }
 710 = {
@@ -1794,10 +1713,7 @@
 }
 712 = {
 	building_position = {
-		naval_base = {
-			x = 3166
-			y = 792
-		}
+		naval_base = { x = 3166 y = 792 }
 	}
 }
 713 = {
@@ -1910,10 +1826,7 @@
 }
 748 = {
 	building_position = {
-		naval_base = {
-			x = 3281
-			y = 919
-		}
+		naval_base = { x = 3281 y = 919 }
 	}
 }
 751 = {
@@ -1960,10 +1873,7 @@
 }
 760 = {
 	building_position = {
-		naval_base = {
-			x = 3357
-			y = 783
-		}
+		naval_base = { x = 3357 y = 783 }
 	}
 }
 761 = {
@@ -2208,10 +2118,7 @@
 }
 865 = {
 	building_position = {
-		naval_base = {
-			x = 1160
-			y = 776
-		}
+		naval_base = { x = 1160 y = 776 }
 	}
 }
 866 = {
@@ -2222,10 +2129,7 @@
 }
 867 = {
 	building_position = {
-		naval_base = {
-			x = 1195
-			y = 825
-		}
+		naval_base = { x = 1195 y = 825 }
 	}
 }
 868 = {
@@ -2248,10 +2152,7 @@
 }
 880 = {
 	building_position = {
-		naval_base = {
-			x = 1218
-			y = 872
-		}
+		naval_base = { x = 1218 y = 872 }
 	}
 }
 882 = {
@@ -2268,10 +2169,7 @@
 }
 913 = {
 	building_position = {
-		naval_base = {
-			x = 1609
-			y = 643
-		}
+		naval_base = { x = 1609 y = 643 }
 	}
 }
 914 = {
@@ -2312,10 +2210,7 @@
 }
 931 = {
 	building_position = {
-		naval_base = {
-			x = 1681
-			y = 627
-		}
+		naval_base = { x = 1681 y = 627 }
 	}
 }
 932 = {
@@ -2440,10 +2335,7 @@
 }
 975 = {
 	building_position = {
-		naval_base = {
-			x = 2110
-			y = 1156
-		}
+		naval_base = { x = 2110 y = 1156 }
 	}
 }
 976 = {
@@ -2466,10 +2358,7 @@
 }
 979 = {
 	building_position = {
-		naval_base = {
-			x = 2112
-			y = 881
-		}
+		naval_base = { x = 2112 y = 881 }
 	}
 }
 980 = {
@@ -2522,10 +2411,7 @@
 }
 990 = {
 	building_position = {
-		naval_base = {
-			x = 2154
-			y = 1005
-		}
+		naval_base = { x = 2154 y = 1005 }
 	}
 }
 991 = {
@@ -2554,10 +2440,7 @@
 }
 997 = {
 	building_position = {
-		naval_base = {
-			x = 2294
-			y = 946
-		}
+		naval_base = { x = 2294 y = 946 }
 	}
 }
 998 = {
@@ -2664,10 +2547,7 @@
 }
 1026 = {
 	building_position = {
-		naval_base = {
-			x = 2365
-			y = 1454
-		}
+		naval_base = { x = 2365 y = 1454 }
 	}
 }
 1027 = {
@@ -2732,10 +2612,7 @@
 }
 1041 = {
 	building_position = {
-		naval_base = {
-			x = 2151
-			y = 1258
-		}
+		naval_base = { x = 2151 y = 1258 }
 	}
 }
 1042 = {
@@ -2758,10 +2635,7 @@
 }
 1046 = {
 	building_position = {
-		naval_base = {
-			x = 2005
-			y = 1298
-		}
+		naval_base = { x = 2005 y = 1298 }
 	}
 }
 1047 = {
@@ -2772,18 +2646,12 @@
 }
 1048 = {
 	building_position = {
-		naval_base = {
-			x = 2007
-			y = 1338
-		}
+		naval_base = { x = 2007 y = 1338 }
 	}
 }
 1049 = {
 	building_position = {
-		naval_base = {
-			x = 2127
-			y = 1488
-		}
+		naval_base = { x = 2127 y = 1488 }
 	}
 }
 1050 = {
@@ -2854,10 +2722,7 @@
 }
 1071 = {
 	building_position = {
-		naval_base = {
-			x = 2163
-			y = 870
-		}
+		naval_base = { x = 2163 y = 870 }
 	}
 }
 1072 = {
@@ -3090,10 +2955,7 @@
 }
 1123 = {
 	building_position = {
-		naval_base = {
-			x = 1816
-			y = 791
-		}
+		naval_base = { x = 1816 y = 791 }
 	}
 }
 1130 = {
@@ -3128,10 +2990,7 @@
 }
 1135 = {
 	building_position = {
-		naval_base = {
-			x = 1645
-			y = 1007
-		}
+		naval_base = { x = 1645 y = 1007 }
 	}
 }
 1136 = {
@@ -3292,10 +3151,7 @@
 }
 1209 = {
 	building_position = {
-		naval_base = {
-			x = 1746
-			y = 1062
-		}
+		naval_base = { x = 1746 y = 1062 }
 	}
 }
 1211 = {
@@ -3324,10 +3180,7 @@
 }
 1249 = {
 	building_position = {
-		naval_base = {
-			x = 1840
-			y = 969
-		}
+		naval_base = { x = 1840 y = 969 }
 	}
 }
 1274 = {
@@ -3374,10 +3227,7 @@
 }
 1306 = {
 	building_position = {
-		naval_base = {
-			x = 1628
-			y = 1564
-		}
+		naval_base = { x = 1628 y = 1564 }
 	}
 }
 1307 = {
@@ -3388,10 +3238,7 @@
 }
 1309 = {
 	building_position = {
-		naval_base = {
-			x = 1763
-			y = 1620
-		}
+		naval_base = { x = 1763 y = 1620 }
 	}
 }
 1336 = {
@@ -3438,10 +3285,7 @@
 }
 1345 = {
 	building_position = {
-		naval_base = {
-			x = 1358
-			y = 1579
-		}
+		naval_base = { x = 1358 y = 1579 }
 	}
 }
 1346 = {
@@ -3464,18 +3308,12 @@
 }
 1368 = {
 	building_position = {
-		naval_base = {
-			x = 809
-			y = 1328
-		}
+		naval_base = { x = 809 y = 1328 }
 	}
 }
 1369 = {
 	building_position = {
-		naval_base = {
-			x = 813
-			y = 1302
-		}
+		naval_base = { x = 813 y = 1302 }
 	}
 }
 1371 = {
@@ -3528,10 +3366,7 @@
 }
 1386 = {
 	building_position = {
-		naval_base = {
-			x = 932
-			y = 1440
-		}
+		naval_base = { x = 932 y = 1440 }
 	}
 }
 1394 = {
@@ -3602,10 +3437,7 @@
 }
 1415 = {
 	building_position = {
-		naval_base = {
-			x = 1221
-			y = 1530
-		}
+		naval_base = { x = 1221 y = 1530 }
 	}
 }
 1416 = {
@@ -3658,18 +3490,12 @@
 }
 1446 = {
 	building_position = {
-		naval_base = {
-			x = 1200
-			y = 1067
-		}
+		naval_base = { x = 1200 y = 1067 }
 	}
 }
 1447 = {
 	building_position = {
-		naval_base = {
-			x = 1194
-			y = 1081
-		}
+		naval_base = { x = 1194 y = 1081 }
 	}
 }
 1448 = {
@@ -3692,10 +3518,7 @@
 }
 1473 = {
 	building_position = {
-		naval_base = {
-			x = 1132
-			y = 1210
-		}
+		naval_base = { x = 1132 y = 1210 }
 	}
 }
 1476 = {
@@ -3724,10 +3547,7 @@
 }
 1484 = {
 	building_position = {
-		naval_base = {
-			x = 1156
-			y = 1190
-		}
+		naval_base = { x = 1156 y = 1190 }
 	}
 }
 1487 = {
@@ -3756,10 +3576,7 @@
 }
 1497 = {
 	building_position = {
-		naval_base = {
-			x = 777
-			y = 1109
-		}
+		naval_base = { x = 777 y = 1109 }
 	}
 }
 1498 = {
@@ -3782,10 +3599,7 @@
 }
 1501 = {
 	building_position = {
-		naval_base = {
-			x = 963
-			y = 1040
-		}
+		naval_base = { x = 963 y = 1040 }
 	}
 }
 1502 = {
@@ -3838,10 +3652,7 @@
 }
 1512 = {
 	building_position = {
-		naval_base = {
-			x = 891
-			y = 1186
-		}
+		naval_base = { x = 891 y = 1186 }
 	}
 }
 1514 = {
@@ -3876,10 +3687,7 @@
 }
 1538 = {
 	building_position = {
-		naval_base = {
-			x = 2758
-			y = 504
-		}
+		naval_base = { x = 2758 y = 504 }
 	}
 }
 1539 = {
@@ -4106,10 +3914,7 @@
 }
 1588 = {
 	building_position = {
-		naval_base = {
-			x = 3993
-			y = 755
-		}
+		naval_base = { x = 3993 y = 755 }
 	}
 }
 1589 = {
@@ -4132,10 +3937,7 @@
 }
 1592 = {
 	building_position = {
-		naval_base = {
-			x = 3871
-			y = 901
-		}
+		naval_base = { x = 3871 y = 901 }
 	}
 }
 1593 = {
@@ -4152,10 +3954,7 @@
 }
 1596 = {
 	building_position = {
-		naval_base = {
-			x = 3702
-			y = 914
-		}
+		naval_base = { x = 3702 y = 914 }
 	}
 }
 1598 = {
@@ -4178,10 +3977,7 @@
 }
 1601 = {
 	building_position = {
-		naval_base = {
-			x = 3734
-			y = 818
-		}
+		naval_base = { x = 3734 y = 818 }
 	}
 }
 1602 = {
@@ -4210,10 +4006,7 @@
 }
 1607 = {
 	building_position = {
-		naval_base = {
-			x = 3055
-			y = 1045
-		}
+		naval_base = { x = 3055 y = 1045 }
 	}
 }
 1608 = {
@@ -4266,18 +4059,12 @@
 }
 1618 = {
 	building_position = {
-		naval_base = {
-			x = 2974
-			y = 591
-		}
+		naval_base = { x = 2974 y = 591 }
 	}
 }
 1619 = {
 	building_position = {
-		naval_base = {
-			x = 2977
-			y = 549
-		}
+		naval_base = { x = 2977 y = 549 }
 	}
 }
 1620 = {
@@ -4354,10 +4141,7 @@
 }
 1641 = {
 	building_position = {
-		naval_base = {
-			x = 3221
-			y = 684
-		}
+		naval_base = { x = 3221 y = 684 }
 	}
 }
 1642 = {
@@ -4374,10 +4158,7 @@
 }
 1644 = {
 	building_position = {
-		naval_base = {
-			x = 3168
-			y = 718
-		}
+		naval_base = { x = 3168 y = 718 }
 	}
 }
 1645 = {
@@ -4478,10 +4259,7 @@
 }
 1680 = {
 	building_position = {
-		naval_base = {
-			x = 3689
-			y = 637
-		}
+		naval_base = { x = 3689 y = 637 }
 	}
 }
 1681 = {
@@ -4624,10 +4402,7 @@
 }
 1728 = {
 	building_position = {
-		naval_base = {
-			x = 3979
-			y = 612
-		}
+		naval_base = { x = 3979 y = 612 }
 	}
 }
 1729 = {
@@ -4770,10 +4545,7 @@
 }
 1754 = {
 	building_position = {
-		naval_base = {
-			x = 3695
-			y = 934
-		}
+		naval_base = { x = 3695 y = 934 }
 	}
 }
 1755 = {
@@ -4874,18 +4646,12 @@
 }
 1773 = {
 	building_position = {
-		naval_base = {
-			x = 3438
-			y = 786
-		}
+		naval_base = { x = 3438 y = 786 }
 	}
 }
 1774 = {
 	building_position = {
-		naval_base = {
-			x = 3462
-			y = 815
-		}
+		naval_base = { x = 3462 y = 815 }
 	}
 }
 1775 = {
@@ -5016,10 +4782,7 @@
 }
 1806 = {
 	building_position = {
-		naval_base = {
-			x = 2620
-			y = 682
-		}
+		naval_base = { x = 2620 y = 682 }
 	}
 }
 1807 = {
@@ -5336,10 +5099,7 @@
 }
 2070 = {
 	building_position = {
-		naval_base = {
-			x = 1072
-			y = 307
-		}
+		naval_base = { x = 1072 y = 307 }
 	}
 }
 2071 = {
@@ -5380,10 +5140,7 @@
 }
 2078 = {
 	building_position = {
-		naval_base = {
-			x = 986
-			y = 254
-		}
+		naval_base = { x = 986 y = 254 }
 	}
 }
 2079 = {
@@ -5448,10 +5205,7 @@
 }
 2092 = {
 	building_position = {
-		naval_base = {
-			x = 1012
-			y = 195
-		}
+		naval_base = { x = 1012 y = 195 }
 	}
 }
 2094 = {
@@ -5468,10 +5222,7 @@
 }
 2096 = {
 	building_position = {
-		naval_base = {
-			x = 1075
-			y = 279
-		}
+		naval_base = { x = 1075 y = 279 }
 	}
 }
 2097 = {
@@ -5506,10 +5257,7 @@
 }
 2102 = {
 	building_position = {
-		naval_base = {
-			x = 980
-			y = 325
-		}
+		naval_base = { x = 980 y = 325 }
 	}
 }
 2103 = {
@@ -5574,10 +5322,7 @@
 }
 2116 = {
 	building_position = {
-		naval_base = {
-			x = 421
-			y = 1256
-		}
+		naval_base = { x = 421 y = 1256 }
 	}
 }
 2117 = {
@@ -5726,10 +5471,7 @@
 }
 2150 = {
 	building_position = {
-		naval_base = {
-			x = 394
-			y = 1321
-		}
+		naval_base = { x = 394 y = 1321 }
 	}
 }
 2151 = {
@@ -5758,18 +5500,12 @@
 }
 2155 = {
 	building_position = {
-		naval_base = {
-			x = 439
-			y = 1357
-		}
+		naval_base = { x = 439 y = 1357 }
 	}
 }
 2157 = {
 	building_position = {
-		naval_base = {
-			x = 518
-			y = 1350
-		}
+		naval_base = { x = 518 y = 1350 }
 	}
 }
 2158 = {
@@ -5870,10 +5606,7 @@
 }
 2178 = {
 	building_position = {
-		naval_base = {
-			x = 483
-			y = 1037
-		}
+		naval_base = { x = 483 y = 1037 }
 	}
 }
 2179 = {
@@ -6028,10 +5761,7 @@
 }
 2209 = {
 	building_position = {
-		naval_base = {
-			x = 2654
-			y = 1746
-		}
+		naval_base = { x = 2654 y = 1746 }
 	}
 }
 2210 = {
@@ -6576,10 +6306,7 @@
 }
 2354 = {
 	building_position = {
-		naval_base = {
-			x = 2005
-			y = 1464
-		}
+		naval_base = { x = 2005 y = 1464 }
 	}
 }
 2358 = {
@@ -6638,7 +6365,13 @@
 }
 2392 = {
 	building_position = {
-		naval_base = { x = 2127 y = 1283 }
+		naval_base = { x = 2127.5 y = 1283 }
+	}
+	building_rotation = { naval_base = 4.248741 }
+}
+2393 = {
+	building_position = {
+		naval_base = { x = 2122 y = 1322 }
 	}
 	building_rotation = { naval_base = 4.712389 }
 }
@@ -6692,10 +6425,7 @@
 }
 2422 = {
 	building_position = {
-		naval_base = {
-			x = 2031
-			y = 1297
-		}
+		naval_base = { x = 2031 y = 1297 }
 	}
 }
 2424 = {
@@ -6736,10 +6466,7 @@
 }
 2440 = {
 	building_position = {
-		naval_base = {
-			x = 968
-			y = 792
-		}
+		naval_base = { x = 968 y = 792 }
 	}
 }
 2441 = {
@@ -6786,10 +6513,7 @@
 }
 2466 = {
 	building_position = {
-		naval_base = {
-			x = 669
-			y = 675
-		}
+		naval_base = { x = 669 y = 675 }
 	}
 }
 2468 = {
@@ -6884,10 +6608,7 @@
 }
 2500 = {
 	building_position = {
-		naval_base = {
-			x = 2215
-			y = 1889
-		}
+		naval_base = { x = 2215 y = 1889 }
 	}
 }
 2501 = {
@@ -6910,10 +6631,7 @@
 }
 2504 = {
 	building_position = {
-		naval_base = {
-			x = 2219
-			y = 1833
-		}
+		naval_base = { x = 2219 y = 1833 }
 	}
 }
 2506 = {
@@ -6924,10 +6642,7 @@
 }
 2507 = {
 	building_position = {
-		naval_base = {
-			x = 2212
-			y = 1929
-		}
+		naval_base = { x = 2212 y = 1929 }
 	}
 }
 2508 = {
@@ -6992,10 +6707,7 @@
 }
 2523 = {
 	building_position = {
-		naval_base = {
-			x = 2984
-			y = 848
-		}
+		naval_base = { x = 2984 y = 848 }
 	}
 }
 2525 = {
@@ -7006,10 +6718,7 @@
 }
 2527 = {
 	building_position = {
-		naval_base = {
-			x = 2939
-			y = 874
-		}
+		naval_base = { x = 2939 y = 874 }
 	}
 }
 2529 = {
@@ -7026,10 +6735,7 @@
 }
 2534 = {
 	building_position = {
-		naval_base = {
-			x = 2988
-			y = 660
-		}
+		naval_base = { x = 2988 y = 660 }
 	}
 }
 2538 = {
@@ -7052,26 +6758,17 @@
 }
 2542 = {
 	building_position = {
-		naval_base = {
-			x = 3336
-			y = 1124
-		}
+		naval_base = { x = 3336 y = 1124 }
 	}
 }
 2543 = {
 	building_position = {
-		naval_base = {
-			x = 2984
-			y = 676
-		}
+		naval_base = { x = 2984 y = 676 }
 	}
 }
 2544 = {
 	building_position = {
-		naval_base = {
-			x = 2979
-			y = 691
-		}
+		naval_base = { x = 2979 y = 691 }
 	}
 }
 2547 = {
@@ -7082,10 +6779,7 @@
 }
 2549 = {
 	building_position = {
-		naval_base = {
-			x = 3412
-			y = 1071
-		}
+		naval_base = { x = 3412 y = 1071 }
 	}
 }
 2550 = {
@@ -7276,10 +6970,7 @@
 }
 2593 = {
 	building_position = {
-		naval_base = {
-			x = 3523
-			y = 956
-		}
+		naval_base = { x = 3523 y = 956 }
 	}
 }
 2596 = {
@@ -7356,10 +7047,7 @@
 }
 2620 = {
 	building_position = {
-		naval_base = {
-			x = 3453
-			y = 970
-		}
+		naval_base = { x = 3453 y = 970 }
 	}
 }
 2621 = {
@@ -7406,10 +7094,7 @@
 }
 2632 = {
 	building_position = {
-		naval_base = {
-			x = 3704
-			y = 956
-		}
+		naval_base = { x = 3704 y = 956 }
 	}
 }
 2634 = {
@@ -7444,10 +7129,7 @@
 }
 2646 = {
 	building_position = {
-		naval_base = {
-			x = 3680
-			y = 925
-		}
+		naval_base = { x = 3680 y = 925 }
 	}
 }
 2647 = {
@@ -7476,10 +7158,7 @@
 }
 2652 = {
 	building_position = {
-		naval_base = {
-			x = 3617
-			y = 921
-		}
+		naval_base = { x = 3617 y = 921 }
 	}
 }
 2654 = {
@@ -7526,10 +7205,7 @@
 }
 2661 = {
 	building_position = {
-		naval_base = {
-			x = 2872
-			y = 472
-		}
+		naval_base = { x = 2872 y = 472 }
 	}
 }
 2662 = {
@@ -7600,10 +7276,7 @@
 }
 2766 = {
 	building_position = {
-		naval_base = {
-			x = 1716
-			y = 1564
-		}
+		naval_base = { x = 1716 y = 1564 }
 	}
 }
 2770 = {
@@ -7776,10 +7449,7 @@
 }
 3088 = {
 	building_position = {
-		naval_base = {
-			x = 1410
-			y = 1599
-		}
+		naval_base = { x = 1410 y = 1599 }
 	}
 }
 3146 = {
@@ -7844,10 +7514,7 @@
 }
 3197 = {
 	building_position = {
-		naval_base = {
-			x = 1900
-			y = 1561
-		}
+		naval_base = { x = 1900 y = 1561 }
 	}
 }
 3198 = {
@@ -7918,18 +7585,12 @@
 }
 3231 = {
 	building_position = {
-		naval_base = {
-			x = 2151
-			y = 1151
-		}
+		naval_base = { x = 2151 y = 1151 }
 	}
 }
 3235 = {
 	building_position = {
-		naval_base = {
-			x = 2148
-			y = 1133
-		}
+		naval_base = { x = 2148 y = 1133 }
 	}
 }
 3239 = {
@@ -7946,10 +7607,7 @@
 }
 3244 = {
 	building_position = {
-		naval_base = {
-			x = 2261
-			y = 994
-		}
+		naval_base = { x = 2261 y = 994 }
 	}
 }
 3245 = {
@@ -7978,10 +7636,7 @@
 }
 3256 = {
 	building_position = {
-		naval_base = {
-			x = 2246
-			y = 1221
-		}
+		naval_base = { x = 2246 y = 1221 }
 	}
 }
 3257 = {
@@ -8016,10 +7671,7 @@
 }
 3263 = {
 	building_position = {
-		naval_base = {
-			x = 2397
-			y = 1178
-		}
+		naval_base = { x = 2397 y = 1178 }
 	}
 }
 3264 = {
@@ -8120,10 +7772,7 @@
 }
 3287 = {
 	building_position = {
-		naval_base = {
-			x = 2172
-			y = 1254
-		}
+		naval_base = { x = 2172 y = 1254 }
 	}
 }
 3288 = {
@@ -8140,10 +7789,7 @@
 }
 3291 = {
 	building_position = {
-		naval_base = {
-			x = 1987
-			y = 1343
-		}
+		naval_base = { x = 1987 y = 1343 }
 	}
 }
 3292 = {
@@ -8160,18 +7806,12 @@
 }
 3294 = {
 	building_position = {
-		naval_base = {
-			x = 2005
-			y = 1324
-		}
+		naval_base = { x = 2005 y = 1324 }
 	}
 }
 3295 = {
 	building_position = {
-		naval_base = {
-			x = 2001
-			y = 1273
-		}
+		naval_base = { x = 2001 y = 1273 }
 	}
 }
 3296 = {
@@ -8404,10 +8044,7 @@
 }
 3443 = {
 	building_position = {
-		naval_base = {
-			x = 435
-			y = 1070
-		}
+		naval_base = { x = 435 y = 1070 }
 	}
 }
 3444 = {
@@ -8490,10 +8127,7 @@
 }
 3458 = {
 	building_position = {
-		naval_base = {
-			x = 579
-			y = 1447
-		}
+		naval_base = { x = 579 y = 1447 }
 	}
 }
 3459 = {
@@ -8534,10 +8168,7 @@
 }
 3465 = {
 	building_position = {
-		naval_base = {
-			x = 465
-			y = 1361
-		}
+		naval_base = { x = 465 y = 1361 }
 	}
 }
 3466 = {
@@ -8620,10 +8251,7 @@
 }
 3483 = {
 	building_position = {
-		naval_base = {
-			x = 3503
-			y = 1150
-		}
+		naval_base = { x = 3503 y = 1150 }
 	}
 }
 3486 = {
@@ -8730,18 +8358,12 @@
 }
 3526 = {
 	building_position = {
-		naval_base = {
-			x = 3243
-			y = 510
-		}
+		naval_base = { x = 3243 y = 510 }
 	}
 }
 3527 = {
 	building_position = {
-		naval_base = {
-			x = 3219
-			y = 533
-		}
+		naval_base = { x = 3219 y = 533 }
 	}
 }
 3529 = {
@@ -8776,10 +8398,7 @@
 }
 3539 = {
 	building_position = {
-		naval_base = {
-			x = 3314
-			y = 834
-		}
+		naval_base = { x = 3314 y = 834 }
 	}
 }
 3540 = {
@@ -8796,18 +8415,12 @@
 }
 3546 = {
 	building_position = {
-		naval_base = {
-			x = 3409
-			y = 740
-		}
+		naval_base = { x = 3409 y = 740 }
 	}
 }
 3547 = {
 	building_position = {
-		naval_base = {
-			x = 3422
-			y = 754
-		}
+		naval_base = { x = 3422 y = 754 }
 	}
 }
 3551 = {
@@ -8818,10 +8431,7 @@
 }
 3552 = {
 	building_position = {
-		naval_base = {
-			x = 3467
-			y = 628
-		}
+		naval_base = { x = 3467 y = 628 }
 	}
 }
 3553 = {
@@ -8880,10 +8490,7 @@
 }
 3571 = {
 	building_position = {
-		naval_base = {
-			x = 3392
-			y = 497
-		}
+		naval_base = { x = 3392 y = 497 }
 	}
 }
 3572 = {
@@ -8912,10 +8519,7 @@
 }
 3581 = {
 	building_position = {
-		naval_base = {
-			x = 3295
-			y = 494
-		}
+		naval_base = { x = 3295 y = 494 }
 	}
 }
 3585 = {
@@ -9124,10 +8728,7 @@
 }
 3772 = {
 	building_position = {
-		naval_base = {
-			x = 2094
-			y = 1201
-		}
+		naval_base = { x = 2094 y = 1201 }
 	}
 }
 3773 = {
@@ -9156,10 +8757,7 @@
 }
 3777 = {
 	building_position = {
-		naval_base = {
-			x = 2106
-			y = 1177
-		}
+		naval_base = { x = 2106 y = 1177 }
 	}
 }
 3778 = {
@@ -9194,10 +8792,7 @@
 }
 3785 = {
 	building_position = {
-		naval_base = {
-			x = 2148
-			y = 1113
-		}
+		naval_base = { x = 2148 y = 1113 }
 	}
 }
 3786 = {
@@ -9322,10 +8917,7 @@
 }
 3843 = {
 	building_position = {
-		naval_base = {
-			x = 2194
-			y = 943
-		}
+		naval_base = { x = 2194 y = 943 }
 	}
 }
 3846 = {
@@ -9336,10 +8928,7 @@
 }
 3847 = {
 	building_position = {
-		naval_base = {
-			x = 2208
-			y = 978
-		}
+		naval_base = { x = 2208 y = 978 }
 	}
 }
 3848 = {
@@ -9350,10 +8939,7 @@
 }
 3849 = {
 	building_position = {
-		naval_base = {
-			x = 2228
-			y = 1002
-		}
+		naval_base = { x = 2228 y = 1002 }
 	}
 }
 3850 = {
@@ -9568,18 +9154,12 @@
 }
 3934 = {
 	building_position = {
-		naval_base = {
-			x = 2213
-			y = 1004
-		}
+		naval_base = { x = 2213 y = 1004 }
 	}
 }
 3935 = {
 	building_position = {
-		naval_base = {
-			x = 2243
-			y = 1037
-		}
+		naval_base = { x = 2243 y = 1037 }
 	}
 }
 3936 = {
@@ -9650,10 +9230,7 @@
 }
 3948 = {
 	building_position = {
-		naval_base = {
-			x = 2239
-			y = 1052
-		}
+		naval_base = { x = 2239 y = 1052 }
 	}
 }
 3949 = {
@@ -9688,10 +9265,7 @@
 }
 3956 = {
 	building_position = {
-		naval_base = {
-			x = 2152
-			y = 1096
-		}
+		naval_base = { x = 2152 y = 1096 }
 	}
 }
 3957 = {
@@ -9744,10 +9318,7 @@
 }
 3978 = {
 	building_position = {
-		naval_base = {
-			x = 2240
-			y = 1166
-		}
+		naval_base = { x = 2240 y = 1166 }
 	}
 }
 3979 = {
@@ -9932,10 +9503,7 @@
 }
 4016 = {
 	building_position = {
-		naval_base = {
-			x = 2367
-			y = 1225
-		}
+		naval_base = { x = 2367 y = 1225 }
 	}
 }
 4017 = {
@@ -9988,18 +9556,12 @@
 }
 4034 = {
 	building_position = {
-		naval_base = {
-			x = 2292
-			y = 1261
-		}
+		naval_base = { x = 2292 y = 1261 }
 	}
 }
 4040 = {
 	building_position = {
-		naval_base = {
-			x = 2292
-			y = 1275
-		}
+		naval_base = { x = 2292 y = 1275 }
 	}
 }
 4041 = {
@@ -10040,10 +9602,7 @@
 }
 4048 = {
 	building_position = {
-		naval_base = {
-			x = 2394
-			y = 1273
-		}
+		naval_base = { x = 2394 y = 1273 }
 	}
 }
 4049 = {
@@ -10060,10 +9619,7 @@
 }
 4051 = {
 	building_position = {
-		naval_base = {
-			x = 2292
-			y = 1296
-		}
+		naval_base = { x = 2292 y = 1296 }
 	}
 }
 4054 = {
@@ -10074,18 +9630,12 @@
 }
 4055 = {
 	building_position = {
-		naval_base = {
-			x = 2297
-			y = 1348
-		}
+		naval_base = { x = 2297 y = 1348 }
 	}
 }
 4060 = {
 	building_position = {
-		naval_base = {
-			x = 2291
-			y = 1332
-		}
+		naval_base = { x = 2291 y = 1332 }
 	}
 }
 4061 = {
@@ -10102,10 +9652,7 @@
 }
 4066 = {
 	building_position = {
-		naval_base = {
-			x = 810
-			y = 1032
-		}
+		naval_base = { x = 810 y = 1032 }
 	}
 }
 4067 = {
@@ -10116,10 +9663,7 @@
 }
 4068 = {
 	building_position = {
-		naval_base = {
-			x = 788
-			y = 1003
-		}
+		naval_base = { x = 788 y = 1003 }
 	}
 }
 4069 = {
@@ -10208,10 +9752,7 @@
 }
 4094 = {
 	building_position = {
-		naval_base = {
-			x = 2289
-			y = 1366
-		}
+		naval_base = { x = 2289 y = 1366 }
 	}
 }
 4095 = {
@@ -10222,10 +9763,7 @@
 }
 4096 = {
 	building_position = {
-		naval_base = {
-			x = 2277
-			y = 1388
-		}
+		naval_base = { x = 2277 y = 1388 }
 	}
 }
 4101 = {
@@ -10248,10 +9786,7 @@
 }
 4104 = {
 	building_position = {
-		naval_base = {
-			x = 2433
-			y = 1500
-		}
+		naval_base = { x = 2433 y = 1500 }
 	}
 }
 4105 = {
@@ -10268,10 +9803,7 @@
 }
 4107 = {
 	building_position = {
-		naval_base = {
-			x = 2453
-			y = 1444
-		}
+		naval_base = { x = 2453 y = 1444 }
 	}
 }
 4108 = {
@@ -10312,18 +9844,12 @@
 }
 4119 = {
 	building_position = {
-		naval_base = {
-			x = 2255
-			y = 1409
-		}
+		naval_base = { x = 2255 y = 1409 }
 	}
 }
 4121 = {
 	building_position = {
-		naval_base = {
-			x = 2247
-			y = 1360
-		}
+		naval_base = { x = 2247 y = 1360 }
 	}
 }
 4122 = {
@@ -10668,6 +10194,11 @@
 	}
 	building_rotation = { naval_base = 5.176037 }
 }
+4219 = {
+	building_position = {
+		naval_base = { x = 2130 y = 1305 }
+	}
+}
 4221 = {
 	building_position = {
 		naval_base = { x = 2265 y = 1296 }
@@ -10721,6 +10252,12 @@
 		naval_base = { x = 2221.5 y = 1217 }
 	}
 	building_rotation = { naval_base = 5.176037 }
+}
+4238 = {
+	building_position = {
+		naval_base = { x = 2120 y = 1316.5 }
+	}
+	building_rotation = { naval_base = 2.677945 }
 }
 4241 = {
 	building_position = {
@@ -10784,10 +10321,7 @@
 }
 4265 = {
 	building_position = {
-		naval_base = {
-			x = 1984
-			y = 1426
-		}
+		naval_base = { x = 1984 y = 1426 }
 	}
 }
 4269 = {
@@ -10804,10 +10338,7 @@
 }
 4271 = {
 	building_position = {
-		naval_base = {
-			x = 1943
-			y = 1429
-		}
+		naval_base = { x = 1943 y = 1429 }
 	}
 }
 4272 = {
@@ -10836,10 +10367,7 @@
 }
 4276 = {
 	building_position = {
-		naval_base = {
-			x = 1986
-			y = 1437
-		}
+		naval_base = { x = 1986 y = 1437 }
 	}
 }
 4277 = {
@@ -11054,10 +10582,7 @@
 }
 4534 = {
 	building_position = {
-		naval_base = {
-			x = 1009
-			y = 1379
-		}
+		naval_base = { x = 1009 y = 1379 }
 	}
 }
 4582 = {
@@ -11086,26 +10611,17 @@
 }
 4604 = {
 	building_position = {
-		naval_base = {
-			x = 621
-			y = 786
-		}
+		naval_base = { x = 621 y = 786 }
 	}
 }
 4605 = {
 	building_position = {
-		naval_base = {
-			x = 611
-			y = 764
-		}
+		naval_base = { x = 611 y = 764 }
 	}
 }
 4609 = {
 	building_position = {
-		naval_base = {
-			x = 781
-			y = 870
-		}
+		naval_base = { x = 781 y = 870 }
 	}
 }
 4612 = {
@@ -11272,10 +10788,7 @@
 }
 4671 = {
 	building_position = {
-		naval_base = {
-			x = 875
-			y = 912
-		}
+		naval_base = { x = 875 y = 912 }
 	}
 }
 4672 = {
@@ -11424,10 +10937,7 @@
 }
 4721 = {
 	building_position = {
-		naval_base = {
-			x = 644
-			y = 753
-		}
+		naval_base = { x = 644 y = 753 }
 	}
 }
 4722 = {
@@ -11558,10 +11068,7 @@
 }
 4759 = {
 	building_position = {
-		naval_base = {
-			x = 908
-			y = 949
-		}
+		naval_base = { x = 908 y = 949 }
 	}
 }
 4768 = {
@@ -11680,10 +11187,7 @@
 }
 4834 = {
 	building_position = {
-		naval_base = {
-			x = 988
-			y = 684
-		}
+		naval_base = { x = 988 y = 684 }
 	}
 }
 4836 = {
@@ -11706,10 +11210,7 @@
 }
 4839 = {
 	building_position = {
-		naval_base = {
-			x = 986
-			y = 708
-		}
+		naval_base = { x = 986 y = 708 }
 	}
 }
 4840 = {
@@ -11804,10 +11305,7 @@
 }
 4891 = {
 	building_position = {
-		naval_base = {
-			x = 1130
-			y = 631
-		}
+		naval_base = { x = 1130 y = 631 }
 	}
 }
 4892 = {
@@ -11896,26 +11394,17 @@
 }
 4918 = {
 	building_position = {
-		naval_base = {
-			x = 1142
-			y = 761
-		}
+		naval_base = { x = 1142 y = 761 }
 	}
 }
 4919 = {
 	building_position = {
-		naval_base = {
-			x = 1132
-			y = 733
-		}
+		naval_base = { x = 1132 y = 733 }
 	}
 }
 4920 = {
 	building_position = {
-		naval_base = {
-			x = 1180
-			y = 740
-		}
+		naval_base = { x = 1180 y = 740 }
 	}
 }
 4921 = {
@@ -12046,10 +11535,7 @@
 }
 4964 = {
 	building_position = {
-		naval_base = {
-			x = 1306
-			y = 645
-		}
+		naval_base = { x = 1306 y = 645 }
 	}
 }
 4974 = {
@@ -12114,10 +11600,7 @@
 }
 5111 = {
 	building_position = {
-		naval_base = {
-			x = 1609
-			y = 637
-		}
+		naval_base = { x = 1609 y = 637 }
 	}
 }
 5112 = {
@@ -12236,10 +11719,7 @@
 }
 5159 = {
 	building_position = {
-		naval_base = {
-			x = 1568
-			y = 582
-		}
+		naval_base = { x = 1568 y = 582 }
 	}
 }
 5160 = {
@@ -12346,10 +11826,7 @@
 }
 5187 = {
 	building_position = {
-		naval_base = {
-			x = 1660
-			y = 695
-		}
+		naval_base = { x = 1660 y = 695 }
 	}
 }
 5188 = {
@@ -12480,10 +11957,7 @@
 }
 5307 = {
 	building_position = {
-		naval_base = {
-			x = 2366
-			y = 921
-		}
+		naval_base = { x = 2366 y = 921 }
 	}
 }
 5308 = {
@@ -12494,10 +11968,7 @@
 }
 5309 = {
 	building_position = {
-		naval_base = {
-			x = 1813
-			y = 821
-		}
+		naval_base = { x = 1813 y = 821 }
 	}
 }
 5313 = {
@@ -12562,10 +12033,7 @@
 }
 5341 = {
 	building_position = {
-		naval_base = {
-			x = 1284
-			y = 951
-		}
+		naval_base = { x = 1284 y = 951 }
 	}
 }
 5348 = {
@@ -12594,10 +12062,7 @@
 }
 5354 = {
 	building_position = {
-		naval_base = {
-			x = 1202
-			y = 1035
-		}
+		naval_base = { x = 1202 y = 1035 }
 	}
 }
 5359 = {
@@ -12740,10 +12205,7 @@
 }
 5461 = {
 	building_position = {
-		naval_base = {
-			x = 1816
-			y = 768
-		}
+		naval_base = { x = 1816 y = 768 }
 	}
 }
 5465 = {
@@ -12850,18 +12312,12 @@
 }
 5503 = {
 	building_position = {
-		naval_base = {
-			x = 1808
-			y = 868
-		}
+		naval_base = { x = 1808 y = 868 }
 	}
 }
 5510 = {
 	building_position = {
-		naval_base = {
-			x = 1820
-			y = 883
-		}
+		naval_base = { x = 1820 y = 883 }
 	}
 }
 5511 = {
@@ -12938,10 +12394,7 @@
 }
 5542 = {
 	building_position = {
-		naval_base = {
-			x = 1667
-			y = 1025
-		}
+		naval_base = { x = 1667 y = 1025 }
 	}
 }
 5543 = {
@@ -13102,10 +12555,7 @@
 }
 5713 = {
 	building_position = {
-		naval_base = {
-			x = 1349
-			y = 1094
-		}
+		naval_base = { x = 1349 y = 1094 }
 	}
 }
 5719 = {
@@ -13218,26 +12668,17 @@
 }
 5857 = {
 	building_position = {
-		naval_base = {
-			x = 1843
-			y = 923
-		}
+		naval_base = { x = 1843 y = 923 }
 	}
 }
 5963 = {
 	building_position = {
-		naval_base = {
-			x = 1758
-			y = 1136
-		}
+		naval_base = { x = 1758 y = 1136 }
 	}
 }
 5967 = {
 	building_position = {
-		naval_base = {
-			x = 1752
-			y = 1122
-		}
+		naval_base = { x = 1752 y = 1122 }
 	}
 }
 5968 = {
@@ -13314,10 +12755,7 @@
 }
 6081 = {
 	building_position = {
-		naval_base = {
-			x = 1036
-			y = 1350
-		}
+		naval_base = { x = 1036 y = 1350 }
 	}
 }
 6094 = {
@@ -13376,10 +12814,7 @@
 }
 6113 = {
 	building_position = {
-		naval_base = {
-			x = 755
-			y = 1141
-		}
+		naval_base = { x = 755 y = 1141 }
 	}
 }
 6114 = {
@@ -13444,10 +12879,7 @@
 }
 6141 = {
 	building_position = {
-		naval_base = {
-			x = 1211
-			y = 1044
-		}
+		naval_base = { x = 1211 y = 1044 }
 	}
 }
 6142 = {
@@ -13476,10 +12908,7 @@
 }
 6150 = {
 	building_position = {
-		naval_base = {
-			x = 1164
-			y = 1123
-		}
+		naval_base = { x = 1164 y = 1123 }
 	}
 }
 6151 = {
@@ -13520,18 +12949,12 @@
 }
 6183 = {
 	building_position = {
-		naval_base = {
-			x = 1219
-			y = 1088
-		}
+		naval_base = { x = 1219 y = 1088 }
 	}
 }
 6191 = {
 	building_position = {
-		naval_base = {
-			x = 1165
-			y = 1159
-		}
+		naval_base = { x = 1165 y = 1159 }
 	}
 }
 6192 = {
@@ -13572,10 +12995,7 @@
 }
 6226 = {
 	building_position = {
-		naval_base = {
-			x = 1996
-			y = 1292
-		}
+		naval_base = { x = 1996 y = 1292 }
 	}
 }
 6227 = {
@@ -13712,10 +13132,7 @@
 }
 6327 = {
 	building_position = {
-		naval_base = {
-			x = 990
-			y = 1289
-		}
+		naval_base = { x = 990 y = 1289 }
 	}
 }
 6328 = {
@@ -13774,10 +13191,7 @@
 }
 6352 = {
 	building_position = {
-		naval_base = {
-			x = 913
-			y = 1112
-		}
+		naval_base = { x = 913 y = 1112 }
 	}
 }
 6353 = {
@@ -13794,10 +13208,7 @@
 }
 6359 = {
 	building_position = {
-		naval_base = {
-			x = 920
-			y = 1243
-		}
+		naval_base = { x = 920 y = 1243 }
 	}
 }
 6361 = {
@@ -13904,10 +13315,7 @@
 }
 6401 = {
 	building_position = {
-		naval_base = {
-			x = 1020
-			y = 1134
-		}
+		naval_base = { x = 1020 y = 1134 }
 	}
 }
 6402 = {
@@ -13930,10 +13338,7 @@
 }
 6406 = {
 	building_position = {
-		naval_base = {
-			x = 888
-			y = 1141
-		}
+		naval_base = { x = 888 y = 1141 }
 	}
 }
 6407 = {
@@ -13956,10 +13361,7 @@
 }
 6417 = {
 	building_position = {
-		naval_base = {
-			x = 924
-			y = 1222
-		}
+		naval_base = { x = 924 y = 1222 }
 	}
 }
 6421 = {
@@ -14084,18 +13486,12 @@
 }
 6452 = {
 	building_position = {
-		naval_base = {
-			x = 2096
-			y = 846
-		}
+		naval_base = { x = 2096 y = 846 }
 	}
 }
 6453 = {
 	building_position = {
-		naval_base = {
-			x = 2133
-			y = 855
-		}
+		naval_base = { x = 2133 y = 855 }
 	}
 }
 6454 = {
@@ -14130,10 +13526,7 @@
 }
 6463 = {
 	building_position = {
-		naval_base = {
-			x = 1921
-			y = 590
-		}
+		naval_base = { x = 1921 y = 590 }
 	}
 }
 6464 = {
@@ -14150,10 +13543,7 @@
 }
 6468 = {
 	building_position = {
-		naval_base = {
-			x = 2013
-			y = 612
-		}
+		naval_base = { x = 2013 y = 612 }
 	}
 }
 6469 = {
@@ -14254,10 +13644,7 @@
 }
 6491 = {
 	building_position = {
-		naval_base = {
-			x = 2217
-			y = 945
-		}
+		naval_base = { x = 2217 y = 945 }
 	}
 }
 6492 = {
@@ -14280,10 +13667,7 @@
 }
 6497 = {
 	building_position = {
-		naval_base = {
-			x = 2187
-			y = 929
-		}
+		naval_base = { x = 2187 y = 929 }
 	}
 }
 6498 = {
@@ -14300,10 +13684,7 @@
 }
 6500 = {
 	building_position = {
-		naval_base = {
-			x = 2222
-			y = 891
-		}
+		naval_base = { x = 2222 y = 891 }
 	}
 }
 6501 = {
@@ -14554,10 +13935,7 @@
 }
 6576 = {
 	building_position = {
-		naval_base = {
-			x = 2136
-			y = 814
-		}
+		naval_base = { x = 2136 y = 814 }
 	}
 }
 6577 = {
@@ -14634,10 +14012,7 @@
 }
 6589 = {
 	building_position = {
-		naval_base = {
-			x = 2161
-			y = 805
-		}
+		naval_base = { x = 2161 y = 805 }
 	}
 }
 6591 = {
@@ -14702,10 +14077,7 @@
 }
 6605 = {
 	building_position = {
-		naval_base = {
-			x = 2234
-			y = 847
-		}
+		naval_base = { x = 2234 y = 847 }
 	}
 }
 6606 = {
@@ -14788,10 +14160,7 @@
 }
 6623 = {
 	building_position = {
-		naval_base = {
-			x = 2231
-			y = 837
-		}
+		naval_base = { x = 2231 y = 837 }
 	}
 }
 6624 = {
@@ -14820,10 +14189,7 @@
 }
 6638 = {
 	building_position = {
-		naval_base = {
-			x = 2165
-			y = 797
-		}
+		naval_base = { x = 2165 y = 797 }
 	}
 }
 6639 = {
@@ -14936,10 +14302,7 @@
 }
 6661 = {
 	building_position = {
-		naval_base = {
-			x = 2112
-			y = 698
-		}
+		naval_base = { x = 2112 y = 698 }
 	}
 }
 6663 = {
@@ -14968,10 +14331,7 @@
 }
 6667 = {
 	building_position = {
-		naval_base = {
-			x = 2108
-			y = 684
-		}
+		naval_base = { x = 2108 y = 684 }
 	}
 }
 6668 = {
@@ -14982,10 +14342,7 @@
 }
 6669 = {
 	building_position = {
-		naval_base = {
-			x = 2100
-			y = 674
-		}
+		naval_base = { x = 2100 y = 674 }
 	}
 }
 6670 = {
@@ -15038,10 +14395,7 @@
 }
 6680 = {
 	building_position = {
-		naval_base = {
-			x = 2020
-			y = 673
-		}
+		naval_base = { x = 2020 y = 673 }
 	}
 }
 6681 = {
@@ -15052,10 +14406,7 @@
 }
 6682 = {
 	building_position = {
-		naval_base = {
-			x = 2075
-			y = 708
-		}
+		naval_base = { x = 2075 y = 708 }
 	}
 }
 6683 = {
@@ -15096,18 +14447,12 @@
 }
 6697 = {
 	building_position = {
-		naval_base = {
-			x = 1993
-			y = 722
-		}
+		naval_base = { x = 1993 y = 722 }
 	}
 }
 6698 = {
 	building_position = {
-		naval_base = {
-			x = 2002
-			y = 704
-		}
+		naval_base = { x = 2002 y = 704 }
 	}
 }
 6699 = {
@@ -15148,10 +14493,7 @@
 }
 6707 = {
 	building_position = {
-		naval_base = {
-			x = 1949
-			y = 766
-		}
+		naval_base = { x = 1949 y = 766 }
 	}
 }
 6710 = {
@@ -15216,10 +14558,7 @@
 }
 6721 = {
 	building_position = {
-		naval_base = {
-			x = 1915
-			y = 632
-		}
+		naval_base = { x = 1915 y = 632 }
 	}
 }
 6722 = {
@@ -15230,10 +14569,7 @@
 }
 6723 = {
 	building_position = {
-		naval_base = {
-			x = 1921
-			y = 673
-		}
+		naval_base = { x = 1921 y = 673 }
 	}
 }
 6724 = {
@@ -15322,10 +14658,7 @@
 }
 6740 = {
 	building_position = {
-		naval_base = {
-			x = 2005
-			y = 595
-		}
+		naval_base = { x = 2005 y = 595 }
 	}
 }
 6741 = {
@@ -15372,10 +14705,7 @@
 }
 6752 = {
 	building_position = {
-		naval_base = {
-			x = 1957
-			y = 758
-		}
+		naval_base = { x = 1957 y = 758 }
 	}
 }
 6753 = {
@@ -15512,10 +14842,7 @@
 }
 6776 = {
 	building_position = {
-		naval_base = {
-			x = 2103
-			y = 788
-		}
+		naval_base = { x = 2103 y = 788 }
 	}
 }
 6777 = {
@@ -15574,10 +14901,7 @@
 }
 6786 = {
 	building_position = {
-		naval_base = {
-			x = 2164
-			y = 623
-		}
+		naval_base = { x = 2164 y = 623 }
 	}
 }
 6787 = {
@@ -15630,10 +14954,7 @@
 }
 6796 = {
 	building_position = {
-		naval_base = {
-			x = 2216
-			y = 684
-		}
+		naval_base = { x = 2216 y = 684 }
 	}
 }
 6797 = {
@@ -15734,10 +15055,7 @@
 }
 6816 = {
 	building_position = {
-		naval_base = {
-			x = 2093
-			y = 595
-		}
+		naval_base = { x = 2093 y = 595 }
 	}
 }
 6817 = {
@@ -15820,10 +15138,7 @@
 }
 6839 = {
 	building_position = {
-		naval_base = {
-			x = 2114
-			y = 758
-		}
+		naval_base = { x = 2114 y = 758 }
 	}
 }
 6841 = {
@@ -16140,10 +15455,7 @@
 }
 6934 = {
 	building_position = {
-		naval_base = {
-			x = 805
-			y = 1340
-		}
+		naval_base = { x = 805 y = 1340 }
 	}
 }
 6935 = {
@@ -16244,10 +15556,7 @@
 }
 6973 = {
 	building_position = {
-		naval_base = {
-			x = 1014
-			y = 1375
-		}
+		naval_base = { x = 1014 y = 1375 }
 	}
 }
 6974 = {
@@ -16330,26 +15639,17 @@
 }
 6997 = {
 	building_position = {
-		naval_base = {
-			x = 960
-			y = 1480
-		}
+		naval_base = { x = 960 y = 1480 }
 	}
 }
 7000 = {
 	building_position = {
-		naval_base = {
-			x = 969
-			y = 1487
-		}
+		naval_base = { x = 969 y = 1487 }
 	}
 }
 7002 = {
 	building_position = {
-		naval_base = {
-			x = 2189
-			y = 909
-		}
+		naval_base = { x = 2189 y = 909 }
 	}
 }
 7003 = {
@@ -16366,10 +15666,7 @@
 }
 7013 = {
 	building_position = {
-		naval_base = {
-			x = 1242
-			y = 1411
-		}
+		naval_base = { x = 1242 y = 1411 }
 	}
 }
 7014 = {
@@ -16722,10 +16019,7 @@
 }
 7306 = {
 	building_position = {
-		naval_base = {
-			x = 1546
-			y = 1532
-		}
+		naval_base = { x = 1546 y = 1532 }
 	}
 }
 7309 = {
@@ -16748,10 +16042,7 @@
 }
 7314 = {
 	building_position = {
-		naval_base = {
-			x = 1549
-			y = 1578
-		}
+		naval_base = { x = 1549 y = 1578 }
 	}
 }
 7315 = {
@@ -16942,10 +16233,7 @@
 }
 7653 = {
 	building_position = {
-		naval_base = {
-			x = 3488
-			y = 1220
-		}
+		naval_base = { x = 3488 y = 1220 }
 	}
 }
 7655 = {
@@ -16956,18 +16244,12 @@
 }
 7658 = {
 	building_position = {
-		naval_base = {
-			x = 3497
-			y = 1254
-		}
+		naval_base = { x = 3497 y = 1254 }
 	}
 }
 7660 = {
 	building_position = {
-		naval_base = {
-			x = 3500
-			y = 1263
-		}
+		naval_base = { x = 3500 y = 1263 }
 	}
 }
 7665 = {
@@ -16978,18 +16260,12 @@
 }
 7666 = {
 	building_position = {
-		naval_base = {
-			x = 3481
-			y = 1288
-		}
+		naval_base = { x = 3481 y = 1288 }
 	}
 }
 7667 = {
 	building_position = {
-		naval_base = {
-			x = 3504
-			y = 1307
-		}
+		naval_base = { x = 3504 y = 1307 }
 	}
 }
 7668 = {
@@ -17012,10 +16288,7 @@
 }
 7671 = {
 	building_position = {
-		naval_base = {
-			x = 3557
-			y = 1329
-		}
+		naval_base = { x = 3557 y = 1329 }
 	}
 }
 7672 = {
@@ -17074,18 +16347,12 @@
 }
 7682 = {
 	building_position = {
-		naval_base = {
-			x = 3663
-			y = 1353
-		}
+		naval_base = { x = 3663 y = 1353 }
 	}
 }
 7683 = {
 	building_position = {
-		naval_base = {
-			x = 3661
-			y = 1371
-		}
+		naval_base = { x = 3661 y = 1371 }
 	}
 }
 7684 = {
@@ -17348,10 +16615,7 @@
 }
 7750 = {
 	building_position = {
-		naval_base = {
-			x = 3996
-			y = 766
-		}
+		naval_base = { x = 3996 y = 766 }
 	}
 }
 7751 = {
@@ -17392,10 +16656,7 @@
 }
 7759 = {
 	building_position = {
-		naval_base = {
-			x = 3909
-			y = 678
-		}
+		naval_base = { x = 3909 y = 678 }
 	}
 }
 7760 = {
@@ -17436,10 +16697,7 @@
 }
 7828 = {
 	building_position = {
-		naval_base = {
-			x = 3533
-			y = 892
-		}
+		naval_base = { x = 3533 y = 892 }
 	}
 }
 7829 = {
@@ -17498,10 +16756,7 @@
 }
 7847 = {
 	building_position = {
-		naval_base = {
-			x = 3652
-			y = 878
-		}
+		naval_base = { x = 3652 y = 878 }
 	}
 }
 7848 = {
@@ -17650,18 +16905,12 @@
 }
 8289 = {
 	building_position = {
-		naval_base = {
-			x = 2150
-			y = 1471
-		}
+		naval_base = { x = 2150 y = 1471 }
 	}
 }
 8290 = {
 	building_position = {
-		naval_base = {
-			x = 2215
-			y = 1952
-		}
+		naval_base = { x = 2215 y = 1952 }
 	}
 }
 8291 = {
@@ -17750,10 +16999,7 @@
 }
 8352 = {
 	building_position = {
-		naval_base = {
-			x = 1036
-			y = 1529
-		}
+		naval_base = { x = 1036 y = 1529 }
 	}
 }
 8486 = {
@@ -17914,10 +17160,7 @@
 }
 9526 = {
 	building_position = {
-		naval_base = {
-			x = 305
-			y = 852
-		}
+		naval_base = { x = 305 y = 852 }
 	}
 }
 9527 = {
@@ -17946,10 +17189,7 @@
 }
 9537 = {
 	building_position = {
-		naval_base = {
-			x = 459
-			y = 883
-		}
+		naval_base = { x = 459 y = 883 }
 	}
 }
 9538 = {
@@ -18002,10 +17242,7 @@
 }
 9548 = {
 	building_position = {
-		naval_base = {
-			x = 464
-			y = 897
-		}
+		naval_base = { x = 464 y = 897 }
 	}
 }
 9549 = {
@@ -18148,10 +17385,7 @@
 }
 9576 = {
 	building_position = {
-		naval_base = {
-			x = 302
-			y = 922
-		}
+		naval_base = { x = 302 y = 922 }
 	}
 }
 9577 = {
@@ -18240,10 +17474,7 @@
 }
 9613 = {
 	building_position = {
-		naval_base = {
-			x = 1674
-			y = 1586
-		}
+		naval_base = { x = 1674 y = 1586 }
 	}
 }
 9614 = {

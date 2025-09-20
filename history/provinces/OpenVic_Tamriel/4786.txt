@@ -1,5 +1,6 @@
+terrain = highlands
 life_rating = 30
-trade_goods = cotton
+trade_goods = grain
 owner = SC6
 controller = SC6
 add_core = SC6

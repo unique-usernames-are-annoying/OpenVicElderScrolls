@@ -1,5 +1,6 @@
+terrain = urban_cheydinhal
 life_rating = 30
-trade_goods = cotton
+trade_goods = grain
 owner = CH9
 controller = CH9
 add_core = CH9

@@ -1,5 +1,6 @@
+terrain = urban_kemel_ze
 life_rating = 30
-trade_goods = tea
+trade_goods = wool
 owner = MG0
 controller = MG0
 add_core = MG0

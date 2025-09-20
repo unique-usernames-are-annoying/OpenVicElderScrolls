@@ -1,5 +1,6 @@
+terrain = urban_kituna_vos
 life_rating = 30
-trade_goods = cotton
+trade_goods = grain
 owner = PC2
 controller = PC2
 add_core = PC2

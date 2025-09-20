@@ -35,7 +35,7 @@ occult_group = {
 	celestials = { color = { 0.584 0.0 0.922 } icon = 93 }
 	students_of_magnus = { color = { 0.157 0.761 1.0 } icon = 90 }
 	cult_of_the_insect = { color = { 0.749 1.0 0.0 } icon = 88 }
-	magne_ge = { color = { 0.902 0.902 0.902 } icon = 89 }
+	magna_ge = { color = { 0.902 0.902 0.902 } icon = 89 }
 	egg_mother = { color = { 0.784 0.784 0.784 } icon = 87 }
 	mother_sea = { color = { 0.024 0.22 0.278 } icon = 86 }
 	deep_ones = { color = { 0.392 0.0 0.039 } icon = 85 }

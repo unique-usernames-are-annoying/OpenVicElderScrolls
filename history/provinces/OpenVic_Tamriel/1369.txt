@@ -1,5 +1,6 @@
+terrain = urban_daggerfall
 life_rating = 30
-trade_goods = tea
+trade_goods = fish
 owner = BF2
 controller = BF2
 add_core = BF2

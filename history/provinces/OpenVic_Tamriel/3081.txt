@@ -1,5 +1,6 @@
+terrain = glacier
 life_rating = 30
-trade_goods = silk
+trade_goods = tea
 owner = NB6
 controller = NB6
 add_core = NB6

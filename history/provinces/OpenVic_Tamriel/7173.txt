@@ -1,5 +1,6 @@
+terrain = highlands
 life_rating = 30
-trade_goods = timber
+trade_goods = tobacco
 owner = NC3
 controller = NC3
 add_core = NC3

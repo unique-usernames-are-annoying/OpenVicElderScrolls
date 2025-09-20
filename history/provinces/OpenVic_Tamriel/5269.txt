@@ -1,5 +1,6 @@
+terrain = plateau
 life_rating = 30
-trade_goods = grain
+trade_goods = fruit
 owner = EA6
 controller = EA6
 add_core = EA6

@@ -1,5 +1,6 @@
+terrain = highlands
 life_rating = 30
-trade_goods = fish
+trade_goods = grain
 owner = HC7
 controller = HC7
 add_core = HC7

@@ -1,5 +1,6 @@
+terrain = jungle
 life_rating = 30
-trade_goods = tropical_wood
+trade_goods = fruit
 owner = VE1
 controller = VE1
 add_core = VE1

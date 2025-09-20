@@ -1,5 +1,6 @@
+terrain = highlands
 life_rating = 30
-trade_goods = fish
+trade_goods = wool
 owner = MA5
 controller = MA5
 add_core = MA5

@@ -1,5 +1,6 @@
+terrain = forest
 life_rating = 30
-trade_goods = iron
+trade_goods = cattle
 owner = VD7
 controller = VD7
 add_core = VD7

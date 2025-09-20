@@ -1,5 +1,6 @@
+terrain = glacier
 life_rating = 30
-trade_goods = iron
+trade_goods = tropical_wood
 owner = DA1
 controller = DA1
 add_core = DA1

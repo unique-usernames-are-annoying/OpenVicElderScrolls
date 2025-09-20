@@ -1,5 +1,6 @@
+terrain = barrow
 life_rating = 30
-trade_goods = dye
+trade_goods = grain
 owner = NB3
 controller = NB3
 add_core = NB3

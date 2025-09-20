@@ -1,5 +1,6 @@
+terrain = orcish_stronghold
 life_rating = 30
-trade_goods = grain
+trade_goods = tea
 owner = BE9
 controller = BE9
 add_core = BE9

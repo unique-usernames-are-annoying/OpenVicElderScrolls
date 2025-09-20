@@ -1,5 +1,6 @@
+terrain = jungle
 life_rating = 30
-trade_goods = tea
+trade_goods = tobacco
 owner = SA8
 controller = SA8
 add_core = SA8

@@ -1,5 +1,6 @@
+terrain = hills
 life_rating = 30
-trade_goods = cotton
+trade_goods = tea
 owner = CK0
 controller = CK0
 add_core = CK0

@@ -1,5 +1,6 @@
+terrain = hills
 life_rating = 30
-trade_goods = coffee
+trade_goods = tropical_wood
 owner = YC8
 controller = YC8
 add_core = YC8

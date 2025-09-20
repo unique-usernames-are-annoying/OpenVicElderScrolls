@@ -1,2 +1,3 @@
+terrain = highlands
 life_rating = 30
-trade_goods = tea
+trade_goods = sulphur

@@ -1,5 +1,6 @@
+terrain = hills
 life_rating = 30
-trade_goods = cattle
+trade_goods = wool
 owner = CB0
 controller = CB0
 add_core = CB0

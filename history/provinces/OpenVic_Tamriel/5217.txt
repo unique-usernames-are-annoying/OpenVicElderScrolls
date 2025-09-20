@@ -1,3 +1,4 @@
+terrain = urban_orcrest
 life_rating = 30
 trade_goods = grain
 owner = EA5

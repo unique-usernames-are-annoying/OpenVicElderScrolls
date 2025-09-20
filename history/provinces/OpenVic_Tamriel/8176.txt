@@ -1,2 +1,3 @@
+terrain = bayou
 life_rating = 30
-trade_goods = tea
+trade_goods = cotton

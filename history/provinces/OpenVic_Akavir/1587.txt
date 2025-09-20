@@ -1,5 +1,6 @@
+terrain = urban_tang_mo
 life_rating = 30
-trade_goods = grain
+trade_goods = tropical_wood
 owner = JA3
 controller = JA3
 add_core = JA3

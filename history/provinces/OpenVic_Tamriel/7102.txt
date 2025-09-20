@@ -1,5 +1,6 @@
+terrain = mountain
 life_rating = 30
-trade_goods = cattle
+trade_goods = tobacco
 owner = HH2
 controller = HH2
 add_core = HH2

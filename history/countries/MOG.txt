@@ -1,6 +1,6 @@
 capital = 1242
 government = monarchy
-religion = magne_ge
+religion = magna_ge
 primary_culture = nedic
 nationalvalue = cyrodiil_tg
 civilized = yes

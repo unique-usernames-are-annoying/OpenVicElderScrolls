@@ -1,5 +1,6 @@
+terrain = forest
 life_rating = 30
-trade_goods = grain
+trade_goods = coffee
 owner = NA3
 controller = NA3
 add_core = NA3

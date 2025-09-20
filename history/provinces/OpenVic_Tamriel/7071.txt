@@ -1,5 +1,6 @@
+terrain = tundra
 life_rating = 30
-trade_goods = grain
+trade_goods = tobacco
 owner = GRH
 controller = GRH
 add_core = GRH

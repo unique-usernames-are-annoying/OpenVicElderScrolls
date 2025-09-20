@@ -1,5 +1,6 @@
+terrain = mountain
 life_rating = 30
-trade_goods = dye
+trade_goods = iron
 owner = DB7
 controller = DB7
 add_core = DB7

@@ -1,5 +1,6 @@
+terrain = deadlands_lava_cave
 life_rating = 30
-trade_goods = tobacco
+trade_goods = grain
 owner = GA5
 controller = GA5
 add_core = GA5

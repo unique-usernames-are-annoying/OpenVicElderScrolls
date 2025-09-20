@@ -1,5 +1,6 @@
+terrain = highlands
 life_rating = 30
-trade_goods = tea
-owner = DA3
-controller = DA3
-add_core = DA3
+trade_goods = precious_metal
+owner = DB6
+controller = DB6
+add_core = DB6

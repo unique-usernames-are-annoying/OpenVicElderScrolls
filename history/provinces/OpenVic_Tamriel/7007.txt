@@ -1,5 +1,6 @@
+terrain = mountain
 life_rating = 30
-trade_goods = fruit
+trade_goods = grain
 owner = BA7
 controller = BA7
 add_core = BA7

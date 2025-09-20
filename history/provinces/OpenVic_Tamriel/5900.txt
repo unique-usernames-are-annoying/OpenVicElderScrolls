@@ -1,3 +1,4 @@
+terrain = mountain
 life_rating = 30
-trade_goods = cotton
+trade_goods = coal
 add_core = CF1

@@ -1,5 +1,6 @@
+terrain = highlands
 life_rating = 30
-trade_goods = grain
+trade_goods = tobacco
 owner = YB7
 controller = YB7
 add_core = YB7

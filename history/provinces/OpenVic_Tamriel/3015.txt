@@ -1,5 +1,6 @@
+terrain = urban_whiterun
 life_rating = 30
-trade_goods = tropical_wood
+trade_goods = cotton
 owner = NB2
 controller = NB2
 add_core = NB2

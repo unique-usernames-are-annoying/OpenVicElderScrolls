@@ -1,5 +1,6 @@
+terrain = craglands
 life_rating = 30
-trade_goods = grain
+trade_goods = fish
 owner = MG4
 controller = MG4
 add_core = MG4

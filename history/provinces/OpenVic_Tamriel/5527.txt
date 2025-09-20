@@ -1,5 +1,6 @@
+terrain = grasslands
 life_rating = 30
-trade_goods = fruit
+trade_goods = tea
 owner = CH2
 controller = CH2
 add_core = CH2

@@ -1,5 +1,6 @@
+terrain = highlands
 life_rating = 30
-trade_goods = dye
+trade_goods = wool
 owner = SB6
 controller = SB6
 add_core = SB6

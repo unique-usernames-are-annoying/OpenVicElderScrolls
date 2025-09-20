@@ -1,5 +1,6 @@
+terrain = highlands
 life_rating = 30
-trade_goods = tobacco
+trade_goods = cotton
 owner = OA2
 controller = OA2
 add_core = OA2

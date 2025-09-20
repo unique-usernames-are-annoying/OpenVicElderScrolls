@@ -1,5 +1,6 @@
+terrain = highlands
 life_rating = 30
-trade_goods = fish
+trade_goods = fruit
 owner = SB3
 controller = SB3
 add_core = SB3

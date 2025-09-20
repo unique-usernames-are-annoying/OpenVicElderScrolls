@@ -1,5 +1,6 @@
+terrain = deadlands_burning_hills
 life_rating = 30
-trade_goods = fish
+trade_goods = tea
 owner = GA4
 controller = GA4
 add_core = GA4

@@ -1,5 +1,6 @@
+terrain = glacier
 life_rating = 30
-trade_goods = tobacco
+trade_goods = grain
 owner = DB2
 controller = DB2
 add_core = DB2

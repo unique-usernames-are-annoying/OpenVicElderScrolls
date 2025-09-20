@@ -1,5 +1,6 @@
+terrain = dwemer_stronghold
 life_rating = 30
-trade_goods = cattle
+trade_goods = fish
 owner = RB2
 controller = RB2
 add_core = RB2

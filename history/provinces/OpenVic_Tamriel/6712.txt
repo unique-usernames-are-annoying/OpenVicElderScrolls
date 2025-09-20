@@ -1,5 +1,6 @@
+terrain = bayou
 life_rating = 30
-trade_goods = fruit
+trade_goods = grain
 owner = AF6
 controller = AF6
 add_core = AF6

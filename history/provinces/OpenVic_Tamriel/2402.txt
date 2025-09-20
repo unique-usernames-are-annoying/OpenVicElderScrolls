@@ -1,5 +1,6 @@
+terrain = ashlands
 life_rating = 30
-trade_goods = timber
+trade_goods = grain
 owner = MD7
 controller = MD7
 add_core = MD7

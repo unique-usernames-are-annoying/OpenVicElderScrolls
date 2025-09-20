@@ -1,5 +1,6 @@
+terrain = orcish_stronghold
 life_rating = 30
-trade_goods = timber
+trade_goods = tobacco
 owner = HC3
 controller = HC3
 add_core = HC3

@@ -1,5 +1,6 @@
+terrain = craglands
 life_rating = 30
-trade_goods = tobacco
+trade_goods = iron
 owner = YB4
 controller = YB4
 add_core = YB4

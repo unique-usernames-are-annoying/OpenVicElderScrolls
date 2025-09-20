@@ -1,5 +1,6 @@
+terrain = orcish_stronghold
 life_rating = 30
-trade_goods = tropical_wood
+trade_goods = grain
 owner = BA5
 controller = BA5
 add_core = BA5

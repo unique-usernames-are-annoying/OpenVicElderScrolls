@@ -1,5 +1,6 @@
+terrain = urban_elden_root
 life_rating = 30
-trade_goods = grain
+trade_goods = timber
 owner = VA6
 controller = VA6
 add_core = VA6

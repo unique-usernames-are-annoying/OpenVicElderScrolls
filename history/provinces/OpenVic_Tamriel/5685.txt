@@ -1,5 +1,6 @@
+terrain = grasslands
 life_rating = 30
-trade_goods = grain
+trade_goods = cattle
 owner = CH3
 controller = CH3
 add_core = CH3

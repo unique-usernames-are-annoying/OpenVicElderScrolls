@@ -1,5 +1,6 @@
+terrain = blackreach_forest
 life_rating = 30
-trade_goods = cattle
+trade_goods = fish
 owner = NA4
 controller = NA4
 add_core = NA4

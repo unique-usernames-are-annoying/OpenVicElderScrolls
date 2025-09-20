@@ -1,5 +1,6 @@
+terrain = taiga
 life_rating = 30
-trade_goods = iron
+trade_goods = grain
 owner = DB0
 controller = DB0
 add_core = DB0

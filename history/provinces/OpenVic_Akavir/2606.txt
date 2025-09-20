@@ -1,5 +1,6 @@
+terrain = mountain
 life_rating = 30
-trade_goods = coal
+trade_goods = timber
 owner = UA7
 controller = UA7
 add_core = UA7

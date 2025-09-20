@@ -1,5 +1,6 @@
+terrain = desert
 life_rating = 30
-trade_goods = cotton
+trade_goods = fruit
 owner = ED0
 controller = ED0
 add_core = ED0

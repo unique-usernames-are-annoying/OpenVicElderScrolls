@@ -1,5 +1,6 @@
+terrain = farmlands
 life_rating = 30
-trade_goods = tea
+trade_goods = grain
 owner = CH5
 controller = CH5
 add_core = CH5

@@ -1,5 +1,6 @@
+terrain = caves
 life_rating = 30
-trade_goods = tea
+trade_goods = coal
 owner = VC3
 controller = VC3
 add_core = VC3

@@ -1,5 +1,6 @@
+terrain = woods
 life_rating = 30
-trade_goods = tea
+trade_goods = cotton
 owner = BC0
 controller = BC0
 add_core = BC0

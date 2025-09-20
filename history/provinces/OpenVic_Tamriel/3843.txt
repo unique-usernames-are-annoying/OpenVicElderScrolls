@@ -1,5 +1,6 @@
+terrain = marsh
 life_rating = 30
-trade_goods = cotton
+trade_goods = fish
 owner = AE3
 controller = AE3
 add_core = AE3

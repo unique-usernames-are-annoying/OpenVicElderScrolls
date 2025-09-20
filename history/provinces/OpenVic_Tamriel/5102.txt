@@ -1,5 +1,6 @@
+terrain = marsh
 life_rating = 30
-trade_goods = tobacco
+trade_goods = grain
 owner = VA8
 controller = VA8
 add_core = VA8

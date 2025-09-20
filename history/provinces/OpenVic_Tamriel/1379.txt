@@ -1,3 +1,4 @@
+terrain = taiga
 life_rating = 30
 trade_goods = tea
 owner = BA6

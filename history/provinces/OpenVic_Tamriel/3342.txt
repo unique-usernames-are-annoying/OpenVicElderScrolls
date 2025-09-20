@@ -1,5 +1,6 @@
+terrain = tundra
 life_rating = 30
-trade_goods = cattle
+trade_goods = wool
 owner = MC6
 controller = MC6
 add_core = MC6

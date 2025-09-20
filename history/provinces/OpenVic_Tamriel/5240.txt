@@ -1,5 +1,6 @@
+terrain = desert
 life_rating = 30
-trade_goods = grain
+trade_goods = fish
 owner = TEN
 controller = TEN
 add_core = TEN

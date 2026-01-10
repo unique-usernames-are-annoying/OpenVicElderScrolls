@@ -1,4 +1,4 @@
-capital = 3209
+capital = 3135
 government = tribal
 religion = malacath_cult
 primary_culture = orsimer

@@ -1,4 +1,4 @@
-capital = 1062
+capital = 3965
 government = theocracy
 religion = reason_and_logic_cult
 primary_culture = dwemer

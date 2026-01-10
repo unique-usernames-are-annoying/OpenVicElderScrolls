@@ -1,6 +1,7 @@
-terrain = jungle
+terrain = forest
 life_rating = 30
-trade_goods = opium
-owner = IA9
-controller = IA9
-add_core = IA9
+trade_goods = tropical_wood
+owner = OA2
+controller = OA2
+add_core = OA2
+add_core = OA5

@@ -1,3 +1,6 @@
-terrain = coastal_desert
+terrain = desert
 life_rating = 30
-trade_goods = wool
+trade_goods = tea
+owner = HA6
+controller = HA6
+add_core = HA6

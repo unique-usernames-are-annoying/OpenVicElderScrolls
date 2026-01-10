@@ -1,6 +1,6 @@
-terrain = mudflats
+terrain = fungal_forest
 life_rating = 30
-trade_goods = fish
-owner = ME9
-controller = ME9
-add_core = ME9
+trade_goods = iron
+owner = MC2
+controller = MC2
+add_core = MC2

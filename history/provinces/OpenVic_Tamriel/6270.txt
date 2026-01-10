@@ -1,3 +1,7 @@
-terrain = woods
+terrain = highlands
 life_rating = 30
-trade_goods = wool
+trade_goods = dye
+owner = BD7
+controller = BD7
+add_core = BD7
+add_core = HA7

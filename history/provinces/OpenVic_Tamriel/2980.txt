@@ -1,6 +1,6 @@
-terrain = caves
+terrain = marsh
 life_rating = 30
-trade_goods = tobacco
-owner = RA4
-controller = RA4
-add_core = RA4
+trade_goods = grain
+owner = ED1
+controller = ED1
+add_core = ED1

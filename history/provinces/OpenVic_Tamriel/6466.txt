@@ -1,3 +1,6 @@
-terrain = marsh
+terrain = desert
 life_rating = 30
-trade_goods = cattle
+trade_goods = tea
+owner = HF1
+controller = HF1
+add_core = HF1

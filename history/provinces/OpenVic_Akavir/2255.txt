@@ -1,0 +1,6 @@
+terrain = jungle
+life_rating = 30
+trade_goods = fruit
+owner = UA5
+controller = UA5
+add_core = UA5

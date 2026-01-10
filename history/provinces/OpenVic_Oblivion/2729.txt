@@ -1,6 +1,0 @@
-terrain = cold_wastes
-life_rating = 30
-trade_goods = cotton
-owner = LB8
-controller = LB8
-add_core = LB8

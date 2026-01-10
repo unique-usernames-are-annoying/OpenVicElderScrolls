@@ -1,7 +1,6 @@
-terrain = forest
+terrain = mountain
 life_rating = 30
-trade_goods = wool
-owner = CE5
-controller = CE5
-add_core = CE5
-add_core = CJ1
+trade_goods = cotton
+owner = BA7
+controller = BA7
+add_core = BA7

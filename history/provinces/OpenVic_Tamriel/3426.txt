@@ -1,6 +1,6 @@
-terrain = highlands
+terrain = taiga
 life_rating = 30
-trade_goods = opium
-owner = MD4
-controller = MD4
-add_core = MD4
+trade_goods = fruit
+owner = MA1
+controller = MA1
+add_core = MA1

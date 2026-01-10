@@ -1,6 +1,6 @@
-terrain = woods
+terrain = coastline
 life_rating = 30
-trade_goods = dye
-owner = SA6
-controller = SA6
-add_core = SA6
+trade_goods = precious_metal
+owner = SA3
+controller = SA3
+add_core = SA3

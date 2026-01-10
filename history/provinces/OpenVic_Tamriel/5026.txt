@@ -1,6 +1,7 @@
-terrain = mountain_meadows
+terrain = woods
 life_rating = 30
-trade_goods = tobacco
-owner = VE2
-controller = VE2
-add_core = VE2
+trade_goods = wool
+owner = CE9
+controller = CE9
+add_core = CE9
+add_core = CJ1

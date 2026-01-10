@@ -1,6 +1,3 @@
-terrain = blackreach_forest
+terrain = highlands
 life_rating = 30
 trade_goods = timber
-owner = RA2
-controller = RA2
-add_core = RA2

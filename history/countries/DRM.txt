@@ -1,4 +1,4 @@
-capital = 3427
+capital = 3232
 government = native
 religion = molag_bal_cult
 primary_culture = dremoran

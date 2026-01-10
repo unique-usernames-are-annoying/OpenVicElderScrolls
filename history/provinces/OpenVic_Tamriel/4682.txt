@@ -1,6 +1,7 @@
-terrain = highlands
+terrain = woods
 life_rating = 30
-trade_goods = fruit
-owner = SD3
-controller = SD3
-add_core = SD3
+trade_goods = dye
+owner = CH3
+controller = CH3
+add_core = CH3
+add_core = CA7

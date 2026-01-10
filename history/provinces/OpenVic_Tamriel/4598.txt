@@ -1,0 +1,7 @@
+terrain = urban_bruma
+life_rating = 30
+trade_goods = tobacco
+owner = CH7
+controller = CH7
+add_core = CH7
+add_core = CB6

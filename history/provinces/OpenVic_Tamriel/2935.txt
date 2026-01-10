@@ -1,3 +1,6 @@
-terrain = hot_springs
+terrain = savannah
 life_rating = 30
-trade_goods = grain
+trade_goods = cattle
+owner = EC9
+controller = EC9
+add_core = EC9

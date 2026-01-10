@@ -1,7 +1,6 @@
 terrain = forest
 life_rating = 30
-trade_goods = tea
-owner = OA2
-controller = OA2
-add_core = OA2
-add_core = OA1
+trade_goods = tropical_wood
+owner = OA6
+controller = OA6
+add_core = OA6

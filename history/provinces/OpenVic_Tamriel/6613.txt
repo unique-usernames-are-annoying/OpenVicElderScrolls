@@ -1,3 +1,3 @@
-terrain = marsh
+terrain = hills
 life_rating = 30
-trade_goods = fruit
+trade_goods = tea

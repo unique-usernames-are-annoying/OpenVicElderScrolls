@@ -1,6 +1,7 @@
-terrain = hills
+terrain = woods
 life_rating = 30
-trade_goods = fruit
-owner = VD9
-controller = VD9
-add_core = VD9
+trade_goods = iron
+owner = MOG
+controller = MOG
+add_core = MOG
+add_core = CG5

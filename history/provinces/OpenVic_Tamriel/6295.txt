@@ -1,6 +1,7 @@
-terrain = hills
+terrain = dwemer_stronghold
 life_rating = 30
-trade_goods = timber
-owner = GRH
-controller = GRH
-add_core = GRH
+trade_goods = fish
+owner = HF6
+controller = HF6
+add_core = HF6
+add_core = HB2

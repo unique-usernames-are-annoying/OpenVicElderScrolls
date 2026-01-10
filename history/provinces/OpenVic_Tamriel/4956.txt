@@ -1,6 +1,4 @@
-terrain = coastline
+terrain = mountain
 life_rating = 30
-trade_goods = tea
-owner = VE0
-controller = VE0
-add_core = VE0
+trade_goods = coal
+add_core = MIT

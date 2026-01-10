@@ -1,6 +1,6 @@
-terrain = urban_bamz_amschend
+terrain = mountain_meadows
 life_rating = 30
-trade_goods = wool
-owner = MC0
-controller = MC0
-add_core = MC0
+trade_goods = cattle
+owner = MC7
+controller = MC7
+add_core = MC7

@@ -1,0 +1,6 @@
+terrain = salt_plains
+life_rating = 30
+trade_goods = opium
+owner = MI1
+controller = MI1
+add_core = MI1

@@ -1,4 +1,4 @@
-capital = 1446
+capital = 6152
 government = republic
 religion = sheogorath_cult
 primary_culture = ayleid

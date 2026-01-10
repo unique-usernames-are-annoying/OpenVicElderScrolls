@@ -1,4 +1,4 @@
-capital = 1194
+capital = 4595
 government = republic
 religion = namira_cult
 primary_culture = ayleid

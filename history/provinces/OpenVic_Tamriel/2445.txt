@@ -1,6 +1,6 @@
-terrain = highlands
+terrain = forest
 life_rating = 30
-trade_goods = precious_metal
-owner = VD8
-controller = VD8
-add_core = VD8
+trade_goods = dye
+owner = ED2
+controller = ED2
+add_core = ED2

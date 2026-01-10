@@ -1,3 +1,6 @@
 terrain = craglands
 life_rating = 30
-trade_goods = coal
+trade_goods = grain
+owner = MI9
+controller = MI9
+add_core = MI9

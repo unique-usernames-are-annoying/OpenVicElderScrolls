@@ -1,6 +1,6 @@
-terrain = mountain_meadows
+terrain = marsh
 life_rating = 30
-trade_goods = tobacco
-owner = SC4
-controller = SC4
-add_core = SC4
+trade_goods = grain
+owner = CG0
+controller = CG0
+add_core = CG0

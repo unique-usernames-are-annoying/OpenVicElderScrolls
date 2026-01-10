@@ -1,6 +1,0 @@
-terrain = highlands
-life_rating = 30
-trade_goods = fish
-owner = HE0
-controller = HE0
-add_core = HE0

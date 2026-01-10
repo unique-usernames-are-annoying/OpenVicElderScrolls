@@ -1,6 +1,7 @@
-terrain = savannah
+terrain = forest
 life_rating = 30
-trade_goods = cotton
-owner = EB1
-controller = EB1
-add_core = EB1
+trade_goods = tea
+owner = CD1
+controller = CD1
+add_core = CD1
+add_core = CE8

@@ -1,6 +1,6 @@
-terrain = woods
+terrain = hills
 life_rating = 30
-trade_goods = fish
-owner = SB7
-controller = SB7
-add_core = SB7
+trade_goods = coal
+owner = VC7
+controller = VC7
+add_core = VC7

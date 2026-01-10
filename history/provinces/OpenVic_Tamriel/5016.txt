@@ -1,6 +1,6 @@
-terrain = hills
+terrain = caves
 life_rating = 30
-trade_goods = dye
-owner = VD7
-controller = VD7
-add_core = VD7
+trade_goods = wool
+owner = CF1
+controller = CF1
+add_core = CF1

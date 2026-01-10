@@ -1,3 +1,6 @@
-terrain = bayou
+terrain = desert
 life_rating = 30
-trade_goods = tobacco
+trade_goods = wool
+owner = GRH
+controller = GRH
+add_core = GRH

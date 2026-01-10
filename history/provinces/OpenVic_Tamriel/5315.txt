@@ -1,6 +1,6 @@
-terrain = woods
+terrain = barrow
 life_rating = 30
-trade_goods = tea
-owner = CB3
-controller = CB3
-add_core = CB3
+trade_goods = fish
+owner = NA9
+controller = NA9
+add_core = NA9

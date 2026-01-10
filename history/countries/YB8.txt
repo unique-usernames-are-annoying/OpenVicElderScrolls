@@ -1,4 +1,4 @@
-capital = 2118
+capital = 601
 government = monarchy
 religion = herd_mother
 primary_culture = yokudan

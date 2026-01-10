@@ -1,3 +1,6 @@
-terrain = hills
+terrain = coastline
 life_rating = 30
-trade_goods = precious_metal
+trade_goods = dye
+owner = JA6
+controller = JA6
+add_core = JA6

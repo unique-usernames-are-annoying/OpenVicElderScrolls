@@ -1,6 +1,7 @@
-terrain = desert
+terrain = urban_imperial_city
 life_rating = 30
-trade_goods = wool
-owner = EC1
-controller = EC1
-add_core = EC1
+trade_goods = grain
+owner = CH1
+controller = CH1
+add_core = CH1
+add_core = CB8

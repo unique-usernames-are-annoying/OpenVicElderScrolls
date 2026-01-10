@@ -1,0 +1,6 @@
+terrain = coastline
+life_rating = 30
+trade_goods = wool
+owner = YA4
+controller = YA4
+add_core = YA4

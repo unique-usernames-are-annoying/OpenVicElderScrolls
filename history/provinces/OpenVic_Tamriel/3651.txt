@@ -1,0 +1,6 @@
+terrain = highlands
+life_rating = 30
+trade_goods = tobacco
+owner = MC6
+controller = MC6
+add_core = MC6

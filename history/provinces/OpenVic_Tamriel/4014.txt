@@ -1,6 +1,6 @@
-terrain = highlands
+terrain = urban_stormhold
 life_rating = 30
-trade_goods = cattle
-owner = MF5
-controller = MF5
-add_core = MF5
+trade_goods = grain
+owner = AA2
+controller = AA2
+add_core = AA2

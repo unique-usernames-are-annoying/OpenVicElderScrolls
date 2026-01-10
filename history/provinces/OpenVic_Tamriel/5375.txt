@@ -1,6 +1,6 @@
-terrain = grasslands
+terrain = taiga
 life_rating = 30
-trade_goods = timber
-owner = CB1
-controller = CB1
-add_core = CB1
+trade_goods = grain
+owner = NB6
+controller = NB6
+add_core = NB6

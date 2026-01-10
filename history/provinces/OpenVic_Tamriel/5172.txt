@@ -1,6 +1,6 @@
-terrain = steppe
+terrain = farmlands
 life_rating = 30
-trade_goods = fish
-owner = EB0
-controller = EB0
-add_core = EB0
+trade_goods = grain
+owner = CF0
+controller = CF0
+add_core = CF0

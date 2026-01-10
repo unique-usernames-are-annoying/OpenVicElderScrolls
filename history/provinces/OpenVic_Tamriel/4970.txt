@@ -1,6 +1,3 @@
-terrain = urban_falinesti
+terrain = mountain
 life_rating = 30
-trade_goods = timber
-owner = VA3
-controller = VA3
-add_core = VA3
+trade_goods = grain

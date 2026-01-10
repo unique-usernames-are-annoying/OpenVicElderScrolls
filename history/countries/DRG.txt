@@ -1,4 +1,4 @@
-capital = 6257
+capital = 6188
 government = tribal
 religion = old_gods_cult
 primary_culture = redguard

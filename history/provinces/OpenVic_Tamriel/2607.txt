@@ -1,0 +1,6 @@
+terrain = forest
+life_rating = 30
+trade_goods = timber
+owner = VE2
+controller = VE2
+add_core = VE2

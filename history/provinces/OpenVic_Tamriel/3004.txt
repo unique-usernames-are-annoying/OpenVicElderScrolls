@@ -1,6 +1,3 @@
-terrain = taiga
+terrain = desert
 life_rating = 30
-trade_goods = grain
-owner = NF6
-controller = NF6
-add_core = NF6
+trade_goods = iron

@@ -1,1 +1,6 @@
-terrain = impassable_mountains
+terrain = highlands
+life_rating = 30
+trade_goods = cattle
+owner = SC6
+controller = SC6
+add_core = SC6

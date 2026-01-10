@@ -1,4 +1,4 @@
-capital = 1254
+capital = 5004
 government = theocracy
 religion = vaermina_cult
 primary_culture = ayleid

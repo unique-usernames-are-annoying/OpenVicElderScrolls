@@ -1,6 +1,6 @@
-terrain = highlands
+terrain = forest
 life_rating = 30
-trade_goods = coal
-owner = NA9
-controller = NA9
-add_core = NA9
+trade_goods = tea
+owner = VC1
+controller = VC1
+add_core = VC1

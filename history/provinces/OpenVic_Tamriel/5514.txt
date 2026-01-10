@@ -1,7 +1,7 @@
-terrain = steppe
+terrain = hills
 life_rating = 30
-trade_goods = cattle
-owner = CH2
-controller = CH2
-add_core = CH2
-add_core = CA3
+trade_goods = fruit
+owner = NG4
+controller = NG4
+add_core = NG4
+add_core = NA6

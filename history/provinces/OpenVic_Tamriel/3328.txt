@@ -1,6 +1,3 @@
-terrain = mountain
+terrain = craglands
 life_rating = 30
-trade_goods = tropical_wood
-owner = MH1
-controller = MH1
-add_core = MH1
+trade_goods = grain

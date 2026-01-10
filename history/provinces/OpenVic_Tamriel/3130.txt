@@ -1,6 +1,3 @@
-terrain = mountain
+terrain = urban_kogoruhn
 life_rating = 30
-trade_goods = tropical_wood
-owner = NF7
-controller = NF7
-add_core = NF7
+trade_goods = grain

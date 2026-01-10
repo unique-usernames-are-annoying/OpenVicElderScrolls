@@ -1,7 +1,6 @@
-terrain = mountain_meadows
+terrain = mountain
 life_rating = 30
-trade_goods = tea
-owner = PER
-controller = PER
-add_core = PER
-add_core = CF0
+trade_goods = fruit
+owner = NB4
+controller = NB4
+add_core = NB4

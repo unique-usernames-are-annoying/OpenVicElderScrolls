@@ -1,6 +1,3 @@
-terrain = fungal_forest
+terrain = marsh
 life_rating = 30
-trade_goods = fruit
-owner = MF8
-controller = MF8
-add_core = MF8
+trade_goods = sulphur

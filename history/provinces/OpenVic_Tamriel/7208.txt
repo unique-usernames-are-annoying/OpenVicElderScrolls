@@ -1,6 +1,0 @@
-terrain = highlands
-life_rating = 30
-trade_goods = wool
-owner = HH6
-controller = HH6
-add_core = HH6

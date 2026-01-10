@@ -1,7 +1,7 @@
-terrain = grasslands
+terrain = hills
 life_rating = 30
-trade_goods = iron
-owner = CH1
-controller = CH1
-add_core = CH1
-add_core = CE7
+trade_goods = silk
+owner = BC0
+controller = BC0
+add_core = BC0
+add_core = BB4

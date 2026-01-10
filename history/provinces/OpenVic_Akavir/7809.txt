@@ -1,6 +1,0 @@
-terrain = steppe
-life_rating = 30
-trade_goods = tea
-owner = OB3
-controller = OB3
-add_core = OB3

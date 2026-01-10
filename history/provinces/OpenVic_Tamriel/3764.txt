@@ -1,3 +1,3 @@
-terrain = deadlands_smouldering_badlands
+terrain = salt_plains
 life_rating = 30
-trade_goods = fruit
+trade_goods = coffee

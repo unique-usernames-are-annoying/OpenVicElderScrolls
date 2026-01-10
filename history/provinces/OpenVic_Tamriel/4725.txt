@@ -1,7 +1,6 @@
-terrain = hills
+terrain = forest
 life_rating = 30
-trade_goods = cattle
-owner = SB7
-controller = SB7
-add_core = SB7
-add_core = SD4
+trade_goods = coal
+owner = CF9
+controller = CF9
+add_core = CF9

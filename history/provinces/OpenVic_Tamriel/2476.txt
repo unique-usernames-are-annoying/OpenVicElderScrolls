@@ -1,6 +1,6 @@
-terrain = coastline
+terrain = forest
 life_rating = 30
-trade_goods = cattle
-owner = SB5
-controller = SB5
-add_core = SB5
+trade_goods = wool
+owner = VB7
+controller = VB7
+add_core = VB7

@@ -1,6 +1,6 @@
-terrain = grasslands
+terrain = hills
 life_rating = 30
-trade_goods = tobacco
-owner = CF8
-controller = CF8
-add_core = CF8
+trade_goods = timber
+owner = BC2
+controller = BC2
+add_core = BC2

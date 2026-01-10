@@ -1,6 +1,6 @@
-terrain = grasslands
+terrain = hills
 life_rating = 30
-trade_goods = precious_metal
-owner = CF4
-controller = CF4
-add_core = CF4
+trade_goods = timber
+owner = BA5
+controller = BA5
+add_core = BA5

@@ -1,6 +1,6 @@
-terrain = drylands
+terrain = farmlands
 life_rating = 30
-trade_goods = grain
-owner = EA3
-controller = EA3
-add_core = EA3
+trade_goods = cotton
+owner = CB1
+controller = CB1
+add_core = CB1

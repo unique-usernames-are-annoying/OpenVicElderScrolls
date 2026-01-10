@@ -1,6 +1,6 @@
 terrain = highlands
 life_rating = 30
-trade_goods = timber
-owner = CF9
-controller = CF9
-add_core = CF9
+trade_goods = grain
+owner = BC5
+controller = BC5
+add_core = BC5

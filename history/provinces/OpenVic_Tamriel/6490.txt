@@ -1,3 +1,6 @@
-terrain = bayou
+terrain = highlands
 life_rating = 30
-trade_goods = grain
+trade_goods = fish
+owner = HH3
+controller = HH3
+add_core = HH3

@@ -1,4 +1,4 @@
-capital = 1236
+capital = 4724
 government = republic
 religion = peryite_cult
 primary_culture = ayleid

@@ -1,6 +1,7 @@
-terrain = mountain
+terrain = coastline
 life_rating = 30
-trade_goods = tea
-owner = SC6
-controller = SC6
-add_core = SC6
+trade_goods = grain
+owner = SA6
+controller = SA6
+add_core = SA6
+add_core = SC8

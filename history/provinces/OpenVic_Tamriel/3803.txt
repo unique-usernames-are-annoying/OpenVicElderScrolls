@@ -1,3 +1,6 @@
-terrain = forest
+terrain = highlands
 life_rating = 30
-trade_goods = timber
+trade_goods = tobacco
+owner = MF5
+controller = MF5
+add_core = MF5

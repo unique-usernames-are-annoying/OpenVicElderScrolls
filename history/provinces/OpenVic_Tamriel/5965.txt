@@ -1,7 +1,6 @@
-terrain = farmlands
+terrain = woods
 life_rating = 30
-trade_goods = fish
-owner = CH1
-controller = CH1
-add_core = CH1
-add_core = CE7
+trade_goods = wool
+owner = BC0
+controller = BC0
+add_core = BC0

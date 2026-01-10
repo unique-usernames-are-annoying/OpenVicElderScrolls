@@ -1,4 +1,4 @@
-capital = 4075
+capital = 6857
 government = native
 religion = mehrunes_dagon_cult
 primary_culture = xivilai

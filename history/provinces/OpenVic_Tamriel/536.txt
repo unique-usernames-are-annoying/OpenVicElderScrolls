@@ -1,0 +1,7 @@
+terrain = highlands
+life_rating = 30
+trade_goods = grain
+owner = SB2
+controller = SB2
+add_core = SB2
+add_core = SE1

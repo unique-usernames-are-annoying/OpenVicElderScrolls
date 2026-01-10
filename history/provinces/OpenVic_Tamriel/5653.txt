@@ -1,6 +1,3 @@
-terrain = hills
+terrain = barrow
 life_rating = 30
-trade_goods = cotton
-owner = CD7
-controller = CD7
-add_core = CD7
+trade_goods = grain

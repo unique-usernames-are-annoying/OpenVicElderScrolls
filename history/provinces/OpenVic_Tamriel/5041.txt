@@ -1,6 +1,7 @@
-terrain = forest
+terrain = woods
 life_rating = 30
-trade_goods = coal
-owner = IMG
-controller = IMG
-add_core = IMG
+trade_goods = sulphur
+owner = CE2
+controller = CE2
+add_core = CE2
+add_core = CG8

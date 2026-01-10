@@ -1,6 +1,3 @@
-terrain = ashlands
+terrain = mudflats
 life_rating = 30
-trade_goods = coal
-owner = MI5
-controller = MI5
-add_core = MI5
+trade_goods = grain

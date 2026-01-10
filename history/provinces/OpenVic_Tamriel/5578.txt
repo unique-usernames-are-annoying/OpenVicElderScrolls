@@ -1,6 +1,3 @@
-terrain = grasslands
+terrain = highlands
 life_rating = 30
-trade_goods = dye
-owner = EA1
-controller = EA1
-add_core = EA1
+trade_goods = coal

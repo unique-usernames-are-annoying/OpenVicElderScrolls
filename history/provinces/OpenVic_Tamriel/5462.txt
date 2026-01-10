@@ -1,6 +1,7 @@
-terrain = hills
+terrain = taiga
 life_rating = 30
-trade_goods = cattle
-owner = CG9
-controller = CG9
-add_core = CG9
+trade_goods = tea
+owner = NA3
+controller = NA3
+add_core = NA3
+add_core = ND9

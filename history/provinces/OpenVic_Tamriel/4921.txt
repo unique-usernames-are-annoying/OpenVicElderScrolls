@@ -1,6 +1,6 @@
-terrain = forest
+terrain = grasslands
 life_rating = 30
-trade_goods = dye
-owner = VB1
-controller = VB1
-add_core = VB1
+trade_goods = tea
+owner = CG1
+controller = CG1
+add_core = CG1

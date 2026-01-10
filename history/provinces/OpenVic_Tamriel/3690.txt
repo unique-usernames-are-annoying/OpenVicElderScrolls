@@ -1,0 +1,6 @@
+terrain = urban_narsis
+life_rating = 30
+trade_goods = sulphur
+owner = MA9
+controller = MA9
+add_core = MA9

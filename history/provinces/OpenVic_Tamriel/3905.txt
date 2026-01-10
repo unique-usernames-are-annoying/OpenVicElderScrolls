@@ -1,3 +1,6 @@
-terrain = salt_plains
+terrain = fungal_forest
 life_rating = 30
-trade_goods = tobacco
+trade_goods = timber
+owner = MG7
+controller = MG7
+add_core = MG7

@@ -1,6 +1,6 @@
-terrain = woods
+terrain = bayou
 life_rating = 30
-trade_goods = coal
-owner = SC5
-controller = SC5
-add_core = SC5
+trade_goods = tea
+owner = CG9
+controller = CG9
+add_core = CG9

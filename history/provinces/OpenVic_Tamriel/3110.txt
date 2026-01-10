@@ -1,6 +1,6 @@
-terrain = dwemer_stronghold
+terrain = savannah
 life_rating = 30
-trade_goods = tea
-owner = NF7
-controller = NF7
-add_core = NF7
+trade_goods = fruit
+owner = EA8
+controller = EA8
+add_core = EA8

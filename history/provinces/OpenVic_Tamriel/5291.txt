@@ -1,6 +1,6 @@
-terrain = marsh
+terrain = tundra
 life_rating = 30
-trade_goods = dye
-owner = ED1
-controller = ED1
-add_core = ED1
+trade_goods = silk
+owner = NA9
+controller = NA9
+add_core = NA9

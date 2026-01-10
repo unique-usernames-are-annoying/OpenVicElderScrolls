@@ -1,3 +1,6 @@
-terrain = drylands
+terrain = caves
 life_rating = 30
-trade_goods = cotton
+trade_goods = coal
+owner = CG7
+controller = CG7
+add_core = CG7

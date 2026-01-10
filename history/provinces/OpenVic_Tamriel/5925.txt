@@ -1,7 +1,6 @@
-terrain = highlands
+terrain = woods
 life_rating = 30
-trade_goods = tobacco
-owner = MIT
-controller = MIT
-add_core = MIT
-add_core = CF2
+trade_goods = fish
+owner = BA3
+controller = BA3
+add_core = BA3

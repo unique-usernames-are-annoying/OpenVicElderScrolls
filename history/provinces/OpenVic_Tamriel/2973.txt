@@ -1,6 +1,6 @@
-terrain = dwemer_stronghold
+terrain = drylands
 life_rating = 30
 trade_goods = grain
-owner = NGH
-controller = NGH
-add_core = NGH
+owner = EA1
+controller = EA1
+add_core = EA1

@@ -1,3 +1,6 @@
-terrain = marsh
+terrain = mountain_meadows
 life_rating = 30
-trade_goods = sulphur
+trade_goods = tea
+owner = HH5
+controller = HH5
+add_core = HH5

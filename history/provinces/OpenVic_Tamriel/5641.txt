@@ -1,7 +1,7 @@
 terrain = forest
 life_rating = 30
-trade_goods = grain
-owner = CB0
-controller = CB0
-add_core = CB0
-add_core = CC0
+trade_goods = fish
+owner = NG5
+controller = NG5
+add_core = NG5
+add_core = NF3

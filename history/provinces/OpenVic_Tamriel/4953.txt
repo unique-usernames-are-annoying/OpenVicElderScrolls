@@ -1,6 +1,6 @@
-terrain = coastline
+terrain = mountain
 life_rating = 30
-trade_goods = grain
-owner = VB5
-controller = VB5
-add_core = VB5
+trade_goods = tea
+owner = CF7
+controller = CF7
+add_core = CF7

@@ -1,6 +1,6 @@
-terrain = fungal_forest
+terrain = hills
 life_rating = 30
-trade_goods = cotton
-owner = ME1
-controller = ME1
-add_core = ME1
+trade_goods = tea
+owner = MF1
+controller = MF1
+add_core = MF1

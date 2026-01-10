@@ -1,6 +1,6 @@
-terrain = woods
+terrain = heathlands
 life_rating = 30
-trade_goods = grain
-owner = CH9
-controller = CH9
-add_core = CH9
+trade_goods = cattle
+owner = BB6
+controller = BB6
+add_core = BB6

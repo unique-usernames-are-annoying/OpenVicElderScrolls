@@ -1,6 +1,6 @@
-terrain = caves
+terrain = coastline
 life_rating = 30
-trade_goods = grain
-owner = ND8
-controller = ND8
-add_core = ND8
+trade_goods = coal
+owner = EB8
+controller = EB8
+add_core = EB8

@@ -1,6 +1,0 @@
-terrain = marsh
-life_rating = 30
-trade_goods = timber
-owner = ED1
-controller = ED1
-add_core = ED1

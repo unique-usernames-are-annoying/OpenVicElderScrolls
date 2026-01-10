@@ -1,4 +1,4 @@
-capital = 6694
+capital = 4170
 government = native
 religion = elder_gods
 primary_culture = horwalli

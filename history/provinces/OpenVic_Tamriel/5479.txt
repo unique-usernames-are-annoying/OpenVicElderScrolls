@@ -1,7 +1,6 @@
-terrain = marsh
+terrain = glacier
 life_rating = 30
-trade_goods = grain
-owner = CG9
-controller = CG9
-add_core = CG9
-add_core = CA2
+trade_goods = fish
+owner = NA9
+controller = NA9
+add_core = NA9

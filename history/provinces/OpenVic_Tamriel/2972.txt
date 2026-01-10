@@ -1,6 +1,6 @@
-terrain = blackreach_forest
+terrain = grasslands
 life_rating = 30
-trade_goods = grain
-owner = RB0
-controller = RB0
-add_core = RB0
+trade_goods = tropical_wood
+owner = EA1
+controller = EA1
+add_core = EA1

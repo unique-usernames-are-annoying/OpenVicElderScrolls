@@ -1,4 +1,4 @@
-capital = 6712
+capital = 4148
 government = native
 religion = hist
 primary_culture = archein

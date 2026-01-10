@@ -1,4 +1,4 @@
-capital = 1183
+capital = 5173
 government = theocracy
 religion = meridia_cult
 primary_culture = ayleid

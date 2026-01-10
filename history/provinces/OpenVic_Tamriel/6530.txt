@@ -1,3 +1,6 @@
-terrain = jungle
+terrain = hills
 life_rating = 30
-trade_goods = fruit
+trade_goods = tea
+owner = HC7
+controller = HC7
+add_core = HC7

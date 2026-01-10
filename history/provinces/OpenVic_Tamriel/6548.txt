@@ -1,6 +1,3 @@
-terrain = jungle
+terrain = drylands
 life_rating = 30
-trade_goods = dye
-owner = AE5
-controller = AE5
-add_core = AE5
+trade_goods = tea

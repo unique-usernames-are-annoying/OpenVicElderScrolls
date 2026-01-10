@@ -1,6 +1,6 @@
-terrain = urban_telvannis
+terrain = caves
 life_rating = 30
-trade_goods = tea
-owner = MB6
-controller = MB6
-add_core = MB6
+trade_goods = iron
+owner = RA6
+controller = RA6
+add_core = RA6

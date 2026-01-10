@@ -1,6 +1,6 @@
-terrain = caves
+terrain = highlands
 life_rating = 30
-trade_goods = tea
-owner = RB2
-controller = RB2
-add_core = RB2
+trade_goods = timber
+owner = EA7
+controller = EA7
+add_core = EA7

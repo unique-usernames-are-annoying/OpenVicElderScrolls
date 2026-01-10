@@ -1,6 +1,6 @@
-terrain = craglands
+terrain = coastline
 life_rating = 30
-trade_goods = cattle
-owner = MI9
-controller = MI9
-add_core = MI9
+trade_goods = cotton
+owner = KME
+controller = KME
+add_core = KME

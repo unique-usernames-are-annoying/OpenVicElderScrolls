@@ -1,6 +1,6 @@
-terrain = marsh
+terrain = dwemer_stronghold
 life_rating = 30
-trade_goods = coal
-owner = AC5
-controller = AC5
-add_core = AC5
+trade_goods = timber
+owner = MC4
+controller = MC4
+add_core = MC4

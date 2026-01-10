@@ -1,7 +1,6 @@
-terrain = highlands
+terrain = mountain_meadows
 life_rating = 30
-trade_goods = wool
-owner = PER
-controller = PER
-add_core = PER
-add_core = CC6
+trade_goods = tobacco
+owner = NE5
+controller = NE5
+add_core = NE5

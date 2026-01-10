@@ -1,0 +1,6 @@
+terrain = highlands
+life_rating = 30
+trade_goods = grain
+owner = DD6
+controller = DD6
+add_core = DD6

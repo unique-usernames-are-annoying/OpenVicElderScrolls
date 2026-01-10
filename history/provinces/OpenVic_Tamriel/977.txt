@@ -1,6 +1,6 @@
-terrain = mudflats
+terrain = blackreach_forest
 life_rating = 30
-trade_goods = tea
-owner = MI1
-controller = MI1
-add_core = MI1
+trade_goods = grain
+owner = NA4
+controller = NA4
+add_core = NA4

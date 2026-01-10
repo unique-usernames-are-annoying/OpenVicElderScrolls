@@ -1,4 +1,4 @@
-capital = 3523
+capital = 2304
 government = republic
 religion = tsaesci_pantheon
 primary_culture = tsaesci

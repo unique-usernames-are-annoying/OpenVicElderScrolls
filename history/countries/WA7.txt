@@ -1,4 +1,4 @@
-capital = 4066
+capital = 869
 government = tribal
 religion = druidism
 primary_culture = breton

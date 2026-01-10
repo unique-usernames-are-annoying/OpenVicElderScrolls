@@ -1,6 +1,7 @@
-terrain = bayou
+terrain = highlands
 life_rating = 30
-trade_goods = tea
-owner = CG4
-controller = CG4
-add_core = CG4
+trade_goods = fruit
+owner = BA3
+controller = BA3
+add_core = BA3
+add_core = BB3

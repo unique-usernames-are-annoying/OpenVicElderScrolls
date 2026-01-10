@@ -1,7 +1,6 @@
-terrain = woods
+terrain = taiga
 life_rating = 30
 trade_goods = fish
-owner = CH3
-controller = CH3
-add_core = CH3
-add_core = CA7
+owner = NB1
+controller = NB1
+add_core = NB1

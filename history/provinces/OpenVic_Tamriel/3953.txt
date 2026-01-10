@@ -1,6 +1,6 @@
-terrain = dwemer_stronghold
+terrain = lava
 life_rating = 30
-trade_goods = grain
-owner = MC0
-controller = MC0
-add_core = MC0
+trade_goods = timber
+owner = MG8
+controller = MG8
+add_core = MG8

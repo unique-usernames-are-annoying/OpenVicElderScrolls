@@ -1,6 +1,7 @@
-terrain = caves
+terrain = highlands
 life_rating = 30
-trade_goods = cotton
-owner = HG2
-controller = HG2
-add_core = HG2
+trade_goods = fish
+owner = NB4
+controller = NB4
+add_core = NB4
+add_core = NB8

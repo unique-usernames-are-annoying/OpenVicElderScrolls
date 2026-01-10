@@ -1,7 +1,7 @@
-terrain = caves
+terrain = forest
 life_rating = 30
-trade_goods = dye
-owner = CD1
-controller = CD1
-add_core = CD1
-add_core = CE8
+trade_goods = grain
+owner = NG5
+controller = NG5
+add_core = NG5
+add_core = NF3

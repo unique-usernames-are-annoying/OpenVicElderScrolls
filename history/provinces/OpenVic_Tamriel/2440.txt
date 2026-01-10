@@ -1,6 +1,6 @@
-terrain = hills
+terrain = woods
 life_rating = 30
-trade_goods = grain
-owner = SC3
-controller = SC3
-add_core = SC3
+trade_goods = coal
+owner = VA1
+controller = VA1
+add_core = VA1

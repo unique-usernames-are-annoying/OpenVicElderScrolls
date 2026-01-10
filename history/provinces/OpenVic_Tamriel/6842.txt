@@ -1,7 +1,0 @@
-terrain = woods
-life_rating = 30
-trade_goods = grain
-owner = BF2
-controller = BF2
-add_core = BF2
-add_core = BA8

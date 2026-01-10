@@ -1,6 +1,6 @@
-terrain = hills
+terrain = glacier
 life_rating = 30
 trade_goods = grain
-owner = CG3
-controller = CG3
-add_core = CG3
+owner = NA9
+controller = NA9
+add_core = NA9

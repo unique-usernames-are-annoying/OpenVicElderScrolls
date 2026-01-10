@@ -1,6 +1,0 @@
-terrain = hills
-life_rating = 30
-trade_goods = opium
-owner = BC2
-controller = BC2
-add_core = BC2

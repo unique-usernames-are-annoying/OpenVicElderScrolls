@@ -1,6 +1,6 @@
-terrain = taiga
+terrain = urban_blacklight
 life_rating = 30
-trade_goods = grain
-owner = MC7
-controller = MC7
-add_core = MC7
+trade_goods = fruit
+owner = MH3
+controller = MH3
+add_core = MH3

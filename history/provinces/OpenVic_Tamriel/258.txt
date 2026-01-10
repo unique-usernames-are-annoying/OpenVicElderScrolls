@@ -1,6 +1,6 @@
-terrain = highlands
+terrain = coastline
 life_rating = 30
-trade_goods = tea
-owner = SE5
-controller = SE5
-add_core = SE5
+trade_goods = dye
+owner = SC3
+controller = SC3
+add_core = SC3

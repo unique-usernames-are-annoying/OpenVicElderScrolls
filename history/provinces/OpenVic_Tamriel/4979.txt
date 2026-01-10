@@ -1,6 +1,6 @@
-terrain = forest
+terrain = woods
 life_rating = 30
-trade_goods = timber
-owner = VC6
-controller = VC6
-add_core = VC6
+trade_goods = cotton
+owner = CF2
+controller = CF2
+add_core = CF2

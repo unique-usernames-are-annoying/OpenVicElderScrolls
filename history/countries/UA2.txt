@@ -1,4 +1,4 @@
-capital = 682
+capital = 2166
 government = monarchy
 religion = dragon_cult
 primary_culture = akaviri

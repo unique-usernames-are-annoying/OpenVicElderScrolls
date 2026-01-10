@@ -1,6 +1,6 @@
-terrain = mountain_meadows
+terrain = woods
 life_rating = 30
-trade_goods = wool
-owner = SD3
-controller = SD3
-add_core = SD3
+trade_goods = tea
+owner = CJ8
+controller = CJ8
+add_core = CJ8

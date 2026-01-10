@@ -1,6 +1,6 @@
-terrain = mudflats
+terrain = orcish_stronghold
 life_rating = 30
-trade_goods = grain
-owner = CG1
-controller = CG1
-add_core = CG1
+trade_goods = iron
+owner = BE9
+controller = BE9
+add_core = BE9

@@ -1,6 +1,6 @@
-terrain = jungle
+terrain = desert
 life_rating = 30
-trade_goods = fish
-owner = AD5
-controller = AD5
-add_core = AD5
+trade_goods = grain
+owner = HA6
+controller = HA6
+add_core = HA6

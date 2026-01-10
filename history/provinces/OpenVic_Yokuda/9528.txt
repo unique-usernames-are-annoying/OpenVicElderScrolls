@@ -1,6 +1,0 @@
-terrain = hills
-life_rating = 30
-trade_goods = cattle
-owner = YC9
-controller = YC9
-add_core = YC9

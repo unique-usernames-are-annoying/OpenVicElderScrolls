@@ -1,3 +1,3 @@
-terrain = ashlands
+terrain = highlands
 life_rating = 30
 trade_goods = grain

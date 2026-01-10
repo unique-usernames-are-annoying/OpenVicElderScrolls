@@ -1,6 +1,6 @@
-terrain = tundra
+terrain = woods
 life_rating = 30
-trade_goods = timber
-owner = NA3
-controller = NA3
-add_core = NA3
+trade_goods = wool
+owner = VC9
+controller = VC9
+add_core = VC9

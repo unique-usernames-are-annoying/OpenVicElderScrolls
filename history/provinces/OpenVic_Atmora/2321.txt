@@ -1,6 +1,0 @@
-terrain = glacier
-life_rating = 30
-trade_goods = timber
-owner = DD7
-controller = DD7
-add_core = DD7

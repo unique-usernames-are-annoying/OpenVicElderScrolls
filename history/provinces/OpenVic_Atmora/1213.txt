@@ -1,0 +1,6 @@
+terrain = highlands
+life_rating = 30
+trade_goods = wool
+owner = DB2
+controller = DB2
+add_core = DB2

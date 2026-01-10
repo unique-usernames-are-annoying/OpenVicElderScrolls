@@ -1,4 +1,4 @@
-capital = 6460
+capital = 4388
 government = native
 religion = elder_gods
 primary_culture = orma

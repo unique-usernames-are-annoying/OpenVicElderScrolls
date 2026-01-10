@@ -1,6 +1,3 @@
-terrain = heathlands
+terrain = highlands
 life_rating = 30
-trade_goods = wool
-owner = CE0
-controller = CE0
-add_core = CE0
+trade_goods = tea

@@ -1,6 +1,3 @@
-terrain = mountain
+terrain = bayou
 life_rating = 30
-trade_goods = fruit
-owner = SA4
-controller = SA4
-add_core = SA4
+trade_goods = cotton

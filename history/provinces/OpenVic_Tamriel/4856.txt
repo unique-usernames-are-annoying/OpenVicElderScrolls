@@ -1,6 +1,7 @@
-terrain = forest
+terrain = caves
 life_rating = 30
-trade_goods = tea
-owner = VA2
-controller = VA2
-add_core = VA2
+trade_goods = timber
+owner = ALH
+controller = ALH
+add_core = ALH
+add_core = CJ3

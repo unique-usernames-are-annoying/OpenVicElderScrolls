@@ -1,6 +1,0 @@
-terrain = urban_arch
-life_rating = 30
-trade_goods = timber
-owner = YA1
-controller = YA1
-add_core = YA1

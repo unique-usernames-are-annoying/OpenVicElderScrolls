@@ -1,6 +1,6 @@
-terrain = hills
+terrain = drylands
 life_rating = 30
-trade_goods = grain
-owner = NF2
-controller = NF2
-add_core = NF2
+trade_goods = cattle
+owner = EC3
+controller = EC3
+add_core = EC3

@@ -1,6 +1,3 @@
-terrain = ashlands
+terrain = bayou
 life_rating = 30
-trade_goods = timber
-owner = MJ7
-controller = MJ7
-add_core = MJ7
+trade_goods = cattle

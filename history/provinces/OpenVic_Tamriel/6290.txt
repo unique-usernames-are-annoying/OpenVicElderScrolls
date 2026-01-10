@@ -1,7 +1,3 @@
-terrain = dwemer_stronghold
+terrain = desert
 life_rating = 30
 trade_goods = grain
-owner = GRH
-controller = GRH
-add_core = GRH
-add_core = HF8

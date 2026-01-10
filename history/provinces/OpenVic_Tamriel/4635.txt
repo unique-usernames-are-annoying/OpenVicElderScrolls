@@ -1,7 +1,6 @@
-terrain = highlands
+terrain = forest
 life_rating = 30
-trade_goods = tea
-owner = SC1
-controller = SC1
-add_core = SC1
-add_core = SD0
+trade_goods = grain
+owner = CB9
+controller = CB9
+add_core = CB9

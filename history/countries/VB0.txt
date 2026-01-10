@@ -1,4 +1,4 @@
-capital = 841
+capital = 2468
 government = monarchy
 religion = bosmer_pantheon
 primary_culture = bosmer

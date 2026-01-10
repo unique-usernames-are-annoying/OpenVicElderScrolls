@@ -1,6 +1,3 @@
-terrain = hills
+terrain = bayou
 life_rating = 30
 trade_goods = grain
-owner = MC7
-controller = MC7
-add_core = MC7

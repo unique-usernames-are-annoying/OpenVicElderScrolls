@@ -1,7 +1,7 @@
-terrain = woods
+terrain = hills
 life_rating = 30
-trade_goods = coffee
-owner = CE2
-controller = CE2
-add_core = CE2
-add_core = CG8
+trade_goods = cattle
+owner = NB5
+controller = NB5
+add_core = NB5
+add_core = NE7

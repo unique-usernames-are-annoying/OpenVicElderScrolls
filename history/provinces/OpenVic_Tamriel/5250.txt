@@ -1,6 +1,7 @@
-terrain = savannah
+terrain = hills
 life_rating = 30
-trade_goods = grain
-owner = EC7
-controller = EC7
-add_core = EC7
+trade_goods = cattle
+owner = CE9
+controller = CE9
+add_core = CE9
+add_core = CE7

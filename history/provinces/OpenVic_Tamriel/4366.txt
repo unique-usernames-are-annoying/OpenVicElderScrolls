@@ -1,6 +1,3 @@
-terrain = coastline
+terrain = bayou
 life_rating = 30
 trade_goods = cotton
-owner = VE0
-controller = VE0
-add_core = VE0

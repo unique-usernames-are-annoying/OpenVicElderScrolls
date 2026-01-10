@@ -1,0 +1,6 @@
+terrain = caves
+life_rating = 30
+trade_goods = coal
+owner = LB0
+controller = LB0
+add_core = LB0

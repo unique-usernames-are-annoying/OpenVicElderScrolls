@@ -1,3 +1,6 @@
-terrain = ashlands
+terrain = mountain
 life_rating = 30
-trade_goods = tea
+trade_goods = dye
+owner = SA4
+controller = SA4
+add_core = SA4

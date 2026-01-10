@@ -1,7 +1,6 @@
-terrain = woods
+terrain = mountain_meadows
 life_rating = 30
-trade_goods = fish
-owner = PER
-controller = PER
-add_core = PER
-add_core = CC9
+trade_goods = coal
+owner = ND7
+controller = ND7
+add_core = ND7

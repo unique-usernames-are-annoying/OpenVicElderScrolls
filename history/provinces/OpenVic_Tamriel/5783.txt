@@ -1,6 +1,6 @@
-terrain = grasslands
+terrain = hills
 life_rating = 30
-trade_goods = fruit
-owner = CD6
-controller = CD6
-add_core = CD6
+trade_goods = tea
+owner = NA7
+controller = NA7
+add_core = NA7

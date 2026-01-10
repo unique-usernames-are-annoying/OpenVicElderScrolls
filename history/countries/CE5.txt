@@ -1,4 +1,4 @@
-capital = 1198
+capital = 5009
 government = theocracy
 religion = mephala_cult
 primary_culture = ayleid

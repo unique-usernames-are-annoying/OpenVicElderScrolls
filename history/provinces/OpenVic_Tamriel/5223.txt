@@ -1,6 +1,6 @@
-terrain = steppe
+terrain = drylands
 life_rating = 30
-trade_goods = coal
-owner = EC4
-controller = EC4
-add_core = EC4
+trade_goods = fruit
+owner = CC6
+controller = CC6
+add_core = CC6

@@ -1,7 +1,6 @@
-terrain = marsh
+terrain = mountain_meadows
 life_rating = 30
-trade_goods = coal
-owner = ALG
-controller = ALG
-add_core = ALG
-add_core = CG9
+trade_goods = tea
+owner = NA3
+controller = NA3
+add_core = NA3

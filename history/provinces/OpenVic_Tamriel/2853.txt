@@ -1,0 +1,6 @@
+terrain = hills
+life_rating = 30
+trade_goods = cattle
+owner = EB5
+controller = EB5
+add_core = EB5

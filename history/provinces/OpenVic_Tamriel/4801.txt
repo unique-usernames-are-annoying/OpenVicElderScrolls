@@ -1,6 +1,6 @@
-terrain = coastline
+terrain = woods
 life_rating = 30
 trade_goods = grain
-owner = SC3
-controller = SC3
-add_core = SC3
+owner = CF6
+controller = CF6
+add_core = CF6

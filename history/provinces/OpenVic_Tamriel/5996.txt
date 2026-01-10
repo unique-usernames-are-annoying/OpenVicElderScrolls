@@ -1,6 +1,7 @@
 terrain = woods
 life_rating = 30
 trade_goods = timber
-owner = CJ5
-controller = CJ5
-add_core = CJ5
+owner = BA3
+controller = BA3
+add_core = BA3
+add_core = BB7

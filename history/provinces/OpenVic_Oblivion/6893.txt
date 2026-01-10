@@ -1,0 +1,6 @@
+terrain = deadlands_volcanic_peak
+life_rating = 30
+trade_goods = fruit
+owner = GA8
+controller = GA8
+add_core = GA8

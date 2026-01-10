@@ -1,6 +1,6 @@
-terrain = hills
+terrain = forest
 life_rating = 30
 trade_goods = tea
-owner = SB5
-controller = SB5
-add_core = SB5
+owner = VB7
+controller = VB7
+add_core = VB7

@@ -1,4 +1,4 @@
-capital = 1406
+capital = 5872
 government = tribal
 religion = orcish_pantheon
 primary_culture = goblin

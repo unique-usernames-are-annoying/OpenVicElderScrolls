@@ -1,6 +1,7 @@
-terrain = woods
+terrain = hills
 life_rating = 30
-trade_goods = wool
-owner = SA2
-controller = SA2
-add_core = SA2
+trade_goods = coal
+owner = ALG
+controller = ALG
+add_core = ALG
+add_core = CG9

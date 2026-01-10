@@ -1,4 +1,4 @@
-capital = 5843
+capital = 5036
 government = theocracy
 religion = namira_cult
 primary_culture = ayleid

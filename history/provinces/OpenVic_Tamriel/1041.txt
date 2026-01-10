@@ -1,6 +1,6 @@
-terrain = dwemer_stronghold
+terrain = blackreach_forest
 life_rating = 30
 trade_goods = grain
-owner = MK0
-controller = MK0
-add_core = MK0
+owner = RA7
+controller = RA7
+add_core = RA7

@@ -1,6 +1,7 @@
-terrain = forest
+terrain = woods
 life_rating = 30
 trade_goods = grain
-owner = VD7
-controller = VD7
-add_core = VD7
+owner = BC0
+controller = BC0
+add_core = BC0
+add_core = BB3

@@ -1,6 +1,6 @@
-terrain = forest
+terrain = grasslands
 life_rating = 30
-trade_goods = tea
-owner = VC8
-controller = VC8
-add_core = VC8
+trade_goods = cotton
+owner = CF4
+controller = CF4
+add_core = CF4

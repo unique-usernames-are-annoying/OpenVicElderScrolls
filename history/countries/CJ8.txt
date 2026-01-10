@@ -1,4 +1,4 @@
-capital = 6031
+capital = 4800
 government = tribal
 religion = malacath_cult
 primary_culture = goblin

@@ -1,6 +1,6 @@
-terrain = hills
+terrain = barrow
 life_rating = 30
 trade_goods = timber
-owner = EA1
-controller = EA1
-add_core = EA1
+owner = NA2
+controller = NA2
+add_core = NA2

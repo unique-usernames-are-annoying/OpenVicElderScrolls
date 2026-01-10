@@ -1,6 +1,6 @@
-terrain = steppe
+terrain = grasslands
 life_rating = 30
 trade_goods = dye
-owner = EC8
-controller = EC8
-add_core = EC8
+owner = CD6
+controller = CD6
+add_core = CD6

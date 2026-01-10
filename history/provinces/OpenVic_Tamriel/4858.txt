@@ -1,3 +1,7 @@
-terrain = forest
+terrain = hills
 life_rating = 30
-trade_goods = tea
+trade_goods = tobacco
+owner = MOK
+controller = MOK
+add_core = MOK
+add_core = CJ3

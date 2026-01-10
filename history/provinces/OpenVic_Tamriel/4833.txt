@@ -1,6 +1,7 @@
 terrain = highlands
 life_rating = 30
 trade_goods = grain
-owner = SA5
-controller = SA5
-add_core = SA5
+owner = MIT
+controller = MIT
+add_core = MIT
+add_core = CF2

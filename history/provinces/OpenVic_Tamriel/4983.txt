@@ -1,3 +1,6 @@
-terrain = forest
+terrain = hills
 life_rating = 30
-trade_goods = tea
+trade_goods = tropical_wood
+owner = CF3
+controller = CF3
+add_core = CF3

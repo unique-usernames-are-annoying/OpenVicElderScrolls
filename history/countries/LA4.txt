@@ -1,4 +1,4 @@
-capital = 2970
+capital = 6841
 government = tribal
 religion = hist
 primary_culture = argonian

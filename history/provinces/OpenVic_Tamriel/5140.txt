@@ -1,6 +1,6 @@
-terrain = desert
+terrain = grasslands
 life_rating = 30
-trade_goods = iron
-owner = EA6
-controller = EA6
-add_core = EA6
+trade_goods = wool
+owner = CB1
+controller = CB1
+add_core = CB1

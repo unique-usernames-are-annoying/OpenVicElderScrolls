@@ -1,7 +1,7 @@
-terrain = urban_kvatch
+terrain = heathlands
 life_rating = 30
-trade_goods = cotton
-owner = CH3
-controller = CH3
-add_core = CH3
-add_core = CA7
+trade_goods = wool
+owner = ND7
+controller = ND7
+add_core = ND7
+add_core = NC2

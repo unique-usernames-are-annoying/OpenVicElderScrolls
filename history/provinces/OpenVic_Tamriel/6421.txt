@@ -1,3 +1,6 @@
 terrain = highlands
 life_rating = 30
-trade_goods = tobacco
+trade_goods = dye
+owner = HH4
+controller = HH4
+add_core = HH4

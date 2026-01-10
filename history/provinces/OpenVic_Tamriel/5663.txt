@@ -1,7 +1,7 @@
-terrain = woods
+terrain = mountain
 life_rating = 30
-trade_goods = wool
-owner = PER
-controller = PER
-add_core = PER
-add_core = CC9
+trade_goods = dye
+owner = NC7
+controller = NC7
+add_core = NC7
+add_core = NC8

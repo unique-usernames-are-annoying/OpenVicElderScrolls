@@ -1,4 +1,4 @@
-capital = 985
+capital = 3775
 government = monarchy
 religion = chimer_pantheon
 primary_culture = ashlander_chimer

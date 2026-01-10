@@ -1,0 +1,6 @@
+terrain = savannah
+life_rating = 30
+trade_goods = fruit
+owner = OB7
+controller = OB7
+add_core = OB7

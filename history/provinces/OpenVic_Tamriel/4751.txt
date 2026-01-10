@@ -1,6 +1,7 @@
-terrain = woods
+terrain = urban_bravil
 life_rating = 30
 trade_goods = grain
-owner = SD8
-controller = SD8
-add_core = SD8
+owner = CH2
+controller = CH2
+add_core = CH2
+add_core = CA3

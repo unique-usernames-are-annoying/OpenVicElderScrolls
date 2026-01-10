@@ -1,4 +1,4 @@
-capital = 3482
+capital = 1465
 government = monarchy
 religion = kamal_pantheon
 primary_culture = kamal

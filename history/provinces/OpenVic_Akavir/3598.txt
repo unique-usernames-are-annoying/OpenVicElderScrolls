@@ -1,6 +1,0 @@
-terrain = mountain
-life_rating = 30
-trade_goods = tobacco
-owner = UB2
-controller = UB2
-add_core = UB2

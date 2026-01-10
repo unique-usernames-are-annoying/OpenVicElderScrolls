@@ -1,6 +1,0 @@
-terrain = heathlands
-life_rating = 30
-trade_goods = cattle
-owner = NC4
-controller = NC4
-add_core = NC4

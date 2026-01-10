@@ -1,3 +1,6 @@
-terrain = taiga
+terrain = urban_rimmen
 life_rating = 30
-trade_goods = coal
+trade_goods = tea
+owner = EC3
+controller = EC3
+add_core = EC3

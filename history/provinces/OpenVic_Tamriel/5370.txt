@@ -1,7 +1,6 @@
-terrain = woods
+terrain = highlands
 life_rating = 30
-trade_goods = coal
-owner = CA6
-controller = CA6
-add_core = CA6
-add_core = ED3
+trade_goods = wool
+owner = VOL
+controller = VOL
+add_core = VOL

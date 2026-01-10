@@ -1,4 +1,4 @@
-capital = 6766
+capital = 4362
 government = native
 religion = hist
 primary_culture = hapsleet

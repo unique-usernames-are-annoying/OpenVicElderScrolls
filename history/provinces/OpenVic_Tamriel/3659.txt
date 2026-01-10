@@ -1,0 +1,6 @@
+terrain = highlands
+life_rating = 30
+trade_goods = grain
+owner = MD4
+controller = MD4
+add_core = MD4

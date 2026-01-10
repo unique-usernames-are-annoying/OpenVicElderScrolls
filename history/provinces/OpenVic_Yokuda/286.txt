@@ -1,6 +1,0 @@
-terrain = hills
-life_rating = 30
-trade_goods = tobacco
-owner = YC3
-controller = YC3
-add_core = YC3

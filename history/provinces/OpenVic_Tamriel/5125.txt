@@ -1,6 +1,6 @@
-terrain = steppe
+terrain = woods
 life_rating = 30
-trade_goods = precious_metal
-owner = EC3
-controller = EC3
-add_core = EC3
+trade_goods = tea
+owner = CA4
+controller = CA4
+add_core = CA4

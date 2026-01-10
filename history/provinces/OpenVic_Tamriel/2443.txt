@@ -1,6 +1,6 @@
-terrain = mountain_meadows
+terrain = marsh
 life_rating = 30
-trade_goods = iron
-owner = SB2
-controller = SB2
-add_core = SB2
+trade_goods = grain
+owner = ED2
+controller = ED2
+add_core = ED2

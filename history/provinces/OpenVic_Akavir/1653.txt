@@ -1,6 +1,6 @@
-terrain = jungle
+terrain = coastline
 life_rating = 30
-trade_goods = silk
-owner = UA9
-controller = UA9
-add_core = UA9
+trade_goods = fruit
+owner = JA8
+controller = JA8
+add_core = JA8

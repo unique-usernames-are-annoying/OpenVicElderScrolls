@@ -1,6 +1,3 @@
-terrain = highlands
+terrain = plateau
 life_rating = 30
-trade_goods = dye
-owner = HG9
-controller = HG9
-add_core = HG9
+trade_goods = precious_metal

@@ -1,6 +1,7 @@
-terrain = hills
+terrain = marsh
 life_rating = 30
-trade_goods = fish
-owner = VB0
-controller = VB0
-add_core = VB0
+trade_goods = cattle
+owner = ALG
+controller = ALG
+add_core = ALG
+add_core = CG9

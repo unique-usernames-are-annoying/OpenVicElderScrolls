@@ -1,6 +1,0 @@
-terrain = urban_farrun
-life_rating = 30
-trade_goods = tea
-owner = BD6
-controller = BD6
-add_core = BD6

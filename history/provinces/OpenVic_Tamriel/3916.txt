@@ -1,6 +1,3 @@
-terrain = hills
+terrain = craglands
 life_rating = 30
-trade_goods = tea
-owner = ME6
-controller = ME6
-add_core = ME6
+trade_goods = wool

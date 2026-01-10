@@ -1,6 +1,6 @@
 terrain = coastline
 life_rating = 30
-trade_goods = grain
-owner = SD6
-controller = SD6
-add_core = SD6
+trade_goods = cattle
+owner = ABE
+controller = ABE
+add_core = ABE

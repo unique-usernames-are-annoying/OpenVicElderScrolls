@@ -1,6 +1,7 @@
-terrain = jungle
+terrain = hills
 life_rating = 30
-trade_goods = tea
-owner = CD4
-controller = CD4
-add_core = CD4
+trade_goods = precious_metal
+owner = BC0
+controller = BC0
+add_core = BC0
+add_core = BB3

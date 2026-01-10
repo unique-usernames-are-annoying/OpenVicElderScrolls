@@ -1,3 +1,6 @@
-terrain = tundra
+terrain = highlands
 life_rating = 30
 trade_goods = fruit
+owner = EB8
+controller = EB8
+add_core = EB8

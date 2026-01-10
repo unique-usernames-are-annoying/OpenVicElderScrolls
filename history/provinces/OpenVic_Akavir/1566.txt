@@ -1,0 +1,6 @@
+terrain = hills
+life_rating = 30
+trade_goods = cattle
+owner = JB3
+controller = JB3
+add_core = JB3

@@ -1,6 +1,6 @@
-terrain = forest
+terrain = caves
 life_rating = 30
-trade_goods = fruit
-owner = VB3
-controller = VB3
-add_core = VB3
+trade_goods = dye
+owner = CJ3
+controller = CJ3
+add_core = CJ3

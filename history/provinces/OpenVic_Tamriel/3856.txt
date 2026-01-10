@@ -1,3 +1,6 @@
-terrain = marsh
+terrain = plateau
 life_rating = 30
-trade_goods = tea
+trade_goods = timber
+owner = MB9
+controller = MB9
+add_core = MB9

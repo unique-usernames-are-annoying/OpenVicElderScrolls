@@ -1,6 +1,6 @@
-terrain = urban_skingrad
+terrain = hills
 life_rating = 30
-trade_goods = grain
-owner = CA6
-controller = CA6
-add_core = CA6
+trade_goods = cotton
+owner = NF9
+controller = NF9
+add_core = NF9

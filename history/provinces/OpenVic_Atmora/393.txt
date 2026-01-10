@@ -1,6 +1,0 @@
-terrain = glacier
-life_rating = 30
-trade_goods = dye
-owner = DE1
-controller = DE1
-add_core = DE1

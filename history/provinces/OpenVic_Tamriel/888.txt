@@ -1,6 +1,7 @@
-terrain = drylands
+terrain = dwemer_stronghold
 life_rating = 30
-trade_goods = coal
-owner = EA2
-controller = EA2
-add_core = EA2
+trade_goods = tobacco
+owner = HG0
+controller = HG0
+add_core = HG0
+add_core = HF9

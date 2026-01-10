@@ -1,6 +1,6 @@
-terrain = grasslands
+terrain = woods
 life_rating = 30
-trade_goods = cotton
-owner = CF6
-controller = CF6
-add_core = CF6
+trade_goods = grain
+owner = BF2
+controller = BF2
+add_core = BF2

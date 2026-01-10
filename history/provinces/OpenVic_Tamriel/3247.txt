@@ -1,3 +1,6 @@
-terrain = highlands
+terrain = mountain_meadows
 life_rating = 30
-trade_goods = grain
+trade_goods = fruit
+owner = MC7
+controller = MC7
+add_core = MC7

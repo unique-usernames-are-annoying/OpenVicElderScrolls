@@ -1,4 +1,4 @@
-capital = 5443
+capital = 4480
 government = republic
 religion = mehrunes_dagon_cult
 primary_culture = agaceph

@@ -1,6 +1,6 @@
-terrain = marsh
+terrain = hills
 life_rating = 30
-trade_goods = fish
-owner = VB6
-controller = VB6
-add_core = VB6
+trade_goods = timber
+owner = CG0
+controller = CG0
+add_core = CG0

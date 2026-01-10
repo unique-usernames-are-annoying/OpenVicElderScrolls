@@ -1,6 +1,6 @@
 terrain = highlands
 life_rating = 30
-trade_goods = coal
-owner = MI1
-controller = MI1
-add_core = MI1
+trade_goods = tobacco
+owner = MG0
+controller = MG0
+add_core = MG0

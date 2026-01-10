@@ -1,3 +1,6 @@
-terrain = hills
+terrain = farmlands
 life_rating = 30
-trade_goods = fruit
+trade_goods = fish
+owner = CG4
+controller = CG4
+add_core = CG4

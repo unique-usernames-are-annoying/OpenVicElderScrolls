@@ -1,6 +1,0 @@
-terrain = highlands
-life_rating = 30
-trade_goods = iron
-owner = SA6
-controller = SA6
-add_core = SA6

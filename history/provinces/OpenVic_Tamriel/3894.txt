@@ -1,7 +1,3 @@
-terrain = coastline
+terrain = highlands
 life_rating = 30
-trade_goods = fish
-owner = WIT
-controller = WIT
-add_core = WIT
-add_core = SHI
+trade_goods = cotton

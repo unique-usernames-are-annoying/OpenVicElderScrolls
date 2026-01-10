@@ -1,7 +1,3 @@
-terrain = bayou
+terrain = marsh
 life_rating = 30
 trade_goods = grain
-owner = MJ9
-controller = MJ9
-add_core = MJ9
-add_core = MF4

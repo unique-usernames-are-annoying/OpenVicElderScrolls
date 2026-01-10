@@ -1,0 +1,6 @@
+terrain = urban_galom_daeus
+life_rating = 30
+trade_goods = tea
+owner = MD7
+controller = MD7
+add_core = MD7

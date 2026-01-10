@@ -1,0 +1,6 @@
+terrain = savannah
+life_rating = 30
+trade_goods = cotton
+owner = EA7
+controller = EA7
+add_core = EA7

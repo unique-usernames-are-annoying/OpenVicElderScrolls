@@ -1,6 +1,6 @@
-terrain = hills
+terrain = forest
 life_rating = 30
-trade_goods = grain
-owner = UA1
-controller = UA1
-add_core = UA1
+trade_goods = wool
+owner = JB0
+controller = JB0
+add_core = JB0

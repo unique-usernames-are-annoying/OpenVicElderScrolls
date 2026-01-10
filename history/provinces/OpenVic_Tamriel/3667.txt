@@ -1,7 +1,6 @@
-terrain = coastline
+terrain = heathlands
 life_rating = 30
-trade_goods = fruit
-owner = SA6
-controller = SA6
-add_core = SA6
-add_core = SC8
+trade_goods = tea
+owner = MA5
+controller = MA5
+add_core = MA5

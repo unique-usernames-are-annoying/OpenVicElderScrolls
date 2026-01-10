@@ -1,4 +1,4 @@
-capital = 7206
+capital = 5382
 government = theocracy
 religion = snow_elves_pantheon
 primary_culture = snow_elven

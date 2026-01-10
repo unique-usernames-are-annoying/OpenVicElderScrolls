@@ -1,6 +1,6 @@
-terrain = jungle
+terrain = savannah
 life_rating = 30
 trade_goods = grain
-owner = TA3
-controller = TA3
-add_core = TA3
+owner = JA8
+controller = JA8
+add_core = JA8

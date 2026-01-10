@@ -1,6 +1,6 @@
-terrain = coastline
+terrain = grasslands
 life_rating = 30
-trade_goods = coffee
-owner = VB8
-controller = VB8
-add_core = VB8
+trade_goods = grain
+owner = CJ3
+controller = CJ3
+add_core = CJ3

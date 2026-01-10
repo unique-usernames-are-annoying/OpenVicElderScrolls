@@ -1,6 +1,3 @@
-terrain = blackreach_forest
+terrain = fungal_forest
 life_rating = 30
-trade_goods = grain
-owner = RA3
-controller = RA3
-add_core = RA3
+trade_goods = coal

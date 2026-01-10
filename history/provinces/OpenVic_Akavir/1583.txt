@@ -1,6 +1,6 @@
-terrain = coastline
+terrain = woods
 life_rating = 30
-trade_goods = grain
-owner = JA3
-controller = JA3
-add_core = JA3
+trade_goods = tobacco
+owner = JA9
+controller = JA9
+add_core = JA9

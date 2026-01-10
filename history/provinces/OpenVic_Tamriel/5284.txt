@@ -1,6 +1,7 @@
-terrain = savannah
+terrain = mountain_meadows
 life_rating = 30
-trade_goods = iron
-owner = EC2
-controller = EC2
-add_core = EC2
+trade_goods = grain
+owner = NG7
+controller = NG7
+add_core = NG7
+add_core = NA1

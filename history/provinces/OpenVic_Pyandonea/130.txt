@@ -1,0 +1,6 @@
+terrain = farmlands
+life_rating = 30
+trade_goods = grain
+owner = PB0
+controller = PB0
+add_core = PB0

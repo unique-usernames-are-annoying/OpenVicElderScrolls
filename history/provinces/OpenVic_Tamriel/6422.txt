@@ -1,3 +1,6 @@
-terrain = hills
+terrain = mountain
 life_rating = 30
-trade_goods = grain
+trade_goods = iron
+owner = HH4
+controller = HH4
+add_core = HH4

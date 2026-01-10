@@ -1,0 +1,6 @@
+terrain = highlands
+life_rating = 30
+trade_goods = coal
+owner = UB2
+controller = UB2
+add_core = UB2

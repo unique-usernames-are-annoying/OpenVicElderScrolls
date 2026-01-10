@@ -1,6 +1,6 @@
-terrain = urban_dusk
+terrain = grasslands
 life_rating = 30
-trade_goods = precious_metal
-owner = SC0
-controller = SC0
-add_core = SC0
+trade_goods = grain
+owner = CF6
+controller = CF6
+add_core = CF6

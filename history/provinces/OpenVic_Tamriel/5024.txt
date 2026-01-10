@@ -1,6 +1,7 @@
 terrain = hills
 life_rating = 30
 trade_goods = iron
-owner = VB9
-controller = VB9
-add_core = VB9
+owner = CE5
+controller = CE5
+add_core = CE5
+add_core = CE7

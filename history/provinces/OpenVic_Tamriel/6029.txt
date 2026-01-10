@@ -1,3 +1,6 @@
-terrain = highlands
+terrain = mountain_meadows
 life_rating = 30
-trade_goods = dye
+trade_goods = fruit
+owner = BD3
+controller = BD3
+add_core = BD3

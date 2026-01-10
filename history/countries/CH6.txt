@@ -1,4 +1,4 @@
-capital = 1191
+capital = 4549
 government = monarchy
 religion = meridia_cult
 primary_culture = ayleid

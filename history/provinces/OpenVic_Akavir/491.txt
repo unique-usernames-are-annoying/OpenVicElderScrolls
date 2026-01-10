@@ -1,6 +1,0 @@
-terrain = hills
-life_rating = 30
-trade_goods = grain
-owner = JB3
-controller = JB3
-add_core = JB3

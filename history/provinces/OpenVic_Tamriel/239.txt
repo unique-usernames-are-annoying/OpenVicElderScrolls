@@ -1,0 +1,7 @@
+terrain = highlands
+life_rating = 30
+trade_goods = tea
+owner = SA5
+controller = SA5
+add_core = SA5
+add_core = SE2

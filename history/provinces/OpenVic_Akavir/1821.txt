@@ -1,6 +1,7 @@
-terrain = highlands
+terrain = hills
 life_rating = 30
 trade_goods = tobacco
-owner = IB1
-controller = IB1
-add_core = IB1
+owner = OA2
+controller = OA2
+add_core = OA2
+add_core = OA1

@@ -1,6 +1,3 @@
-terrain = highlands
+terrain = marsh
 life_rating = 30
-trade_goods = wool
-owner = MF5
-controller = MF5
-add_core = MF5
+trade_goods = grain

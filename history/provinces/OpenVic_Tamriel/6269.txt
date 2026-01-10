@@ -1,6 +1,7 @@
-terrain = mountain_meadows
+terrain = highlands
 life_rating = 30
 trade_goods = grain
-owner = HH6
-controller = HH6
-add_core = HH6
+owner = BA3
+controller = BA3
+add_core = BA3
+add_core = HA7

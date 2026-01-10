@@ -1,4 +1,4 @@
-capital = 5657
+capital = 4600
 government = monarchy
 religion = nedic_pantheon
 primary_culture = nedic

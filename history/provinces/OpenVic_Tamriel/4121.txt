@@ -1,6 +1,3 @@
-terrain = urban_sadrith_mora
+terrain = bayou
 life_rating = 30
-trade_goods = coal
-owner = MOA
-controller = MOA
-add_core = MOA
+trade_goods = dye

@@ -1,7 +1,6 @@
-terrain = marsh
+terrain = mountain_meadows
 life_rating = 30
 trade_goods = cattle
-owner = CG9
-controller = CG9
-add_core = CG9
-add_core = CA2
+owner = NB2
+controller = NB2
+add_core = NB2

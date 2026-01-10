@@ -1,6 +1,7 @@
-terrain = woods
+terrain = jungle
 life_rating = 30
-trade_goods = tobacco
-owner = SA3
-controller = SA3
-add_core = SA3
+trade_goods = grain
+owner = CG9
+controller = CG9
+add_core = CG9
+add_core = CA2

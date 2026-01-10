@@ -1,6 +1,6 @@
-terrain = woods
+terrain = urban_leyawiin
 life_rating = 30
-trade_goods = fish
-owner = SD5
-controller = SD5
-add_core = SD5
+trade_goods = fruit
+owner = CA1
+controller = CA1
+add_core = CA1

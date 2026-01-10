@@ -1,3 +1,6 @@
-terrain = desert
+terrain = heathlands
 life_rating = 30
-trade_goods = grain
+trade_goods = timber
+owner = HC9
+controller = HC9
+add_core = HC9

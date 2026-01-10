@@ -1,4 +1,4 @@
-capital = 6888
+capital = 6075
 government = tribal
 religion = malacath_cult
 primary_culture = ogre

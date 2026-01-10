@@ -1,4 +1,4 @@
-capital = 5513
+capital = 5093
 government = theocracy
 religion = mehrunes_dagon_cult
 primary_culture = ayleid

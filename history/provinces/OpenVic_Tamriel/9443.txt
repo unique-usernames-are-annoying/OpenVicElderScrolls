@@ -1,6 +1,0 @@
-terrain = coastline
-life_rating = 30
-trade_goods = tea
-owner = SB3
-controller = SB3
-add_core = SB3

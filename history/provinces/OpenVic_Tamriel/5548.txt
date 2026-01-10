@@ -1,7 +1,6 @@
-terrain = urban_bravil
+terrain = glacier
 life_rating = 30
 trade_goods = tea
-owner = CH2
-controller = CH2
-add_core = CH2
-add_core = CA3
+owner = STA
+controller = STA
+add_core = STA

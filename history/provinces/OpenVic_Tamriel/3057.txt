@@ -1,6 +1,6 @@
-terrain = hills
+terrain = desert
 life_rating = 30
-trade_goods = sulphur
-owner = NB4
-controller = NB4
-add_core = NB4
+trade_goods = fruit
+owner = EC6
+controller = EC6
+add_core = EC6

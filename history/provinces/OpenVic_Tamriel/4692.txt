@@ -1,6 +1,6 @@
-terrain = highlands
+terrain = caves
 life_rating = 30
-trade_goods = timber
-owner = SB9
-controller = SB9
-add_core = SB9
+trade_goods = tea
+owner = CA6
+controller = CA6
+add_core = CA6

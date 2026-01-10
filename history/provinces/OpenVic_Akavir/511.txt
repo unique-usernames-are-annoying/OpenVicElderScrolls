@@ -1,6 +1,0 @@
-terrain = jungle
-life_rating = 30
-trade_goods = timber
-owner = UA5
-controller = UA5
-add_core = UA5

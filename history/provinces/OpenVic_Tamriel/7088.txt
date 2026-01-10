@@ -1,6 +1,0 @@
-terrain = taiga
-life_rating = 30
-trade_goods = iron
-owner = NA3
-controller = NA3
-add_core = NA3

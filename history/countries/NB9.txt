@@ -1,4 +1,4 @@
-capital = 1355
+capital = 5361
 government = monarchy
 religion = nordic_pantheon
 primary_culture = nord

@@ -1,6 +1,6 @@
-terrain = coastline
+terrain = highlands
 life_rating = 30
-trade_goods = grain
-owner = OA4
-controller = OA4
-add_core = OA4
+trade_goods = tobacco
+owner = OA6
+controller = OA6
+add_core = OA6

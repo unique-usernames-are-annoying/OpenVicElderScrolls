@@ -1,0 +1,6 @@
+terrain = marsh
+life_rating = 30
+trade_goods = tropical_wood
+owner = AC7
+controller = AC7
+add_core = AC7

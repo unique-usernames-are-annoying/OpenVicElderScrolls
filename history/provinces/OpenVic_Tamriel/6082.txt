@@ -1,6 +1,6 @@
-terrain = highlands
+terrain = woods
 life_rating = 30
-trade_goods = tobacco
-owner = HH6
-controller = HH6
-add_core = HH6
+trade_goods = coal
+owner = BA5
+controller = BA5
+add_core = BA5

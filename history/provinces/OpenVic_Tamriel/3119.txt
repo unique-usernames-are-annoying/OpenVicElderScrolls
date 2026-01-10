@@ -1,6 +1,6 @@
-terrain = urban_forelhost
+terrain = jungle
 life_rating = 30
-trade_goods = fish
-owner = FRS
-controller = FRS
-add_core = FRS
+trade_goods = grain
+owner = EB6
+controller = EB6
+add_core = EB6

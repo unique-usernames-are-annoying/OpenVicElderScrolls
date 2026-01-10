@@ -1,6 +1,0 @@
-terrain = coastline
-life_rating = 30
-trade_goods = dye
-owner = JA8
-controller = JA8
-add_core = JA8

@@ -1,6 +1,6 @@
-terrain = glacier
+terrain = caves
 life_rating = 30
-trade_goods = grain
-owner = ND8
-controller = ND8
-add_core = ND8
+trade_goods = timber
+owner = VA5
+controller = VA5
+add_core = VA5

@@ -1,6 +1,0 @@
-terrain = coastline
-life_rating = 30
-trade_goods = cotton
-owner = IB2
-controller = IB2
-add_core = IB2

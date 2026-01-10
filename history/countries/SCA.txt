@@ -1,4 +1,4 @@
-capital = 2866
+capital = 6844
 government = native
 religion = molag_bal_cult
 primary_culture = scamp

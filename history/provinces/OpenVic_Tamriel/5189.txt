@@ -1,3 +1,6 @@
-terrain = savannah
+terrain = woods
 life_rating = 30
-trade_goods = iron
+trade_goods = grain
+owner = CC9
+controller = CC9
+add_core = CC9

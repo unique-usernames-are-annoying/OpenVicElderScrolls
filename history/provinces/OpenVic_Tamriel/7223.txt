@@ -1,6 +1,0 @@
-terrain = highlands
-life_rating = 30
-trade_goods = tea
-owner = ND7
-controller = ND7
-add_core = ND7

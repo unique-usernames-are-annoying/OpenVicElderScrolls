@@ -1,6 +1,7 @@
-terrain = marsh
+terrain = coastline
 life_rating = 30
-trade_goods = tobacco
-owner = VA8
-controller = VA8
-add_core = VA8
+trade_goods = timber
+owner = ALG
+controller = ALG
+add_core = ALG
+add_core = CG9

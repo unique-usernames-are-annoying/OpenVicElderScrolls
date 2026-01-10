@@ -1,6 +1,7 @@
-terrain = glacier
+terrain = highlands
 life_rating = 30
-trade_goods = coal
-owner = NA9
-controller = NA9
-add_core = NA9
+trade_goods = fruit
+owner = ND0
+controller = ND0
+add_core = ND0
+add_core = NC8

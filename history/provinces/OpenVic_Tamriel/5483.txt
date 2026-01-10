@@ -1,6 +1,6 @@
-terrain = bayou
+terrain = tundra
 life_rating = 30
-trade_goods = grain
-owner = CA1
-controller = CA1
-add_core = CA1
+trade_goods = fish
+owner = NA9
+controller = NA9
+add_core = NA9

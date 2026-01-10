@@ -1,7 +1,6 @@
-terrain = barrow
+terrain = coastline
 life_rating = 30
 trade_goods = tea
-owner = NG4
-controller = NG4
-add_core = NG4
-add_core = NA6
+owner = EA9
+controller = EA9
+add_core = EA9

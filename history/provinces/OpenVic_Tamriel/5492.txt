@@ -1,6 +1,6 @@
-terrain = urban_cheydinhal
+terrain = moorlands
 life_rating = 30
-trade_goods = grain
-owner = CH9
-controller = CH9
-add_core = CH9
+trade_goods = cotton
+owner = NE9
+controller = NE9
+add_core = NE9

@@ -1,0 +1,6 @@
+terrain = highlands
+life_rating = 30
+trade_goods = cattle
+owner = UA2
+controller = UA2
+add_core = UA2

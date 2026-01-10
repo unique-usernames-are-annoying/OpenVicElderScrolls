@@ -1,6 +1,6 @@
 terrain = hills
 life_rating = 30
-trade_goods = tea
-owner = CK0
-controller = CK0
-add_core = CK0
+trade_goods = cattle
+owner = NA9
+controller = NA9
+add_core = NA9

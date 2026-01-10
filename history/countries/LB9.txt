@@ -1,4 +1,4 @@
-capital = 2742
+capital = 6743
 government = theocracy
 religion = molag_bal_cult
 primary_culture = soul_shriven

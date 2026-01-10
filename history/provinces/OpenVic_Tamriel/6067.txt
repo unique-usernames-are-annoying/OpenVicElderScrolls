@@ -1,3 +1,6 @@
-terrain = drylands
+terrain = mountain_meadows
 life_rating = 30
 trade_goods = grain
+owner = BE6
+controller = BE6
+add_core = BE6

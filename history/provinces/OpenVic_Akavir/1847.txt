@@ -1,0 +1,6 @@
+terrain = forest
+life_rating = 30
+trade_goods = precious_metal
+owner = OA2
+controller = OA2
+add_core = OA2

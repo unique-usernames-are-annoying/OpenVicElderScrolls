@@ -1,6 +1,6 @@
-terrain = drylands
+terrain = highlands
 life_rating = 30
-trade_goods = wool
-owner = CC4
-controller = CC4
-add_core = CC4
+trade_goods = grain
+owner = NC3
+controller = NC3
+add_core = NC3

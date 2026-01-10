@@ -1,6 +1,6 @@
-terrain = drylands
+terrain = forest
 life_rating = 30
-trade_goods = grain
-owner = HA9
-controller = HA9
-add_core = HA9
+trade_goods = tea
+owner = HH3
+controller = HH3
+add_core = HH3

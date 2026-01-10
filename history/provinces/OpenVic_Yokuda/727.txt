@@ -1,0 +1,6 @@
+terrain = craglands
+life_rating = 30
+trade_goods = tea
+owner = YB2
+controller = YB2
+add_core = YB2

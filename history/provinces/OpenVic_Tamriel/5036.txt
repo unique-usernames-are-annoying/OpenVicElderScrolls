@@ -1,6 +1,6 @@
-terrain = forest
+terrain = mountain
 life_rating = 30
-trade_goods = grain
-owner = VE2
-controller = VE2
-add_core = VE2
+trade_goods = timber
+owner = CE3
+controller = CE3
+add_core = CE3

@@ -1,7 +1,0 @@
-terrain = hills
-life_rating = 30
-trade_goods = cotton
-owner = OB3
-controller = OB3
-add_core = OB3
-add_core = OB9

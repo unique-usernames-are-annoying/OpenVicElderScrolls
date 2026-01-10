@@ -1,6 +1,0 @@
-terrain = plateau
-life_rating = 30
-trade_goods = grain
-owner = HA9
-controller = HA9
-add_core = HA9

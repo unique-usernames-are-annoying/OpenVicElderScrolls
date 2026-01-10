@@ -1,4 +1,4 @@
-capital = 5885
+capital = 5034
 government = monarchy
 religion = azura_cult
 primary_culture = ayleid

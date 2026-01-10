@@ -1,3 +1,6 @@
-terrain = mountain
+terrain = urban_jun_kamal
 life_rating = 30
-trade_goods = fish
+trade_goods = cotton
+owner = BLA
+controller = BLA
+add_core = BLA

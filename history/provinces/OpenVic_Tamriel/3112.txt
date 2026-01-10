@@ -1,7 +1,3 @@
-terrain = mountain_meadows
+terrain = savannah
 life_rating = 30
-trade_goods = grain
-owner = NG6
-controller = NG6
-add_core = NG6
-add_core = NA5
+trade_goods = tea

@@ -1,6 +1,3 @@
-terrain = ashlands
+terrain = bayou
 life_rating = 30
 trade_goods = tea
-owner = MC1
-controller = MC1
-add_core = MC1

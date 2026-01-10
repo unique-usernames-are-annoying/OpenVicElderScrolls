@@ -1,7 +1,6 @@
-terrain = mountain
+terrain = savannah
 life_rating = 30
-trade_goods = grain
-owner = UA7
-controller = UA7
-add_core = UA7
-add_core = UA8
+trade_goods = cotton
+owner = JA8
+controller = JA8
+add_core = JA8

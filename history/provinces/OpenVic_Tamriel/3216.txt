@@ -1,6 +1,3 @@
-terrain = highlands
+terrain = plateau
 life_rating = 30
-trade_goods = dye
-owner = MA5
-controller = MA5
-add_core = MA5
+trade_goods = cattle

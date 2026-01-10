@@ -1,6 +1,3 @@
-terrain = bayou
+terrain = desert
 life_rating = 30
-trade_goods = grain
-owner = AC3
-controller = AC3
-add_core = AC3
+trade_goods = fruit

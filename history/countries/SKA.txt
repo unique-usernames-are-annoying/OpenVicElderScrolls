@@ -1,4 +1,4 @@
-capital = 3315
+capital = 3223
 government = native
 religion = all_maker_cult
 primary_culture = skaal

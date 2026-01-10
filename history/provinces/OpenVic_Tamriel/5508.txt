@@ -1,7 +1,7 @@
-terrain = hills
+terrain = highlands
 life_rating = 30
-trade_goods = tropical_wood
-owner = CG9
-controller = CG9
-add_core = CG9
-add_core = CA2
+trade_goods = grain
+owner = NB4
+controller = NB4
+add_core = NB4
+add_core = NB8

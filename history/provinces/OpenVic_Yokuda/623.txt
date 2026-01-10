@@ -1,0 +1,6 @@
+terrain = jungle
+life_rating = 30
+trade_goods = coal
+owner = YC5
+controller = YC5
+add_core = YC5

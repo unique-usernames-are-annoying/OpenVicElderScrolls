@@ -1,3 +1,7 @@
 terrain = forest
 life_rating = 30
-trade_goods = dye
+trade_goods = tobacco
+owner = CE5
+controller = CE5
+add_core = CE5
+add_core = CJ1

@@ -1,6 +1,6 @@
-terrain = highlands
+terrain = coastline
 life_rating = 30
-trade_goods = coal
-owner = SE0
-controller = SE0
-add_core = SE0
+trade_goods = dye
+owner = VE0
+controller = VE0
+add_core = VE0

@@ -1,0 +1,7 @@
+terrain = highlands
+life_rating = 30
+trade_goods = wool
+owner = TSS
+controller = TSS
+add_core = TSS
+add_core = CF1

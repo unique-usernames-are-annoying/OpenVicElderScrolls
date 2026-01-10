@@ -1,4 +1,4 @@
-capital = 1243
+capital = 4952
 government = monarchy
 religion = boethiah_cult
 primary_culture = ayleid

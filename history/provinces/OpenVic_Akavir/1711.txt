@@ -1,7 +1,6 @@
-terrain = forest
+terrain = coastline
 life_rating = 30
-trade_goods = grain
-owner = OA2
-controller = OA2
-add_core = OA2
-add_core = OA5
+trade_goods = tea
+owner = JA2
+controller = JA2
+add_core = JA2

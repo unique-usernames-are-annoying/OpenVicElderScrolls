@@ -1,6 +1,3 @@
-terrain = ashlands
+terrain = jungle
 life_rating = 30
-trade_goods = cattle
-owner = MH5
-controller = MH5
-add_core = MH5
+trade_goods = fruit

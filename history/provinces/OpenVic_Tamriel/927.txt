@@ -1,6 +1,0 @@
-terrain = hills
-life_rating = 30
-trade_goods = iron
-owner = EC0
-controller = EC0
-add_core = EC0

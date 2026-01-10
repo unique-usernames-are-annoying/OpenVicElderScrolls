@@ -1,6 +1,6 @@
-terrain = coastline
+terrain = urban_solitude
 life_rating = 30
-trade_goods = fruit
-owner = CC1
-controller = CC1
-add_core = CC1
+trade_goods = tobacco
+owner = NB6
+controller = NB6
+add_core = NB6

@@ -1,6 +1,6 @@
-terrain = marsh
+terrain = jungle
 life_rating = 30
-trade_goods = tobacco
-owner = OC2
-controller = OC2
-add_core = OC2
+trade_goods = iron
+owner = JA1
+controller = JA1
+add_core = JA1

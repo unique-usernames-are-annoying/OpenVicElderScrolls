@@ -1,6 +1,6 @@
-terrain = caves
+terrain = savannah
 life_rating = 30
-trade_goods = timber
-owner = RB2
-controller = RB2
-add_core = RB2
+trade_goods = coal
+owner = ED1
+controller = ED1
+add_core = ED1

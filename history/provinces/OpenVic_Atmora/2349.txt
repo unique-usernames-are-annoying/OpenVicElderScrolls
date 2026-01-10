@@ -1,6 +1,0 @@
-terrain = glacier
-life_rating = 30
-trade_goods = tea
-owner = DD5
-controller = DD5
-add_core = DD5

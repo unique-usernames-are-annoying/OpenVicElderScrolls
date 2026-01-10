@@ -1,6 +1,0 @@
-terrain = mountain
-life_rating = 30
-trade_goods = coal
-owner = HC2
-controller = HC2
-add_core = HC2

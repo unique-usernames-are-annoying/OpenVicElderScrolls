@@ -1,6 +1,6 @@
-terrain = highlands
+terrain = farmlands
 life_rating = 30
-trade_goods = grain
-owner = EB0
-controller = EB0
-add_core = EB0
+trade_goods = cotton
+owner = CD1
+controller = CD1
+add_core = CD1

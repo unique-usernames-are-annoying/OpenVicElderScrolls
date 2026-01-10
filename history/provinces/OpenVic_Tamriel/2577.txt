@@ -1,0 +1,6 @@
+terrain = coastline
+life_rating = 30
+trade_goods = tropical_wood
+owner = VC0
+controller = VC0
+add_core = VC0

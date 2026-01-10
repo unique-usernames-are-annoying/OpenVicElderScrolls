@@ -1,6 +1,0 @@
-terrain = dread_massive
-life_rating = 30
-trade_goods = grain
-owner = LA5
-controller = LA5
-add_core = LA5

@@ -1,0 +1,6 @@
+terrain = bayou
+life_rating = 30
+trade_goods = tobacco
+owner = AB3
+controller = AB3
+add_core = AB3

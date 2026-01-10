@@ -1,6 +1,3 @@
-terrain = forest
+terrain = highlands
 life_rating = 30
-trade_goods = iron
-owner = CD2
-controller = CD2
-add_core = CD2
+trade_goods = timber

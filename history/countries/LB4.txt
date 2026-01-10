@@ -1,4 +1,4 @@
-capital = 2889
+capital = 6810
 government = tribal
 religion = molag_bal_cult
 primary_culture = arachnid

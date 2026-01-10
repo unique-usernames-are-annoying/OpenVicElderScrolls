@@ -1,6 +1,6 @@
-terrain = urban_lillandril
+terrain = hills
 life_rating = 30
-trade_goods = grain
-owner = SA1
-controller = SA1
-add_core = SA1
+trade_goods = timber
+owner = SB3
+controller = SB3
+add_core = SB3

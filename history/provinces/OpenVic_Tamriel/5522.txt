@@ -1,7 +1,3 @@
-terrain = woods
+terrain = forest
 life_rating = 30
 trade_goods = timber
-owner = MOK
-controller = MOK
-add_core = MOK
-add_core = CF9

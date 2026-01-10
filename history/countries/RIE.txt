@@ -1,4 +1,4 @@
-capital = 3199
+capital = 3206
 government = native
 religion = hircine_cult
 primary_culture = riekling

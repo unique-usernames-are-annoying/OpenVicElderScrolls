@@ -1,0 +1,6 @@
+terrain = woods
+life_rating = 30
+trade_goods = cattle
+owner = KA1
+controller = KA1
+add_core = KA1

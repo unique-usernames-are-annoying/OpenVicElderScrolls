@@ -1,6 +1,0 @@
-terrain = barrow
-life_rating = 30
-trade_goods = grain
-owner = NA2
-controller = NA2
-add_core = NA2

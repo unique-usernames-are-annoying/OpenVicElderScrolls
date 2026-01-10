@@ -1,6 +1,7 @@
-terrain = hills
+terrain = woods
 life_rating = 30
-trade_goods = tea
-owner = SC0
-controller = SC0
-add_core = SC0
+trade_goods = iron
+owner = PER
+controller = PER
+add_core = PER
+add_core = CC9

@@ -1,6 +1,0 @@
-terrain = coastline
-life_rating = 30
-trade_goods = sulphur
-owner = PC3
-controller = PC3
-add_core = PC3

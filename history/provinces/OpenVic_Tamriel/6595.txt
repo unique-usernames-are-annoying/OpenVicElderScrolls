@@ -1,6 +1,3 @@
-terrain = marsh
+terrain = steppe
 life_rating = 30
-trade_goods = iron
-owner = AC7
-controller = AC7
-add_core = AC7
+trade_goods = wool

@@ -1,6 +1,6 @@
-terrain = bayou
+terrain = fungal_forest
 life_rating = 30
 trade_goods = grain
-owner = MJ9
-controller = MJ9
-add_core = MJ9
+owner = ME1
+controller = ME1
+add_core = ME1

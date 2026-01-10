@@ -1,6 +1,7 @@
-terrain = hills
+terrain = jungle
 life_rating = 30
 trade_goods = grain
-owner = SD3
-controller = SD3
-add_core = SD3
+owner = ALG
+controller = ALG
+add_core = ALG
+add_core = CG9

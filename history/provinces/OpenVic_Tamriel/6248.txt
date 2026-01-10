@@ -1,6 +1,3 @@
-terrain = mountain
+terrain = steppe
 life_rating = 30
-trade_goods = dye
-owner = HH6
-controller = HH6
-add_core = HH6
+trade_goods = wool

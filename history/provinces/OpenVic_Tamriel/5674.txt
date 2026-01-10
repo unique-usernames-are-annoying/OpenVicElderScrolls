@@ -1,6 +1,6 @@
-terrain = caves
+terrain = hills
 life_rating = 30
-trade_goods = fruit
-owner = CC9
-controller = CC9
-add_core = CC9
+trade_goods = cattle
+owner = NC4
+controller = NC4
+add_core = NC4

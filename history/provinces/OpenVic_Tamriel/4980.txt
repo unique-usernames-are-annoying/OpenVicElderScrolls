@@ -1,6 +1,6 @@
 terrain = forest
 life_rating = 30
-trade_goods = coffee
-owner = VC2
-controller = VC2
-add_core = VC2
+trade_goods = cotton
+owner = CF3
+controller = CF3
+add_core = CF3

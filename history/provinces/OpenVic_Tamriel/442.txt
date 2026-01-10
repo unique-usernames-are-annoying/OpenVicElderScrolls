@@ -1,6 +1,6 @@
-terrain = forest
+terrain = woods
 life_rating = 30
-trade_goods = grain
-owner = SA4
-controller = SA4
-add_core = SA4
+trade_goods = wool
+owner = SA6
+controller = SA6
+add_core = SA6

@@ -1,0 +1,6 @@
+terrain = cold_wastes
+life_rating = 30
+trade_goods = grain
+owner = LB3
+controller = LB3
+add_core = LB3

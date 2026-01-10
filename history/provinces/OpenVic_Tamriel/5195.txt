@@ -1,6 +1,6 @@
-terrain = highlands
+terrain = woods
 life_rating = 30
-trade_goods = coffee
-owner = EB8
-controller = EB8
-add_core = EB8
+trade_goods = dye
+owner = CC7
+controller = CC7
+add_core = CC7

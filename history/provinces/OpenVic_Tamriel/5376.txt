@@ -1,7 +1,6 @@
-terrain = mountain
+terrain = hills
 life_rating = 30
-trade_goods = tea
-owner = CH7
-controller = CH7
-add_core = CH7
-add_core = CJ2
+trade_goods = precious_metal
+owner = NB6
+controller = NB6
+add_core = NB6

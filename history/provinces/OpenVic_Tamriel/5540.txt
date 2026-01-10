@@ -1,7 +1,7 @@
-terrain = forest
+terrain = urban_riften
 life_rating = 30
-trade_goods = iron
-owner = CB0
-controller = CB0
-add_core = CB0
-add_core = CE6
+trade_goods = cattle
+owner = NG7
+controller = NG7
+add_core = NG7
+add_core = NA1

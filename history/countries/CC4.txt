@@ -1,4 +1,4 @@
-capital = 1172
+capital = 5218
 government = theocracy
 religion = ithelia_cult
 primary_culture = ayleid

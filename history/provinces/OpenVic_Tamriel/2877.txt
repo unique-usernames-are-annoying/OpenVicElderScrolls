@@ -1,6 +1,6 @@
-terrain = blackreach_forest
+terrain = farmlands
 life_rating = 30
-trade_goods = cattle
-owner = NA4
-controller = NA4
-add_core = NA4
+trade_goods = dye
+owner = EB6
+controller = EB6
+add_core = EB6

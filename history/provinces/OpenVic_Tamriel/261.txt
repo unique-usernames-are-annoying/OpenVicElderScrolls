@@ -1,6 +1,6 @@
-terrain = mountain
+terrain = coastline
 life_rating = 30
-trade_goods = timber
-owner = SA4
-controller = SA4
-add_core = SA4
+trade_goods = sulphur
+owner = SC9
+controller = SC9
+add_core = SC9

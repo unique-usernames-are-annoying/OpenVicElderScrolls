@@ -1,4 +1,4 @@
-capital = 2063
+capital = 158
 government = monarchy
 religion = serpent_king
 primary_culture = maormer

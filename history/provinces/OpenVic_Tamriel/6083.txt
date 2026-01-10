@@ -1,6 +1,6 @@
-terrain = mountain_meadows
+terrain = woods
 life_rating = 30
-trade_goods = sulphur
-owner = HH6
-controller = HH6
-add_core = HH6
+trade_goods = iron
+owner = BA5
+controller = BA5
+add_core = BA5

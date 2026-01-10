@@ -1,4 +1,4 @@
-capital = 2551
+capital = 1403
 government = monarchy
 religion = dremora_pantheon
 primary_culture = al_dremoran

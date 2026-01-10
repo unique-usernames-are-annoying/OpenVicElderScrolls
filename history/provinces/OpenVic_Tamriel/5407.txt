@@ -1,3 +1,7 @@
-terrain = hills
+terrain = barrow
 life_rating = 30
-trade_goods = tobacco
+trade_goods = grain
+owner = NGH
+controller = NGH
+add_core = NGH
+add_core = ND0

@@ -1,6 +1,6 @@
-terrain = bayou
+terrain = taiga
 life_rating = 30
-trade_goods = coal
-owner = AF2
-controller = AF2
-add_core = AF2
+trade_goods = timber
+owner = NA3
+controller = NA3
+add_core = NA3

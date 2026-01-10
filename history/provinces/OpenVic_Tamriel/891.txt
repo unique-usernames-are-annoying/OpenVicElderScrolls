@@ -1,6 +1,6 @@
-terrain = hills
+terrain = craglands
 life_rating = 30
-trade_goods = dye
-owner = EA2
-controller = EA2
-add_core = EA2
+trade_goods = grain
+owner = HH1
+controller = HH1
+add_core = HH1

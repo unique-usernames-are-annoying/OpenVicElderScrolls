@@ -1,0 +1,6 @@
+terrain = bayou
+life_rating = 30
+trade_goods = grain
+owner = AD1
+controller = AD1
+add_core = AD1

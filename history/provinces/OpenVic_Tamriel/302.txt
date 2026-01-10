@@ -1,7 +1,6 @@
-terrain = farmlands
+terrain = forest
 life_rating = 30
-trade_goods = grain
-owner = SB1
-controller = SB1
-add_core = SB1
-add_core = SE2
+trade_goods = tobacco
+owner = SD2
+controller = SD2
+add_core = SD2

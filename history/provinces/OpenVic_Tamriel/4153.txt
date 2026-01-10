@@ -1,6 +1,3 @@
-terrain = caves
+terrain = marsh
 life_rating = 30
 trade_goods = grain
-owner = NGH
-controller = NGH
-add_core = NGH

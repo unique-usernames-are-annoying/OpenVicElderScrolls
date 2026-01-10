@@ -1,3 +1,6 @@
-terrain = farmlands
+terrain = caves
 life_rating = 30
-trade_goods = grain
+trade_goods = tea
+owner = RA7
+controller = RA7
+add_core = RA7

@@ -1,6 +1,7 @@
-terrain = jungle
+terrain = woods
 life_rating = 30
-trade_goods = grain
-owner = EB0
-controller = EB0
-add_core = EB0
+trade_goods = wool
+owner = CG6
+controller = CG6
+add_core = CG6
+add_core = CA2

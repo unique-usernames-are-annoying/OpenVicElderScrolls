@@ -1,3 +1,7 @@
-terrain = forest
+terrain = grasslands
 life_rating = 30
 trade_goods = grain
+owner = CH1
+controller = CH1
+add_core = CH1
+add_core = CI8

@@ -1,6 +1,7 @@
-terrain = forest
+terrain = hills
 life_rating = 30
-trade_goods = cotton
-owner = VA6
-controller = VA6
-add_core = VA6
+trade_goods = coffee
+owner = MOK
+controller = MOK
+add_core = MOK
+add_core = CJ3

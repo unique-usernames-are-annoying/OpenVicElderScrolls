@@ -1,6 +1,6 @@
-terrain = forest
+terrain = taiga
 life_rating = 30
-trade_goods = cotton
-owner = JA9
-controller = JA9
-add_core = JA9
+trade_goods = precious_metal
+owner = JB2
+controller = JB2
+add_core = JB2

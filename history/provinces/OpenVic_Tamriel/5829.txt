@@ -1,6 +1,6 @@
-terrain = grasslands
+terrain = highlands
 life_rating = 30
-trade_goods = grain
-owner = CC8
-controller = CC8
-add_core = CC8
+trade_goods = cattle
+owner = NF2
+controller = NF2
+add_core = NF2

@@ -1,6 +1,0 @@
-terrain = hills
-life_rating = 30
-trade_goods = tropical_wood
-owner = NC4
-controller = NC4
-add_core = NC4

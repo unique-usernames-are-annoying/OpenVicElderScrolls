@@ -1,6 +1,7 @@
-terrain = mountain_meadows
+terrain = grasslands
 life_rating = 30
-trade_goods = fish
-owner = SA4
-controller = SA4
-add_core = SA4
+trade_goods = timber
+owner = CB1
+controller = CB1
+add_core = CB1
+add_core = CB2

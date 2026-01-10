@@ -1,6 +1,0 @@
-terrain = glacier
-life_rating = 30
-trade_goods = grain
-owner = DC0
-controller = DC0
-add_core = DC0

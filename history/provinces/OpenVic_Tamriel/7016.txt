@@ -1,6 +1,0 @@
-terrain = heathlands
-life_rating = 30
-trade_goods = wool
-owner = BC2
-controller = BC2
-add_core = BC2

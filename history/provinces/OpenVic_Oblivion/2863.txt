@@ -1,6 +1,0 @@
-terrain = azure_plains
-life_rating = 30
-trade_goods = timber
-owner = LA5
-controller = LA5
-add_core = LA5

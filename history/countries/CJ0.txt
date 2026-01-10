@@ -1,4 +1,4 @@
-capital = 1147
+capital = 5184
 government = republic
 religion = sanguine_cult
 primary_culture = nedic

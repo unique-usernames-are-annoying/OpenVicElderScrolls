@@ -1,6 +1,0 @@
-terrain = hills
-life_rating = 30
-trade_goods = cattle
-owner = IB4
-controller = IB4
-add_core = IB4

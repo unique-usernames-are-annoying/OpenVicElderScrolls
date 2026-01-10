@@ -1,6 +1,6 @@
-terrain = highlands
+terrain = bayou
 life_rating = 30
-trade_goods = dye
-owner = MA3
-controller = MA3
-add_core = MA3
+trade_goods = fish
+owner = MD2
+controller = MD2
+add_core = MD2

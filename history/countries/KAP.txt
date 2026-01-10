@@ -1,4 +1,4 @@
-capital = 646
+capital = 2096
 government = monarchy
 religion = po_tun_pantheon
 primary_culture = po_tun

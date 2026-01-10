@@ -1,0 +1,6 @@
+terrain = plateau
+life_rating = 30
+trade_goods = cotton
+owner = EA3
+controller = EA3
+add_core = EA3

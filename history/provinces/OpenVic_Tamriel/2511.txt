@@ -1,0 +1,6 @@
+terrain = urban_woodhearth
+life_rating = 30
+trade_goods = dye
+owner = VB6
+controller = VB6
+add_core = VB6

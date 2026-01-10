@@ -1,6 +1,0 @@
-terrain = mountain_meadows
-life_rating = 30
-trade_goods = timber
-owner = CG0
-controller = CG0
-add_core = CG0

@@ -1,6 +1,0 @@
-terrain = mountain_meadows
-life_rating = 30
-trade_goods = grain
-owner = NB7
-controller = NB7
-add_core = NB7

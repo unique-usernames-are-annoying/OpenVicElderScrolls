@@ -1,6 +1,3 @@
-terrain = mountain
+terrain = woods
 life_rating = 30
-trade_goods = wool
-owner = HC4
-controller = HC4
-add_core = HC4
+trade_goods = tobacco

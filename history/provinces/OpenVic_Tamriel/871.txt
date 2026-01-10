@@ -1,6 +1,3 @@
-terrain = marsh
+terrain = urban_amenos
 life_rating = 30
-trade_goods = tobacco
-owner = VA4
-controller = VA4
-add_core = VA4
+trade_goods = coal

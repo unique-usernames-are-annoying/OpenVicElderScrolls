@@ -1,4 +1,4 @@
-capital = 1171
+capital = 4649
 government = republic
 religion = molag_bal_cult
 primary_culture = ayleid

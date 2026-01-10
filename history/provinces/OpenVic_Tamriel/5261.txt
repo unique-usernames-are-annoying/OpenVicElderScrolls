@@ -1,6 +1,6 @@
-terrain = savannah
+terrain = forest
 life_rating = 30
 trade_goods = grain
-owner = EA9
-controller = EA9
-add_core = EA9
+owner = CA4
+controller = CA4
+add_core = CA4

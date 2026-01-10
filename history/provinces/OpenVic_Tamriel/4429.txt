@@ -1,0 +1,6 @@
+terrain = marsh
+life_rating = 30
+trade_goods = grain
+owner = AE3
+controller = AE3
+add_core = AE3

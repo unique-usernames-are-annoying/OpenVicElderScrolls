@@ -1,7 +1,6 @@
-terrain = mountain
+terrain = savannah
 life_rating = 30
-trade_goods = coffee
-owner = NG5
-controller = NG5
-add_core = NG5
-add_core = NF3
+trade_goods = iron
+owner = EC0
+controller = EC0
+add_core = EC0

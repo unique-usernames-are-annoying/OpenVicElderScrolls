@@ -1,6 +1,0 @@
-terrain = barrow
-life_rating = 30
-trade_goods = timber
-owner = NE6
-controller = NE6
-add_core = NE6

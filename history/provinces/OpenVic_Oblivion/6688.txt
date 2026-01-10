@@ -1,0 +1,6 @@
+terrain = black_pyramid
+life_rating = 30
+trade_goods = fruit
+owner = LB5
+controller = LB5
+add_core = LB5

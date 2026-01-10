@@ -1,6 +1,7 @@
-terrain = mountain
+terrain = jungle
 life_rating = 30
-trade_goods = fish
-owner = SE5
-controller = SE5
-add_core = SE5
+trade_goods = cattle
+owner = ALG
+controller = ALG
+add_core = ALG
+add_core = CG9

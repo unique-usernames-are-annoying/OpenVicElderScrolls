@@ -1,7 +1,6 @@
-terrain = mountain
+terrain = heathlands
 life_rating = 30
-trade_goods = grain
-owner = SE0
-controller = SE0
-add_core = SE0
-add_core = SD0
+trade_goods = tobacco
+owner = SC5
+controller = SC5
+add_core = SC5

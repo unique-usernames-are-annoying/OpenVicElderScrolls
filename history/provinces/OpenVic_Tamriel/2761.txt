@@ -1,6 +1,3 @@
-terrain = glacier
+terrain = forest
 life_rating = 30
-trade_goods = cattle
-owner = NA9
-controller = NA9
-add_core = NA9
+trade_goods = tobacco

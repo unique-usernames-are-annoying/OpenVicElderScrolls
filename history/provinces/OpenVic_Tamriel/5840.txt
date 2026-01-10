@@ -1,6 +1,7 @@
-terrain = grasslands
+terrain = urban_daggerfall
 life_rating = 30
-trade_goods = cattle
-owner = CE2
-controller = CE2
-add_core = CE2
+trade_goods = fish
+owner = BF2
+controller = BF2
+add_core = BF2
+add_core = BA1

@@ -1,6 +1,7 @@
 terrain = highlands
 life_rating = 30
-trade_goods = iron
-owner = SD8
-controller = SD8
-add_core = SD8
+trade_goods = fish
+owner = PER
+controller = PER
+add_core = PER
+add_core = CC9

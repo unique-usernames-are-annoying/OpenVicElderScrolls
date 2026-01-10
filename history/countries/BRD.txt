@@ -1,4 +1,4 @@
-capital = 1206
+capital = 5282
 government = tribal
 religion = ithelia_cult
 primary_culture = bird_men

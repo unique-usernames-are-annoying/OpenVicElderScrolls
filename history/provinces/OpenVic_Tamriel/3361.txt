@@ -1,6 +1,6 @@
-terrain = mountain
+terrain = dwemer_stronghold
 life_rating = 30
 trade_goods = fruit
-owner = MC8
-controller = MC8
-add_core = MC8
+owner = MF3
+controller = MF3
+add_core = MF3

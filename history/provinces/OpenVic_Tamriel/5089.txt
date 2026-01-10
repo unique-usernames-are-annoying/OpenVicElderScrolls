@@ -1,6 +1,6 @@
-terrain = drylands
+terrain = forest
 life_rating = 30
-trade_goods = wool
-owner = EB4
-controller = EB4
-add_core = EB4
+trade_goods = tobacco
+owner = CD3
+controller = CD3
+add_core = CD3

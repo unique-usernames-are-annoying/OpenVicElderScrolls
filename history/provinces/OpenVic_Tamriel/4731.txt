@@ -1,6 +1,6 @@
-terrain = coastline
+terrain = mountain
 life_rating = 30
-trade_goods = tobacco
-owner = SD6
-controller = SD6
-add_core = SD6
+trade_goods = wool
+owner = CC6
+controller = CC6
+add_core = CC6

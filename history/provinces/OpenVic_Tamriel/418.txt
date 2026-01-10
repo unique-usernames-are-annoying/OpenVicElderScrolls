@@ -1,6 +1,6 @@
-terrain = fungal_forest
+terrain = mountain_meadows
 life_rating = 30
-trade_goods = coal
-owner = MJ4
-controller = MJ4
-add_core = MJ4
+trade_goods = wool
+owner = SC4
+controller = SC4
+add_core = SC4

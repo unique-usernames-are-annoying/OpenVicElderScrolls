@@ -1,6 +1,6 @@
-terrain = hills
+terrain = orcish_stronghold
 life_rating = 30
-trade_goods = grain
-owner = NF9
-controller = NF9
-add_core = NF9
+trade_goods = dye
+owner = MH8
+controller = MH8
+add_core = MH8

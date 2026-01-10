@@ -1,6 +1,3 @@
-terrain = urban_ald_ruhn
+terrain = bayou
 life_rating = 30
-trade_goods = iron
-owner = ME4
-controller = ME4
-add_core = ME4
+trade_goods = fruit

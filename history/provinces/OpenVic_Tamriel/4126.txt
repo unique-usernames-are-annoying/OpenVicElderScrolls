@@ -1,6 +1,3 @@
-terrain = fungal_forest
+terrain = marsh
 life_rating = 30
 trade_goods = grain
-owner = MG7
-controller = MG7
-add_core = MG7

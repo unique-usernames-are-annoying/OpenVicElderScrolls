@@ -1,6 +1,6 @@
-terrain = forest
+terrain = woods
 life_rating = 30
-trade_goods = cattle
-owner = SD2
-controller = SD2
-add_core = SD2
+trade_goods = grain
+owner = SD5
+controller = SD5
+add_core = SD5

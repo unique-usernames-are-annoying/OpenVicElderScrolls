@@ -1,6 +1,6 @@
-terrain = urban_firsthold
+terrain = forest
 life_rating = 30
-trade_goods = timber
-owner = SB2
-controller = SB2
-add_core = SB2
+trade_goods = coal
+owner = SD2
+controller = SD2
+add_core = SD2

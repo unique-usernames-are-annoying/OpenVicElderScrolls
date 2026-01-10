@@ -1,3 +1,6 @@
-terrain = mountain_meadows
+terrain = desert
 life_rating = 30
-trade_goods = grain
+trade_goods = fruit
+owner = EB2
+controller = EB2
+add_core = EB2

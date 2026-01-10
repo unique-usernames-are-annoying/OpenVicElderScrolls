@@ -1,6 +1,6 @@
-terrain = savannah
+terrain = forest
 life_rating = 30
-trade_goods = grain
-owner = EA4
-controller = EA4
-add_core = EA4
+trade_goods = timber
+owner = CD3
+controller = CD3
+add_core = CD3

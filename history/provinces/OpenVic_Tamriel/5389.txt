@@ -1,7 +1,6 @@
-terrain = grasslands
+terrain = hills
 life_rating = 30
-trade_goods = dye
-owner = CH1
-controller = CH1
-add_core = CH1
-add_core = CB8
+trade_goods = tea
+owner = NC1
+controller = NC1
+add_core = NC1

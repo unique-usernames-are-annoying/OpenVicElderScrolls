@@ -1,4 +1,4 @@
-capital = 6485
+capital = 4279
 government = republic
 religion = clavicus_vile_cult
 primary_culture = agaceph

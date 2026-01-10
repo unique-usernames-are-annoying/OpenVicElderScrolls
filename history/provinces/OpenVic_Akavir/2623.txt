@@ -1,6 +1,0 @@
-terrain = woods
-life_rating = 30
-trade_goods = iron
-owner = JB3
-controller = JB3
-add_core = JB3

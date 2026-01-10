@@ -1,6 +1,7 @@
 terrain = woods
 life_rating = 30
-trade_goods = fish
-owner = CC7
-controller = CC7
-add_core = CC7
+trade_goods = wool
+owner = NG6
+controller = NG6
+add_core = NG6
+add_core = NA5

@@ -1,4 +1,4 @@
-capital = 3188
+capital = 6848
 government = native
 religion = molag_bal_cult
 primary_culture = soul_shriven

@@ -1,6 +1,6 @@
-terrain = drylands
+terrain = woods
 life_rating = 30
-trade_goods = grain
-owner = EC6
-controller = EC6
-add_core = EC6
+trade_goods = fish
+owner = CB1
+controller = CB1
+add_core = CB1

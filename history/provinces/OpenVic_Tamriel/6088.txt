@@ -1,3 +1,6 @@
-terrain = steppe
+terrain = dwemer_stronghold
 life_rating = 30
-trade_goods = cattle
+trade_goods = tobacco
+owner = HD8
+controller = HD8
+add_core = HD8

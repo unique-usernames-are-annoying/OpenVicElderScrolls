@@ -1,4 +1,4 @@
-capital = 1587
+capital = 1747
 government = monarchy
 religion = tang_mo_pantheon
 primary_culture = tangmo

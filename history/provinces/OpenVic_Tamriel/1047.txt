@@ -1,3 +1,6 @@
-terrain = bayou
+terrain = blackreach_forest
 life_rating = 30
-trade_goods = cotton
+trade_goods = fish
+owner = NGH
+controller = NGH
+add_core = NGH

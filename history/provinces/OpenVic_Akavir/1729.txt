@@ -1,6 +1,6 @@
-terrain = coastline
+terrain = jungle
 life_rating = 30
-trade_goods = fish
+trade_goods = grain
 owner = JA2
 controller = JA2
 add_core = JA2

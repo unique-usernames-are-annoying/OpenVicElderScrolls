@@ -1,7 +1,6 @@
-terrain = coastline
+terrain = heathlands
 life_rating = 30
-trade_goods = grain
-owner = WIT
-controller = WIT
-add_core = WIT
-add_core = SHI
+trade_goods = tobacco
+owner = MG3
+controller = MG3
+add_core = MG3

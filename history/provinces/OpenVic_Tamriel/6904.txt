@@ -1,6 +1,0 @@
-terrain = mountain
-life_rating = 30
-trade_goods = cattle
-owner = BB0
-controller = BB0
-add_core = BB0

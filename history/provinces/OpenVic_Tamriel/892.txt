@@ -1,6 +1,6 @@
-terrain = desert
+terrain = craglands
 life_rating = 30
-trade_goods = iron
-owner = EA6
-controller = EA6
-add_core = EA6
+trade_goods = fruit
+owner = HH1
+controller = HH1
+add_core = HH1

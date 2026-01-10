@@ -1,6 +1,6 @@
-terrain = hills
+terrain = tundra
 life_rating = 30
-trade_goods = dye
-owner = HG5
-controller = HG5
-add_core = HG5
+trade_goods = tobacco
+owner = NA3
+controller = NA3
+add_core = NA3

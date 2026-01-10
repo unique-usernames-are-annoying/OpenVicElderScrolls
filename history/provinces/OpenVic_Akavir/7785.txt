@@ -1,6 +1,0 @@
-terrain = highlands
-life_rating = 30
-trade_goods = dye
-owner = OB2
-controller = OB2
-add_core = OB2

@@ -1,6 +1,0 @@
-terrain = mountain_meadows
-life_rating = 30
-trade_goods = precious_metal
-owner = UA7
-controller = UA7
-add_core = UA7

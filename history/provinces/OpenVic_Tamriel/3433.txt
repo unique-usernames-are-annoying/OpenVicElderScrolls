@@ -1,6 +1,3 @@
-terrain = ashlands
+terrain = fungal_forest
 life_rating = 30
-trade_goods = coal
-owner = MD3
-controller = MD3
-add_core = MD3
+trade_goods = fish

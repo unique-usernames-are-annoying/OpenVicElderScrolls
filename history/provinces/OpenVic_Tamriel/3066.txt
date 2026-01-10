@@ -1,6 +1,3 @@
-terrain = tundra
+terrain = desert
 life_rating = 30
-trade_goods = fish
-owner = BC9
-controller = BC9
-add_core = BC9
+trade_goods = grain

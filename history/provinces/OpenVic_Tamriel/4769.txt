@@ -1,6 +1,7 @@
-terrain = caves
+terrain = highlands
 life_rating = 30
-trade_goods = fish
-owner = SC0
-controller = SC0
-add_core = SC0
+trade_goods = tea
+owner = PER
+controller = PER
+add_core = PER
+add_core = CF0

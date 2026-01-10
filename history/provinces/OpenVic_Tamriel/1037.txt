@@ -1,6 +1,6 @@
-terrain = dwemer_stronghold
+terrain = urban_dusktown
 life_rating = 30
 trade_goods = grain
-owner = MG4
-controller = MG4
-add_core = MG4
+owner = RA7
+controller = RA7
+add_core = RA7

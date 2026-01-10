@@ -1,6 +1,6 @@
-terrain = forest
+terrain = mudflats
 life_rating = 30
-trade_goods = cotton
-owner = VB7
-controller = VB7
-add_core = VB7
+trade_goods = fruit
+owner = CG6
+controller = CG6
+add_core = CG6

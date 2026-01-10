@@ -1,6 +1,6 @@
-terrain = mudflats
+terrain = caves
 life_rating = 30
-trade_goods = tea
-owner = CG1
-controller = CG1
-add_core = CG1
+trade_goods = coal
+owner = NC4
+controller = NC4
+add_core = NC4

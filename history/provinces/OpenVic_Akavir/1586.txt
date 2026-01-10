@@ -1,6 +1,6 @@
-terrain = coastline
+terrain = highlands
 life_rating = 30
-trade_goods = grain
-owner = JA6
-controller = JA6
-add_core = JA6
+trade_goods = cotton
+owner = JB0
+controller = JB0
+add_core = JB0

@@ -1,6 +1,6 @@
-terrain = steppe
+terrain = forest
 life_rating = 30
-trade_goods = precious_metal
-owner = EB0
-controller = EB0
-add_core = EB0
+trade_goods = grain
+owner = CA6
+controller = CA6
+add_core = CA6

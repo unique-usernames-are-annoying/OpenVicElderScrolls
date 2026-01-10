@@ -1,6 +1,6 @@
-terrain = coastline
+terrain = urban_kita
 life_rating = 30
-trade_goods = wool
-owner = UB5
-controller = UB5
-add_core = UB5
+trade_goods = tobacco
+owner = JB0
+controller = JB0
+add_core = JB0

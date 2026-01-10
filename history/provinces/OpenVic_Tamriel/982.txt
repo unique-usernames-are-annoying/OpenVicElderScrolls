@@ -1,3 +1,6 @@
-terrain = hills
+terrain = caves
 life_rating = 30
-trade_goods = fish
+trade_goods = grain
+owner = RA3
+controller = RA3
+add_core = RA3

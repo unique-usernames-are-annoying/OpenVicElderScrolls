@@ -1,7 +1,3 @@
-terrain = jungle
+terrain = tundra
 life_rating = 30
-trade_goods = cattle
-owner = IA8
-controller = IA8
-add_core = IA8
-add_core = IB0
+trade_goods = grain

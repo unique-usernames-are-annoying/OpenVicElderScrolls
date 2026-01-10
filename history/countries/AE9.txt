@@ -1,4 +1,4 @@
-capital = 6819
+capital = 4193
 government = native
 religion = hist
 primary_culture = sarpa

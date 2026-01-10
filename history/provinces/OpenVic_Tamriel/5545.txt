@@ -1,7 +1,6 @@
-terrain = woods
+terrain = barrow
 life_rating = 30
-trade_goods = grain
-owner = CG7
-controller = CG7
-add_core = CG7
-add_core = CD8
+trade_goods = timber
+owner = NF9
+controller = NF9
+add_core = NF9

@@ -1,7 +1,7 @@
-terrain = forest
+terrain = woods
 life_rating = 30
-trade_goods = fruit
-owner = SA7
-controller = SA7
-add_core = SA7
-add_core = SD7
+trade_goods = cotton
+owner = CF6
+controller = CF6
+add_core = CF6
+add_core = CI8

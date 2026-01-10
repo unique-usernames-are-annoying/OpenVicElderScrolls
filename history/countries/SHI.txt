@@ -1,4 +1,4 @@
-capital = 3894
+capital = 303
 government = monarchy
 religion = sheogorath_cult
 primary_culture = daedra

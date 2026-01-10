@@ -1,7 +1,6 @@
-terrain = woods
+terrain = heathlands
 life_rating = 30
-trade_goods = wool
-owner = SB7
-controller = SB7
-add_core = SB7
-add_core = SD4
+trade_goods = coal
+owner = SC5
+controller = SC5
+add_core = SC5

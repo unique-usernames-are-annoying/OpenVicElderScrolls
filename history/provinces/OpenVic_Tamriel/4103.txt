@@ -1,6 +1,3 @@
-terrain = heathlands
+terrain = marsh
 life_rating = 30
-trade_goods = tobacco
-owner = MG3
-controller = MG3
-add_core = MG3
+trade_goods = timber

@@ -1,6 +1,6 @@
-terrain = blackreach_forest
+terrain = desert
 life_rating = 30
-trade_goods = grain
-owner = NGH
-controller = NGH
-add_core = NGH
+trade_goods = tea
+owner = EB4
+controller = EB4
+add_core = EB4

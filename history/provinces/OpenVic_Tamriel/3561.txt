@@ -1,0 +1,6 @@
+terrain = mountain
+life_rating = 30
+trade_goods = tea
+owner = MA2
+controller = MA2
+add_core = MA2

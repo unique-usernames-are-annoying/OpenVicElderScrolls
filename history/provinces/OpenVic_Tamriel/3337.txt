@@ -1,6 +1,3 @@
-terrain = mountain_meadows
+terrain = heathlands
 life_rating = 30
-trade_goods = coal
-owner = MC4
-controller = MC4
-add_core = MC4
+trade_goods = grain

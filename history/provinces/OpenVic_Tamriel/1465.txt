@@ -1,6 +1,0 @@
-terrain = dwemer_stronghold
-life_rating = 30
-trade_goods = iron
-owner = HG9
-controller = HG9
-add_core = HG9

@@ -1,4 +1,4 @@
-capital = 6517
+capital = 4377
 government = native
 religion = kothri_pantheon
 primary_culture = kothringi

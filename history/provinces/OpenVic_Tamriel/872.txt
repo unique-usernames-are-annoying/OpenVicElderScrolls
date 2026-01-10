@@ -1,6 +1,3 @@
-terrain = hills
+terrain = craglands
 life_rating = 30
-trade_goods = grain
-owner = VA7
-controller = VA7
-add_core = VA7
+trade_goods = cotton

@@ -1,4 +1,4 @@
-capital = 282
+capital = 228
 government = monarchy
 religion = altmeri_pantheon
 primary_culture = altmer

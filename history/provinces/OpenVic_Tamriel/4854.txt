@@ -1,6 +1,7 @@
 terrain = hills
 life_rating = 30
 trade_goods = grain
-owner = VC3
-controller = VC3
-add_core = VC3
+owner = ALH
+controller = ALH
+add_core = ALH
+add_core = CH9

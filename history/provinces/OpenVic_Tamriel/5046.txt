@@ -1,6 +1,6 @@
-terrain = urban_falinesti
+terrain = hills
 life_rating = 30
-trade_goods = dye
-owner = VA3
-controller = VA3
-add_core = VA3
+trade_goods = tropical_wood
+owner = CE1
+controller = CE1
+add_core = CE1

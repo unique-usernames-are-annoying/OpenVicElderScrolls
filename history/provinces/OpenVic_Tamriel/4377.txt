@@ -1,0 +1,6 @@
+terrain = hills
+life_rating = 30
+trade_goods = grain
+owner = AD4
+controller = AD4
+add_core = AD4

@@ -1,3 +1,6 @@
-terrain = steppe
+terrain = mountain_meadows
 life_rating = 30
-trade_goods = cattle
+trade_goods = fruit
+owner = BE9
+controller = BE9
+add_core = BE9

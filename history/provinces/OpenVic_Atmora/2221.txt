@@ -1,6 +1,0 @@
-terrain = taiga
-life_rating = 30
-trade_goods = cotton
-owner = DE5
-controller = DE5
-add_core = DE5

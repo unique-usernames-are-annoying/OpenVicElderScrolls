@@ -1,6 +1,0 @@
-terrain = jungle
-life_rating = 30
-trade_goods = tea
-owner = VB2
-controller = VB2
-add_core = VB2

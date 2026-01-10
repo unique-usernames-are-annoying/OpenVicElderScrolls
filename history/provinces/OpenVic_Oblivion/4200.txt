@@ -1,6 +1,0 @@
-terrain = deadlands_volcanic_peak
-life_rating = 30
-trade_goods = sulphur
-owner = GA9
-controller = GA9
-add_core = GA9

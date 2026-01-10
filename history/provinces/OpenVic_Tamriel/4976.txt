@@ -1,6 +1,6 @@
-terrain = hills
+terrain = mountain_meadows
 life_rating = 30
-trade_goods = grain
-owner = VC8
-controller = VC8
-add_core = VC8
+trade_goods = tea
+owner = CF2
+controller = CF2
+add_core = CF2

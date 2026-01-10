@@ -1,7 +1,6 @@
-terrain = hills
+terrain = drylands
 life_rating = 30
-trade_goods = cotton
-owner = NA3
-controller = NA3
-add_core = NA3
-add_core = ND9
+trade_goods = fruit
+owner = EA2
+controller = EA2
+add_core = EA2

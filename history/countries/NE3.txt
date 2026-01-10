@@ -1,4 +1,4 @@
-capital = 2818
+capital = 5569
 government = native
 religion = cult_of_ancestors
 primary_culture = giant

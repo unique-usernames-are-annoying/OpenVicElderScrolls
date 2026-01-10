@@ -1,6 +1,6 @@
-terrain = woods
+terrain = heathlands
 life_rating = 30
 trade_goods = cotton
-owner = CC9
-controller = CC9
-add_core = CC9
+owner = ND0
+controller = ND0
+add_core = ND0

@@ -1,3 +1,6 @@
-terrain = bayou
+terrain = taiga
 life_rating = 30
-trade_goods = silk
+trade_goods = tobacco
+owner = NA3
+controller = NA3
+add_core = NA3

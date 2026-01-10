@@ -1,6 +1,6 @@
-terrain = craglands
+terrain = mountain
 life_rating = 30
-trade_goods = fruit
-owner = MB7
-controller = MB7
-add_core = MB7
+trade_goods = dye
+owner = MA5
+controller = MA5
+add_core = MA5

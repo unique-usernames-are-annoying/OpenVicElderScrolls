@@ -1,6 +1,6 @@
-terrain = woods
+terrain = steppe
 life_rating = 30
-trade_goods = precious_metal
-owner = NF6
-controller = NF6
-add_core = NF6
+trade_goods = dye
+owner = EC8
+controller = EC8
+add_core = EC8

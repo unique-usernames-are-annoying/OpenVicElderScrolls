@@ -1,6 +1,6 @@
-terrain = heathlands
+terrain = dwemer_stronghold
 life_rating = 30
-trade_goods = cotton
-owner = MA5
-controller = MA5
-add_core = MA5
+trade_goods = cattle
+owner = MG4
+controller = MG4
+add_core = MG4

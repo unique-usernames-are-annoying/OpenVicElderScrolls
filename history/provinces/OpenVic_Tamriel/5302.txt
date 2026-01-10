@@ -1,6 +1,7 @@
-terrain = caves
+terrain = barrow
 life_rating = 30
-trade_goods = grain
-owner = CA1
-controller = CA1
-add_core = CA1
+trade_goods = tobacco
+owner = NG6
+controller = NG6
+add_core = NG6
+add_core = NA5

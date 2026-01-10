@@ -1,7 +1,7 @@
-terrain = highlands
+terrain = urban_kvatch
 life_rating = 30
-trade_goods = grain
-owner = SB2
-controller = SB2
-add_core = SB2
-add_core = SE1
+trade_goods = fish
+owner = CH3
+controller = CH3
+add_core = CH3
+add_core = CA7

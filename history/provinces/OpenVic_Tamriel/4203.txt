@@ -1,6 +1,3 @@
-terrain = ashlands
+terrain = jungle
 life_rating = 30
-trade_goods = cattle
-owner = MF9
-controller = MF9
-add_core = MF9
+trade_goods = wool

@@ -1,4 +1,4 @@
-capital = 1187
+capital = 5065
 government = theocracy
 religion = hermeus_mora_cult
 primary_culture = ayleid

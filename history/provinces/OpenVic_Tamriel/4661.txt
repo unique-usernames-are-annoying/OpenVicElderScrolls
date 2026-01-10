@@ -1,6 +1,6 @@
-terrain = hills
+terrain = highlands
 life_rating = 30
-trade_goods = tobacco
-owner = SA6
-controller = SA6
-add_core = SA6
+trade_goods = fruit
+owner = CB4
+controller = CB4
+add_core = CB4

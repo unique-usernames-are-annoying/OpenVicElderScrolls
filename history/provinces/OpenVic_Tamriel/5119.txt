@@ -1,3 +1,6 @@
 terrain = hills
 life_rating = 30
-trade_goods = timber
+trade_goods = iron
+owner = CB3
+controller = CB3
+add_core = CB3

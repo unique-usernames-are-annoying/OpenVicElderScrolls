@@ -1,3 +1,6 @@
-terrain = woods
+terrain = urban_telvannis
 life_rating = 30
-trade_goods = grain
+trade_goods = coal
+owner = MB6
+controller = MB6
+add_core = MB6

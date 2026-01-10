@@ -1,6 +1,0 @@
-terrain = orcish_stronghold
-life_rating = 30
-trade_goods = grain
-owner = HH3
-controller = HH3
-add_core = HH3

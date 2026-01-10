@@ -1,6 +1,3 @@
-terrain = craglands
+terrain = fungal_forest
 life_rating = 30
-trade_goods = timber
-owner = MC9
-controller = MC9
-add_core = MC9
+trade_goods = coal

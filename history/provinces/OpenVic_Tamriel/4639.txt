@@ -1,6 +1,6 @@
-terrain = coastline
+terrain = caves
 life_rating = 30
-trade_goods = fruit
-owner = SB6
-controller = SB6
-add_core = SB6
+trade_goods = grain
+owner = HG2
+controller = HG2
+add_core = HG2

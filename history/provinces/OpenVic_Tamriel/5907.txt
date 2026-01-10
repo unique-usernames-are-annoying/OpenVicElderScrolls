@@ -1,6 +1,7 @@
-terrain = highlands
+terrain = woods
 life_rating = 30
-trade_goods = coffee
-owner = CF2
-controller = CF2
-add_core = CF2
+trade_goods = grain
+owner = BF2
+controller = BF2
+add_core = BF2
+add_core = BA8

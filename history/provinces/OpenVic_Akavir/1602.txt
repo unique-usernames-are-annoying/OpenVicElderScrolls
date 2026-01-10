@@ -1,6 +1,6 @@
-terrain = savannah
+terrain = forest
 life_rating = 30
-trade_goods = dye
-owner = JA8
-controller = JA8
-add_core = JA8
+trade_goods = cattle
+owner = JB0
+controller = JB0
+add_core = JB0

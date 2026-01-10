@@ -1,3 +1,6 @@
-terrain = fungal_forest
+terrain = urban_red_mountain
 life_rating = 30
-trade_goods = grain
+trade_goods = tobacco
+owner = TON
+controller = TON
+add_core = TON

@@ -1,6 +1,0 @@
-terrain = urban_firsthold
-life_rating = 30
-trade_goods = wool
-owner = SB2
-controller = SB2
-add_core = SB2

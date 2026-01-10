@@ -1,6 +1,0 @@
-terrain = orcish_stronghold
-life_rating = 30
-trade_goods = timber
-owner = BF3
-controller = BF3
-add_core = BF3

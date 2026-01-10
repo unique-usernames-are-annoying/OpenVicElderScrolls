@@ -1,0 +1,6 @@
+terrain = urban_alinor
+life_rating = 30
+trade_goods = wool
+owner = SA6
+controller = SA6
+add_core = SA6

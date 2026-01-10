@@ -1,6 +1,6 @@
 terrain = forest
 life_rating = 30
-trade_goods = cattle
-owner = SD2
-controller = SD2
-add_core = SD2
+trade_goods = iron
+owner = EB9
+controller = EB9
+add_core = EB9

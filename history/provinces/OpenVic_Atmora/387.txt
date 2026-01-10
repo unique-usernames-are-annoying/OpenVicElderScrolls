@@ -1,6 +1,0 @@
-terrain = urban_jylkurfyk
-life_rating = 30
-trade_goods = coffee
-owner = DB2
-controller = DB2
-add_core = DB2

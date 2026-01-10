@@ -1,3 +1,6 @@
-terrain = hills
+terrain = mountain_meadows
 life_rating = 30
-trade_goods = cotton
+trade_goods = precious_metal
+owner = CG0
+controller = CG0
+add_core = CG0

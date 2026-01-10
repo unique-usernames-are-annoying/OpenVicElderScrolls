@@ -1,7 +1,6 @@
-terrain = coastline
+terrain = farmlands
 life_rating = 30
-trade_goods = cotton
-owner = SC3
-controller = SC3
-add_core = SC3
-add_core = SE3
+trade_goods = cattle
+owner = CH9
+controller = CH9
+add_core = CH9

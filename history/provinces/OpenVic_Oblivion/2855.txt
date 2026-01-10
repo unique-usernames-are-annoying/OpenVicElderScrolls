@@ -1,6 +1,0 @@
-terrain = dread_massive
-life_rating = 30
-trade_goods = dye
-owner = LA6
-controller = LA6
-add_core = LA6

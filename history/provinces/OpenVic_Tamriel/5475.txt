@@ -1,6 +1,6 @@
-terrain = bayou
+terrain = mountain_meadows
 life_rating = 30
-trade_goods = fruit
-owner = CG6
-controller = CG6
-add_core = CG6
+trade_goods = cattle
+owner = NF8
+controller = NF8
+add_core = NF8

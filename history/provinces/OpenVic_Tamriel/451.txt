@@ -1,6 +1,7 @@
-terrain = hills
+terrain = coastline
 life_rating = 30
-trade_goods = tobacco
-owner = SB8
-controller = SB8
-add_core = SB8
+trade_goods = cattle
+owner = SA6
+controller = SA6
+add_core = SA6
+add_core = SC8

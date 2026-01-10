@@ -1,0 +1,6 @@
+terrain = dwemer_stronghold
+life_rating = 30
+trade_goods = timber
+owner = MA3
+controller = MA3
+add_core = MA3

@@ -1,6 +1,6 @@
-terrain = jungle
+terrain = hills
 life_rating = 30
-trade_goods = timber
-owner = OC7
-controller = OC7
-add_core = OC7
+trade_goods = grain
+owner = JA5
+controller = JA5
+add_core = JA5

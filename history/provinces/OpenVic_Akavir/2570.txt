@@ -1,6 +1,0 @@
-terrain = woods
-life_rating = 30
-trade_goods = wool
-owner = OC1
-controller = OC1
-add_core = OC1

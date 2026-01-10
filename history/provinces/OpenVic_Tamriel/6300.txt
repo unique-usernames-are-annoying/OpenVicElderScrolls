@@ -1,6 +1,3 @@
 terrain = desert
 life_rating = 30
-trade_goods = grain
-owner = HA6
-controller = HA6
-add_core = HA6
+trade_goods = fruit

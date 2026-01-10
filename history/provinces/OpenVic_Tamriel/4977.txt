@@ -1,6 +1,6 @@
-terrain = forest
+terrain = mountain_meadows
 life_rating = 30
-trade_goods = fish
-owner = VA2
-controller = VA2
-add_core = VA2
+trade_goods = dye
+owner = CF2
+controller = CF2
+add_core = CF2

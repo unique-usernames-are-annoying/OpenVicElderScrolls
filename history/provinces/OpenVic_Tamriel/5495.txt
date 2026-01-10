@@ -1,6 +1,6 @@
-terrain = forest
+terrain = barrow
 life_rating = 30
-trade_goods = precious_metal
-owner = CB9
-controller = CB9
-add_core = CB9
+trade_goods = iron
+owner = NA3
+controller = NA3
+add_core = NA3

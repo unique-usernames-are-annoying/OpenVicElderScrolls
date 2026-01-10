@@ -1,3 +1,6 @@
-terrain = marsh
+terrain = mountain
 life_rating = 30
-trade_goods = wool
+trade_goods = coal
+owner = HF7
+controller = HF7
+add_core = HF7

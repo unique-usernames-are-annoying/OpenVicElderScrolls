@@ -1,6 +1,6 @@
-terrain = savannah
+terrain = woods
 life_rating = 30
-trade_goods = fish
-owner = ED1
-controller = ED1
-add_core = ED1
+trade_goods = fruit
+owner = CB4
+controller = CB4
+add_core = CB4

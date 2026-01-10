@@ -1,4 +1,4 @@
-capital = 667
+capital = 2086
 government = tribal
 religion = golden_paw_cult
 primary_culture = canis_men

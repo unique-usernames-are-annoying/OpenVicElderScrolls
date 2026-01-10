@@ -1,6 +1,4 @@
 terrain = highlands
 life_rating = 30
 trade_goods = tea
-owner = VB7
-controller = VB7
-add_core = VB7
+add_core = MIT

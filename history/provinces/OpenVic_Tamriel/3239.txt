@@ -1,3 +1,6 @@
-terrain = farmlands
+terrain = bayou
 life_rating = 30
-trade_goods = tea
+trade_goods = iron
+owner = MC3
+controller = MC3
+add_core = MC3

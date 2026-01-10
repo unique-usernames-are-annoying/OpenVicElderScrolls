@@ -1,6 +1,6 @@
-terrain = woods
+terrain = forest
 life_rating = 30
-trade_goods = grain
-owner = SB9
-controller = SB9
-add_core = SB9
+trade_goods = coal
+owner = CA6
+controller = CA6
+add_core = CA6

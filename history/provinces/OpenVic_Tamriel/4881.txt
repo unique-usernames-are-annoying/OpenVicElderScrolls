@@ -1,6 +1,7 @@
-terrain = forest
+terrain = jungle
 life_rating = 30
-trade_goods = sulphur
-owner = VB7
-controller = VB7
-add_core = VB7
+trade_goods = dye
+owner = ALG
+controller = ALG
+add_core = ALG
+add_core = CG9

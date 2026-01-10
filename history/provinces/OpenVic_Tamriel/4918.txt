@@ -1,6 +1,6 @@
-terrain = coastline
+terrain = mudflats
 life_rating = 30
-trade_goods = precious_metal
-owner = VB6
-controller = VB6
-add_core = VB6
+trade_goods = dye
+owner = CG1
+controller = CG1
+add_core = CG1

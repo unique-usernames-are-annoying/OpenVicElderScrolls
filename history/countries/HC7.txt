@@ -1,4 +1,4 @@
-capital = 6257
+capital = 6188
 government = republic
 religion = four_parents
 primary_culture = keptu

@@ -1,6 +1,0 @@
-terrain = steppe
-life_rating = 30
-trade_goods = iron
-owner = OC3
-controller = OC3
-add_core = OC3

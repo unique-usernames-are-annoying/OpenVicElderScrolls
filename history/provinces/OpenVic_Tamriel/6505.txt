@@ -1,3 +1,6 @@
-terrain = marsh
+terrain = highlands
 life_rating = 30
-trade_goods = cotton
+trade_goods = tea
+owner = HE0
+controller = HE0
+add_core = HE0

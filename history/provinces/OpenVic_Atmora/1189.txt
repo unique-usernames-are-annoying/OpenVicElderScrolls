@@ -1,0 +1,6 @@
+terrain = highlands
+life_rating = 30
+trade_goods = tobacco
+owner = DB6
+controller = DB6
+add_core = DB6

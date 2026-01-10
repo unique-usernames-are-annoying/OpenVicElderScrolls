@@ -1,4 +1,4 @@
-capital = 5029
+capital = 2607
 government = tribal
 religion = bosmer_pantheon
 primary_culture = hollow

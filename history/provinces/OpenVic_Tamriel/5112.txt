@@ -1,6 +1,6 @@
-terrain = highlands
+terrain = farmlands
 life_rating = 30
-trade_goods = fish
-owner = EB5
-controller = EB5
-add_core = EB5
+trade_goods = grain
+owner = CG7
+controller = CG7
+add_core = CG7

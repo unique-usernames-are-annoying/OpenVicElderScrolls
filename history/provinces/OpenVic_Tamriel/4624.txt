@@ -1,6 +1,6 @@
-terrain = hills
+terrain = farmlands
 life_rating = 30
-trade_goods = timber
-owner = SA3
-controller = SA3
-add_core = SA3
+trade_goods = grain
+owner = CD4
+controller = CD4
+add_core = CD4

@@ -1,6 +1,0 @@
-terrain = coastline
-life_rating = 30
-trade_goods = fish
-owner = PB5
-controller = PB5
-add_core = PB5

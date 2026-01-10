@@ -1,7 +1,6 @@
-terrain = forest
+terrain = highlands
 life_rating = 30
-trade_goods = grain
-owner = CD1
-controller = CD1
-add_core = CD1
-add_core = CE8
+trade_goods = precious_metal
+owner = ND1
+controller = ND1
+add_core = ND1

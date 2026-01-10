@@ -1,6 +1,6 @@
-terrain = highlands
+terrain = heathlands
 life_rating = 30
-trade_goods = grain
-owner = VA1
-controller = VA1
-add_core = VA1
+trade_goods = fruit
+owner = CG0
+controller = CG0
+add_core = CG0

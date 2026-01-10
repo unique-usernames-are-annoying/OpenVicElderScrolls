@@ -1,3 +1,7 @@
-terrain = steppe
+terrain = woods
 life_rating = 30
-trade_goods = cattle
+trade_goods = fish
+owner = CA6
+controller = CA6
+add_core = CA6
+add_core = ED3

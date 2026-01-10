@@ -1,6 +1,7 @@
-terrain = marsh
+terrain = barrow
 life_rating = 30
-trade_goods = coal
-owner = CA4
-controller = CA4
-add_core = CA4
+trade_goods = tea
+owner = NA3
+controller = NA3
+add_core = NA3
+add_core = ND9

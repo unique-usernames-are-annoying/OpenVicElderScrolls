@@ -1,6 +1,6 @@
-terrain = woods
+terrain = marsh
 life_rating = 30
 trade_goods = tea
-owner = BA3
-controller = BA3
-add_core = BA3
+owner = CG5
+controller = CG5
+add_core = CG5

@@ -1,6 +1,6 @@
-terrain = coastline
+terrain = woods
 life_rating = 30
-trade_goods = silk
-owner = SE0
-controller = SE0
-add_core = SE0
+trade_goods = grain
+owner = CH9
+controller = CH9
+add_core = CH9

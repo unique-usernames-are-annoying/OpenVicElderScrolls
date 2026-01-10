@@ -1,6 +1,0 @@
-terrain = urban_leyawiin
-life_rating = 30
-trade_goods = dye
-owner = CA1
-controller = CA1
-add_core = CA1

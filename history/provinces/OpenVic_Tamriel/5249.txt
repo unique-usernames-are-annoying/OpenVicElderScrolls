@@ -1,6 +1,7 @@
-terrain = savannah
+terrain = urban_kvatch
 life_rating = 30
-trade_goods = grain
-owner = EC7
-controller = EC7
-add_core = EC7
+trade_goods = wool
+owner = CH3
+controller = CH3
+add_core = CH3
+add_core = CA7

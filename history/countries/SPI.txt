@@ -1,4 +1,4 @@
-capital = 4252
+capital = 3455
 government = native
 religion = mephala_cult
 primary_culture = arachnid

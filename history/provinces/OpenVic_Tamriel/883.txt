@@ -1,6 +1,3 @@
-terrain = marsh
+terrain = woods
 life_rating = 30
-trade_goods = cattle
-owner = VC1
-controller = VC1
-add_core = VC1
+trade_goods = fruit

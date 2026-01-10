@@ -1,6 +1,0 @@
-terrain = woods
-life_rating = 30
-trade_goods = tobacco
-owner = CC4
-controller = CC4
-add_core = CC4

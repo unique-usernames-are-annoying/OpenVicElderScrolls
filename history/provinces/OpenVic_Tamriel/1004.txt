@@ -1,6 +1,6 @@
-terrain = hills
+terrain = caves
 life_rating = 30
-trade_goods = cattle
-owner = MB2
-controller = MB2
-add_core = MB2
+trade_goods = cotton
+owner = RB2
+controller = RB2
+add_core = RB2

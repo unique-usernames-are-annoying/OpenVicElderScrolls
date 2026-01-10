@@ -1,7 +1,7 @@
-terrain = farmlands
+terrain = barrow
 life_rating = 30
-trade_goods = grain
-owner = CH2
-controller = CH2
-add_core = CH2
-add_core = CB7
+trade_goods = cotton
+owner = NG6
+controller = NG6
+add_core = NG6
+add_core = NA5

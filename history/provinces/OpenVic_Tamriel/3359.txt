@@ -1,3 +1,6 @@
-terrain = craglands
+terrain = salt_plains
 life_rating = 30
 trade_goods = tea
+owner = MF3
+controller = MF3
+add_core = MF3

@@ -1,6 +1,6 @@
-terrain = hills
+terrain = mountain_meadows
 life_rating = 30
-trade_goods = grain
-owner = VB1
-controller = VB1
-add_core = VB1
+trade_goods = cotton
+owner = CE0
+controller = CE0
+add_core = CE0

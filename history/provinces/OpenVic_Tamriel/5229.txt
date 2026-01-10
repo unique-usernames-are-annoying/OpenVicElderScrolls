@@ -1,3 +1,7 @@
-terrain = hills
+terrain = coastline
 life_rating = 30
-trade_goods = grain
+trade_goods = silk
+owner = CH4
+controller = CH4
+add_core = CH4
+add_core = CA9

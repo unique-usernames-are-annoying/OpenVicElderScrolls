@@ -1,4 +1,4 @@
-capital = 320
+capital = 855
 government = republic
 religion = sload_faith
 primary_culture = sload

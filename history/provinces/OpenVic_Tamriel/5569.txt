@@ -1,6 +1,6 @@
-terrain = woods
+terrain = hot_springs
 life_rating = 30
-trade_goods = grain
-owner = CA4
-controller = CA4
-add_core = CA4
+trade_goods = tropical_wood
+owner = NE3
+controller = NE3
+add_core = NE3

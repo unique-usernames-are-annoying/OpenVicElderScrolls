@@ -1,6 +1,3 @@
-terrain = marsh
+terrain = tundra
 life_rating = 30
-trade_goods = iron
-owner = CD3
-controller = CD3
-add_core = CD3
+trade_goods = dye

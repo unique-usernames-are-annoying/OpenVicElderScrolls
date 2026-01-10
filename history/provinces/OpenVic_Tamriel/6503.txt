@@ -1,3 +1,6 @@
-terrain = jungle
+terrain = mountain_meadows
 life_rating = 30
-trade_goods = fish
+trade_goods = timber
+owner = HE0
+controller = HE0
+add_core = HE0

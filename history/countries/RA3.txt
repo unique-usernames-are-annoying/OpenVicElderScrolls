@@ -1,4 +1,4 @@
-capital = 3871
+capital = 1019
 government = monarchy
 religion = molag_bal_cult
 primary_culture = vampire

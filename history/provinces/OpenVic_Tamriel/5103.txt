@@ -1,6 +1,7 @@
-terrain = jungle
+terrain = grasslands
 life_rating = 30
-trade_goods = timber
-owner = EA8
-controller = EA8
-add_core = EA8
+trade_goods = tobacco
+owner = CG7
+controller = CG7
+add_core = CG7
+add_core = CB7

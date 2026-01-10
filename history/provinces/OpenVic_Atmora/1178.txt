@@ -1,0 +1,6 @@
+terrain = highlands
+life_rating = 30
+trade_goods = timber
+owner = DD4
+controller = DD4
+add_core = DD4

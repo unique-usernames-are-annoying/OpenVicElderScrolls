@@ -1,0 +1,6 @@
+terrain = urban_necrom
+life_rating = 30
+trade_goods = tea
+owner = MB4
+controller = MB4
+add_core = MB4

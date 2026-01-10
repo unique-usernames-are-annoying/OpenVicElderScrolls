@@ -1,4 +1,4 @@
-capital = 2722
+capital = 6852
 government = republic
 religion = molag_bal_cult
 primary_culture = dremoran

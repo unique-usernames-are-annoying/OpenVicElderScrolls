@@ -1,7 +1,7 @@
-terrain = woods
+terrain = hills
 life_rating = 30
-trade_goods = iron
-owner = CA8
-controller = CA8
-add_core = CA8
-add_core = CB2
+trade_goods = cotton
+owner = NG6
+controller = NG6
+add_core = NG6
+add_core = NA5

@@ -1,4 +1,7 @@
-terrain = mountain
+terrain = hills
 life_rating = 30
-trade_goods = grain
-add_core = CF1
+trade_goods = fish
+owner = BE3
+controller = BE3
+add_core = BE3
+add_core = BD2

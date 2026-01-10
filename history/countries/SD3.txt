@@ -1,4 +1,4 @@
-capital = 4800
+capital = 485
 government = theocracy
 religion = old_way_cult
 primary_culture = altmer

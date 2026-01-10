@@ -1,0 +1,6 @@
+terrain = forest
+life_rating = 30
+trade_goods = tobacco
+owner = VA6
+controller = VA6
+add_core = VA6

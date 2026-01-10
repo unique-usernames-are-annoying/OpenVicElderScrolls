@@ -1,7 +1,7 @@
-terrain = highlands
+terrain = urban_daggerfall
 life_rating = 30
-trade_goods = iron
-owner = CE3
-controller = CE3
-add_core = CE3
-add_core = CI9
+trade_goods = grain
+owner = BF2
+controller = BF2
+add_core = BF2
+add_core = BA1

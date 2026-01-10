@@ -1,7 +1,6 @@
-terrain = tundra
+terrain = savannah
 life_rating = 30
-trade_goods = iron
-owner = NGH
-controller = NGH
-add_core = NGH
-add_core = NB0
+trade_goods = precious_metal
+owner = EC2
+controller = EC2
+add_core = EC2

@@ -1,0 +1,6 @@
+terrain = desert
+life_rating = 30
+trade_goods = cattle
+owner = YB9
+controller = YB9
+add_core = YB9

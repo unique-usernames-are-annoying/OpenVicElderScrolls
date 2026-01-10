@@ -1,6 +1,6 @@
-terrain = marsh
+terrain = glacier
 life_rating = 30
-trade_goods = cotton
-owner = HH6
-controller = HH6
-add_core = HH6
+trade_goods = tobacco
+owner = ND8
+controller = ND8
+add_core = ND8

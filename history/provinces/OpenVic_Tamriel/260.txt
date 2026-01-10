@@ -1,6 +1,7 @@
-terrain = hills
+terrain = coastline
 life_rating = 30
-trade_goods = dye
-owner = SD3
-controller = SD3
-add_core = SD3
+trade_goods = silk
+owner = SC3
+controller = SC3
+add_core = SC3
+add_core = SE3

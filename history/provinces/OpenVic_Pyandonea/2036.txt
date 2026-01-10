@@ -1,6 +1,0 @@
-terrain = urban_kituna_vos
-life_rating = 30
-trade_goods = grain
-owner = PA8
-controller = PA8
-add_core = PA8

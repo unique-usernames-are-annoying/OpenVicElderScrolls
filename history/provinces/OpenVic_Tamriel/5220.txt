@@ -1,6 +1,6 @@
 terrain = drylands
 life_rating = 30
 trade_goods = grain
-owner = EA2
-controller = EA2
-add_core = EA2
+owner = CC4
+controller = CC4
+add_core = CC4

@@ -1,6 +1,3 @@
-terrain = highlands
+terrain = mountain
 life_rating = 30
-trade_goods = coal
-owner = HF5
-controller = HF5
-add_core = HF5
+trade_goods = grain

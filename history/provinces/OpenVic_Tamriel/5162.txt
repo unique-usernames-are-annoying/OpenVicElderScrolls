@@ -1,6 +1,7 @@
-terrain = savannah
+terrain = hills
 life_rating = 30
-trade_goods = coal
-owner = EA9
-controller = EA9
-add_core = EA9
+trade_goods = fruit
+owner = PER
+controller = PER
+add_core = PER
+add_core = CF0

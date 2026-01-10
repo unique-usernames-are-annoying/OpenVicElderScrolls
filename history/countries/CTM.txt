@@ -1,4 +1,4 @@
-capital = 1106
+capital = 4289
 government = tribal
 religion = chimer_pantheon
 primary_culture = cantemiric

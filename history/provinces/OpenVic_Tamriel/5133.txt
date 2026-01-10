@@ -1,6 +1,6 @@
-terrain = savannah
+terrain = woods
 life_rating = 30
-trade_goods = tobacco
-owner = EB4
-controller = EB4
-add_core = EB4
+trade_goods = cattle
+owner = CA4
+controller = CA4
+add_core = CA4

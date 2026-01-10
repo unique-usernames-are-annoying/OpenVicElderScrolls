@@ -1,7 +1,7 @@
-terrain = jungle
+terrain = highlands
 life_rating = 30
 trade_goods = grain
-owner = IA8
-controller = IA8
-add_core = IA8
-add_core = IB0
+owner = OA2
+controller = OA2
+add_core = OA2
+add_core = OA1

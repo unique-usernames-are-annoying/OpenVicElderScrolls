@@ -1,4 +1,4 @@
-capital = 5536
+capital = 5102
 government = theocracy
 religion = ayleid_pantheon
 primary_culture = ayleid

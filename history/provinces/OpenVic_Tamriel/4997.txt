@@ -1,6 +1,6 @@
-terrain = forest
+terrain = woods
 life_rating = 30
-trade_goods = wool
-owner = IMG
-controller = IMG
-add_core = IMG
+trade_goods = fruit
+owner = CF6
+controller = CF6
+add_core = CF6

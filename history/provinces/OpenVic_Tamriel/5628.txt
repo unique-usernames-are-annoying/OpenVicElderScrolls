@@ -1,6 +1,7 @@
-terrain = forest
+terrain = mountain
 life_rating = 30
-trade_goods = coal
-owner = CA6
-controller = CA6
-add_core = CA6
+trade_goods = sulphur
+owner = NG5
+controller = NG5
+add_core = NG5
+add_core = NF3

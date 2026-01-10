@@ -1,7 +1,6 @@
-terrain = farmlands
+terrain = glacier
 life_rating = 30
 trade_goods = grain
-owner = CH5
-controller = CH5
-add_core = CH5
-add_core = CD9
+owner = STA
+controller = STA
+add_core = STA

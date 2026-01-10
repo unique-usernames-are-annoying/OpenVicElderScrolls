@@ -1,6 +1,3 @@
-terrain = coastline
+terrain = woods
 life_rating = 30
-trade_goods = coal
-owner = CC1
-controller = CC1
-add_core = CC1
+trade_goods = fish

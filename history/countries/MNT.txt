@@ -1,4 +1,4 @@
-capital = 1179
+capital = 4602
 government = tribal
 religion = nedic_pantheon
 primary_culture = minotaur

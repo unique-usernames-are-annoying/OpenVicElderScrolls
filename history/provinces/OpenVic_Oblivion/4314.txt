@@ -1,6 +1,0 @@
-terrain = deadlands_lava_cave
-life_rating = 30
-trade_goods = tobacco
-owner = GA9
-controller = GA9
-add_core = GA9

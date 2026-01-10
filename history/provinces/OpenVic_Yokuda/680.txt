@@ -1,0 +1,6 @@
+terrain = hills
+life_rating = 30
+trade_goods = precious_metal
+owner = YC7
+controller = YC7
+add_core = YC7

@@ -1,6 +1,7 @@
-terrain = forest
+terrain = marsh
 life_rating = 30
-trade_goods = fruit
-owner = VE0
-controller = VE0
-add_core = VE0
+trade_goods = grain
+owner = CG9
+controller = CG9
+add_core = CG9
+add_core = CA2

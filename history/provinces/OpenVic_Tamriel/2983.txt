@@ -1,6 +1,6 @@
-terrain = caves
+terrain = savannah
 life_rating = 30
-trade_goods = opium
-owner = RA3
-controller = RA3
-add_core = RA3
+trade_goods = tea
+owner = ED1
+controller = ED1
+add_core = ED1

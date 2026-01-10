@@ -1,3 +1,6 @@
-terrain = mudflats
+terrain = bayou
 life_rating = 30
-trade_goods = fruit
+trade_goods = tobacco
+owner = MK0
+controller = MK0
+add_core = MK0

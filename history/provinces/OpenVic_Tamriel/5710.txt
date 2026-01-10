@@ -1,7 +1,6 @@
-terrain = grasslands
+terrain = tundra
 life_rating = 30
-trade_goods = coal
-owner = CH3
-controller = CH3
-add_core = CH3
-add_core = CA7
+trade_goods = opium
+owner = NG2
+controller = NG2
+add_core = NG2

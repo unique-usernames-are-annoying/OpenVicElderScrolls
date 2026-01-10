@@ -1,7 +1,3 @@
-terrain = mountain_meadows
+terrain = steppe
 life_rating = 30
-trade_goods = wool
-owner = MG0
-controller = MG0
-add_core = MG0
-add_core = MI0
+trade_goods = grain

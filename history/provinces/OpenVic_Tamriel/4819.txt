@@ -1,6 +1,6 @@
-terrain = jungle
+terrain = farmlands
 life_rating = 30
-trade_goods = grain
-owner = SA8
-controller = SA8
-add_core = SA8
+trade_goods = tea
+owner = CH9
+controller = CH9
+add_core = CH9

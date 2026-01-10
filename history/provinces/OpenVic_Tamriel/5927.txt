@@ -1,6 +1,7 @@
-terrain = forest
+terrain = heathlands
 life_rating = 30
-trade_goods = cattle
-owner = CF3
-controller = CF3
-add_core = CF3
+trade_goods = dye
+owner = BA3
+controller = BA3
+add_core = BA3
+add_core = BC8

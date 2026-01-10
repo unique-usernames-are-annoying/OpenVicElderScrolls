@@ -1,6 +1,7 @@
-terrain = grasslands
+terrain = mountain
 life_rating = 30
 trade_goods = tobacco
-owner = CD6
-controller = CD6
-add_core = CD6
+owner = NG7
+controller = NG7
+add_core = NG7
+add_core = NA1

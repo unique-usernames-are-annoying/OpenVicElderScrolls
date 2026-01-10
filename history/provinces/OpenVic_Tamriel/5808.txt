@@ -1,6 +1,7 @@
-terrain = forest
+terrain = glacier
 life_rating = 30
-trade_goods = tea
-owner = CE0
-controller = CE0
-add_core = CE0
+trade_goods = fruit
+owner = NB5
+controller = NB5
+add_core = NB5
+add_core = NE7

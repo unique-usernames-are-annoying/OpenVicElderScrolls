@@ -1,6 +1,6 @@
-terrain = savannah
+terrain = woods
 life_rating = 30
 trade_goods = grain
-owner = EB1
-controller = EB1
-add_core = EB1
+owner = CB3
+controller = CB3
+add_core = CB3

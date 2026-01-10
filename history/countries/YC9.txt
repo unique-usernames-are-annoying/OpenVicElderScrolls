@@ -1,4 +1,4 @@
-capital = 9530
+capital = 798
 government = theocracy
 religion = altmeri_pantheon
 primary_culture = sinistral

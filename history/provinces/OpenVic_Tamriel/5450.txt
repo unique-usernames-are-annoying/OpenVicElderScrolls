@@ -1,7 +1,6 @@
-terrain = hills
+terrain = glacier
 life_rating = 30
-trade_goods = grain
-owner = ALG
-controller = ALG
-add_core = ALG
-add_core = CG9
+trade_goods = tea
+owner = NA8
+controller = NA8
+add_core = NA8

@@ -1,3 +1,6 @@
-terrain = marsh
+terrain = hills
 life_rating = 30
 trade_goods = grain
+owner = HE0
+controller = HE0
+add_core = HE0

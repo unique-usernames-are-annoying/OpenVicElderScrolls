@@ -1,6 +1,6 @@
-terrain = barrow
+terrain = highlands
 life_rating = 30
-trade_goods = tobacco
-owner = NC7
-controller = NC7
-add_core = NC7
+trade_goods = tropical_wood
+owner = EB8
+controller = EB8
+add_core = EB8

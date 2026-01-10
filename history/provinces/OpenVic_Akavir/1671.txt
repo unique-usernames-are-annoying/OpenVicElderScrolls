@@ -1,7 +1,6 @@
 terrain = coastline
 life_rating = 30
-trade_goods = tea
-owner = OC5
-controller = OC5
-add_core = OC5
-add_core = OC7
+trade_goods = tobacco
+owner = JA7
+controller = JA7
+add_core = JA7

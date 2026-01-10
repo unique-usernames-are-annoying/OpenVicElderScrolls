@@ -1,0 +1,6 @@
+terrain = forest
+life_rating = 30
+trade_goods = tea
+owner = VC7
+controller = VC7
+add_core = VC7

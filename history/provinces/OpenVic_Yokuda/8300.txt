@@ -1,7 +1,0 @@
-terrain = coastline
-life_rating = 30
-trade_goods = sulphur
-owner = YA3
-controller = YA3
-add_core = YA3
-add_core = YA7

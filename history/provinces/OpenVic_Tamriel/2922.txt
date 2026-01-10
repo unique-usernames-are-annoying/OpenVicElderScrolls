@@ -1,6 +1,6 @@
-terrain = highlands
+terrain = grasslands
 life_rating = 30
-trade_goods = tea
-owner = NA2
-controller = NA2
-add_core = NA2
+trade_goods = dye
+owner = EA1
+controller = EA1
+add_core = EA1

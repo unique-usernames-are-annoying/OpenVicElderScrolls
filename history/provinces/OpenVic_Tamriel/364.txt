@@ -1,0 +1,6 @@
+terrain = highlands
+life_rating = 30
+trade_goods = fruit
+owner = SA1
+controller = SA1
+add_core = SA1

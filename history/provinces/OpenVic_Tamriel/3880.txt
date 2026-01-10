@@ -1,6 +1,3 @@
-terrain = dwemer_stronghold
+terrain = highlands
 life_rating = 30
-trade_goods = grain
-owner = RA6
-controller = RA6
-add_core = RA6
+trade_goods = fruit

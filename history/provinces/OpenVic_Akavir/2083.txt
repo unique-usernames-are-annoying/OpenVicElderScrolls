@@ -1,0 +1,7 @@
+terrain = steppe
+life_rating = 30
+trade_goods = coffee
+owner = OB2
+controller = OB2
+add_core = OB2
+add_core = OA9

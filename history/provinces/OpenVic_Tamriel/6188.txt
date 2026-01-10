@@ -1,3 +1,6 @@
-terrain = hills
+terrain = woods
 life_rating = 30
-trade_goods = dye
+trade_goods = tropical_wood
+owner = HC7
+controller = HC7
+add_core = HC7

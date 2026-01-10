@@ -1,6 +1,3 @@
-terrain = ashlands
+terrain = marsh
 life_rating = 30
-trade_goods = timber
-owner = TON
-controller = TON
-add_core = TON
+trade_goods = grain

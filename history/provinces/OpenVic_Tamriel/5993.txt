@@ -1,6 +1,7 @@
-terrain = forest
+terrain = hills
 life_rating = 30
-trade_goods = cotton
-owner = CF9
-controller = CF9
-add_core = CF9
+trade_goods = fruit
+owner = BA3
+controller = BA3
+add_core = BA3
+add_core = BB7

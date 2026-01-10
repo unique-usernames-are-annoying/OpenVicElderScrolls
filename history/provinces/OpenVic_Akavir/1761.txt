@@ -1,6 +1,6 @@
-terrain = urban_abu
+terrain = jungle
 life_rating = 30
-trade_goods = grain
-owner = JA8
-controller = JA8
-add_core = JA8
+trade_goods = tobacco
+owner = JA3
+controller = JA3
+add_core = JA3

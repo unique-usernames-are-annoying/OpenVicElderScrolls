@@ -1,6 +1,6 @@
-terrain = woods
+terrain = highlands
 life_rating = 30
-trade_goods = grain
-owner = ED2
-controller = ED2
-add_core = ED2
+trade_goods = cotton
+owner = CB4
+controller = CB4
+add_core = CB4

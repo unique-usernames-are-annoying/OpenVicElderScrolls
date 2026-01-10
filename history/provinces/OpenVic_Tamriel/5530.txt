@@ -1,6 +1,3 @@
 terrain = hills
 life_rating = 30
-trade_goods = wool
-owner = CA4
-controller = CA4
-add_core = CA4
+trade_goods = grain

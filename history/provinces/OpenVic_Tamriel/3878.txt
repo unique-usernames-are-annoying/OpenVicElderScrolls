@@ -1,6 +1,3 @@
-terrain = dwemer_stronghold
+terrain = craglands
 life_rating = 30
-trade_goods = timber
-owner = RA9
-controller = RA9
-add_core = RA9
+trade_goods = fish

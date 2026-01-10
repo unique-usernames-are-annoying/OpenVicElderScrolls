@@ -1,6 +1,7 @@
-terrain = mountain
+terrain = highlands
 life_rating = 30
-trade_goods = fruit
-owner = SA8
-controller = SA8
-add_core = SA8
+trade_goods = precious_metal
+owner = PER
+controller = PER
+add_core = PER
+add_core = CE0

@@ -1,0 +1,6 @@
+terrain = drylands
+life_rating = 30
+trade_goods = tea
+owner = EA2
+controller = EA2
+add_core = EA2

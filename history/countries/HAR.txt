@@ -1,4 +1,4 @@
-capital = 3043
+capital = 5708
 government = native
 religion = molag_bal_cult
 primary_culture = harvester

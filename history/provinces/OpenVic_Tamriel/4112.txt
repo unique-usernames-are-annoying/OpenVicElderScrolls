@@ -1,3 +1,6 @@
-terrain = highlands
+terrain = urban_helstrom
 life_rating = 30
-trade_goods = tea
+trade_goods = fish
+owner = AB0
+controller = AB0
+add_core = AB0

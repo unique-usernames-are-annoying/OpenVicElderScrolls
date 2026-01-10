@@ -1,6 +1,0 @@
-terrain = urban_falinesti
-life_rating = 30
-trade_goods = tobacco
-owner = VA3
-controller = VA3
-add_core = VA3

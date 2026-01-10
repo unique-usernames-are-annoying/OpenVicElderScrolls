@@ -1,4 +1,4 @@
-capital = 3894
+capital = 303
 government = theocracy
 religion = students_of_magnus
 primary_culture = nord

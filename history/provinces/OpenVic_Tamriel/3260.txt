@@ -1,6 +1,6 @@
-terrain = dwemer_stronghold
+terrain = hills
 life_rating = 30
-trade_goods = fish
-owner = MA7
-controller = MA7
-add_core = MA7
+trade_goods = tea
+owner = MI1
+controller = MI1
+add_core = MI1

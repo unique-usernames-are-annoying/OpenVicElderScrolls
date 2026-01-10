@@ -1,6 +1,7 @@
-terrain = farmlands
+terrain = highlands
 life_rating = 30
-trade_goods = grain
-owner = CH9
-controller = CH9
-add_core = CH9
+trade_goods = opium
+owner = BE4
+controller = BE4
+add_core = BE4
+add_core = BA8

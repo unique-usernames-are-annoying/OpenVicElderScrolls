@@ -1,6 +1,6 @@
-terrain = urban_chorrol
+terrain = caves
 life_rating = 30
-trade_goods = wool
-owner = CF0
-controller = CF0
-add_core = CF0
+trade_goods = grain
+owner = NB4
+controller = NB4
+add_core = NB4

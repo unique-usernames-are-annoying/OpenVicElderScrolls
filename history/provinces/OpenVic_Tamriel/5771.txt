@@ -1,7 +1,6 @@
-terrain = mountain_meadows
+terrain = tundra
 life_rating = 30
-trade_goods = grain
-owner = PER
-controller = PER
-add_core = PER
-add_core = CF0
+trade_goods = fish
+owner = NB6
+controller = NB6
+add_core = NB6

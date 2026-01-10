@@ -1,7 +1,7 @@
-terrain = hills
+terrain = mountain_meadows
 life_rating = 30
-trade_goods = tea
-owner = CH7
-controller = CH7
-add_core = CH7
-add_core = CG8
+trade_goods = precious_metal
+owner = NB5
+controller = NB5
+add_core = NB5
+add_core = NE7

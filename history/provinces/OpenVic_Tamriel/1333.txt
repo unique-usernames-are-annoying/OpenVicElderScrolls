@@ -1,6 +1,0 @@
-terrain = tundra
-life_rating = 30
-trade_goods = dye
-owner = ND2
-controller = ND2
-add_core = ND2

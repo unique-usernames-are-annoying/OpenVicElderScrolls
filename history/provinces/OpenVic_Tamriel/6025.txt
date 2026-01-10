@@ -1,3 +1,7 @@
-terrain = mountain
+terrain = mountain_meadows
 life_rating = 30
-trade_goods = dye
+trade_goods = grain
+owner = BE5
+controller = BE5
+add_core = BE5
+add_core = BB9

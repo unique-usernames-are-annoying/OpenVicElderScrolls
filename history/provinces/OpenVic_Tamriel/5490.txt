@@ -1,6 +1,7 @@
-terrain = forest
+terrain = moorlands
 life_rating = 30
-trade_goods = coal
-owner = CD3
-controller = CD3
-add_core = CD3
+trade_goods = cattle
+owner = NB5
+controller = NB5
+add_core = NB5
+add_core = NE7

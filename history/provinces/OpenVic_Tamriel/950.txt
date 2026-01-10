@@ -1,6 +1,0 @@
-terrain = barrow
-life_rating = 30
-trade_goods = tea
-owner = MA1
-controller = MA1
-add_core = MA1

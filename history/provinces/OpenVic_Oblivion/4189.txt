@@ -1,6 +1,0 @@
-terrain = urban_wretched_spire
-life_rating = 30
-trade_goods = fish
-owner = GB0
-controller = GB0
-add_core = GB0

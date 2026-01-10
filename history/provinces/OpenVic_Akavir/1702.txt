@@ -1,3 +1,6 @@
-terrain = mountain
+terrain = hills
 life_rating = 30
-trade_goods = fruit
+trade_goods = grain
+owner = JA1
+controller = JA1
+add_core = JA1

@@ -1,6 +1,7 @@
-terrain = forest
+terrain = mudflats
 life_rating = 30
-trade_goods = tobacco
-owner = VB3
-controller = VB3
-add_core = VB3
+trade_goods = tea
+owner = CF6
+controller = CF6
+add_core = CF6
+add_core = CI8

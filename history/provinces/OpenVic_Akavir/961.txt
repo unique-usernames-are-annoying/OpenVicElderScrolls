@@ -1,0 +1,6 @@
+terrain = highlands
+life_rating = 30
+trade_goods = tobacco
+owner = IA7
+controller = IA7
+add_core = IA7

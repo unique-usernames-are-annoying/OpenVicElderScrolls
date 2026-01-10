@@ -1,6 +1,7 @@
-terrain = jungle
+terrain = marsh
 life_rating = 30
-trade_goods = fruit
-owner = VE1
-controller = VE1
-add_core = VE1
+trade_goods = grain
+owner = ALG
+controller = ALG
+add_core = ALG
+add_core = CG9

@@ -1,6 +1,3 @@
-terrain = salt_plains
+terrain = ashlands
 life_rating = 30
-trade_goods = timber
-owner = MD6
-controller = MD6
-add_core = MD6
+trade_goods = wool

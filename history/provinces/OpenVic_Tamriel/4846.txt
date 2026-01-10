@@ -1,6 +1,7 @@
-terrain = woods
+terrain = farmlands
 life_rating = 30
-trade_goods = tobacco
-owner = VA4
-controller = VA4
-add_core = VA4
+trade_goods = cotton
+owner = CH1
+controller = CH1
+add_core = CH1
+add_core = CE7

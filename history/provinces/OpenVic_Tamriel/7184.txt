@@ -1,6 +1,0 @@
-terrain = highlands
-life_rating = 30
-trade_goods = dye
-owner = VOL
-controller = VOL
-add_core = VOL

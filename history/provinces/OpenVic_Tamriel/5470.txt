@@ -1,7 +1,6 @@
-terrain = marsh
+terrain = dwemer_stronghold
 life_rating = 30
 trade_goods = grain
-owner = ALG
-controller = ALG
-add_core = ALG
-add_core = CG9
+owner = NE2
+controller = NE2
+add_core = NE2

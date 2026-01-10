@@ -1,7 +1,7 @@
-terrain = grasslands
+terrain = mountain_meadows
 life_rating = 30
 trade_goods = grain
-owner = CB1
-controller = CB1
-add_core = CB1
-add_core = CB2
+owner = NG6
+controller = NG6
+add_core = NG6
+add_core = NA5

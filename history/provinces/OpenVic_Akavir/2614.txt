@@ -1,6 +1,0 @@
-terrain = hills
-life_rating = 30
-trade_goods = tropical_wood
-owner = KA7
-controller = KA7
-add_core = KA7

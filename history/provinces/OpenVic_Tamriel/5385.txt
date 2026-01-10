@@ -1,7 +1,6 @@
-terrain = hills
+terrain = dwemer_stronghold
 life_rating = 30
-trade_goods = cattle
-owner = CE9
-controller = CE9
-add_core = CE9
-add_core = CE7
+trade_goods = dye
+owner = NB7
+controller = NB7
+add_core = NB7

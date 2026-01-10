@@ -1,4 +1,4 @@
-capital = 1482
+capital = 6184
 government = monarchy
 religion = zeqqi_cult
 primary_culture = keptu

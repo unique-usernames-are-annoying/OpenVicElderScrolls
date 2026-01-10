@@ -1,4 +1,4 @@
-capital = 984
+capital = 3773
 government = tribal
 religion = god_of_the_wild
 primary_culture = ashlander_chimer

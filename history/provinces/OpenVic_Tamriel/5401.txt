@@ -1,6 +1,6 @@
-terrain = bayou
+terrain = barrow
 life_rating = 30
-trade_goods = tea
-owner = CG4
-controller = CG4
-add_core = CG4
+trade_goods = coal
+owner = ND1
+controller = ND1
+add_core = ND1

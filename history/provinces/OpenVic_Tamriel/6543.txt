@@ -1,3 +1,6 @@
-terrain = jungle
+terrain = orcish_stronghold
 life_rating = 30
 trade_goods = grain
+owner = HC4
+controller = HC4
+add_core = HC4

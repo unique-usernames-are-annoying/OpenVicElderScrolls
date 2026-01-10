@@ -1,6 +1,0 @@
-terrain = highlands
-life_rating = 30
-trade_goods = cattle
-owner = UA6
-controller = UA6
-add_core = UA6

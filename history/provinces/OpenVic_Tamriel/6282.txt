@@ -1,6 +1,3 @@
-terrain = highlands
+terrain = plateau
 life_rating = 30
-trade_goods = iron
-owner = HF3
-controller = HF3
-add_core = HF3
+trade_goods = dye

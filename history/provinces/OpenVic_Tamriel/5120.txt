@@ -1,6 +1,6 @@
-terrain = hills
+terrain = woods
 life_rating = 30
-trade_goods = silk
-owner = EB1
-controller = EB1
-add_core = EB1
+trade_goods = dye
+owner = CB3
+controller = CB3
+add_core = CB3

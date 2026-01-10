@@ -1,6 +1,6 @@
-terrain = craglands
+terrain = dwemer_stronghold
 life_rating = 30
-trade_goods = coal
-owner = SED
-controller = SED
-add_core = SED
+trade_goods = grain
+owner = RA9
+controller = RA9
+add_core = RA9

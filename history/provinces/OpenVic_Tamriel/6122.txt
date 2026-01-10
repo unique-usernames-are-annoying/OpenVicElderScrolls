@@ -1,3 +1,6 @@
-terrain = desert
+terrain = woods
 life_rating = 30
-trade_goods = wool
+trade_goods = grain
+owner = BC1
+controller = BC1
+add_core = BC1

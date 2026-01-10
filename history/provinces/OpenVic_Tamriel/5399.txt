@@ -1,6 +1,6 @@
-terrain = forest
+terrain = mountain
 life_rating = 30
-trade_goods = fruit
-owner = CG3
-controller = CG3
-add_core = CG3
+trade_goods = cattle
+owner = ND1
+controller = ND1
+add_core = ND1

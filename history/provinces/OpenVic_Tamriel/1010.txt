@@ -1,6 +1,6 @@
-terrain = hills
+terrain = dwemer_stronghold
 life_rating = 30
-trade_goods = tobacco
-owner = MB3
-controller = MB3
-add_core = MB3
+trade_goods = fruit
+owner = RA4
+controller = RA4
+add_core = RA4

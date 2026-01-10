@@ -1,6 +1,3 @@
-terrain = urban_nchardak
+terrain = highlands
 life_rating = 30
-trade_goods = coal
-owner = MJ0
-controller = MJ0
-add_core = MJ0
+trade_goods = fruit

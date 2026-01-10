@@ -1,4 +1,4 @@
-capital = 3030
+capital = 5498
 government = tribal
 religion = dragon_cult
 primary_culture = giant

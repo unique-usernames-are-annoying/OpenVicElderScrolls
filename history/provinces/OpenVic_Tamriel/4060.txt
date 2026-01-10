@@ -1,7 +1,3 @@
-terrain = craglands
+terrain = bayou
 life_rating = 30
-trade_goods = grain
-owner = MA8
-controller = MA8
-add_core = MA8
-add_core = MK1
+trade_goods = cattle

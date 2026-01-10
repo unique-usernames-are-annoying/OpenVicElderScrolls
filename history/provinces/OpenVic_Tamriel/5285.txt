@@ -1,6 +1,7 @@
-terrain = urban_corinthe
+terrain = mountain_meadows
 life_rating = 30
 trade_goods = grain
-owner = EC9
-controller = EC9
-add_core = EC9
+owner = NG7
+controller = NG7
+add_core = NG7
+add_core = NA1

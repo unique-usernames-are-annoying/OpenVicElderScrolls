@@ -1,0 +1,6 @@
+terrain = desert
+life_rating = 30
+trade_goods = precious_metal
+owner = PA3
+controller = PA3
+add_core = PA3

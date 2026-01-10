@@ -1,6 +1,0 @@
-terrain = urban_tsaesci
-life_rating = 30
-trade_goods = timber
-owner = TA3
-controller = TA3
-add_core = TA3

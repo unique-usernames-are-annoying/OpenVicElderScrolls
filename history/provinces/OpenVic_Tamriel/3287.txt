@@ -1,6 +1,3 @@
-terrain = bayou
+terrain = salt_plains
 life_rating = 30
-trade_goods = grain
-owner = MK0
-controller = MK0
-add_core = MK0
+trade_goods = dye

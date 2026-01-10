@@ -1,6 +1,0 @@
-terrain = mountain_meadows
-life_rating = 30
-trade_goods = timber
-owner = BE2
-controller = BE2
-add_core = BE2

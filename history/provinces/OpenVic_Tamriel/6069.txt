@@ -1,3 +1,6 @@
-terrain = drylands
+terrain = mountain
 life_rating = 30
-trade_goods = cattle
+trade_goods = coal
+owner = BC9
+controller = BC9
+add_core = BC9

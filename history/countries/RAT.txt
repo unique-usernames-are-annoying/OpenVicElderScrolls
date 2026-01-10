@@ -1,4 +1,4 @@
-capital = 7833
+capital = 1862
 government = tribal
 religion = horned_rat_cult
 primary_culture = rat_men

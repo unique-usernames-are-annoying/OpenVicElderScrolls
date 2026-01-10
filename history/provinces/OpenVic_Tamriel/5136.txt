@@ -1,6 +1,6 @@
-terrain = urban_dune
+terrain = woods
 life_rating = 30
-trade_goods = tea
-owner = EB4
-controller = EB4
-add_core = EB4
+trade_goods = wool
+owner = CB1
+controller = CB1
+add_core = CB1

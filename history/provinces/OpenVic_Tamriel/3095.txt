@@ -1,3 +1,6 @@
-terrain = hills
+terrain = urban_senchal
 life_rating = 30
-trade_goods = fish
+trade_goods = cotton
+owner = EB1
+controller = EB1
+add_core = EB1

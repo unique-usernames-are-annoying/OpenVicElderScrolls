@@ -1,6 +1,6 @@
-terrain = jungle
+terrain = woods
 life_rating = 30
-trade_goods = grain
-owner = TA1
-controller = TA1
-add_core = TA1
+trade_goods = fruit
+owner = OC0
+controller = OC0
+add_core = OC0

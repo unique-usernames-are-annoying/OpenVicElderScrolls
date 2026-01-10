@@ -1,6 +1,6 @@
-terrain = highlands
+terrain = woods
 life_rating = 30
-trade_goods = wool
-owner = CE1
-controller = CE1
-add_core = CE1
+trade_goods = cattle
+owner = BF2
+controller = BF2
+add_core = BF2

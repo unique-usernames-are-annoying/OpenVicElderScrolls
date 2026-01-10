@@ -1,0 +1,7 @@
+terrain = mountain
+life_rating = 30
+trade_goods = cotton
+owner = YB7
+controller = YB7
+add_core = YB7
+add_core = YB5

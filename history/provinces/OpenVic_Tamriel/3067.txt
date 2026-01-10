@@ -1,6 +1,6 @@
-terrain = woods
+terrain = coastline
 life_rating = 30
-trade_goods = precious_metal
-owner = NB4
-controller = NB4
-add_core = NB4
+trade_goods = fruit
+owner = EA9
+controller = EA9
+add_core = EA9

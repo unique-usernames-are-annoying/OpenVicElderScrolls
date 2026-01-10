@@ -1,6 +1,6 @@
-terrain = desert
+terrain = woods
 life_rating = 30
-trade_goods = fish
-owner = TEN
-controller = TEN
-add_core = TEN
+trade_goods = grain
+owner = CC1
+controller = CC1
+add_core = CC1

@@ -1,6 +1,0 @@
-terrain = jungle
-life_rating = 30
-trade_goods = silk
-owner = TA5
-controller = TA5
-add_core = TA5

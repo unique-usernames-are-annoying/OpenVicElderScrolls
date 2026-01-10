@@ -1,6 +1,0 @@
-terrain = desert
-life_rating = 30
-trade_goods = cattle
-owner = YC7
-controller = YC7
-add_core = YC7

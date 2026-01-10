@@ -1,6 +1,0 @@
-terrain = craglands
-life_rating = 30
-trade_goods = grain
-owner = YA8
-controller = YA8
-add_core = YA8

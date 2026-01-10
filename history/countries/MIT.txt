@@ -1,4 +1,4 @@
-capital = 5923
+capital = 4832
 government = tribal
 religion = hircine_cult
 primary_culture = minotaur

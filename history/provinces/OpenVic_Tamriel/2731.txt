@@ -1,6 +1,6 @@
-terrain = mountain
+terrain = highlands
 life_rating = 30
-trade_goods = tobacco
-owner = NA9
-controller = NA9
-add_core = NA9
+trade_goods = cotton
+owner = VC8
+controller = VC8
+add_core = VC8

@@ -1,6 +1,3 @@
-terrain = jungle
+terrain = plateau
 life_rating = 30
-trade_goods = wool
-owner = AF3
-controller = AF3
-add_core = AF3
+trade_goods = coffee

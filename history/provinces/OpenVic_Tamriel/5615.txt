@@ -1,6 +1,7 @@
 terrain = forest
 life_rating = 30
-trade_goods = cotton
-owner = CD2
-controller = CD2
-add_core = CD2
+trade_goods = grain
+owner = NG6
+controller = NG6
+add_core = NG6
+add_core = NA5

@@ -1,6 +1,6 @@
-terrain = craglands
+terrain = mountain
 life_rating = 30
-trade_goods = coal
-owner = HH0
-controller = HH0
-add_core = HH0
+trade_goods = timber
+owner = BB0
+controller = BB0
+add_core = BB0

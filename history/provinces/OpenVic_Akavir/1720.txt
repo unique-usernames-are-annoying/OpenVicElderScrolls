@@ -1,6 +1,6 @@
-terrain = forest
+terrain = jungle
 life_rating = 30
-trade_goods = grain
-owner = OB8
-controller = OB8
-add_core = OB8
+trade_goods = fruit
+owner = JA2
+controller = JA2
+add_core = JA2

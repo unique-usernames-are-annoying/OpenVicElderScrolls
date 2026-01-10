@@ -1,6 +1,6 @@
-terrain = mountain
+terrain = grasslands
 life_rating = 30
-trade_goods = fish
-owner = SC6
-controller = SC6
-add_core = SC6
+trade_goods = opium
+owner = CE2
+controller = CE2
+add_core = CE2

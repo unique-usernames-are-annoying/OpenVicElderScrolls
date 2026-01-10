@@ -1,3 +1,6 @@
-terrain = mudflats
+terrain = craglands
 life_rating = 30
-trade_goods = tea
+trade_goods = tobacco
+owner = MJ4
+controller = MJ4
+add_core = MJ4

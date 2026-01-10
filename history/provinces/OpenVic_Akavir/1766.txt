@@ -1,6 +1,6 @@
-terrain = coastline
+terrain = mountain
 life_rating = 30
-trade_goods = iron
-owner = JA7
-controller = JA7
-add_core = JA7
+trade_goods = tea
+owner = OB5
+controller = OB5
+add_core = OB5

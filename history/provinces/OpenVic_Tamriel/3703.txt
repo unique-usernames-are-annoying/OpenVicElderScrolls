@@ -1,0 +1,6 @@
+terrain = highlands
+life_rating = 30
+trade_goods = dye
+owner = ME0
+controller = ME0
+add_core = ME0

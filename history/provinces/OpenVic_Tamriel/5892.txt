@@ -1,7 +1,7 @@
-terrain = farmlands
+terrain = orcish_stronghold
 life_rating = 30
-trade_goods = tea
-owner = NG7
-controller = NG7
-add_core = NG7
-add_core = NA1
+trade_goods = grain
+owner = BD5
+controller = BD5
+add_core = BD5
+add_core = BA9

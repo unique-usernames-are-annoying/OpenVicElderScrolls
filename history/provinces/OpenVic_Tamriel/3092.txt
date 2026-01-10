@@ -1,7 +1,6 @@
-terrain = hills
+terrain = savannah
 life_rating = 30
-trade_goods = iron
-owner = NF6
-controller = NF6
-add_core = NF6
-add_core = NF3
+trade_goods = grain
+owner = EA9
+controller = EA9
+add_core = EA9

@@ -1,6 +1,6 @@
-terrain = dwemer_stronghold
+terrain = hills
 life_rating = 30
-trade_goods = wool
-owner = HA6
-controller = HA6
-add_core = HA6
+trade_goods = tobacco
+owner = HF3
+controller = HF3
+add_core = HF3

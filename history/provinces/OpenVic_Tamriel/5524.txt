@@ -1,6 +1,3 @@
-terrain = coastline
+terrain = highlands
 life_rating = 30
-trade_goods = wool
-owner = CG1
-controller = CG1
-add_core = CG1
+trade_goods = grain

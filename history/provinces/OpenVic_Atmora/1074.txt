@@ -1,0 +1,6 @@
+terrain = glacier
+life_rating = 30
+trade_goods = timber
+owner = DA6
+controller = DA6
+add_core = DA6

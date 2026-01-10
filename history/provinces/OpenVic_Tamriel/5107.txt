@@ -1,3 +1,6 @@
-terrain = plateau
+terrain = grasslands
 life_rating = 30
-trade_goods = coal
+trade_goods = grain
+owner = CG7
+controller = CG7
+add_core = CG7

@@ -1,6 +1,6 @@
-terrain = blackreach_forest
+terrain = hills
 life_rating = 30
-trade_goods = grain
-owner = RA4
-controller = RA4
-add_core = RA4
+trade_goods = cotton
+owner = EB4
+controller = EB4
+add_core = EB4

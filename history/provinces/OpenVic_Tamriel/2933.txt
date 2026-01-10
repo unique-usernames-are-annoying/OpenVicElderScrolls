@@ -1,3 +1,6 @@
-terrain = hills
+terrain = jungle
 life_rating = 30
-trade_goods = tobacco
+trade_goods = timber
+owner = EA8
+controller = EA8
+add_core = EA8

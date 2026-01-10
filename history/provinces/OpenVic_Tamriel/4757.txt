@@ -1,6 +1,6 @@
-terrain = highlands
+terrain = mountain
 life_rating = 30
-trade_goods = coffee
-owner = SD8
-controller = SD8
-add_core = SD8
+trade_goods = precious_metal
+owner = CG2
+controller = CG2
+add_core = CG2

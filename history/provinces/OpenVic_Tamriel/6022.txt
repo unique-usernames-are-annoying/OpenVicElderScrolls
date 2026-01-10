@@ -1,6 +1,7 @@
-terrain = marsh
+terrain = moorlands
 life_rating = 30
-trade_goods = precious_metal
-owner = CG4
-controller = CG4
-add_core = CG4
+trade_goods = coal
+owner = BE4
+controller = BE4
+add_core = BE4
+add_core = BA4

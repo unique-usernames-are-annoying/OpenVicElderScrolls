@@ -1,6 +1,7 @@
-terrain = coastline
+terrain = urban_kvatch
 life_rating = 30
-trade_goods = cattle
-owner = SB4
-controller = SB4
-add_core = SB4
+trade_goods = cotton
+owner = CH3
+controller = CH3
+add_core = CH3
+add_core = CA7

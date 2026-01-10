@@ -1,6 +1,7 @@
-terrain = farmlands
+terrain = forest
 life_rating = 30
-trade_goods = iron
-owner = EB6
-controller = EB6
-add_core = EB6
+trade_goods = cotton
+owner = CB0
+controller = CB0
+add_core = CB0
+add_core = CE6

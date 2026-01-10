@@ -1,7 +1,6 @@
-terrain = desert
+terrain = woods
 life_rating = 30
-trade_goods = grain
-owner = HA6
-controller = HA6
-add_core = HA6
-add_core = HF8
+trade_goods = timber
+owner = HC7
+controller = HC7
+add_core = HC7

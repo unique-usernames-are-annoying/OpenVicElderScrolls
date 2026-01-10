@@ -1,3 +1,6 @@
-terrain = coastline
+terrain = marsh
 life_rating = 30
-trade_goods = tobacco
+trade_goods = tea
+owner = HF1
+controller = HF1
+add_core = HF1

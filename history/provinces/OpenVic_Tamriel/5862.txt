@@ -1,7 +1,7 @@
 terrain = highlands
 life_rating = 30
-trade_goods = coal
-owner = CH7
-controller = CH7
-add_core = CH7
-add_core = CB6
+trade_goods = silk
+owner = BE4
+controller = BE4
+add_core = BE4
+add_core = BA4

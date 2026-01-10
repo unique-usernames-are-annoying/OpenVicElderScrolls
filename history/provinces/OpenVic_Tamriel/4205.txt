@@ -1,6 +1,6 @@
-terrain = highlands
+terrain = urban_thorn
 life_rating = 30
-trade_goods = timber
-owner = TON
-controller = TON
-add_core = TON
+trade_goods = fish
+owner = AA1
+controller = AA1
+add_core = AA1

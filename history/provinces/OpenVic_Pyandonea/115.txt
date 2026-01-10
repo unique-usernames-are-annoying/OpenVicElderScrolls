@@ -1,0 +1,6 @@
+terrain = hills
+life_rating = 30
+trade_goods = fish
+owner = PC1
+controller = PC1
+add_core = PC1

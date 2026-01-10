@@ -1,6 +1,0 @@
-terrain = dwemer_stronghold
-life_rating = 30
-trade_goods = tea
-owner = NC3
-controller = NC3
-add_core = NC3

@@ -1,6 +1,7 @@
-terrain = jungle
+terrain = coastline
 life_rating = 30
-trade_goods = fruit
-owner = VB0
-controller = VB0
-add_core = VB0
+trade_goods = coal
+owner = ALG
+controller = ALG
+add_core = ALG
+add_core = CG9

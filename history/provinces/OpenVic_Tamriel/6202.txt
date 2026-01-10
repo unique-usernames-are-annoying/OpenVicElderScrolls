@@ -1,6 +1,6 @@
-terrain = mountain
+terrain = hills
 life_rating = 30
-trade_goods = fish
-owner = HC4
-controller = HC4
-add_core = HC4
+trade_goods = tobacco
+owner = HF3
+controller = HF3
+add_core = HF3

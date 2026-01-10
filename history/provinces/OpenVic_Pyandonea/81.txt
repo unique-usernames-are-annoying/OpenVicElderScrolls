@@ -1,0 +1,6 @@
+terrain = coastline
+life_rating = 30
+trade_goods = timber
+owner = PB3
+controller = PB3
+add_core = PB3

@@ -1,6 +1,3 @@
-terrain = mountain
+terrain = marsh
 life_rating = 30
-trade_goods = tropical_wood
-owner = MG0
-controller = MG0
-add_core = MG0
+trade_goods = cotton

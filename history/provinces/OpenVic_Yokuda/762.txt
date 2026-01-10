@@ -1,0 +1,6 @@
+terrain = craglands
+life_rating = 30
+trade_goods = coal
+owner = YB0
+controller = YB0
+add_core = YB0

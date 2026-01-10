@@ -1,0 +1,6 @@
+terrain = woods
+life_rating = 30
+trade_goods = timber
+owner = SC9
+controller = SC9
+add_core = SC9

@@ -1,6 +1,7 @@
-terrain = mountain
+terrain = caves
 life_rating = 30
-trade_goods = precious_metal
-owner = SE5
-controller = SE5
-add_core = SE5
+trade_goods = fruit
+owner = CH7
+controller = CH7
+add_core = CH7
+add_core = CB6

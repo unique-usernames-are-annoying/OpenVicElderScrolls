@@ -1,0 +1,6 @@
+terrain = glacier
+life_rating = 30
+trade_goods = grain
+owner = DD9
+controller = DD9
+add_core = DD9

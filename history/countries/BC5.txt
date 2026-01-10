@@ -1,4 +1,4 @@
-capital = 7019
+capital = 5941
 government = monarchy
 religion = druidism
 primary_culture = breton

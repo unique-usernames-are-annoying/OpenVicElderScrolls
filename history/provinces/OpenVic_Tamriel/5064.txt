@@ -1,3 +1,7 @@
-terrain = forest
+terrain = woods
 life_rating = 30
-trade_goods = timber
+trade_goods = cattle
+owner = CD7
+controller = CD7
+add_core = CD7
+add_core = CD5

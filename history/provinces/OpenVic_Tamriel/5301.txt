@@ -1,6 +1,7 @@
-terrain = mudflats
+terrain = mountain_meadows
 life_rating = 30
-trade_goods = sulphur
-owner = CA5
-controller = CA5
-add_core = CA5
+trade_goods = fish
+owner = NG6
+controller = NG6
+add_core = NG6
+add_core = NA5

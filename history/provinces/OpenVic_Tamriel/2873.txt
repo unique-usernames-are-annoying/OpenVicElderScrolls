@@ -1,6 +1,3 @@
-terrain = caves
+terrain = hills
 life_rating = 30
-trade_goods = timber
-owner = NA4
-controller = NA4
-add_core = NA4
+trade_goods = fruit

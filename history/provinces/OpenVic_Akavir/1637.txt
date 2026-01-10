@@ -1,6 +1,6 @@
-terrain = coastline
+terrain = savannah
 life_rating = 30
-trade_goods = tobacco
-owner = TA5
-controller = TA5
-add_core = TA5
+trade_goods = tea
+owner = JA8
+controller = JA8
+add_core = JA8

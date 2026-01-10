@@ -1,6 +1,3 @@
-terrain = farmlands
+terrain = bayou
 life_rating = 30
-trade_goods = timber
-owner = MA4
-controller = MA4
-add_core = MA4
+trade_goods = cattle

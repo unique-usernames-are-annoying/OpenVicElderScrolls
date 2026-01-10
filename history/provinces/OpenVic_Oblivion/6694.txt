@@ -1,0 +1,6 @@
+terrain = dread_massive
+life_rating = 30
+trade_goods = tropical_wood
+owner = LA2
+controller = LA2
+add_core = LA2

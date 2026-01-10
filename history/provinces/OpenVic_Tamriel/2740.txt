@@ -1,6 +1,6 @@
-terrain = dwemer_stronghold
+terrain = woods
 life_rating = 30
-trade_goods = cattle
-owner = ND8
-controller = ND8
-add_core = ND8
+trade_goods = tea
+owner = VC9
+controller = VC9
+add_core = VC9

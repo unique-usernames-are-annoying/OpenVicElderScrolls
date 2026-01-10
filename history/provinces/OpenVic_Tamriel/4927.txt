@@ -1,3 +1,6 @@
-terrain = forest
+terrain = mountain_meadows
 life_rating = 30
 trade_goods = timber
+owner = CE0
+controller = CE0
+add_core = CE0

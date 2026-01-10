@@ -1,6 +1,6 @@
-terrain = woods
+terrain = highlands
 life_rating = 30
-trade_goods = cattle
-owner = SA5
-controller = SA5
-add_core = SA5
+trade_goods = tobacco
+owner = CG0
+controller = CG0
+add_core = CG0

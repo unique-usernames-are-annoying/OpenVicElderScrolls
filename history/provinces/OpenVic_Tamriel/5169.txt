@@ -1,3 +1,6 @@
-terrain = savannah
+terrain = hills
 life_rating = 30
-trade_goods = coal
+trade_goods = wool
+owner = CK0
+controller = CK0
+add_core = CK0

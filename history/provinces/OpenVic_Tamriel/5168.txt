@@ -1,6 +1,6 @@
-terrain = hills
+terrain = forest
 life_rating = 30
-trade_goods = tea
-owner = EA7
-controller = EA7
-add_core = EA7
+trade_goods = cattle
+owner = CD0
+controller = CD0
+add_core = CD0

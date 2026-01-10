@@ -1,6 +1,3 @@
-terrain = forest
+terrain = craglands
 life_rating = 30
-trade_goods = cattle
-owner = VC2
-controller = VC2
-add_core = VC2
+trade_goods = fruit

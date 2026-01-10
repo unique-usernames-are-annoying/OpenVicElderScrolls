@@ -1,4 +1,4 @@
-capital = 1130
+capital = 4749
 government = republic
 religion = mehrunes_dagon_cult
 primary_culture = ayleid

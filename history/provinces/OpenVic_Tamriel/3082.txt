@@ -1,6 +1,6 @@
-terrain = glacier
+terrain = plateau
 life_rating = 30
-trade_goods = coffee
-owner = NB6
-controller = NB6
-add_core = NB6
+trade_goods = wool
+owner = EA6
+controller = EA6
+add_core = EA6

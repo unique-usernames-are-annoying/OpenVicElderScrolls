@@ -1,3 +1,6 @@
-terrain = steppe
+terrain = tundra
 life_rating = 30
-trade_goods = fruit
+trade_goods = dye
+owner = NA3
+controller = NA3
+add_core = NA3

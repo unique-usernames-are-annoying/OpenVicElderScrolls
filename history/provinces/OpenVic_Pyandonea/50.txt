@@ -1,0 +1,6 @@
+terrain = savannah
+life_rating = 30
+trade_goods = iron
+owner = PA6
+controller = PA6
+add_core = PA6

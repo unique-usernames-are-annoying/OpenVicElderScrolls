@@ -1,7 +1,6 @@
-terrain = caves
+terrain = craglands
 life_rating = 30
 trade_goods = fruit
-owner = RA6
-controller = RA6
-add_core = RA6
-add_core = RA8
+owner = SED
+controller = SED
+add_core = SED

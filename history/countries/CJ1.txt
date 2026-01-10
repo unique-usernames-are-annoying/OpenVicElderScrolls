@@ -1,4 +1,4 @@
-capital = 5890
+capital = 5026
 government = republic
 religion = azura_cult
 primary_culture = nedic

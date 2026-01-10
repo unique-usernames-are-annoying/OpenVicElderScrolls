@@ -1,7 +1,6 @@
-terrain = highlands
+terrain = orcish_stronghold
 life_rating = 30
-trade_goods = timber
-owner = ALH
-controller = ALH
-add_core = ALH
-add_core = CJ3
+trade_goods = grain
+owner = BF3
+controller = BF3
+add_core = BF3

@@ -1,6 +1,6 @@
-terrain = woods
+terrain = taiga
 life_rating = 30
-trade_goods = silk
-owner = CG0
-controller = CG0
-add_core = CG0
+trade_goods = grain
+owner = BA6
+controller = BA6
+add_core = BA6

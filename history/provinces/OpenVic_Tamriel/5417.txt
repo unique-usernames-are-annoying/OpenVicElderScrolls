@@ -1,6 +1,6 @@
-terrain = grasslands
+terrain = heathlands
 life_rating = 30
-trade_goods = grain
-owner = CG3
-controller = CG3
-add_core = CG3
+trade_goods = tea
+owner = NC6
+controller = NC6
+add_core = NC6

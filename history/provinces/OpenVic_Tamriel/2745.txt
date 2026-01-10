@@ -1,0 +1,6 @@
+terrain = hills
+life_rating = 30
+trade_goods = fish
+owner = VA4
+controller = VA4
+add_core = VA4

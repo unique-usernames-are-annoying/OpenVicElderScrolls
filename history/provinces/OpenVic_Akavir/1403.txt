@@ -1,0 +1,6 @@
+terrain = urban_kamala
+life_rating = 30
+trade_goods = grain
+owner = KA7
+controller = KA7
+add_core = KA7

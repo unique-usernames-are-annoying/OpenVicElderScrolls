@@ -1,0 +1,6 @@
+terrain = highlands
+life_rating = 30
+trade_goods = cotton
+owner = DA3
+controller = DA3
+add_core = DA3

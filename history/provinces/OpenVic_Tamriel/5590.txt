@@ -1,6 +1,6 @@
-terrain = drylands
+terrain = highlands
 life_rating = 30
-trade_goods = timber
-owner = EA1
-controller = EA1
-add_core = EA1
+trade_goods = coal
+owner = NE1
+controller = NE1
+add_core = NE1

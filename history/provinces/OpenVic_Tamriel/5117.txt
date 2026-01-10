@@ -1,6 +1,7 @@
-terrain = urban_senchal
+terrain = woods
 life_rating = 30
-trade_goods = precious_metal
-owner = EB1
-controller = EB1
-add_core = EB1
+trade_goods = timber
+owner = CG7
+controller = CG7
+add_core = CG7
+add_core = CD8

@@ -1,7 +1,0 @@
-terrain = farmlands
-life_rating = 30
-trade_goods = coal
-owner = CF6
-controller = CF6
-add_core = CF6
-add_core = CI8

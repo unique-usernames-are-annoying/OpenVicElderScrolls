@@ -1,4 +1,4 @@
-capital = 361
+capital = 1231
 government = republic
 religion = nordic_pantheon
 primary_culture = atmoran

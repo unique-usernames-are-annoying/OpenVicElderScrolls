@@ -1,6 +1,7 @@
-terrain = coastline
+terrain = hills
 life_rating = 30
 trade_goods = coal
-owner = IA7
-controller = IA7
-add_core = IA7
+owner = OA2
+controller = OA2
+add_core = OA2
+add_core = OA5

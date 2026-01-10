@@ -1,6 +1,0 @@
-terrain = highlands
-life_rating = 30
-trade_goods = dye
-owner = BA6
-controller = BA6
-add_core = BA6

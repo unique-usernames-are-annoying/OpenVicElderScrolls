@@ -1,7 +1,6 @@
-terrain = highlands
+terrain = steppe
 life_rating = 30
-trade_goods = coal
-owner = NB4
-controller = NB4
-add_core = NB4
-add_core = NB8
+trade_goods = grain
+owner = EC8
+controller = EC8
+add_core = EC8

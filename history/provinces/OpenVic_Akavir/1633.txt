@@ -1,3 +1,6 @@
-terrain = farmlands
+terrain = savannah
 life_rating = 30
-trade_goods = fruit
+trade_goods = timber
+owner = JA8
+controller = JA8
+add_core = JA8

@@ -1,0 +1,6 @@
+terrain = deadlands_daedric_keep
+life_rating = 30
+trade_goods = iron
+owner = GA1
+controller = GA1
+add_core = GA1

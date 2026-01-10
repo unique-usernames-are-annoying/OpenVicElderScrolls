@@ -1,6 +1,6 @@
-terrain = farmlands
+terrain = highlands
 life_rating = 30
-trade_goods = fruit
-owner = CJ6
-controller = CJ6
-add_core = CJ6
+trade_goods = iron
+owner = BA6
+controller = BA6
+add_core = BA6

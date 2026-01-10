@@ -1,0 +1,6 @@
+terrain = urban_firewatch
+life_rating = 30
+trade_goods = cotton
+owner = MB8
+controller = MB8
+add_core = MB8

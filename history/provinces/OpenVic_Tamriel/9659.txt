@@ -1,7 +1,1 @@
-terrain = forest
-life_rating = 30
-trade_goods = iron
-owner = VA9
-controller = VA9
-add_core = VA9
-add_core = VA6
+terrain = impassable_mountains

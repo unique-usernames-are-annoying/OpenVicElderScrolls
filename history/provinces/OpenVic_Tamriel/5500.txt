@@ -1,6 +1,6 @@
-terrain = marsh
+terrain = tundra
 life_rating = 30
-trade_goods = coal
-owner = CB9
-controller = CB9
-add_core = CB9
+trade_goods = grain
+owner = NG3
+controller = NG3
+add_core = NG3

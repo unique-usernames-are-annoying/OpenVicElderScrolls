@@ -1,0 +1,6 @@
+terrain = withered_forest
+life_rating = 30
+trade_goods = fish
+owner = LA3
+controller = LA3
+add_core = LA3

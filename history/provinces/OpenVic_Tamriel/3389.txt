@@ -1,6 +1,3 @@
-terrain = mountain
+terrain = hills
 life_rating = 30
-trade_goods = wool
-owner = MA3
-controller = MA3
-add_core = MA3
+trade_goods = tea

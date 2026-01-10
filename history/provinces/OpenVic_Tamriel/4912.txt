@@ -1,6 +1,3 @@
-terrain = forest
+terrain = mountain
 life_rating = 30
-trade_goods = silk
-owner = VA5
-controller = VA5
-add_core = VA5
+trade_goods = fish

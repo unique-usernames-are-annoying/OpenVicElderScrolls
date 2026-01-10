@@ -1,6 +1,7 @@
-terrain = mountain
+terrain = taiga
 life_rating = 30
 trade_goods = dye
-owner = CC6
-controller = CC6
-add_core = CC6
+owner = NGH
+controller = NGH
+add_core = NGH
+add_core = NE6

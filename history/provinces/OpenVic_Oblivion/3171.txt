@@ -1,6 +1,0 @@
-terrain = chasm
-life_rating = 30
-trade_goods = dye
-owner = LB8
-controller = LB8
-add_core = LB8

@@ -1,4 +1,4 @@
-capital = 4079
+capital = 864
 government = monarchy
 religion = twelve_divines
 primary_culture = breton

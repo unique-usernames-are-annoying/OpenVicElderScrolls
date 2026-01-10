@@ -1,6 +1,3 @@
-terrain = coastline
+terrain = marsh
 life_rating = 30
 trade_goods = grain
-owner = VC0
-controller = VC0
-add_core = VC0

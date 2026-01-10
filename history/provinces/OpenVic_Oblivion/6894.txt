@@ -1,0 +1,6 @@
+terrain = deadlands_ashen_wastes
+life_rating = 30
+trade_goods = timber
+owner = GA8
+controller = GA8
+add_core = GA8

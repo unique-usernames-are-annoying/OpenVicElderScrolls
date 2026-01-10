@@ -1,6 +1,0 @@
-terrain = bayou
-life_rating = 30
-trade_goods = tea
-owner = AF5
-controller = AF5
-add_core = AF5

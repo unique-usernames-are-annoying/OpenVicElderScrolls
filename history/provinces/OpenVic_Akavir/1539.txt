@@ -1,6 +1,6 @@
-terrain = highlands
+terrain = glacier
 life_rating = 30
 trade_goods = timber
-owner = IB1
-controller = IB1
-add_core = IB1
+owner = KA5
+controller = KA5
+add_core = KA5

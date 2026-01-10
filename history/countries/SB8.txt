@@ -1,4 +1,4 @@
-capital = 256
+capital = 501
 government = republic
 religion = altmeri_pantheon
 primary_culture = altmer

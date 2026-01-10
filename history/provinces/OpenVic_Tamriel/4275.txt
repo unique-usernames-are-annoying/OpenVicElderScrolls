@@ -1,6 +1,6 @@
-terrain = hills
+terrain = jungle
 life_rating = 30
-trade_goods = fish
-owner = SAL
-controller = SAL
-add_core = SAL
+trade_goods = dye
+owner = AB4
+controller = AB4
+add_core = AB4

@@ -1,0 +1,6 @@
+terrain = mountain
+life_rating = 30
+trade_goods = cotton
+owner = SC1
+controller = SC1
+add_core = SC1

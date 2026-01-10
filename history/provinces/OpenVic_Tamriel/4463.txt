@@ -1,0 +1,6 @@
+terrain = marsh
+life_rating = 30
+trade_goods = opium
+owner = AC8
+controller = AC8
+add_core = AC8

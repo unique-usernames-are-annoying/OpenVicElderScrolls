@@ -1,6 +1,0 @@
-terrain = cold_wastes
-life_rating = 30
-trade_goods = fish
-owner = LB1
-controller = LB1
-add_core = LB1

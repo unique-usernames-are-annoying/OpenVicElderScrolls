@@ -1,6 +1,6 @@
-terrain = savannah
+terrain = forest
 life_rating = 30
-trade_goods = coal
-owner = EC9
-controller = EC9
-add_core = EC9
+trade_goods = grain
+owner = CD2
+controller = CD2
+add_core = CD2

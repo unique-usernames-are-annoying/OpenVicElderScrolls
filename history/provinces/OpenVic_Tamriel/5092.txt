@@ -1,6 +1,6 @@
-terrain = caves
+terrain = grasslands
 life_rating = 30
-trade_goods = tea
-owner = EC3
-controller = EC3
-add_core = EC3
+trade_goods = grain
+owner = CB9
+controller = CB9
+add_core = CB9

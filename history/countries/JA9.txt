@@ -1,4 +1,4 @@
-capital = 579
+capital = 1622
 government = theocracy
 religion = kamal_pantheon
 primary_culture = kamal

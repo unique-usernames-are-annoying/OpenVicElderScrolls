@@ -1,6 +1,3 @@
-terrain = fungal_forest
+terrain = jungle
 life_rating = 30
-trade_goods = iron
-owner = MJ2
-controller = MJ2
-add_core = MJ2
+trade_goods = fruit

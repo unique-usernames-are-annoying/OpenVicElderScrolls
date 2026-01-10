@@ -1,6 +1,6 @@
-terrain = coastline
+terrain = mountain
 life_rating = 30
-trade_goods = timber
-owner = ABE
-controller = ABE
-add_core = ABE
+trade_goods = grain
+owner = NB6
+controller = NB6
+add_core = NB6

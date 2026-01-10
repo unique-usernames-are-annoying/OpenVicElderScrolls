@@ -1,4 +1,4 @@
-capital = 7010
+capital = 6093
 government = tribal
 religion = malacath_cult
 primary_culture = riekr

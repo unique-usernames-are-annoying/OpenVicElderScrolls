@@ -1,6 +1,0 @@
-terrain = jungle
-life_rating = 30
-trade_goods = tea
-owner = PC0
-controller = PC0
-add_core = PC0

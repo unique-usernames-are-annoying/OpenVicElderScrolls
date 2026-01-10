@@ -1,0 +1,6 @@
+terrain = highlands
+life_rating = 30
+trade_goods = cattle
+owner = VB0
+controller = VB0
+add_core = VB0

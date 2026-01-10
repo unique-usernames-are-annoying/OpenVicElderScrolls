@@ -1,6 +1,0 @@
-terrain = deadlands_daedric_keep
-life_rating = 30
-trade_goods = grain
-owner = GA7
-controller = GA7
-add_core = GA7

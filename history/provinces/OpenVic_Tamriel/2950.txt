@@ -1,3 +1,6 @@
-terrain = hills
+terrain = plateau
 life_rating = 30
-trade_goods = cattle
+trade_goods = cotton
+owner = EA5
+controller = EA5
+add_core = EA5

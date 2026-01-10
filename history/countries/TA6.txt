@@ -1,4 +1,4 @@
-capital = 3569
+capital = 2395
 government = monarchy
 religion = tsaesci_pantheon
 primary_culture = tsaesci

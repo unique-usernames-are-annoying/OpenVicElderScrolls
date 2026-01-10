@@ -1,7 +1,7 @@
-terrain = mountain_meadows
+terrain = tundra
 life_rating = 30
-trade_goods = cotton
-owner = TSS
-controller = TSS
-add_core = TSS
-add_core = CE4
+trade_goods = grain
+owner = BB2
+controller = BB2
+add_core = BB2
+add_core = BE1

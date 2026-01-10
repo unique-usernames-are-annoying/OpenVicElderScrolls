@@ -1,3 +1,0 @@
-terrain = dread_massive
-life_rating = 30
-trade_goods = iron

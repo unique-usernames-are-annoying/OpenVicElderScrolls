@@ -1,7 +1,6 @@
-terrain = urban_anvil
+terrain = dwemer_stronghold
 life_rating = 30
-trade_goods = tea
-owner = CH4
-controller = CH4
-add_core = CH4
-add_core = CA9
+trade_goods = sulphur
+owner = NC3
+controller = NC3
+add_core = NC3

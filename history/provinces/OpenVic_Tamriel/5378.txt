@@ -1,7 +1,6 @@
-terrain = highlands
+terrain = mountain_meadows
 life_rating = 30
-trade_goods = coffee
-owner = CH7
-controller = CH7
-add_core = CH7
-add_core = CB6
+trade_goods = grain
+owner = NB7
+controller = NB7
+add_core = NB7

@@ -1,6 +1,6 @@
-terrain = dwemer_stronghold
+terrain = mountain
 life_rating = 30
-trade_goods = fish
-owner = NF9
-controller = NF9
-add_core = NF9
+trade_goods = grain
+owner = MH2
+controller = MH2
+add_core = MH2

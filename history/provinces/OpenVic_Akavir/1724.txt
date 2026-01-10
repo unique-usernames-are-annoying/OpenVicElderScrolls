@@ -1,6 +1,6 @@
-terrain = grasslands
+terrain = jungle
 life_rating = 30
-trade_goods = fish
-owner = OC2
-controller = OC2
-add_core = OC2
+trade_goods = cattle
+owner = JA2
+controller = JA2
+add_core = JA2

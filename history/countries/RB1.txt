@@ -1,4 +1,4 @@
-capital = 2979
+capital = 1036
 government = tribal
 religion = xrib_cult
 primary_culture = falmer

@@ -1,4 +1,4 @@
-capital = 3151
+capital = 760
 government = republic
 religion = yokudan_pantheon
 primary_culture = yokudan

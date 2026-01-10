@@ -1,7 +1,7 @@
-terrain = jungle
+terrain = hills
 life_rating = 30
-trade_goods = coal
-owner = IA8
-controller = IA8
-add_core = IA8
-add_core = IA9
+trade_goods = iron
+owner = OB8
+controller = OB8
+add_core = OB8
+add_core = OA5

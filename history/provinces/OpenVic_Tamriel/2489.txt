@@ -1,0 +1,6 @@
+terrain = forest
+life_rating = 30
+trade_goods = grain
+owner = VE0
+controller = VE0
+add_core = VE0

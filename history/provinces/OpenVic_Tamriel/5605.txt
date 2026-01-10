@@ -1,6 +1,6 @@
-terrain = woods
+terrain = mountain_meadows
 life_rating = 30
-trade_goods = iron
-owner = CC7
-controller = CC7
-add_core = CC7
+trade_goods = grain
+owner = NF2
+controller = NF2
+add_core = NF2

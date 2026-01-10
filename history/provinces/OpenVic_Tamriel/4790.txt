@@ -1,6 +1,7 @@
-terrain = mountain
+terrain = hills
 life_rating = 30
-trade_goods = iron
-owner = SA4
-controller = SA4
-add_core = SA4
+trade_goods = grain
+owner = CE2
+controller = CE2
+add_core = CE2
+add_core = CG8

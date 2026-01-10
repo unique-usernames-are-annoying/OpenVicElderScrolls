@@ -1,3 +1,7 @@
-terrain = coastline
+terrain = woods
 life_rating = 30
 trade_goods = fruit
+owner = CH6
+controller = CH6
+add_core = CH6
+add_core = CB5

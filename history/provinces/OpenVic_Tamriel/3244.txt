@@ -1,3 +1,6 @@
-terrain = fungal_forest
+terrain = dwemer_stronghold
 life_rating = 30
-trade_goods = sulphur
+trade_goods = coal
+owner = MC6
+controller = MC6
+add_core = MC6

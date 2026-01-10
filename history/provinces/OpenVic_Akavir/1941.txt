@@ -1,0 +1,6 @@
+terrain = mountain
+life_rating = 30
+trade_goods = cattle
+owner = OC5
+controller = OC5
+add_core = OC5

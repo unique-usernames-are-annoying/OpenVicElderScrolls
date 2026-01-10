@@ -1,7 +1,6 @@
-terrain = highlands
+terrain = desert
 life_rating = 30
-trade_goods = tobacco
-owner = BA3
-controller = BA3
-add_core = BA3
-add_core = HA7
+trade_goods = cattle
+owner = HA6
+controller = HA6
+add_core = HA6

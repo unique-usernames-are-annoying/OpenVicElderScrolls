@@ -1,7 +1,6 @@
-terrain = highlands
+terrain = hills
 life_rating = 30
-trade_goods = tobacco
-owner = BD7
-controller = BD7
-add_core = BD7
-add_core = HA7
+trade_goods = opium
+owner = BC1
+controller = BC1
+add_core = BC1

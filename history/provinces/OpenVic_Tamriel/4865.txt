@@ -1,3 +1,6 @@
-terrain = forest
+terrain = highlands
 life_rating = 30
-trade_goods = dye
+trade_goods = fruit
+owner = CF9
+controller = CF9
+add_core = CF9

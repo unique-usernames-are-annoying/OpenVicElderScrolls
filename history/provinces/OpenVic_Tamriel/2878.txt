@@ -1,7 +1,6 @@
-terrain = blackreach_forest
+terrain = coastline
 life_rating = 30
-trade_goods = wool
-owner = RA5
-controller = RA5
-add_core = RA5
-add_core = RA1
+trade_goods = tea
+owner = EB6
+controller = EB6
+add_core = EB6

@@ -1,6 +1,6 @@
-terrain = steppe
+terrain = dwemer_stronghold
 life_rating = 30
 trade_goods = grain
-owner = MA7
-controller = MA7
-add_core = MA7
+owner = RA4
+controller = RA4
+add_core = RA4

@@ -1,7 +1,6 @@
-terrain = woods
+terrain = mountain
 life_rating = 30
-trade_goods = fish
-owner = CC8
-controller = CC8
-add_core = CC8
-add_core = CJ4
+trade_goods = tea
+owner = NB5
+controller = NB5
+add_core = NB5

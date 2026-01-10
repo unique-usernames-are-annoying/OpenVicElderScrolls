@@ -1,6 +1,3 @@
 terrain = hills
 life_rating = 30
-trade_goods = cattle
-owner = HG2
-controller = HG2
-add_core = HG2
+trade_goods = fruit

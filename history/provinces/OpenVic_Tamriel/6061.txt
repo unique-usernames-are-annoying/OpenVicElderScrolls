@@ -1,3 +1,7 @@
-terrain = steppe
+terrain = mountain_meadows
 life_rating = 30
-trade_goods = tea
+trade_goods = fish
+owner = BA3
+controller = BA3
+add_core = BA3
+add_core = BC6

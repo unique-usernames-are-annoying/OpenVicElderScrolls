@@ -1,3 +1,7 @@
-terrain = hills
+terrain = caves
 life_rating = 30
-trade_goods = iron
+trade_goods = fish
+owner = NG7
+controller = NG7
+add_core = NG7
+add_core = NA1

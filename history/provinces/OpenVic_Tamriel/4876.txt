@@ -1,6 +1,3 @@
-terrain = jungle
+terrain = caves
 life_rating = 30
-trade_goods = timber
-owner = VB2
-controller = VB2
-add_core = VB2
+trade_goods = fish

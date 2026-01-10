@@ -1,6 +1,6 @@
-terrain = forest
+terrain = grasslands
 life_rating = 30
 trade_goods = fish
-owner = VB3
-controller = VB3
-add_core = VB3
+owner = CJ3
+controller = CJ3
+add_core = CJ3

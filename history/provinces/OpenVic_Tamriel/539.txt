@@ -1,0 +1,6 @@
+terrain = woods
+life_rating = 30
+trade_goods = tropical_wood
+owner = SB4
+controller = SB4
+add_core = SB4

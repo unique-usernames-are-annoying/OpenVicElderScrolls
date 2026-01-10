@@ -1,6 +1,6 @@
-terrain = grasslands
+terrain = urban_forelhost
 life_rating = 30
-trade_goods = iron
-owner = CG7
-controller = CG7
-add_core = CG7
+trade_goods = fruit
+owner = FRS
+controller = FRS
+add_core = FRS

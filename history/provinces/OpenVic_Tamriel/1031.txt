@@ -1,6 +1,6 @@
-terrain = fungal_forest
+terrain = caves
 life_rating = 30
-trade_goods = grain
-owner = MG1
-controller = MG1
-add_core = MG1
+trade_goods = tobacco
+owner = RA9
+controller = RA9
+add_core = RA9

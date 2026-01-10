@@ -1,6 +1,7 @@
-terrain = drylands
+terrain = caves
 life_rating = 30
-trade_goods = grain
-owner = ED0
-controller = ED0
-add_core = ED0
+trade_goods = dye
+owner = CH1
+controller = CH1
+add_core = CH1
+add_core = CB8

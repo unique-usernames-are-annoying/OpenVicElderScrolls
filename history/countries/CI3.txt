@@ -1,4 +1,4 @@
-capital = 5898
+capital = 4591
 government = theocracy
 religion = cult_of_the_moth
 primary_culture = nedic

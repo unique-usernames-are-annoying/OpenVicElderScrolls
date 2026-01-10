@@ -1,6 +1,6 @@
-terrain = woods
+terrain = coastline
 life_rating = 30
-trade_goods = opium
-owner = SB8
-controller = SB8
-add_core = SB8
+trade_goods = fish
+owner = SE6
+controller = SE6
+add_core = SE6

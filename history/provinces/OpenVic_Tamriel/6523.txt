@@ -1,3 +1,7 @@
-terrain = hills
+terrain = mountain
 life_rating = 30
-trade_goods = coal
+trade_goods = grain
+owner = HH6
+controller = HH6
+add_core = HH6
+add_core = HB5

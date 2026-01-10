@@ -1,6 +1,6 @@
-terrain = forest
+terrain = highlands
 life_rating = 30
-trade_goods = fruit
-owner = CD2
-controller = CD2
-add_core = CD2
+trade_goods = grain
+owner = HG9
+controller = HG9
+add_core = HG9

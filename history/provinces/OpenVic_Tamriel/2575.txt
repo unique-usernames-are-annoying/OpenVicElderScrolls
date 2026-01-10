@@ -1,0 +1,6 @@
+terrain = coastline
+life_rating = 30
+trade_goods = cotton
+owner = VB6
+controller = VB6
+add_core = VB6

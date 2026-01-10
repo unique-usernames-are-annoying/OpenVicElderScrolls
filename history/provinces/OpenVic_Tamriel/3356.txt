@@ -1,6 +1,3 @@
-terrain = dwemer_stronghold
+terrain = fungal_forest
 life_rating = 30
-trade_goods = precious_metal
-owner = MC7
-controller = MC7
-add_core = MC7
+trade_goods = coffee

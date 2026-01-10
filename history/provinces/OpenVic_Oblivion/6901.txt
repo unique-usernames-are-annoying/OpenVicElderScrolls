@@ -1,0 +1,6 @@
+terrain = urban_jynds_foundry
+life_rating = 30
+trade_goods = grain
+owner = GB0
+controller = GB0
+add_core = GB0

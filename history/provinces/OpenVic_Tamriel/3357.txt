@@ -1,3 +1,6 @@
-terrain = hills
+terrain = ashlands
 life_rating = 30
-trade_goods = dye
+trade_goods = grain
+owner = ME2
+controller = ME2
+add_core = ME2

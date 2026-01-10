@@ -1,6 +1,6 @@
-terrain = highlands
+terrain = coastline
 life_rating = 30
-trade_goods = grain
-owner = HH4
-controller = HH4
-add_core = HH4
+trade_goods = cattle
+owner = EB8
+controller = EB8
+add_core = EB8

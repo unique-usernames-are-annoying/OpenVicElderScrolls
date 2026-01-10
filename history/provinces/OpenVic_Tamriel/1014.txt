@@ -1,3 +1,6 @@
-terrain = farmlands
+terrain = caves
 life_rating = 30
-trade_goods = cotton
+trade_goods = tropical_wood
+owner = RA3
+controller = RA3
+add_core = RA3

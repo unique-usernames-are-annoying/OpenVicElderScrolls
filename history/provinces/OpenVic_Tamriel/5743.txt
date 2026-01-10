@@ -1,7 +1,6 @@
-terrain = mountain
+terrain = glacier
 life_rating = 30
 trade_goods = wool
-owner = PER
-controller = PER
-add_core = PER
-add_core = CC9
+owner = ND8
+controller = ND8
+add_core = ND8

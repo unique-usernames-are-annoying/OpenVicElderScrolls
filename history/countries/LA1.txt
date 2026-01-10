@@ -1,4 +1,4 @@
-capital = 2955
+capital = 6759
 government = republic
 religion = meridia_cult
 primary_culture = soul_shriven

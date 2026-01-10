@@ -1,0 +1,7 @@
+terrain = highlands
+life_rating = 30
+trade_goods = coal
+owner = SB7
+controller = SB7
+add_core = SB7
+add_core = SD4

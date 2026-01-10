@@ -1,6 +1,6 @@
-terrain = forest
+terrain = farmlands
 life_rating = 30
-trade_goods = timber
-owner = SD2
-controller = SD2
-add_core = SD2
+trade_goods = cattle
+owner = CJ6
+controller = CJ6
+add_core = CJ6

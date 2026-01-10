@@ -1,6 +1,0 @@
-terrain = hills
-life_rating = 30
-trade_goods = coal
-owner = IA8
-controller = IA8
-add_core = IA8

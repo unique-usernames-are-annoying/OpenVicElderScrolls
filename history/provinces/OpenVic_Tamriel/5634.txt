@@ -1,6 +1,3 @@
-terrain = urban_skingrad
+terrain = mountain
 life_rating = 30
-trade_goods = coal
-owner = CA6
-controller = CA6
-add_core = CA6
+trade_goods = dye

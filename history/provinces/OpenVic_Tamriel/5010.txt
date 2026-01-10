@@ -1,3 +1,6 @@
-terrain = forest
+terrain = hills
 life_rating = 30
-trade_goods = grain
+trade_goods = tea
+owner = CE5
+controller = CE5
+add_core = CE5

@@ -1,4 +1,4 @@
-capital = 1043
+capital = 3979
 government = monarchy
 religion = chimer_pantheon
 primary_culture = house_dunmer

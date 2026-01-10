@@ -1,6 +1,6 @@
-terrain = hills
+terrain = hot_springs
 life_rating = 30
-trade_goods = tobacco
-owner = CB3
-controller = CB3
-add_core = CB3
+trade_goods = fish
+owner = NF4
+controller = NF4
+add_core = NF4

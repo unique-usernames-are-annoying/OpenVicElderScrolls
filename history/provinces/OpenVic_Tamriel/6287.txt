@@ -1,6 +1,3 @@
-terrain = hills
+terrain = plateau
 life_rating = 30
 trade_goods = tea
-owner = HF3
-controller = HF3
-add_core = HF3

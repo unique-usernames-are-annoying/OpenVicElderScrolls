@@ -1,0 +1,6 @@
+terrain = grasslands
+life_rating = 30
+trade_goods = tobacco
+owner = OB2
+controller = OB2
+add_core = OB2

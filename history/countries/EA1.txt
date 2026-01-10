@@ -1,4 +1,4 @@
-capital = 5560
+capital = 2923
 government = monarchy
 religion = ayleid_pantheon
 primary_culture = ayleid

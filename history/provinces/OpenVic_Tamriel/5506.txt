@@ -1,6 +1,7 @@
-terrain = highlands
+terrain = hills
 life_rating = 30
-trade_goods = dye
-owner = NA7
-controller = NA7
-add_core = NA7
+trade_goods = tobacco
+owner = NB4
+controller = NB4
+add_core = NB4
+add_core = NB8

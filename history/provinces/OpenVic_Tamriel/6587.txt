@@ -1,6 +1,3 @@
-terrain = bayou
+terrain = steppe
 life_rating = 30
-trade_goods = timber
-owner = AC0
-controller = AC0
-add_core = AC0
+trade_goods = coal

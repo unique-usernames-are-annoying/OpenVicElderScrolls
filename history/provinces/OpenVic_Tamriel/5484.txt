@@ -1,6 +1,6 @@
-terrain = marsh
+terrain = tundra
 life_rating = 30
-trade_goods = grain
-owner = CD3
-controller = CD3
-add_core = CD3
+trade_goods = tobacco
+owner = NA9
+controller = NA9
+add_core = NA9

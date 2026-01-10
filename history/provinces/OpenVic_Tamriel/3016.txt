@@ -1,6 +1,6 @@
-terrain = tundra
+terrain = drylands
 life_rating = 30
 trade_goods = cattle
-owner = NB2
-controller = NB2
-add_core = NB2
+owner = EA6
+controller = EA6
+add_core = EA6

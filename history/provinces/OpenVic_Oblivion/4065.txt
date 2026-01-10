@@ -1,6 +1,0 @@
-terrain = urban_world_breaker
-life_rating = 30
-trade_goods = grain
-owner = GA5
-controller = GA5
-add_core = GA5

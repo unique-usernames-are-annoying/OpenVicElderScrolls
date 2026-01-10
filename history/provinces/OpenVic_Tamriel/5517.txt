@@ -1,6 +1,7 @@
-terrain = woods
+terrain = hills
 life_rating = 30
-trade_goods = grain
-owner = CB9
-controller = CB9
-add_core = CB9
+trade_goods = dye
+owner = NF6
+controller = NF6
+add_core = NF6
+add_core = NF3

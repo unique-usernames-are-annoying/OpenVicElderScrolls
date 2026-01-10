@@ -1,6 +1,7 @@
-terrain = savannah
+terrain = farmlands
 life_rating = 30
-trade_goods = cattle
-owner = EB5
-controller = EB5
-add_core = EB5
+trade_goods = tea
+owner = CA6
+controller = CA6
+add_core = CA6
+add_core = ED3

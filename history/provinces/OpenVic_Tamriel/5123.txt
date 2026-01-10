@@ -1,6 +1,6 @@
-terrain = desert
+terrain = marsh
 life_rating = 30
-trade_goods = dye
-owner = EA6
-controller = EA6
-add_core = EA6
+trade_goods = fish
+owner = CA4
+controller = CA4
+add_core = CA4

@@ -1,6 +1,7 @@
-terrain = savannah
+terrain = mountain
 life_rating = 30
-trade_goods = coffee
-owner = EB6
-controller = EB6
-add_core = EB6
+trade_goods = timber
+owner = PER
+controller = PER
+add_core = PER
+add_core = CC6

@@ -1,3 +1,6 @@
-terrain = drylands
+terrain = bayou
 life_rating = 30
-trade_goods = timber
+trade_goods = grain
+owner = CA1
+controller = CA1
+add_core = CA1

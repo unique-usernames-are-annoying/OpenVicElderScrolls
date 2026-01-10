@@ -1,6 +1,6 @@
-terrain = coastline
+terrain = jungle
 life_rating = 30
 trade_goods = grain
-owner = VC0
-controller = VC0
-add_core = VC0
+owner = CD4
+controller = CD4
+add_core = CD4

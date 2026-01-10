@@ -1,6 +1,7 @@
-terrain = coastline
+terrain = woods
 life_rating = 30
-trade_goods = timber
-owner = SB9
-controller = SB9
-add_core = SB9
+trade_goods = grain
+owner = CC7
+controller = CC7
+add_core = CC7
+add_core = CJ4

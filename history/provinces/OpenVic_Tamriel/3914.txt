@@ -1,3 +1,6 @@
-terrain = salt_plains
+terrain = fungal_forest
 life_rating = 30
-trade_goods = dye
+trade_goods = tobacco
+owner = MI4
+controller = MI4
+add_core = MI4

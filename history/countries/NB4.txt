@@ -1,4 +1,4 @@
-capital = 1296
+capital = 5657
 government = tribal
 religion = old_gods_cult
 primary_culture = reachmen

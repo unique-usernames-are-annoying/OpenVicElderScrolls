@@ -1,3 +1,3 @@
-terrain = savannah
+terrain = coastline
 life_rating = 30
 trade_goods = cattle

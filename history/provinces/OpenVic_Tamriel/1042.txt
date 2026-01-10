@@ -1,6 +1,6 @@
-terrain = bayou
+terrain = caves
 life_rating = 30
-trade_goods = wool
-owner = MK0
-controller = MK0
-add_core = MK0
+trade_goods = coffee
+owner = NGH
+controller = NGH
+add_core = NGH

@@ -1,6 +1,6 @@
-terrain = hills
+terrain = mountain
 life_rating = 30
-trade_goods = dye
-owner = CG3
-controller = CG3
-add_core = CG3
+trade_goods = grain
+owner = ND1
+controller = ND1
+add_core = ND1

@@ -1,4 +1,4 @@
-capital = 5822
+capital = 5158
 government = republic
 religion = meridia_cult
 primary_culture = nedic

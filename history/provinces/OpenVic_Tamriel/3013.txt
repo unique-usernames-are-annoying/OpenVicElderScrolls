@@ -1,6 +1,6 @@
-terrain = grasslands
+terrain = drylands
 life_rating = 30
-trade_goods = tobacco
-owner = NB2
-controller = NB2
-add_core = NB2
+trade_goods = grain
+owner = EC3
+controller = EC3
+add_core = EC3

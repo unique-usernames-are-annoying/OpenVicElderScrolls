@@ -1,6 +1,3 @@
-terrain = woods
+terrain = mountain
 life_rating = 30
-trade_goods = opium
-owner = CB4
-controller = CB4
-add_core = CB4
+trade_goods = grain

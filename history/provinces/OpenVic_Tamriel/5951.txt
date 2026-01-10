@@ -1,6 +1,7 @@
-terrain = grasslands
+terrain = hills
 life_rating = 30
-trade_goods = precious_metal
-owner = CF4
-controller = CF4
-add_core = CF4
+trade_goods = cattle
+owner = BE7
+controller = BE7
+add_core = BE7
+add_core = BE1

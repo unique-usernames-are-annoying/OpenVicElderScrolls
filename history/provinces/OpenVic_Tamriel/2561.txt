@@ -1,0 +1,6 @@
+terrain = forest
+life_rating = 30
+trade_goods = grain
+owner = IMG
+controller = IMG
+add_core = IMG

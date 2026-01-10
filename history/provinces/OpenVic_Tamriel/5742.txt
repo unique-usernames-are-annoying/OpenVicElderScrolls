@@ -1,7 +1,6 @@
-terrain = highlands
+terrain = glacier
 life_rating = 30
-trade_goods = grain
-owner = PER
-controller = PER
-add_core = PER
-add_core = CC9
+trade_goods = coal
+owner = ND8
+controller = ND8
+add_core = ND8

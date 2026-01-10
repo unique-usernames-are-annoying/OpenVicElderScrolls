@@ -1,4 +1,4 @@
-capital = 213
+capital = 5
 government = republic
 religion = serpent_king
 primary_culture = maormer

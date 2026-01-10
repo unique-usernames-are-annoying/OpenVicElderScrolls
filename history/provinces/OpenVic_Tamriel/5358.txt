@@ -1,6 +1,6 @@
-terrain = woods
+terrain = highlands
 life_rating = 30
-trade_goods = fruit
-owner = CC8
-controller = CC8
-add_core = CC8
+trade_goods = grain
+owner = NC3
+controller = NC3
+add_core = NC3

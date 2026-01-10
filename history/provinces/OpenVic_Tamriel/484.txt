@@ -1,0 +1,6 @@
+terrain = woods
+life_rating = 30
+trade_goods = coal
+owner = SD3
+controller = SD3
+add_core = SD3

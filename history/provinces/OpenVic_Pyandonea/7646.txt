@@ -1,6 +1,0 @@
-terrain = farmlands
-life_rating = 30
-trade_goods = timber
-owner = PB0
-controller = PB0
-add_core = PB0

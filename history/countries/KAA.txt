@@ -1,4 +1,4 @@
-capital = 3495
+capital = 1601
 government = republic
 religion = dragon_cult
 primary_culture = islander

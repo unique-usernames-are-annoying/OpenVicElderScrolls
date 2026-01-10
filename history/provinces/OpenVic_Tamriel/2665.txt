@@ -1,0 +1,6 @@
+terrain = caves
+life_rating = 30
+trade_goods = precious_metal
+owner = VB8
+controller = VB8
+add_core = VB8

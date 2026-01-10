@@ -1,6 +1,6 @@
-terrain = caves
+terrain = hills
 life_rating = 30
-trade_goods = coal
-owner = VB0
-controller = VB0
-add_core = VB0
+trade_goods = fruit
+owner = CC6
+controller = CC6
+add_core = CC6

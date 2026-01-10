@@ -1,7 +1,6 @@
-terrain = highlands
+terrain = mountain_meadows
 life_rating = 30
-trade_goods = tobacco
-owner = SA7
-controller = SA7
-add_core = SA7
-add_core = SD7
+trade_goods = wool
+owner = CE4
+controller = CE4
+add_core = CE4

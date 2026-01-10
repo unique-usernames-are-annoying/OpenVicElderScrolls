@@ -1,7 +1,0 @@
-terrain = jungle
-life_rating = 30
-trade_goods = cattle
-owner = CG9
-controller = CG9
-add_core = CG9
-add_core = CA2

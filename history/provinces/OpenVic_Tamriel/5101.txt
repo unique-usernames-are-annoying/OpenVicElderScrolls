@@ -1,6 +1,7 @@
-terrain = jungle
+terrain = grasslands
 life_rating = 30
-trade_goods = cattle
-owner = VB2
-controller = VB2
-add_core = VB2
+trade_goods = fruit
+owner = CG7
+controller = CG7
+add_core = CG7
+add_core = CB7

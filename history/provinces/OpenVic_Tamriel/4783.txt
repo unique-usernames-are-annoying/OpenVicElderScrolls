@@ -1,6 +1,6 @@
-terrain = mountain
+terrain = mudflats
 life_rating = 30
-trade_goods = timber
-owner = SA4
-controller = SA4
-add_core = SA4
+trade_goods = cattle
+owner = CA5
+controller = CA5
+add_core = CA5

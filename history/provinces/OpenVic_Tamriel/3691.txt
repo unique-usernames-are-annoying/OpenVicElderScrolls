@@ -1,6 +1,3 @@
-terrain = coastline
+terrain = farmlands
 life_rating = 30
-trade_goods = timber
-owner = SC7
-controller = SC7
-add_core = SC7
+trade_goods = grain

@@ -1,6 +1,6 @@
-terrain = plateau
+terrain = farmlands
 life_rating = 30
-trade_goods = tea
-owner = EA5
-controller = EA5
-add_core = EA5
+trade_goods = cattle
+owner = CC4
+controller = CC4
+add_core = CC4

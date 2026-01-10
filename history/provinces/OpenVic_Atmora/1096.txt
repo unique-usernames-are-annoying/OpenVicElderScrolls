@@ -1,0 +1,6 @@
+terrain = glacier
+life_rating = 30
+trade_goods = coffee
+owner = DD8
+controller = DD8
+add_core = DD8

@@ -1,7 +1,6 @@
-terrain = forest
+terrain = steppe
 life_rating = 30
-trade_goods = tea
-owner = NG6
-controller = NG6
-add_core = NG6
-add_core = NA5
+trade_goods = fish
+owner = EB2
+controller = EB2
+add_core = EB2

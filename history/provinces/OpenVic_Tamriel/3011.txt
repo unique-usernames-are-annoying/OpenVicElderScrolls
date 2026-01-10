@@ -1,6 +1,6 @@
-terrain = mountain_meadows
+terrain = caves
 life_rating = 30
-trade_goods = tea
-owner = NB2
-controller = NB2
-add_core = NB2
+trade_goods = coffee
+owner = EC3
+controller = EC3
+add_core = EC3

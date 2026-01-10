@@ -1,0 +1,6 @@
+terrain = highlands
+life_rating = 30
+trade_goods = precious_metal
+owner = MC4
+controller = MC4
+add_core = MC4

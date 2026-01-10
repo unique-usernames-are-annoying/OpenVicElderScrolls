@@ -1,7 +1,3 @@
-terrain = mountain_meadows
+terrain = craglands
 life_rating = 30
-trade_goods = dye
-owner = MA3
-controller = MA3
-add_core = MA3
-add_core = MA6
+trade_goods = tea

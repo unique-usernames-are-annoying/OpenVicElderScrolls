@@ -1,6 +1,3 @@
-terrain = blackreach_forest
+terrain = craglands
 life_rating = 30
-trade_goods = coal
-owner = RA3
-controller = RA3
-add_core = RA3
+trade_goods = grain

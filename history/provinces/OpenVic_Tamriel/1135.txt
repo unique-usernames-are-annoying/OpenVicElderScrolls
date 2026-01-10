@@ -1,6 +1,0 @@
-terrain = woods
-life_rating = 30
-trade_goods = iron
-owner = CA4
-controller = CA4
-add_core = CA4

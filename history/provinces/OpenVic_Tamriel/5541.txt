@@ -1,7 +1,6 @@
-terrain = farmlands
+terrain = orcish_stronghold
 life_rating = 30
-trade_goods = wool
-owner = CH5
-controller = CH5
-add_core = CH5
-add_core = CD9
+trade_goods = dye
+owner = NC9
+controller = NC9
+add_core = NC9

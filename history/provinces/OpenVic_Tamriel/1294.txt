@@ -1,6 +1,0 @@
-terrain = forest
-life_rating = 30
-trade_goods = tobacco
-owner = NB4
-controller = NB4
-add_core = NB4

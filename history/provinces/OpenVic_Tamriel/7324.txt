@@ -1,6 +1,0 @@
-terrain = urban_red_mountain
-life_rating = 30
-trade_goods = tea
-owner = TON
-controller = TON
-add_core = TON

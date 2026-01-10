@@ -1,6 +1,6 @@
-terrain = hills
+terrain = highlands
 life_rating = 30
-trade_goods = precious_metal
-owner = AD4
-controller = AD4
-add_core = AD4
+trade_goods = dye
+owner = HH6
+controller = HH6
+add_core = HH6

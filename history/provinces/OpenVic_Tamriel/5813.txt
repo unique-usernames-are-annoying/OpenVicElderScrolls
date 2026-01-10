@@ -1,6 +1,7 @@
-terrain = mountain
+terrain = glacier
 life_rating = 30
 trade_goods = grain
-owner = CB4
-controller = CB4
-add_core = CB4
+owner = NA8
+controller = NA8
+add_core = NA8
+add_core = WIT

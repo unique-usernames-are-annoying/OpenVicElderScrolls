@@ -1,6 +1,0 @@
-terrain = highlands
-life_rating = 30
-trade_goods = cotton
-owner = TA8
-controller = TA8
-add_core = TA8

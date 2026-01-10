@@ -1,4 +1,4 @@
-capital = 2170
+capital = 729
 government = theocracy
 religion = yokudan_pantheon
 primary_culture = yokudan

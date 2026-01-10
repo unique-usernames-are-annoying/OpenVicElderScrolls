@@ -1,6 +1,0 @@
-terrain = woods
-life_rating = 30
-trade_goods = tea
-owner = BC0
-controller = BC0
-add_core = BC0

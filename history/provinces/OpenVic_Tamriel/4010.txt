@@ -1,6 +1,6 @@
-terrain = fungal_forest
+terrain = marsh
 life_rating = 30
 trade_goods = grain
-owner = MF5
-controller = MF5
-add_core = MF5
+owner = AE6
+controller = AE6
+add_core = AE6

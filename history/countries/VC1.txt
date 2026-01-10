@@ -1,4 +1,4 @@
-capital = 883
+capital = 2715
 government = republic
 religion = bosmer_pantheon
 primary_culture = bosmer

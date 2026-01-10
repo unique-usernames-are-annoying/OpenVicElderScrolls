@@ -1,4 +1,4 @@
-capital = 5376
+capital = 5039
 government = theocracy
 religion = namira_cult
 primary_culture = nedic

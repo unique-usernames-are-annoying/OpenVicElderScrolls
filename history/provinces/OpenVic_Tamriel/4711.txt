@@ -1,6 +1,6 @@
-terrain = heathlands
+terrain = farmlands
 life_rating = 30
-trade_goods = fish
-owner = SC5
-controller = SC5
-add_core = SC5
+trade_goods = cattle
+owner = CC7
+controller = CC7
+add_core = CC7

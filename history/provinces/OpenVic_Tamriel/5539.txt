@@ -1,7 +1,7 @@
-terrain = farmlands
+terrain = mountain
 life_rating = 30
-trade_goods = cattle
-owner = CH2
-controller = CH2
-add_core = CH2
-add_core = CB7
+trade_goods = dye
+owner = NG7
+controller = NG7
+add_core = NG7
+add_core = NA1

@@ -1,0 +1,6 @@
+terrain = taiga
+life_rating = 30
+trade_goods = coal
+owner = DB1
+controller = DB1
+add_core = DB1

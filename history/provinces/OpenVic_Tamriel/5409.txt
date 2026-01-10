@@ -1,6 +1,7 @@
-terrain = bayou
+terrain = dwemer_stronghold
 life_rating = 30
-trade_goods = tobacco
-owner = CG6
-controller = CG6
-add_core = CG6
+trade_goods = timber
+owner = ND0
+controller = ND0
+add_core = ND0
+add_core = NC8

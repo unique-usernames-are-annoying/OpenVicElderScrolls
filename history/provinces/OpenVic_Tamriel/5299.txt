@@ -1,6 +1,3 @@
-terrain = savannah
+terrain = highlands
 life_rating = 30
-trade_goods = wool
-owner = EC5
-controller = EC5
-add_core = EC5
+trade_goods = grain

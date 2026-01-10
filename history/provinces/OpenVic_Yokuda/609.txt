@@ -1,0 +1,6 @@
+terrain = craglands
+life_rating = 30
+trade_goods = cattle
+owner = YB4
+controller = YB4
+add_core = YB4

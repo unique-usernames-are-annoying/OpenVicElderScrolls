@@ -1,6 +1,3 @@
-terrain = orcish_stronghold
+terrain = hills
 life_rating = 30
-trade_goods = timber
-owner = MI1
-controller = MI1
-add_core = MI1
+trade_goods = cattle

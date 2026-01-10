@@ -1,7 +1,6 @@
-terrain = mountain_meadows
+terrain = forest
 life_rating = 30
 trade_goods = fish
-owner = NG6
-controller = NG6
-add_core = NG6
-add_core = NA5
+owner = VA2
+controller = VA2
+add_core = VA2

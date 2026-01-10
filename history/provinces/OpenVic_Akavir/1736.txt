@@ -1,6 +1,6 @@
-terrain = coastline
+terrain = jungle
 life_rating = 30
-trade_goods = dye
-owner = JA5
-controller = JA5
-add_core = JA5
+trade_goods = wool
+owner = JA4
+controller = JA4
+add_core = JA4

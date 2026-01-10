@@ -1,6 +1,0 @@
-terrain = hills
-life_rating = 30
-trade_goods = coal
-owner = IB2
-controller = IB2
-add_core = IB2

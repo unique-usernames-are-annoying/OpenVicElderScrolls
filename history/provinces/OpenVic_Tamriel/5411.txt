@@ -1,6 +1,6 @@
-terrain = woods
+terrain = orcish_stronghold
 life_rating = 30
-trade_goods = grain
-owner = CG6
-controller = CG6
-add_core = CG6
+trade_goods = fruit
+owner = ND4
+controller = ND4
+add_core = ND4

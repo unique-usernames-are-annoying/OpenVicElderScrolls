@@ -1,6 +1,3 @@
-terrain = mountain
+terrain = fungal_forest
 life_rating = 30
-trade_goods = coal
-owner = MA2
-controller = MA2
-add_core = MA2
+trade_goods = sulphur

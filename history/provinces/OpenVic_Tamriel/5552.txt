@@ -1,7 +1,6 @@
-terrain = hills
+terrain = mountain_meadows
 life_rating = 30
-trade_goods = cattle
-owner = CG7
-controller = CG7
-add_core = CG7
-add_core = CD8
+trade_goods = timber
+owner = FRS
+controller = FRS
+add_core = FRS

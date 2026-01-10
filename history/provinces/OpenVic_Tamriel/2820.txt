@@ -1,6 +1,6 @@
-terrain = mountain
+terrain = desert
 life_rating = 30
-trade_goods = grain
-owner = NA2
-controller = NA2
-add_core = NA2
+trade_goods = tea
+owner = EC1
+controller = EC1
+add_core = EC1

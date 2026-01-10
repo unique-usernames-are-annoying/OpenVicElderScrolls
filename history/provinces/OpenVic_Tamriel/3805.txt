@@ -1,3 +1,6 @@
-terrain = hills
+terrain = fungal_forest
 life_rating = 30
-trade_goods = tropical_wood
+trade_goods = fruit
+owner = MF5
+controller = MF5
+add_core = MF5

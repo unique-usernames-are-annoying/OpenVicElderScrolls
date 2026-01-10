@@ -1,7 +1,6 @@
-terrain = mountain
+terrain = tundra
 life_rating = 30
-trade_goods = timber
-owner = PER
-controller = PER
-add_core = PER
-add_core = CF0
+trade_goods = coal
+owner = VOL
+controller = VOL
+add_core = VOL

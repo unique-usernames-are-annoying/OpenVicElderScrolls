@@ -1,6 +1,6 @@
-terrain = urban_alinor
+terrain = hills
 life_rating = 30
-trade_goods = grain
+trade_goods = dye
 owner = SA6
 controller = SA6
 add_core = SA6

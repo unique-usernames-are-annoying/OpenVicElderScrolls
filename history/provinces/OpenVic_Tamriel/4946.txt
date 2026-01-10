@@ -1,6 +1,6 @@
-terrain = forest
+terrain = coastline
 life_rating = 30
-trade_goods = grain
-owner = VA2
-controller = VA2
-add_core = VA2
+trade_goods = timber
+owner = CG1
+controller = CG1
+add_core = CG1

@@ -1,6 +1,0 @@
-terrain = hills
-life_rating = 30
-trade_goods = dye
-owner = NF6
-controller = NF6
-add_core = NF6

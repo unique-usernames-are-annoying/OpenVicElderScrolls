@@ -1,6 +1,0 @@
-terrain = glacier
-life_rating = 30
-trade_goods = grain
-owner = KA4
-controller = KA4
-add_core = KA4

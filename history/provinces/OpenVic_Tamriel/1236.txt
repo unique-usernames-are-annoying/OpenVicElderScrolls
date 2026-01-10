@@ -1,6 +1,0 @@
-terrain = forest
-life_rating = 30
-trade_goods = tobacco
-owner = CF9
-controller = CF9
-add_core = CF9

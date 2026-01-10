@@ -1,6 +1,6 @@
-terrain = urban_dusktown
+terrain = savannah
 life_rating = 30
-trade_goods = timber
-owner = RA7
-controller = RA7
-add_core = RA7
+trade_goods = tea
+owner = EB4
+controller = EB4
+add_core = EB4

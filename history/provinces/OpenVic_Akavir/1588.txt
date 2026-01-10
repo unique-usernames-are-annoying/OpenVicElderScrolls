@@ -1,6 +1,6 @@
-terrain = jungle
+terrain = hills
 life_rating = 30
 trade_goods = grain
-owner = JA3
-controller = JA3
-add_core = JA3
+owner = JB0
+controller = JB0
+add_core = JB0

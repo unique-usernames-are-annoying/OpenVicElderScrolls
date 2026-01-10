@@ -1,6 +1,6 @@
-terrain = hills
+terrain = mountain
 life_rating = 30
 trade_goods = grain
-owner = VC7
-controller = VC7
-add_core = VC7
+owner = CE3
+controller = CE3
+add_core = CE3

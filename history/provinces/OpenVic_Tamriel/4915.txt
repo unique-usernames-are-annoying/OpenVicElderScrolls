@@ -1,6 +1,7 @@
-terrain = forest
+terrain = woods
 life_rating = 30
-trade_goods = fish
-owner = VA5
-controller = VA5
-add_core = VA5
+trade_goods = grain
+owner = MOG
+controller = MOG
+add_core = MOG
+add_core = CG5

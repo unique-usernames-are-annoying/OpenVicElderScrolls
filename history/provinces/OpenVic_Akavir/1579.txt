@@ -1,6 +1,3 @@
-terrain = hills
+terrain = woods
 life_rating = 30
-trade_goods = sulphur
-owner = JA1
-controller = JA1
-add_core = JA1
+trade_goods = wool

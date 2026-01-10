@@ -1,4 +1,4 @@
-capital = 990
+capital = 3690
 government = monarchy
 religion = reclamations_pantheon
 primary_culture = house_dunmer

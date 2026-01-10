@@ -1,6 +1,6 @@
-terrain = highlands
+terrain = urban_greymoor_keep
 life_rating = 30
-trade_goods = iron
-owner = MF5
-controller = MF5
-add_core = MF5
+trade_goods = dye
+owner = RA3
+controller = RA3
+add_core = RA3

@@ -1,0 +1,6 @@
+terrain = marsh
+life_rating = 30
+trade_goods = tea
+owner = AA3
+controller = AA3
+add_core = AA3

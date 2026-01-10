@@ -1,6 +1,6 @@
-terrain = urban_arenthia
+terrain = barrow
 life_rating = 30
-trade_goods = grain
-owner = VD0
-controller = VD0
-add_core = VD0
+trade_goods = sulphur
+owner = NA2
+controller = NA2
+add_core = NA2

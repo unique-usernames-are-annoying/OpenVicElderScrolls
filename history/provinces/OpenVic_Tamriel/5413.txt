@@ -1,7 +1,6 @@
 terrain = barrow
 life_rating = 30
-trade_goods = grain
-owner = NG6
-controller = NG6
-add_core = NG6
-add_core = NA5
+trade_goods = fruit
+owner = NB4
+controller = NB4
+add_core = NB4

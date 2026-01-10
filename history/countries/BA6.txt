@@ -1,4 +1,4 @@
-capital = 1394
+capital = 6041
 government = republic
 religion = druidism
 primary_culture = breton

@@ -1,7 +1,6 @@
-terrain = taiga
+terrain = steppe
 life_rating = 30
-trade_goods = coal
-owner = NB1
-controller = NB1
-add_core = NB1
-add_core = NE6
+trade_goods = grain
+owner = EC3
+controller = EC3
+add_core = EC3

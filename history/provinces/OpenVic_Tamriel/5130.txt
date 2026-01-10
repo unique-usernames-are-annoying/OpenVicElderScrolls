@@ -1,6 +1,7 @@
-terrain = drylands
+terrain = woods
 life_rating = 30
-trade_goods = grain
-owner = EA6
-controller = EA6
-add_core = EA6
+trade_goods = coal
+owner = CA8
+controller = CA8
+add_core = CA8
+add_core = CB2

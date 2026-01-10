@@ -1,4 +1,4 @@
-capital = 1474
+capital = 6538
 government = monarchy
 religion = four_parents
 primary_culture = keptu

@@ -1,6 +1,7 @@
-terrain = heathlands
+terrain = mountain
 life_rating = 30
-trade_goods = tobacco
-owner = CG0
-controller = CG0
-add_core = CG0
+trade_goods = grain
+owner = BE4
+controller = BE4
+add_core = BE4
+add_core = BA4

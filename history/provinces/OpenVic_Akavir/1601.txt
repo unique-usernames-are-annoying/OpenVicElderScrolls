@@ -1,6 +1,6 @@
-terrain = savannah
+terrain = glacier
 life_rating = 30
-trade_goods = coal
-owner = JA8
-controller = JA8
-add_core = JA8
+trade_goods = dye
+owner = KAA
+controller = KAA
+add_core = KAA

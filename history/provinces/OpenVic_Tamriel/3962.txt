@@ -1,3 +1,6 @@
-terrain = bayou
+terrain = mountain
 life_rating = 30
-trade_goods = fish
+trade_goods = fruit
+owner = TON
+controller = TON
+add_core = TON

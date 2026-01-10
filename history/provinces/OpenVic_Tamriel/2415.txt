@@ -1,6 +1,0 @@
-terrain = forest
-life_rating = 30
-trade_goods = tropical_wood
-owner = VC7
-controller = VC7
-add_core = VC7

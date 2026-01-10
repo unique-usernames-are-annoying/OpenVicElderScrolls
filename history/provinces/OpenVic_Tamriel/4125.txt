@@ -1,6 +1,3 @@
-terrain = fungal_forest
+terrain = bayou
 life_rating = 30
-trade_goods = wool
-owner = MG9
-controller = MG9
-add_core = MG9
+trade_goods = coal

@@ -1,6 +1,6 @@
-terrain = plateau
+terrain = woods
 life_rating = 30
-trade_goods = timber
-owner = HA9
-controller = HA9
-add_core = HA9
+trade_goods = grain
+owner = BE8
+controller = BE8
+add_core = BE8

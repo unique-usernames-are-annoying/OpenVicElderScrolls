@@ -1,6 +1,7 @@
-terrain = savannah
+terrain = heathlands
 life_rating = 30
 trade_goods = grain
-owner = EC5
-controller = EC5
-add_core = EC5
+owner = NG7
+controller = NG7
+add_core = NG7
+add_core = NA1

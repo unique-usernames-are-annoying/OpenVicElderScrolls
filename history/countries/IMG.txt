@@ -1,4 +1,4 @@
-capital = 820
+capital = 2505
 government = tribal
 religion = bosmer_pantheon
 primary_culture = imga

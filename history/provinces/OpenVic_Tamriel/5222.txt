@@ -1,6 +1,6 @@
-terrain = steppe
+terrain = hills
 life_rating = 30
-trade_goods = timber
-owner = EC3
-controller = EC3
-add_core = EC3
+trade_goods = tobacco
+owner = CC6
+controller = CC6
+add_core = CC6

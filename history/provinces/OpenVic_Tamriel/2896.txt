@@ -1,0 +1,6 @@
+terrain = savannah
+life_rating = 30
+trade_goods = grain
+owner = ED1
+controller = ED1
+add_core = ED1

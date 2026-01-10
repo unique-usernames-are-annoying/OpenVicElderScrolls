@@ -1,4 +1,4 @@
-capital = 7056
+capital = 5960
 government = native
 religion = malacath_cult
 primary_culture = riekr

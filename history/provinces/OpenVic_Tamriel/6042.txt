@@ -1,6 +1,6 @@
-terrain = hills
+terrain = heathlands
 life_rating = 30
 trade_goods = grain
-owner = CG0
-controller = CG0
-add_core = CG0
+owner = BA6
+controller = BA6
+add_core = BA6

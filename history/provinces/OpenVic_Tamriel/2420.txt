@@ -1,3 +1,0 @@
-terrain = plateau
-life_rating = 30
-trade_goods = tea

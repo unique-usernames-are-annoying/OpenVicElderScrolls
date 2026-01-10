@@ -1,4 +1,4 @@
-capital = 6295
+capital = 6286
 government = republic
 religion = molag_bal_cult
 primary_culture = vampire

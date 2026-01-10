@@ -1,4 +1,4 @@
-capital = 1291
+capital = 5309
 government = tribal
 religion = old_gods_cult
 primary_culture = kreathmen

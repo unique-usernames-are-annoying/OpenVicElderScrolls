@@ -1,7 +1,0 @@
-terrain = woods
-life_rating = 30
-trade_goods = timber
-owner = BA3
-controller = BA3
-add_core = BA3
-add_core = BD2

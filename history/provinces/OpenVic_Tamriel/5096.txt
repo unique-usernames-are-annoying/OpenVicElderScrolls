@@ -1,6 +1,7 @@
-terrain = woods
+terrain = steppe
 life_rating = 30
-trade_goods = dye
-owner = VA9
-controller = VA9
-add_core = VA9
+trade_goods = timber
+owner = CH2
+controller = CH2
+add_core = CH2
+add_core = CA3

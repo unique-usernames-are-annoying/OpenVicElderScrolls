@@ -1,6 +1,3 @@
-terrain = mountain
+terrain = bayou
 life_rating = 30
-trade_goods = tea
-owner = BC9
-controller = BC9
-add_core = BC9
+trade_goods = wool

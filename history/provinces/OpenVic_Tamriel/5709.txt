@@ -1,6 +1,6 @@
-terrain = coastline
+terrain = tundra
 life_rating = 30
-trade_goods = fish
-owner = CC1
-controller = CC1
-add_core = CC1
+trade_goods = timber
+owner = NB2
+controller = NB2
+add_core = NB2

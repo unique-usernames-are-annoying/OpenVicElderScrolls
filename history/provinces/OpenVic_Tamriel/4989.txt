@@ -1,6 +1,7 @@
-terrain = forest
+terrain = farmlands
 life_rating = 30
-trade_goods = fish
-owner = VC7
-controller = VC7
-add_core = VC7
+trade_goods = grain
+owner = CF6
+controller = CF6
+add_core = CF6
+add_core = CI8

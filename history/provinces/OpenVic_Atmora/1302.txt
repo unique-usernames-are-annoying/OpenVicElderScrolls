@@ -1,0 +1,6 @@
+terrain = hot_springs
+life_rating = 30
+trade_goods = wool
+owner = DE3
+controller = DE3
+add_core = DE3

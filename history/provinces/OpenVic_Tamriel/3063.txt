@@ -1,6 +1,6 @@
-terrain = forest
+terrain = desert
 life_rating = 30
-trade_goods = grain
-owner = NB4
-controller = NB4
-add_core = NB4
+trade_goods = iron
+owner = EA6
+controller = EA6
+add_core = EA6

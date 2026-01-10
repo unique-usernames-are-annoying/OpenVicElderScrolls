@@ -1,6 +1,6 @@
 terrain = coastline
 life_rating = 30
 trade_goods = grain
-owner = SD2
-controller = SD2
-add_core = SD2
+owner = EB9
+controller = EB9
+add_core = EB9

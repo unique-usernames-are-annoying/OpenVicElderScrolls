@@ -1,4 +1,4 @@
-capital = 3356
+capital = 3584
 government = republic
 religion = reason_and_logic_cult
 primary_culture = dwemer

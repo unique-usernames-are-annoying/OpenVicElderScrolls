@@ -1,6 +1,7 @@
-terrain = jungle
+terrain = mountain_meadows
 life_rating = 30
-trade_goods = tea
-owner = SA8
-controller = SA8
-add_core = SA8
+trade_goods = fish
+owner = SC3
+controller = SC3
+add_core = SC3
+add_core = SD0

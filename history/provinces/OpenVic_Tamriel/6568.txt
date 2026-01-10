@@ -1,6 +1,3 @@
 terrain = marsh
 life_rating = 30
-trade_goods = grain
-owner = AA3
-controller = AA3
-add_core = AA3
+trade_goods = tea

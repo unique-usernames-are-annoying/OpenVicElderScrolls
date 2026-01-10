@@ -1,4 +1,4 @@
-capital = 3895
+capital = 2722
 government = theocracy
 religion = magna_ge
 primary_culture = ayleid

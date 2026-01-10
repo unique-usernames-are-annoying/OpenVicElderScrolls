@@ -1,6 +1,6 @@
-terrain = mountain_meadows
+terrain = mountain
 life_rating = 30
-trade_goods = fruit
-owner = CF2
-controller = CF2
-add_core = CF2
+trade_goods = tea
+owner = BE6
+controller = BE6
+add_core = BE6

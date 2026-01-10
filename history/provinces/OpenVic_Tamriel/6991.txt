@@ -1,6 +1,0 @@
-terrain = mountain_meadows
-life_rating = 30
-trade_goods = coffee
-owner = BB6
-controller = BB6
-add_core = BB6

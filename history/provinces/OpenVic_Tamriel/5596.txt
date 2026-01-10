@@ -1,6 +1,7 @@
-terrain = savannah
+terrain = farmlands
 life_rating = 30
-trade_goods = tobacco
-owner = VD0
-controller = VD0
-add_core = VD0
+trade_goods = fish
+owner = NG7
+controller = NG7
+add_core = NG7
+add_core = NA1

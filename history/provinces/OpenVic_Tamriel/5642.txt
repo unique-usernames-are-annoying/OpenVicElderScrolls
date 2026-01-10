@@ -1,6 +1,7 @@
-terrain = farmlands
+terrain = forest
 life_rating = 30
-trade_goods = wool
-owner = CF0
-controller = CF0
-add_core = CF0
+trade_goods = cattle
+owner = NG5
+controller = NG5
+add_core = NG5
+add_core = NF3

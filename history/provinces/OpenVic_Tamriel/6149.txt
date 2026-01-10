@@ -1,3 +1,6 @@
-terrain = steppe
+terrain = woods
 life_rating = 30
-trade_goods = tea
+trade_goods = cattle
+owner = BB1
+controller = BB1
+add_core = BB1

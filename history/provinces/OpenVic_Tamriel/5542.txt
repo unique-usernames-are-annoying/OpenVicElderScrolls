@@ -1,7 +1,6 @@
-terrain = farmlands
+terrain = mountain_meadows
 life_rating = 30
-trade_goods = grain
-owner = CH5
-controller = CH5
-add_core = CH5
-add_core = CD9
+trade_goods = cotton
+owner = NF9
+controller = NF9
+add_core = NF9

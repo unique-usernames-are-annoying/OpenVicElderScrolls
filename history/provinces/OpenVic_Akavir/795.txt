@@ -1,6 +1,0 @@
-terrain = urban_yneslea
-life_rating = 30
-trade_goods = fish
-owner = IA7
-controller = IA7
-add_core = IA7

@@ -1,6 +1,0 @@
-terrain = highlands
-life_rating = 30
-trade_goods = fruit
-owner = MD7
-controller = MD7
-add_core = MD7

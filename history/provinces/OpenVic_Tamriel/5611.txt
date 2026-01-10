@@ -1,6 +1,6 @@
-terrain = urban_arenthia
+terrain = dwemer_stronghold
 life_rating = 30
-trade_goods = silk
-owner = VD0
-controller = VD0
-add_core = VD0
+trade_goods = grain
+owner = NF7
+controller = NF7
+add_core = NF7

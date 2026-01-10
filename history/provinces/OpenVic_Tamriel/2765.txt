@@ -1,7 +1,6 @@
-terrain = taiga
+terrain = forest
 life_rating = 30
 trade_goods = tea
-owner = NB1
-controller = NB1
-add_core = NB1
-add_core = NE6
+owner = VA2
+controller = VA2
+add_core = VA2

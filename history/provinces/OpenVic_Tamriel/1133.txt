@@ -1,6 +1,0 @@
-terrain = farmlands
-life_rating = 30
-trade_goods = fruit
-owner = CG7
-controller = CG7
-add_core = CG7

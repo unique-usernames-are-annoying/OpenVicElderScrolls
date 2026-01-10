@@ -1,6 +1,6 @@
-terrain = grasslands
+terrain = taiga
 life_rating = 30
-trade_goods = iron
-owner = CG1
-controller = CG1
-add_core = CG1
+trade_goods = tea
+owner = BA6
+controller = BA6
+add_core = BA6

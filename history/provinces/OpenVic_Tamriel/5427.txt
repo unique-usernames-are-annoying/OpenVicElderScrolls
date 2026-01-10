@@ -1,7 +1,7 @@
-terrain = woods
+terrain = highlands
 life_rating = 30
-trade_goods = cotton
-owner = MOG
-controller = MOG
-add_core = MOG
-add_core = CG5
+trade_goods = grain
+owner = NB6
+controller = NB6
+add_core = NB6
+add_core = NE9

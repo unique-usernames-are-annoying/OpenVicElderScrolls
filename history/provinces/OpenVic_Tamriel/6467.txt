@@ -1,6 +1,3 @@
-terrain = jungle
+terrain = desert
 life_rating = 30
-trade_goods = tea
-owner = AA6
-controller = AA6
-add_core = AA6
+trade_goods = fish

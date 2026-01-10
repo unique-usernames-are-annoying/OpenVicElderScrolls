@@ -1,6 +1,6 @@
-terrain = tundra
+terrain = hills
 life_rating = 30
-trade_goods = coal
-owner = JB2
-controller = JB2
-add_core = JB2
+trade_goods = grain
+owner = JA3
+controller = JA3
+add_core = JA3

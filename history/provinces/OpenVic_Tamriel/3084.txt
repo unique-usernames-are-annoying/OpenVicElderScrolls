@@ -1,7 +1,3 @@
-terrain = forest
+terrain = plateau
 life_rating = 30
-trade_goods = timber
-owner = NG4
-controller = NG4
-add_core = NG4
-add_core = NA6
+trade_goods = tea

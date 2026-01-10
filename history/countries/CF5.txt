@@ -1,4 +1,4 @@
-capital = 5705
+capital = 4719
 government = monarchy
 religion = molag_bal_cult
 primary_culture = nedic

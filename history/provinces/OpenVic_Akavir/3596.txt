@@ -1,6 +1,0 @@
-terrain = marsh
-life_rating = 30
-trade_goods = fruit
-owner = UB1
-controller = UB1
-add_core = UB1

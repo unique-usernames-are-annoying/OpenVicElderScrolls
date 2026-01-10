@@ -1,3 +1,6 @@
-terrain = fungal_forest
+terrain = caves
 life_rating = 30
 trade_goods = grain
+owner = ND5
+controller = ND5
+add_core = ND5

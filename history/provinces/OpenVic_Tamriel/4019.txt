@@ -1,6 +1,3 @@
-terrain = steppe
+terrain = jungle
 life_rating = 30
-trade_goods = cattle
-owner = MA7
-controller = MA7
-add_core = MA7
+trade_goods = fruit

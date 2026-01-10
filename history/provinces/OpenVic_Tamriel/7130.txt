@@ -1,6 +1,0 @@
-terrain = glacier
-life_rating = 30
-trade_goods = sulphur
-owner = NA9
-controller = NA9
-add_core = NA9

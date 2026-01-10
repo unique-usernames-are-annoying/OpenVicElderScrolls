@@ -1,6 +1,0 @@
-terrain = jungle
-life_rating = 30
-trade_goods = iron
-owner = PB2
-controller = PB2
-add_core = PB2

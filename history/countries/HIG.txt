@@ -1,4 +1,4 @@
-capital = 1394
+capital = 6041
 government = monarchy
 religion = altmeri_pantheon
 primary_culture = breton

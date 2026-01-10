@@ -1,6 +1,6 @@
-terrain = urban_silvenar
+terrain = mudflats
 life_rating = 30
-trade_goods = coal
-owner = VC8
-controller = VC8
-add_core = VC8
+trade_goods = wool
+owner = CG1
+controller = CG1
+add_core = CG1

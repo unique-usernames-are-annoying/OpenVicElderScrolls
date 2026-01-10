@@ -1,6 +1,3 @@
-terrain = barrow
+terrain = farmlands
 life_rating = 30
-trade_goods = timber
-owner = MA1
-controller = MA1
-add_core = MA1
+trade_goods = coal

@@ -1,6 +1,7 @@
-terrain = grasslands
+terrain = woods
 life_rating = 30
-trade_goods = tea
-owner = EA1
-controller = EA1
-add_core = EA1
+trade_goods = fish
+owner = NG6
+controller = NG6
+add_core = NG6
+add_core = NE1

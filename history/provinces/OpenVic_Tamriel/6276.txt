@@ -1,6 +1,3 @@
-terrain = hills
+terrain = desert
 life_rating = 30
-trade_goods = timber
-owner = HC7
-controller = HC7
-add_core = HC7
+trade_goods = tobacco

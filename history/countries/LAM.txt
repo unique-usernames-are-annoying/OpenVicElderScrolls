@@ -1,4 +1,4 @@
-capital = 4897
+capital = 2453
 government = tribal
 religion = egg_mother
 primary_culture = lamian

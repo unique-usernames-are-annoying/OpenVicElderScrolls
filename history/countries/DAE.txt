@@ -1,4 +1,4 @@
-capital = 3966
+capital = 3790
 government = native
 religion = mehrunes_dagon_cult
 primary_culture = daedroth

@@ -1,7 +1,6 @@
-terrain = mountain_meadows
+terrain = taiga
 life_rating = 30
 trade_goods = tea
-owner = NG7
-controller = NG7
-add_core = NG7
-add_core = NA1
+owner = MA1
+controller = MA1
+add_core = MA1

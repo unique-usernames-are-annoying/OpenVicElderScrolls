@@ -1,6 +1,6 @@
-terrain = savannah
+terrain = coastline
 life_rating = 30
-trade_goods = grain
-owner = OC6
-controller = OC6
-add_core = OC6
+trade_goods = iron
+owner = JB1
+controller = JB1
+add_core = JB1

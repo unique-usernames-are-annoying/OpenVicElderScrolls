@@ -1,6 +1,3 @@
-terrain = forest
+terrain = coastline
 life_rating = 30
-trade_goods = grain
-owner = VB5
-controller = VB5
-add_core = VB5
+trade_goods = fruit

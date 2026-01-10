@@ -1,6 +1,6 @@
-terrain = hills
+terrain = heathlands
 life_rating = 30
-trade_goods = dye
-owner = CF5
-controller = CF5
-add_core = CF5
+trade_goods = grain
+owner = NC6
+controller = NC6
+add_core = NC6

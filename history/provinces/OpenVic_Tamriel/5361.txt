@@ -1,7 +1,7 @@
-terrain = woods
+terrain = urban_markarth
 life_rating = 30
-trade_goods = cotton
-owner = CE0
-controller = CE0
-add_core = CE0
-add_core = CG2
+trade_goods = grain
+owner = ND1
+controller = ND1
+add_core = ND1
+add_core = NB9

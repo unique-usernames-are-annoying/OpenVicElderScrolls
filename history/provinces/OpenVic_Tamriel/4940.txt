@@ -1,6 +1,7 @@
-terrain = forest
+terrain = woods
 life_rating = 30
-trade_goods = grain
-owner = VB3
-controller = VB3
-add_core = VB3
+trade_goods = iron
+owner = MOK
+controller = MOK
+add_core = MOK
+add_core = CJ3

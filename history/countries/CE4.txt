@@ -1,4 +1,4 @@
-capital = 1215
+capital = 4652
 government = monarchy
 religion = mephala_cult
 primary_culture = ayleid

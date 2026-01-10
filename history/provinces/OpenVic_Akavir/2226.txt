@@ -1,0 +1,6 @@
+terrain = highlands
+life_rating = 30
+trade_goods = coal
+owner = UA3
+controller = UA3
+add_core = UA3

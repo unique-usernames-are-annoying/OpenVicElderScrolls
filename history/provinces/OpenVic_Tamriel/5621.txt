@@ -1,7 +1,6 @@
-terrain = farmlands
+terrain = highlands
 life_rating = 30
-trade_goods = grain
-owner = CH6
-controller = CH6
-add_core = CH6
-add_core = CB5
+trade_goods = tea
+owner = NF7
+controller = NF7
+add_core = NF7

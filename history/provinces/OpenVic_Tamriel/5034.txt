@@ -1,6 +1,6 @@
-terrain = forest
+terrain = mountain_meadows
 life_rating = 30
-trade_goods = tea
-owner = VE2
-controller = VE2
-add_core = VE2
+trade_goods = tropical_wood
+owner = CF1
+controller = CF1
+add_core = CF1

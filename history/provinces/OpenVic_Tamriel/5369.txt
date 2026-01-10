@@ -1,7 +1,6 @@
-terrain = woods
+terrain = barrow
 life_rating = 30
-trade_goods = timber
-owner = CC8
-controller = CC8
-add_core = CC8
-add_core = CJ4
+trade_goods = iron
+owner = NC0
+controller = NC0
+add_core = NC0

@@ -1,6 +1,6 @@
-terrain = blackreach_forest
+terrain = savannah
 life_rating = 30
-trade_goods = grain
-owner = NGH
-controller = NGH
-add_core = NGH
+trade_goods = wool
+owner = EB7
+controller = EB7
+add_core = EB7

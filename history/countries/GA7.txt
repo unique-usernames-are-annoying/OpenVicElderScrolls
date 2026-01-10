@@ -1,4 +1,4 @@
-capital = 4290
+capital = 6866
 government = tribal
 religion = mehrunes_dagon_cult
 primary_culture = clannfear

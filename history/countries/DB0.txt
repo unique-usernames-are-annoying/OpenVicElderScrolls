@@ -1,4 +1,4 @@
-capital = 2219
+capital = 1336
 government = monarchy
 religion = dragon_cult
 primary_culture = atmoran

@@ -1,6 +1,6 @@
 terrain = drylands
 life_rating = 30
-trade_goods = wool
-owner = HH3
-controller = HH3
-add_core = HH3
+trade_goods = cotton
+owner = HF5
+controller = HF5
+add_core = HF5

@@ -1,0 +1,6 @@
+terrain = deadlands_smouldering_badlands
+life_rating = 30
+trade_goods = grain
+owner = GA4
+controller = GA4
+add_core = GA4

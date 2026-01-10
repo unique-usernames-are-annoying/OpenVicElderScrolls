@@ -1,4 +1,4 @@
-capital = 1606
+capital = 2170
 government = theocracy
 religion = tsaesci_pantheon
 primary_culture = tsaesci

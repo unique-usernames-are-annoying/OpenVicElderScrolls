@@ -1,4 +1,4 @@
-capital = 4673
+capital = 244
 government = theocracy
 religion = altmeri_pantheon
 primary_culture = altmer

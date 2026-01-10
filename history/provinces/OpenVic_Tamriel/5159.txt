@@ -1,6 +1,7 @@
-terrain = coastline
+terrain = woods
 life_rating = 30
-trade_goods = dye
-owner = EB6
-controller = EB6
-add_core = EB6
+trade_goods = timber
+owner = CD7
+controller = CD7
+add_core = CD7
+add_core = CD5

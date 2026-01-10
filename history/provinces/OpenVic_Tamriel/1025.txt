@@ -1,6 +1,7 @@
-terrain = dwemer_stronghold
+terrain = caves
 life_rating = 30
-trade_goods = dye
-owner = MG1
-controller = MG1
-add_core = MG1
+trade_goods = grain
+owner = RA6
+controller = RA6
+add_core = RA6
+add_core = RA8

@@ -1,6 +1,6 @@
-terrain = caves
+terrain = farmlands
 life_rating = 30
-trade_goods = fish
-owner = VC1
-controller = VC1
-add_core = VC1
+trade_goods = timber
+owner = CD4
+controller = CD4
+add_core = CD4

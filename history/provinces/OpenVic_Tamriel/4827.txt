@@ -1,6 +1,6 @@
-terrain = highlands
+terrain = grasslands
 life_rating = 30
-trade_goods = cotton
-owner = SD9
-controller = SD9
-add_core = SD9
+trade_goods = grain
+owner = CG3
+controller = CG3
+add_core = CG3

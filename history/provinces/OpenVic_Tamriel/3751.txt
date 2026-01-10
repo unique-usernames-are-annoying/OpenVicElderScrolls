@@ -1,0 +1,3 @@
+terrain = heathlands
+life_rating = 30
+trade_goods = cotton

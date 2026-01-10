@@ -1,6 +1,6 @@
-terrain = steppe
+terrain = bayou
 life_rating = 30
-trade_goods = tea
-owner = MA7
-controller = MA7
-add_core = MA7
+trade_goods = precious_metal
+owner = AB1
+controller = AB1
+add_core = AB1

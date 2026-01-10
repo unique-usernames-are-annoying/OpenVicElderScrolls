@@ -1,7 +1,6 @@
-terrain = hills
+terrain = fungal_forest
 life_rating = 30
-trade_goods = cattle
-owner = BB2
-controller = BB2
-add_core = BB2
-add_core = BE1
+trade_goods = fruit
+owner = MJ2
+controller = MJ2
+add_core = MJ2

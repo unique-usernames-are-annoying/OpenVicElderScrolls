@@ -1,6 +1,6 @@
-terrain = savannah
+terrain = woods
 life_rating = 30
-trade_goods = cotton
-owner = EA8
-controller = EA8
-add_core = EA8
+trade_goods = sulphur
+owner = CG6
+controller = CG6
+add_core = CG6

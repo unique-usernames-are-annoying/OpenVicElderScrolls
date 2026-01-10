@@ -1,0 +1,6 @@
+terrain = hills
+life_rating = 30
+trade_goods = grain
+owner = YC0
+controller = YC0
+add_core = YC0

@@ -1,3 +1,6 @@
-terrain = highlands
+terrain = woods
 life_rating = 30
-trade_goods = cotton
+trade_goods = grain
+owner = MF3
+controller = MF3
+add_core = MF3

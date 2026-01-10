@@ -1,3 +1,6 @@
-terrain = forest
+terrain = highlands
 life_rating = 30
-trade_goods = tobacco
+trade_goods = grain
+owner = CE0
+controller = CE0
+add_core = CE0

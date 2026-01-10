@@ -1,6 +1,6 @@
-terrain = highlands
+terrain = grasslands
 life_rating = 30
-trade_goods = grain
-owner = VB9
-controller = VB9
-add_core = VB9
+trade_goods = timber
+owner = CF4
+controller = CF4
+add_core = CF4

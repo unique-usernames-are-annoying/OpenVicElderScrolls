@@ -1,4 +1,4 @@
-capital = 372
+capital = 1096
 government = native
 religion = cult_of_ancestors
 primary_culture = frost_giant

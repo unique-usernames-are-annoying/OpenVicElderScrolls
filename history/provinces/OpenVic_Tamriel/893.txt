@@ -1,6 +1,6 @@
-terrain = savannah
+terrain = craglands
 life_rating = 30
-trade_goods = tea
-owner = EC5
-controller = EC5
-add_core = EC5
+trade_goods = timber
+owner = HH0
+controller = HH0
+add_core = HH0

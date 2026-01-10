@@ -1,6 +1,7 @@
 terrain = forest
 life_rating = 30
-trade_goods = timber
-owner = CD0
-controller = CD0
-add_core = CD0
+trade_goods = tea
+owner = NA3
+controller = NA3
+add_core = NA3
+add_core = NE1

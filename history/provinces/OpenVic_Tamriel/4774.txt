@@ -1,6 +1,6 @@
-terrain = mountain_meadows
+terrain = heathlands
 life_rating = 30
-trade_goods = sulphur
-owner = SA8
-controller = SA8
-add_core = SA8
+trade_goods = silk
+owner = CE0
+controller = CE0
+add_core = CE0

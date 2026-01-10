@@ -1,6 +1,6 @@
-terrain = tundra
+terrain = savannah
 life_rating = 30
-trade_goods = tea
-owner = NB2
-controller = NB2
-add_core = NB2
+trade_goods = fruit
+owner = EC2
+controller = EC2
+add_core = EC2

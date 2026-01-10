@@ -1,7 +1,7 @@
 terrain = woods
 life_rating = 30
-trade_goods = fruit
-owner = MOG
-controller = MOG
-add_core = MOG
-add_core = CG5
+trade_goods = grain
+owner = BA3
+controller = BA3
+add_core = BA3
+add_core = BB7

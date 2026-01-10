@@ -1,7 +1,6 @@
-terrain = forest
+terrain = desert
 life_rating = 30
-trade_goods = grain
-owner = HH2
-controller = HH2
-add_core = HH2
-add_core = HB2
+trade_goods = fish
+owner = EC6
+controller = EC6
+add_core = EC6

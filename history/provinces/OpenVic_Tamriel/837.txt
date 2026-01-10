@@ -1,6 +1,0 @@
-terrain = caves
-life_rating = 30
-trade_goods = cotton
-owner = VA6
-controller = VA6
-add_core = VA6

@@ -1,6 +1,0 @@
-terrain = urban_abbarbas
-life_rating = 30
-trade_goods = cotton
-owner = PA4
-controller = PA4
-add_core = PA4

@@ -1,6 +1,6 @@
-terrain = forest
+terrain = hills
 life_rating = 30
-trade_goods = opium
-owner = VD5
-controller = VD5
-add_core = VD5
+trade_goods = grain
+owner = CD7
+controller = CD7
+add_core = CD7

@@ -1,0 +1,7 @@
+terrain = mountain_meadows
+life_rating = 30
+trade_goods = grain
+owner = SC3
+controller = SC3
+add_core = SC3
+add_core = SD0

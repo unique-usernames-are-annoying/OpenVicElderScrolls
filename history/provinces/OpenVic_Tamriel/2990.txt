@@ -1,6 +1,6 @@
-terrain = deadlands_lava_cave
+terrain = hills
 life_rating = 30
-trade_goods = tea
-owner = RA3
-controller = RA3
-add_core = RA3
+trade_goods = grain
+owner = EB7
+controller = EB7
+add_core = EB7

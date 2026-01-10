@@ -1,3 +1,7 @@
-terrain = marsh
+terrain = mountain_meadows
 life_rating = 30
-trade_goods = grain
+trade_goods = cotton
+owner = HH6
+controller = HH6
+add_core = HH6
+add_core = HB5

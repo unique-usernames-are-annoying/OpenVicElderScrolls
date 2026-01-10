@@ -1,6 +1,7 @@
-terrain = forest
+terrain = urban_daggerfall
 life_rating = 30
-trade_goods = wool
-owner = CF8
-controller = CF8
-add_core = CF8
+trade_goods = fruit
+owner = BF2
+controller = BF2
+add_core = BF2
+add_core = BA1

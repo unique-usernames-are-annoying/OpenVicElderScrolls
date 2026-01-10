@@ -1,7 +1,7 @@
-terrain = grasslands
+terrain = taiga
 life_rating = 30
-trade_goods = fish
-owner = CD6
-controller = CD6
-add_core = CD6
-add_core = CD5
+trade_goods = cattle
+owner = NGH
+controller = NGH
+add_core = NGH
+add_core = NB0

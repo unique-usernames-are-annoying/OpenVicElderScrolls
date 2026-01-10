@@ -1,7 +1,7 @@
-terrain = marsh
+terrain = urban_falkreath
 life_rating = 30
-trade_goods = cattle
-owner = CG9
-controller = CG9
-add_core = CG9
-add_core = CA2
+trade_goods = tropical_wood
+owner = NG4
+controller = NG4
+add_core = NG4
+add_core = NA6

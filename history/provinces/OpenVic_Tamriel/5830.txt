@@ -1,7 +1,6 @@
-terrain = woods
+terrain = dwemer_stronghold
 life_rating = 30
-trade_goods = coal
-owner = CC7
-controller = CC7
-add_core = CC7
-add_core = ED3
+trade_goods = tea
+owner = NB1
+controller = NB1
+add_core = NB1

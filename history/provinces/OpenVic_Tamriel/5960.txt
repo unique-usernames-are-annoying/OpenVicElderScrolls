@@ -1,7 +1,6 @@
-terrain = grasslands
+terrain = mountain_meadows
 life_rating = 30
-trade_goods = grain
-owner = CH1
-controller = CH1
-add_core = CH1
-add_core = CE7
+trade_goods = tea
+owner = BC3
+controller = BC3
+add_core = BC3

@@ -1,3 +1,6 @@
 terrain = hills
 life_rating = 30
-trade_goods = coal
+trade_goods = wool
+owner = HH3
+controller = HH3
+add_core = HH3

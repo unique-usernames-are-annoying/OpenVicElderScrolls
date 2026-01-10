@@ -1,6 +1,7 @@
-terrain = mountain
+terrain = mountain_meadows
 life_rating = 30
-trade_goods = grain
-owner = CE3
-controller = CE3
-add_core = CE3
+trade_goods = tobacco
+owner = BF2
+controller = BF2
+add_core = BF2
+add_core = BA1

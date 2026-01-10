@@ -1,4 +1,4 @@
-capital = 5947
+capital = 4744
 government = monarchy
 religion = ayleid_pantheon
 primary_culture = nedic

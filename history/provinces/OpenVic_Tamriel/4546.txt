@@ -1,0 +1,6 @@
+terrain = forest
+life_rating = 30
+trade_goods = fish
+owner = CD2
+controller = CD2
+add_core = CD2

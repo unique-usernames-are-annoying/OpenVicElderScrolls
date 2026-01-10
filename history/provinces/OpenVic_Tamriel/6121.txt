@@ -1,3 +1,7 @@
-terrain = coastal_desert
+terrain = mountain_meadows
 life_rating = 30
-trade_goods = tobacco
+trade_goods = grain
+owner = BC1
+controller = BC1
+add_core = BC1
+add_core = BD8

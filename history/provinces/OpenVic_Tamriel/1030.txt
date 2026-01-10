@@ -1,3 +1,6 @@
-terrain = highlands
+terrain = dwemer_stronghold
 life_rating = 30
 trade_goods = grain
+owner = RA9
+controller = RA9
+add_core = RA9

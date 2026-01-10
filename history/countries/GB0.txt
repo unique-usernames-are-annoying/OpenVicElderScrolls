@@ -1,4 +1,4 @@
-capital = 4287
+capital = 6901
 government = monarchy
 religion = mehrunes_dagon_cult
 primary_culture = xivilai

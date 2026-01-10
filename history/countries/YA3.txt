@@ -1,4 +1,4 @@
-capital = 333
+capital = 686
 government = theocracy
 religion = herd_mother
 primary_culture = yokudan

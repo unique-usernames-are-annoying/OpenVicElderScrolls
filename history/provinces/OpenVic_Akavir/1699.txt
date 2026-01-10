@@ -1,6 +1,6 @@
-terrain = coastal_desert
+terrain = jungle
 life_rating = 30
-trade_goods = iron
-owner = OB0
-controller = OB0
-add_core = OB0
+trade_goods = grain
+owner = JA1
+controller = JA1
+add_core = JA1

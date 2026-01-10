@@ -1,6 +1,7 @@
-terrain = woods
+terrain = mountain
 life_rating = 30
-trade_goods = grain
-owner = CC9
-controller = CC9
-add_core = CC9
+trade_goods = timber
+owner = NG5
+controller = NG5
+add_core = NG5
+add_core = NF3

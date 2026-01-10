@@ -1,0 +1,6 @@
+terrain = marsh
+life_rating = 30
+trade_goods = cotton
+owner = VA8
+controller = VA8
+add_core = VA8

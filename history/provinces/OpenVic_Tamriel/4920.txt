@@ -1,6 +1,6 @@
-terrain = forest
+terrain = mudflats
 life_rating = 30
-trade_goods = tea
-owner = VC1
-controller = VC1
-add_core = VC1
+trade_goods = timber
+owner = CG1
+controller = CG1
+add_core = CG1

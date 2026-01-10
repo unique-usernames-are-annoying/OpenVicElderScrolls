@@ -1,6 +1,6 @@
-terrain = glacier
+terrain = forest
 life_rating = 30
-trade_goods = iron
-owner = ND8
-controller = ND8
-add_core = ND8
+trade_goods = cattle
+owner = VC2
+controller = VC2
+add_core = VC2

@@ -1,7 +1,6 @@
-terrain = taiga
+terrain = forest
 life_rating = 30
-trade_goods = precious_metal
-owner = NGH
-controller = NGH
-add_core = NGH
-add_core = NB0
+trade_goods = tea
+owner = VB4
+controller = VB4
+add_core = VB4

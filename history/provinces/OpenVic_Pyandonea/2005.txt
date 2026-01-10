@@ -1,6 +1,0 @@
-terrain = jungle
-life_rating = 30
-trade_goods = coffee
-owner = PA1
-controller = PA1
-add_core = PA1

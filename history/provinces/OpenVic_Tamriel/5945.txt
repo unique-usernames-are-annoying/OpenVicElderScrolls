@@ -1,6 +1,6 @@
-terrain = farmlands
+terrain = mountain
 life_rating = 30
-trade_goods = fish
-owner = CH9
-controller = CH9
-add_core = CH9
+trade_goods = coal
+owner = BE6
+controller = BE6
+add_core = BE6

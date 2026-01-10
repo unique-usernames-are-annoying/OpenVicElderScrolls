@@ -1,0 +1,6 @@
+terrain = desert
+life_rating = 30
+trade_goods = timber
+owner = YC7
+controller = YC7
+add_core = YC7

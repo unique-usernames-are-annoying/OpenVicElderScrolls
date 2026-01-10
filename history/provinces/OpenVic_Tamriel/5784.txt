@@ -1,7 +1,7 @@
-terrain = forest
+terrain = highlands
 life_rating = 30
-trade_goods = cotton
-owner = CC9
-controller = CC9
-add_core = CC9
-add_core = CJ0
+trade_goods = tobacco
+owner = NGH
+controller = NGH
+add_core = NGH
+add_core = NA7

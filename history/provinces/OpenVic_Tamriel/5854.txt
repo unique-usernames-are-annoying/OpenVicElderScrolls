@@ -1,7 +1,7 @@
-terrain = forest
+terrain = heathlands
 life_rating = 30
-trade_goods = tea
-owner = CE4
-controller = CE4
-add_core = CE4
-add_core = CH0
+trade_goods = cattle
+owner = BE4
+controller = BE4
+add_core = BE4
+add_core = BA4

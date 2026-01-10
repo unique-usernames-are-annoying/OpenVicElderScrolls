@@ -1,6 +1,7 @@
-terrain = mountain
+terrain = glacier
 life_rating = 30
-trade_goods = tobacco
-owner = CE3
-controller = CE3
-add_core = CE3
+trade_goods = coal
+owner = NA8
+controller = NA8
+add_core = NA8
+add_core = WIT

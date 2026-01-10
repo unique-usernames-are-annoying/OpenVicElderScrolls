@@ -1,6 +1,7 @@
 terrain = highlands
 life_rating = 30
-trade_goods = tea
-owner = SA7
-controller = SA7
-add_core = SA7
+trade_goods = grain
+owner = PER
+controller = PER
+add_core = PER
+add_core = CF0

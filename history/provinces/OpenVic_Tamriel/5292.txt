@@ -1,6 +1,6 @@
-terrain = desert
+terrain = hills
 life_rating = 30
-trade_goods = coal
-owner = EC1
-controller = EC1
-add_core = EC1
+trade_goods = dye
+owner = NA3
+controller = NA3
+add_core = NA3

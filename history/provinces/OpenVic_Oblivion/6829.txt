@@ -1,0 +1,6 @@
+terrain = black_pyramid
+life_rating = 30
+trade_goods = precious_metal
+owner = LB6
+controller = LB6
+add_core = LB6

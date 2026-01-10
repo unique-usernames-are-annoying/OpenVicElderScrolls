@@ -1,6 +1,6 @@
-terrain = farmlands
+terrain = highlands
 life_rating = 30
-trade_goods = cotton
-owner = CH9
-controller = CH9
-add_core = CH9
+trade_goods = coffee
+owner = BF2
+controller = BF2
+add_core = BF2

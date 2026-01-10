@@ -1,0 +1,6 @@
+terrain = forest
+life_rating = 30
+trade_goods = timber
+owner = VD9
+controller = VD9
+add_core = VD9

@@ -1,3 +1,6 @@
-terrain = bayou
+terrain = drylands
 life_rating = 30
-trade_goods = opium
+trade_goods = timber
+owner = HH1
+controller = HH1
+add_core = HH1

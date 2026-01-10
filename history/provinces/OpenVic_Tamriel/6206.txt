@@ -1,3 +1,3 @@
-terrain = drylands
+terrain = urban_sentinel
 life_rating = 30
 trade_goods = grain

@@ -1,6 +1,6 @@
-terrain = jungle
+terrain = mountain_meadows
 life_rating = 30
-trade_goods = precious_metal
-owner = CD4
-controller = CD4
-add_core = CD4
+trade_goods = timber
+owner = BC0
+controller = BC0
+add_core = BC0

@@ -1,0 +1,6 @@
+terrain = fungal_forest
+life_rating = 30
+trade_goods = tea
+owner = MF8
+controller = MF8
+add_core = MF8

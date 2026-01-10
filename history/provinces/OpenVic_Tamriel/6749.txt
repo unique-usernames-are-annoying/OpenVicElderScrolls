@@ -1,6 +1,0 @@
-terrain = jungle
-life_rating = 30
-trade_goods = tobacco
-owner = AB2
-controller = AB2
-add_core = AB2

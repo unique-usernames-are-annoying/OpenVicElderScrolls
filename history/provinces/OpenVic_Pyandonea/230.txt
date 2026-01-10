@@ -1,6 +1,0 @@
-terrain = savannah
-life_rating = 30
-trade_goods = grain
-owner = PB9
-controller = PB9
-add_core = PB9

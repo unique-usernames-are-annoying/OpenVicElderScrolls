@@ -1,6 +1,6 @@
-terrain = bayou
+terrain = caves
 life_rating = 30
-trade_goods = fruit
-owner = MK0
-controller = MK0
-add_core = MK0
+trade_goods = opium
+owner = RA7
+controller = RA7
+add_core = RA7

@@ -1,4 +1,4 @@
-capital = 795
+capital = 957
 government = monarchy
 religion = dragon_cult
 primary_culture = islander

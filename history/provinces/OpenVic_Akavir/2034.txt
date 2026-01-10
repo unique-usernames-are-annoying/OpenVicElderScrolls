@@ -1,0 +1,6 @@
+terrain = hills
+life_rating = 30
+trade_goods = tea
+owner = OA7
+controller = OA7
+add_core = OA7

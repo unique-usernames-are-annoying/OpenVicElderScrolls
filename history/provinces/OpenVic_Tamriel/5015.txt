@@ -1,6 +1,6 @@
-terrain = forest
+terrain = mountain
 life_rating = 30
-trade_goods = fruit
-owner = VC3
-controller = VC3
-add_core = VC3
+trade_goods = grain
+owner = CF1
+controller = CF1
+add_core = CF1

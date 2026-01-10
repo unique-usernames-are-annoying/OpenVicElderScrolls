@@ -1,3 +1,6 @@
-terrain = marsh
+terrain = drylands
 life_rating = 30
-trade_goods = grain
+trade_goods = fish
+owner = HC5
+controller = HC5
+add_core = HC5

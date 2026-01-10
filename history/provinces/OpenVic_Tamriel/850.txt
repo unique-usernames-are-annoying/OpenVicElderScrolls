@@ -1,6 +1,0 @@
-terrain = forest
-life_rating = 30
-trade_goods = iron
-owner = VB7
-controller = VB7
-add_core = VB7

@@ -1,0 +1,6 @@
+terrain = forest
+life_rating = 30
+trade_goods = precious_metal
+owner = VA7
+controller = VA7
+add_core = VA7

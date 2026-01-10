@@ -1,6 +1,1 @@
-terrain = tundra
-life_rating = 30
-trade_goods = fish
-owner = VOL
-controller = VOL
-add_core = VOL
+terrain = impassable_mountains

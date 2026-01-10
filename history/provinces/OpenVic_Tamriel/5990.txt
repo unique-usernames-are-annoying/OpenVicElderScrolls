@@ -1,7 +1,6 @@
 terrain = woods
 life_rating = 30
 trade_goods = fish
-owner = MOK
-controller = MOK
-add_core = MOK
-add_core = CF8
+owner = BA1
+controller = BA1
+add_core = BA1

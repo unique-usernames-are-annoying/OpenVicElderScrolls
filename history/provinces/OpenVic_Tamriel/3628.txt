@@ -1,0 +1,6 @@
+terrain = mountain
+life_rating = 30
+trade_goods = fruit
+owner = MA3
+controller = MA3
+add_core = MA3

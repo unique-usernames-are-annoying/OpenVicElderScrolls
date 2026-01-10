@@ -1,3 +1,7 @@
-terrain = mountain
+terrain = highlands
 life_rating = 30
-trade_goods = iron
+trade_goods = fruit
+owner = BE4
+controller = BE4
+add_core = BE4
+add_core = BA8

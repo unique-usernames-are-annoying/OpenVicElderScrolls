@@ -1,6 +1,0 @@
-terrain = coastline
-life_rating = 30
-trade_goods = wool
-owner = PB7
-controller = PB7
-add_core = PB7

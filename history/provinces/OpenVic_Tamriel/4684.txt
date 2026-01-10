@@ -1,6 +1,7 @@
-terrain = coastline
+terrain = woods
 life_rating = 30
-trade_goods = dye
-owner = SB5
-controller = SB5
-add_core = SB5
+trade_goods = grain
+owner = CH3
+controller = CH3
+add_core = CH3
+add_core = CA7

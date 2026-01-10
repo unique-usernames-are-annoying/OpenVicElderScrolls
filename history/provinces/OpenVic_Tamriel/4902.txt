@@ -1,6 +1,6 @@
-terrain = woods
+terrain = hills
 life_rating = 30
-trade_goods = cattle
-owner = ED2
-controller = ED2
-add_core = ED2
+trade_goods = grain
+owner = CG0
+controller = CG0
+add_core = CG0

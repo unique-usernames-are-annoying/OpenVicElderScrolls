@@ -1,6 +1,0 @@
-terrain = mountain_meadows
-life_rating = 30
-trade_goods = iron
-owner = HF7
-controller = HF7
-add_core = HF7

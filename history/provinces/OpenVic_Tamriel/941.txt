@@ -1,6 +1,0 @@
-terrain = savannah
-life_rating = 30
-trade_goods = tea
-owner = EA9
-controller = EA9
-add_core = EA9

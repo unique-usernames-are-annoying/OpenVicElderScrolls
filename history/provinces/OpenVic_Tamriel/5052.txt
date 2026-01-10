@@ -1,6 +1,6 @@
-terrain = forest
+terrain = mountain
 life_rating = 30
-trade_goods = tea
-owner = ED2
-controller = ED2
-add_core = ED2
+trade_goods = wool
+owner = CE0
+controller = CE0
+add_core = CE0

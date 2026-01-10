@@ -1,7 +1,0 @@
-terrain = woods
-life_rating = 30
-trade_goods = tobacco
-owner = SC6
-controller = SC6
-add_core = SC6
-add_core = SE4

@@ -1,7 +1,0 @@
-terrain = urban_port_hunding
-life_rating = 30
-trade_goods = cotton
-owner = HG0
-controller = HG0
-add_core = HG0
-add_core = RES

@@ -1,6 +1,6 @@
-terrain = highlands
+terrain = drylands
 life_rating = 30
 trade_goods = tobacco
-owner = NF2
-controller = NF2
-add_core = NF2
+owner = EA6
+controller = EA6
+add_core = EA6

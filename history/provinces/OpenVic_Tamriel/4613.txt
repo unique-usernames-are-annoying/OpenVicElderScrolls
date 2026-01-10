@@ -1,6 +1,7 @@
-terrain = highlands
+terrain = jungle
 life_rating = 30
-trade_goods = iron
-owner = SD3
-controller = SD3
-add_core = SD3
+trade_goods = cattle
+owner = ALG
+controller = ALG
+add_core = ALG
+add_core = CG9

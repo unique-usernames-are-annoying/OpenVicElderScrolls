@@ -1,6 +1,7 @@
 terrain = highlands
 life_rating = 30
-trade_goods = grain
-owner = CG2
-controller = CG2
-add_core = CG2
+trade_goods = tea
+owner = NC5
+controller = NC5
+add_core = NC5
+add_core = NC1

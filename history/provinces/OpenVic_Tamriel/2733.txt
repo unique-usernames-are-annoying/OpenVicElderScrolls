@@ -1,6 +1,6 @@
-terrain = glacier
+terrain = forest
 life_rating = 30
-trade_goods = tropical_wood
-owner = NA9
-controller = NA9
-add_core = NA9
+trade_goods = grain
+owner = VD8
+controller = VD8
+add_core = VD8

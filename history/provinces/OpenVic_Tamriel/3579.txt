@@ -1,0 +1,6 @@
+terrain = highlands
+life_rating = 30
+trade_goods = wool
+owner = MH1
+controller = MH1
+add_core = MH1

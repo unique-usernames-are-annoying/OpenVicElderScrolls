@@ -1,0 +1,6 @@
+terrain = coastal_desert
+life_rating = 30
+trade_goods = coal
+owner = PA2
+controller = PA2
+add_core = PA2

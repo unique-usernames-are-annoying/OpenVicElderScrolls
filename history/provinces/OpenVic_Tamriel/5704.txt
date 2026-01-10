@@ -1,6 +1,3 @@
-terrain = farmlands
+terrain = tundra
 life_rating = 30
-trade_goods = iron
-owner = CC4
-controller = CC4
-add_core = CC4
+trade_goods = grain

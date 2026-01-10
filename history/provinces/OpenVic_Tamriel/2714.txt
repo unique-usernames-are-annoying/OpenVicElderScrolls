@@ -1,6 +1,6 @@
-terrain = taiga
+terrain = marsh
 life_rating = 30
-trade_goods = timber
-owner = NB1
-controller = NB1
-add_core = NB1
+trade_goods = coal
+owner = VC1
+controller = VC1
+add_core = VC1

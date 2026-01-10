@@ -1,3 +1,6 @@
-terrain = plateau
+terrain = bayou
 life_rating = 30
-trade_goods = grain
+trade_goods = tea
+owner = CA1
+controller = CA1
+add_core = CA1

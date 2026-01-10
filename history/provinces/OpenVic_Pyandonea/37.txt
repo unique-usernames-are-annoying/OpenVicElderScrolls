@@ -1,0 +1,6 @@
+terrain = desert
+life_rating = 30
+trade_goods = wool
+owner = PA4
+controller = PA4
+add_core = PA4

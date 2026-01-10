@@ -1,6 +1,6 @@
-terrain = forest
+terrain = mountain
 life_rating = 30
-trade_goods = grain
-owner = VB7
-controller = VB7
-add_core = VB7
+trade_goods = fruit
+owner = SA4
+controller = SA4
+add_core = SA4

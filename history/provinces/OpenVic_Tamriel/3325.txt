@@ -1,6 +1,6 @@
-terrain = orcish_stronghold
+terrain = dwemer_stronghold
 life_rating = 30
-trade_goods = tropical_wood
-owner = MH1
-controller = MH1
-add_core = MH1
+trade_goods = grain
+owner = ME8
+controller = ME8
+add_core = ME8

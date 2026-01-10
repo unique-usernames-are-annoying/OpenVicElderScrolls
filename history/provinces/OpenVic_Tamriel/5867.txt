@@ -1,6 +1,7 @@
-terrain = highlands
+terrain = hills
 life_rating = 30
-trade_goods = timber
-owner = CJ9
-controller = CJ9
-add_core = CJ9
+trade_goods = cotton
+owner = BB2
+controller = BB2
+add_core = BB2
+add_core = BE1

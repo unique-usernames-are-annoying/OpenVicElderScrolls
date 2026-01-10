@@ -1,7 +1,6 @@
-terrain = forest
+terrain = hills
 life_rating = 30
-trade_goods = coffee
-owner = CB0
-controller = CB0
-add_core = CB0
-add_core = CE6
+trade_goods = grain
+owner = NB4
+controller = NB4
+add_core = NB4

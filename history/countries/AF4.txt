@@ -1,4 +1,4 @@
-capital = 1085
+capital = 4236
 government = native
 religion = hist
 primary_culture = paatru

@@ -1,7 +1,6 @@
-terrain = coastline
+terrain = woods
 life_rating = 30
-trade_goods = tea
-owner = SB7
-controller = SB7
-add_core = SB7
-add_core = SD4
+trade_goods = coffee
+owner = CC6
+controller = CC6
+add_core = CC6

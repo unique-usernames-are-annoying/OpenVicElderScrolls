@@ -1,0 +1,6 @@
+terrain = jungle
+life_rating = 30
+trade_goods = tobacco
+owner = PB4
+controller = PB4
+add_core = PB4

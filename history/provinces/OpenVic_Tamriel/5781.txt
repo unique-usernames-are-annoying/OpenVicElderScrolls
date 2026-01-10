@@ -1,6 +1,6 @@
-terrain = farmlands
+terrain = taiga
 life_rating = 30
 trade_goods = dye
-owner = CD1
-controller = CD1
-add_core = CD1
+owner = NA7
+controller = NA7
+add_core = NA7

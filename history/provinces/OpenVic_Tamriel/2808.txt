@@ -1,6 +1,6 @@
-terrain = highlands
+terrain = drylands
 life_rating = 30
-trade_goods = timber
-owner = ND9
-controller = ND9
-add_core = ND9
+trade_goods = fruit
+owner = EB2
+controller = EB2
+add_core = EB2

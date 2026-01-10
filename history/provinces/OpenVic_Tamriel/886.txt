@@ -1,6 +1,7 @@
-terrain = savannah
+terrain = coastal_desert
 life_rating = 30
-trade_goods = grain
-owner = EC2
-controller = EC2
-add_core = EC2
+trade_goods = wool
+owner = HG0
+controller = HG0
+add_core = HG0
+add_core = HF0

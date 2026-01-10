@@ -1,6 +1,7 @@
 terrain = mountain
 life_rating = 30
-trade_goods = grain
-owner = SA8
-controller = SA8
-add_core = SA8
+trade_goods = cotton
+owner = SE0
+controller = SE0
+add_core = SE0
+add_core = SD0

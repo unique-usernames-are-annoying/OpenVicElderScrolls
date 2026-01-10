@@ -1,0 +1,6 @@
+terrain = marsh
+life_rating = 30
+trade_goods = tropical_wood
+owner = ED1
+controller = ED1
+add_core = ED1

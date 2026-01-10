@@ -1,6 +1,7 @@
-terrain = marsh
+terrain = hills
 life_rating = 30
 trade_goods = grain
-owner = CA1
-controller = CA1
-add_core = CA1
+owner = NG6
+controller = NG6
+add_core = NG6
+add_core = NA5

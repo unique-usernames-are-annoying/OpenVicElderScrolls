@@ -1,6 +1,6 @@
 terrain = forest
 life_rating = 30
-trade_goods = grain
-owner = SA7
-controller = SA7
-add_core = SA7
+trade_goods = fruit
+owner = CB9
+controller = CB9
+add_core = CB9

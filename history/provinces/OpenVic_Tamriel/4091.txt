@@ -1,6 +1,6 @@
-terrain = hills
+terrain = bayou
 life_rating = 30
-trade_goods = coal
-owner = MG0
-controller = MG0
-add_core = MG0
+trade_goods = grain
+owner = AB8
+controller = AB8
+add_core = AB8

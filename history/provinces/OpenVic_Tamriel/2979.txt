@@ -1,7 +1,6 @@
-terrain = blackreach_forest
+terrain = savannah
 life_rating = 30
-trade_goods = cotton
-owner = RA7
-controller = RA7
-add_core = RA7
-add_core = RB1
+trade_goods = iron
+owner = ED1
+controller = ED1
+add_core = ED1

@@ -1,3 +1,6 @@
-terrain = coastal_desert
+terrain = highlands
 life_rating = 30
-trade_goods = tea
+trade_goods = wool
+owner = HH4
+controller = HH4
+add_core = HH4

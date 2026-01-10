@@ -1,6 +1,6 @@
-terrain = dwemer_stronghold
+terrain = moorlands
 life_rating = 30
-trade_goods = coal
-owner = ME8
-controller = ME8
-add_core = ME8
+trade_goods = fish
+owner = MB3
+controller = MB3
+add_core = MB3

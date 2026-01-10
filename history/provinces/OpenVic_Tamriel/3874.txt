@@ -1,6 +1,6 @@
-terrain = caves
+terrain = highlands
 life_rating = 30
-trade_goods = fruit
-owner = RA9
-controller = RA9
-add_core = RA9
+trade_goods = iron
+owner = MA8
+controller = MA8
+add_core = MA8

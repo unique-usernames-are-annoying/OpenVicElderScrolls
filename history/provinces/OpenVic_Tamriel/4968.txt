@@ -1,6 +1,7 @@
 terrain = hills
 life_rating = 30
-trade_goods = sulphur
-owner = VB2
-controller = VB2
-add_core = VB2
+trade_goods = cattle
+owner = ALH
+controller = ALH
+add_core = ALH
+add_core = CJ3

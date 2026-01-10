@@ -1,3 +1,6 @@
-terrain = lava
+terrain = ashlands
 life_rating = 30
-trade_goods = cattle
+trade_goods = wool
+owner = TON
+controller = TON
+add_core = TON

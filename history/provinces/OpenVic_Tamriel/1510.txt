@@ -1,3 +1,0 @@
-terrain = urban_sentinel
-life_rating = 30
-trade_goods = fish

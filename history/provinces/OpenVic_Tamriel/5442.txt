@@ -1,6 +1,6 @@
-terrain = coastline
+terrain = tundra
 life_rating = 30
-trade_goods = tobacco
-owner = TPL
-controller = TPL
-add_core = TPL
+trade_goods = wool
+owner = NB2
+controller = NB2
+add_core = NB2

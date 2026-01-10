@@ -1,0 +1,6 @@
+terrain = coastline
+life_rating = 30
+trade_goods = fruit
+owner = OA6
+controller = OA6
+add_core = OA6

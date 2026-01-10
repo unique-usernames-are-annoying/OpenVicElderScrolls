@@ -1,6 +1,0 @@
-terrain = dread_massive
-life_rating = 30
-trade_goods = sulphur
-owner = LC0
-controller = LC0
-add_core = LC0

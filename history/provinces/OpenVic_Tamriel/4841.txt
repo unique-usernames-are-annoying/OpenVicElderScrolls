@@ -1,6 +1,6 @@
-terrain = forest
+terrain = farmlands
 life_rating = 30
-trade_goods = grain
-owner = VD9
-controller = VD9
-add_core = VD9
+trade_goods = coffee
+owner = CE9
+controller = CE9
+add_core = CE9

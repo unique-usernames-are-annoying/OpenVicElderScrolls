@@ -1,7 +1,6 @@
-terrain = farmlands
+terrain = urban_morthal
 life_rating = 30
-trade_goods = grain
-owner = CH4
-controller = CH4
-add_core = CH4
-add_core = CA9
+trade_goods = dye
+owner = NB5
+controller = NB5
+add_core = NB5

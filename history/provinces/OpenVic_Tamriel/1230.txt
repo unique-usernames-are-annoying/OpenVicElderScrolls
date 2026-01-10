@@ -1,6 +1,0 @@
-terrain = bayou
-life_rating = 30
-trade_goods = grain
-owner = CG3
-controller = CG3
-add_core = CG3

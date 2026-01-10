@@ -1,6 +1,7 @@
-terrain = mountain
+terrain = mountain_meadows
 life_rating = 30
-trade_goods = timber
-owner = SE0
-controller = SE0
-add_core = SE0
+trade_goods = grain
+owner = TSS
+controller = TSS
+add_core = TSS
+add_core = CF1

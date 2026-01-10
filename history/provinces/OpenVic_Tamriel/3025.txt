@@ -1,6 +1,6 @@
-terrain = mountain
+terrain = drylands
 life_rating = 30
-trade_goods = precious_metal
-owner = NE0
-controller = NE0
-add_core = NE0
+trade_goods = grain
+owner = EC3
+controller = EC3
+add_core = EC3

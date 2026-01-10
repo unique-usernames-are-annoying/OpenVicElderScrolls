@@ -1,0 +1,6 @@
+terrain = plateau
+life_rating = 30
+trade_goods = coal
+owner = EA4
+controller = EA4
+add_core = EA4

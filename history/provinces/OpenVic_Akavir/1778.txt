@@ -1,7 +1,3 @@
-terrain = mountain_meadows
+terrain = highlands
 life_rating = 30
-trade_goods = tea
-owner = OA2
-controller = OA2
-add_core = OA2
-add_core = OA5
+trade_goods = grain

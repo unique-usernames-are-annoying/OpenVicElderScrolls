@@ -1,6 +1,0 @@
-terrain = marsh
-life_rating = 30
-trade_goods = wool
-owner = AA9
-controller = AA9
-add_core = AA9

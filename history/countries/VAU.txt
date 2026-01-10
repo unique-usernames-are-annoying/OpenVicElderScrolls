@@ -1,4 +1,4 @@
-capital = 1251
+capital = 4588
 government = monarchy
 religion = eight_divines
 primary_culture = nedic

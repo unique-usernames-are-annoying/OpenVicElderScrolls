@@ -1,6 +1,6 @@
-terrain = forest
+terrain = highlands
 life_rating = 30
-trade_goods = dye
-owner = CB0
-controller = CB0
-add_core = CB0
+trade_goods = timber
+owner = NC7
+controller = NC7
+add_core = NC7

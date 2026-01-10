@@ -1,7 +1,7 @@
-terrain = coastline
+terrain = highlands
 life_rating = 30
-trade_goods = timber
-owner = CH4
-controller = CH4
-add_core = CH4
-add_core = CA9
+trade_goods = tropical_wood
+owner = ALH
+controller = ALH
+add_core = ALH
+add_core = CJ3

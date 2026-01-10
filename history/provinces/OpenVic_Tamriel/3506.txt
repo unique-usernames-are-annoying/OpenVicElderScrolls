@@ -1,0 +1,6 @@
+terrain = ashlands
+life_rating = 30
+trade_goods = cattle
+owner = MD7
+controller = MD7
+add_core = MD7

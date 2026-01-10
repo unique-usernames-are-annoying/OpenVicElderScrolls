@@ -1,3 +1,6 @@
-terrain = highlands
+terrain = hills
 life_rating = 30
-trade_goods = grain
+trade_goods = fruit
+owner = HC8
+controller = HC8
+add_core = HC8

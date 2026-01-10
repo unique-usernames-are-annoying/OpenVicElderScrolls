@@ -1,4 +1,4 @@
-capital = 2375
+capital = 2659
 government = tribal
 religion = orcish_pantheon
 primary_culture = wood_orsimer

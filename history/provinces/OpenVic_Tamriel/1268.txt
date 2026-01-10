@@ -1,7 +1,0 @@
-terrain = urban_riften
-life_rating = 30
-trade_goods = timber
-owner = NG7
-controller = NG7
-add_core = NG7
-add_core = NA1

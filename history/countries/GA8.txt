@@ -1,4 +1,4 @@
-capital = 4315
+capital = 6894
 government = tribal
 religion = mehrunes_dagon_cult
 primary_culture = scamp

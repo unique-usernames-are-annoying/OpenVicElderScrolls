@@ -1,4 +1,4 @@
-capital = 5854
+capital = 4558
 government = republic
 religion = mephala_cult
 primary_culture = nedic

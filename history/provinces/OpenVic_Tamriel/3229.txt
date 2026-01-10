@@ -1,3 +1,6 @@
-terrain = bayou
+terrain = mountain
 life_rating = 30
-trade_goods = tobacco
+trade_goods = grain
+owner = MC4
+controller = MC4
+add_core = MC4

@@ -1,6 +1,0 @@
-terrain = woods
-life_rating = 30
-trade_goods = dye
-owner = CG3
-controller = CG3
-add_core = CG3

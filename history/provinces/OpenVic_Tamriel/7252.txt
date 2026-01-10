@@ -1,6 +1,0 @@
-terrain = highlands
-life_rating = 30
-trade_goods = precious_metal
-owner = HF4
-controller = HF4
-add_core = HF4

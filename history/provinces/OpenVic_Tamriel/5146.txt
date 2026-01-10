@@ -1,3 +1,7 @@
-terrain = steppe
+terrain = forest
 life_rating = 30
-trade_goods = grain
+trade_goods = iron
+owner = CB0
+controller = CB0
+add_core = CB0
+add_core = CC0

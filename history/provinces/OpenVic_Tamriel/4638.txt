@@ -1,6 +1,7 @@
-terrain = highlands
+terrain = grasslands
 life_rating = 30
 trade_goods = grain
-owner = SA8
-controller = SA8
-add_core = SA8
+owner = CH2
+controller = CH2
+add_core = CH2
+add_core = CA3

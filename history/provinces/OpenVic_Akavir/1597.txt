@@ -1,6 +1,6 @@
-terrain = forest
+terrain = hills
 life_rating = 30
-trade_goods = grain
+trade_goods = fruit
 owner = JB0
 controller = JB0
 add_core = JB0

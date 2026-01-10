@@ -1,0 +1,6 @@
+terrain = withered_forest
+life_rating = 30
+trade_goods = iron
+owner = LB4
+controller = LB4
+add_core = LB4

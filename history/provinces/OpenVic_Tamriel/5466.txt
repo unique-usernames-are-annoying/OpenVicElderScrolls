@@ -1,7 +1,6 @@
-terrain = coastline
+terrain = hills
 life_rating = 30
-trade_goods = grain
-owner = ALG
-controller = ALG
-add_core = ALG
-add_core = CG9
+trade_goods = tobacco
+owner = ND9
+controller = ND9
+add_core = ND9

@@ -1,6 +1,0 @@
-terrain = coastal_desert
-life_rating = 30
-trade_goods = timber
-owner = YB7
-controller = YB7
-add_core = YB7

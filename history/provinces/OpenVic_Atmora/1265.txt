@@ -1,0 +1,6 @@
+terrain = glacier
+life_rating = 30
+trade_goods = tea
+owner = DC3
+controller = DC3
+add_core = DC3

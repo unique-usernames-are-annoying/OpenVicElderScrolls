@@ -1,6 +1,6 @@
-terrain = jungle
+terrain = highlands
 life_rating = 30
-trade_goods = tobacco
-owner = SA8
-controller = SA8
-add_core = SA8
+trade_goods = grain
+owner = SD6
+controller = SD6
+add_core = SD6

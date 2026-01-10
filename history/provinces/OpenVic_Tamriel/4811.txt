@@ -1,6 +1,7 @@
 terrain = woods
 life_rating = 30
-trade_goods = dye
-owner = SA3
-controller = SA3
-add_core = SA3
+trade_goods = tea
+owner = CF1
+controller = CF1
+add_core = CF1
+add_core = CJ1

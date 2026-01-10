@@ -1,4 +1,4 @@
-capital = 1206
+capital = 5282
 government = republic
 religion = eight_divines
 primary_culture = tsaesci

@@ -1,6 +1,0 @@
-terrain = highlands
-life_rating = 30
-trade_goods = timber
-owner = BB2
-controller = BB2
-add_core = BB2

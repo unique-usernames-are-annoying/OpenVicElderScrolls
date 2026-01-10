@@ -1,0 +1,6 @@
+terrain = mountain
+life_rating = 30
+trade_goods = grain
+owner = CI3
+controller = CI3
+add_core = CI3

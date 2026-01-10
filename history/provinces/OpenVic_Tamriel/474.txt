@@ -1,6 +1,6 @@
-terrain = urban_falinesti
+terrain = coastline
 life_rating = 30
-trade_goods = opium
-owner = VA3
-controller = VA3
-add_core = VA3
+trade_goods = grain
+owner = SB8
+controller = SB8
+add_core = SB8

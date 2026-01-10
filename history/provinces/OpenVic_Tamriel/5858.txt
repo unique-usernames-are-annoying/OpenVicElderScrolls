@@ -1,6 +1,6 @@
-terrain = forest
+terrain = mountain_meadows
 life_rating = 30
-trade_goods = fruit
-owner = CE4
-controller = CE4
-add_core = CE4
+trade_goods = dye
+owner = BB6
+controller = BB6
+add_core = BB6

@@ -1,7 +1,7 @@
-terrain = hills
+terrain = woods
 life_rating = 30
-trade_goods = fish
-owner = CC8
-controller = CC8
-add_core = CC8
-add_core = CJ4
+trade_goods = grain
+owner = NG7
+controller = NG7
+add_core = NG7
+add_core = NA1

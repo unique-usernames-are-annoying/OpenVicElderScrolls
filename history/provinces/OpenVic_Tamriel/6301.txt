@@ -1,6 +1,3 @@
-terrain = desert
+terrain = hills
 life_rating = 30
-trade_goods = tea
-owner = GRH
-controller = GRH
-add_core = GRH
+trade_goods = fish

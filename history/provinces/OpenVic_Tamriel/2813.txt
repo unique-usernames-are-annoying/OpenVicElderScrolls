@@ -1,6 +1,6 @@
-terrain = highlands
+terrain = hills
 life_rating = 30
 trade_goods = cattle
-owner = ND9
-controller = ND9
-add_core = ND9
+owner = EA2
+controller = EA2
+add_core = EA2

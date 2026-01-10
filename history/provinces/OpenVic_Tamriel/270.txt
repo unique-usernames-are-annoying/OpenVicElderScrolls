@@ -1,7 +1,6 @@
-terrain = forest
+terrain = woods
 life_rating = 30
-trade_goods = tropical_wood
-owner = SD2
-controller = SD2
-add_core = SD2
-add_core = SD7
+trade_goods = iron
+owner = SB0
+controller = SB0
+add_core = SB0

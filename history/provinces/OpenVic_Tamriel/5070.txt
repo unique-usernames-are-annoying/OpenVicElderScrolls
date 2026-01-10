@@ -1,6 +1,7 @@
-terrain = drylands
+terrain = grasslands
 life_rating = 30
-trade_goods = fruit
-owner = EA3
-controller = EA3
-add_core = EA3
+trade_goods = grain
+owner = CD6
+controller = CD6
+add_core = CD6
+add_core = CD5

@@ -1,6 +1,3 @@
-terrain = hills
+terrain = mountain
 life_rating = 30
-trade_goods = tobacco
-owner = VB1
-controller = VB1
-add_core = VB1
+trade_goods = tea

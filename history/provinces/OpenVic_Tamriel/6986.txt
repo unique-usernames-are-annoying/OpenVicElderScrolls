@@ -1,7 +1,0 @@
-terrain = urban_wayrest
-life_rating = 30
-trade_goods = timber
-owner = BC1
-controller = BC1
-add_core = BC1
-add_core = BC8

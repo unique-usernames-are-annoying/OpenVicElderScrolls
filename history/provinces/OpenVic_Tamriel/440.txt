@@ -1,6 +1,7 @@
 terrain = coastline
 life_rating = 30
-trade_goods = iron
-owner = SB3
-controller = SB3
-add_core = SB3
+trade_goods = cotton
+owner = SA3
+controller = SA3
+add_core = SA3
+add_core = SC8

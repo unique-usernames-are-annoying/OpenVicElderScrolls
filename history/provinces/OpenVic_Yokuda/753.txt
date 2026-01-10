@@ -1,0 +1,6 @@
+terrain = urban_lumut
+life_rating = 30
+trade_goods = tobacco
+owner = YC1
+controller = YC1
+add_core = YC1

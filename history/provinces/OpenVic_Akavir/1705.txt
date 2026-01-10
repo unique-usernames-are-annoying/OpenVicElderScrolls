@@ -1,6 +1,6 @@
-terrain = coastline
+terrain = jungle
 life_rating = 30
-trade_goods = cotton
-owner = OC3
-controller = OC3
-add_core = OC3
+trade_goods = grain
+owner = JA1
+controller = JA1
+add_core = JA1

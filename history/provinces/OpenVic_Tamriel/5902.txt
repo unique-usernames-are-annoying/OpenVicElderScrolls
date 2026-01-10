@@ -1,6 +1,6 @@
-terrain = highlands
+terrain = mountain_meadows
 life_rating = 30
-trade_goods = iron
-owner = CF2
-controller = CF2
-add_core = CF2
+trade_goods = cotton
+owner = HD8
+controller = HD8
+add_core = HD8

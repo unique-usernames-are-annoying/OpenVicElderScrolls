@@ -1,4 +1,4 @@
-capital = 6189
+capital = 6551
 government = monarchy
 religion = celestials
 primary_culture = keptu

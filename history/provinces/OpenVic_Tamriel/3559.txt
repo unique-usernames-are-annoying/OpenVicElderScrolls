@@ -1,0 +1,4 @@
+terrain = highlands
+life_rating = 30
+trade_goods = timber
+add_core = MA2

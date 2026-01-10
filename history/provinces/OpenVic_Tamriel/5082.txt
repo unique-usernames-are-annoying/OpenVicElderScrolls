@@ -1,6 +1,6 @@
-terrain = plateau
+terrain = caves
 life_rating = 30
-trade_goods = coal
-owner = EA3
-controller = EA3
-add_core = EA3
+trade_goods = wool
+owner = CA1
+controller = CA1
+add_core = CA1

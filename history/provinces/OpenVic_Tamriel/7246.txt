@@ -1,6 +1,0 @@
-terrain = orcish_stronghold
-life_rating = 30
-trade_goods = cattle
-owner = ND4
-controller = ND4
-add_core = ND4

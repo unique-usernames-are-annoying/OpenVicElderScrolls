@@ -1,6 +1,6 @@
 terrain = coastline
 life_rating = 30
-trade_goods = timber
-owner = TA9
-controller = TA9
-add_core = TA9
+trade_goods = grain
+owner = JA8
+controller = JA8
+add_core = JA8

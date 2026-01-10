@@ -1,6 +1,6 @@
-terrain = coastline
+terrain = tundra
 life_rating = 30
-trade_goods = cotton
-owner = ABE
-controller = ABE
-add_core = ABE
+trade_goods = timber
+owner = VOL
+controller = VOL
+add_core = VOL

@@ -1,4 +1,4 @@
-capital = 1002
+capital = 3170
 government = monarchy
 religion = tribunal_pantheon
 primary_culture = house_dunmer

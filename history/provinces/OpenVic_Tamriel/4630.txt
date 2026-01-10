@@ -1,7 +1,6 @@
-terrain = coastline
+terrain = marsh
 life_rating = 30
 trade_goods = grain
-owner = SA6
-controller = SA6
-add_core = SA6
-add_core = SC8
+owner = CB9
+controller = CB9
+add_core = CB9

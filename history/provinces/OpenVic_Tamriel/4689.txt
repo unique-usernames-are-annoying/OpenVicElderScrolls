@@ -1,6 +1,7 @@
 terrain = woods
 life_rating = 30
-trade_goods = dye
-owner = SB0
-controller = SB0
-add_core = SB0
+trade_goods = fish
+owner = CA8
+controller = CA8
+add_core = CA8
+add_core = CB2

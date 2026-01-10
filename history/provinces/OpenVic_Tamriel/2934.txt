@@ -1,3 +1,6 @@
-terrain = mountain
+terrain = urban_corinthe
 life_rating = 30
-trade_goods = grain
+trade_goods = tea
+owner = EC9
+controller = EC9
+add_core = EC9

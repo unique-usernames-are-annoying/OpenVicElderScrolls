@@ -1,6 +1,6 @@
-terrain = woods
+terrain = hills
 life_rating = 30
-trade_goods = coal
-owner = CC9
-controller = CC9
-add_core = CC9
+trade_goods = timber
+owner = NB6
+controller = NB6
+add_core = NB6

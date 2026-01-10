@@ -1,6 +1,7 @@
-terrain = farmlands
+terrain = heathlands
 life_rating = 30
-trade_goods = grain
-owner = CD4
-controller = CD4
-add_core = CD4
+trade_goods = fruit
+owner = BA3
+controller = BA3
+add_core = BA3
+add_core = BC8

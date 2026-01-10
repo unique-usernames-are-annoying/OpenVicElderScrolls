@@ -1,6 +1,0 @@
-terrain = highlands
-life_rating = 30
-trade_goods = dye
-owner = YC8
-controller = YC8
-add_core = YC8

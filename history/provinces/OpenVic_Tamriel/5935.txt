@@ -1,4 +1,6 @@
-terrain = highlands
+terrain = tundra
 life_rating = 30
-trade_goods = grain
-add_core = MIT
+trade_goods = fish
+owner = GRH
+controller = GRH
+add_core = GRH

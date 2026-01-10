@@ -1,6 +1,0 @@
-terrain = deadlands_burning_hills
-life_rating = 30
-trade_goods = tea
-owner = GB0
-controller = GB0
-add_core = GB0

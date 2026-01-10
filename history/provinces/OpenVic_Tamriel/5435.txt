@@ -1,7 +1,6 @@
-terrain = woods
+terrain = glacier
 life_rating = 30
-trade_goods = tobacco
-owner = MOK
-controller = MOK
-add_core = MOK
-add_core = CF9
+trade_goods = grain
+owner = NA9
+controller = NA9
+add_core = NA9

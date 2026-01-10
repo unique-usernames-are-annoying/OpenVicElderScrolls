@@ -1,6 +1,3 @@
-terrain = dwemer_stronghold
+terrain = bayou
 life_rating = 30
-trade_goods = grain
-owner = MJ3
-controller = MJ3
-add_core = MJ3
+trade_goods = silk

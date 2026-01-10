@@ -1,6 +1,0 @@
-terrain = highlands
-life_rating = 30
-trade_goods = grain
-owner = NC1
-controller = NC1
-add_core = NC1

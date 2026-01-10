@@ -1,4 +1,4 @@
-capital = 367
+capital = 1189
 government = tribal
 religion = dragon_cult
 primary_culture = frost_giant

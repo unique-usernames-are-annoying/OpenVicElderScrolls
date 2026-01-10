@@ -1,6 +1,6 @@
-terrain = woods
+terrain = highlands
 life_rating = 30
-trade_goods = coffee
-owner = SA9
-controller = SA9
-add_core = SA9
+trade_goods = fish
+owner = SD8
+controller = SD8
+add_core = SD8

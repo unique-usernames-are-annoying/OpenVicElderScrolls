@@ -1,6 +1,6 @@
-terrain = farmlands
+terrain = dwemer_stronghold
 life_rating = 30
-trade_goods = wool
-owner = CB1
-controller = CB1
-add_core = CB1
+trade_goods = tea
+owner = ND8
+controller = ND8
+add_core = ND8

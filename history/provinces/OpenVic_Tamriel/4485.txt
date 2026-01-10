@@ -1,0 +1,6 @@
+terrain = marsh
+life_rating = 30
+trade_goods = grain
+owner = CA1
+controller = CA1
+add_core = CA1

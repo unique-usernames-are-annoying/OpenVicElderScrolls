@@ -1,3 +1,6 @@
-terrain = highlands
+terrain = drylands
 life_rating = 30
-trade_goods = tea
+trade_goods = cotton
+owner = HA9
+controller = HA9
+add_core = HA9

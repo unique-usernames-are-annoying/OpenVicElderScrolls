@@ -1,6 +1,6 @@
-terrain = highlands
+terrain = mountain
 life_rating = 30
-trade_goods = timber
-owner = CE0
-controller = CE0
-add_core = CE0
+trade_goods = tea
+owner = NE0
+controller = NE0
+add_core = NE0

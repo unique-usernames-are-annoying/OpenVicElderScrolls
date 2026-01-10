@@ -1,4 +1,4 @@
-capital = 1423
+capital = 5890
 government = tribal
 religion = druidism
 primary_culture = horsemen

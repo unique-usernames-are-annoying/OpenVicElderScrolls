@@ -1,6 +1,3 @@
-terrain = mountain_meadows
+terrain = bayou
 life_rating = 30
-trade_goods = timber
-owner = MA7
-controller = MA7
-add_core = MA7
+trade_goods = fish

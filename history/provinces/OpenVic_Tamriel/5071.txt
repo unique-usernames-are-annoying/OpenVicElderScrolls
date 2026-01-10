@@ -1,6 +1,6 @@
-terrain = drylands
+terrain = grasslands
 life_rating = 30
-trade_goods = timber
-owner = EA2
-controller = EA2
-add_core = EA2
+trade_goods = coal
+owner = CD6
+controller = CD6
+add_core = CD6

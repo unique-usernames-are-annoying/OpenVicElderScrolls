@@ -1,0 +1,6 @@
+terrain = hot_springs
+life_rating = 30
+trade_goods = iron
+owner = DA4
+controller = DA4
+add_core = DA4

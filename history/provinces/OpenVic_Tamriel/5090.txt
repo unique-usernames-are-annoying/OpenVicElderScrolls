@@ -1,3 +1,6 @@
-terrain = coastline
+terrain = grasslands
 life_rating = 30
-trade_goods = dye
+trade_goods = fruit
+owner = CB9
+controller = CB9
+add_core = CB9

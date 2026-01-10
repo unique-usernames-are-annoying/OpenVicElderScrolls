@@ -1,6 +1,0 @@
-terrain = highlands
-life_rating = 30
-trade_goods = grain
-owner = EB7
-controller = EB7
-add_core = EB7

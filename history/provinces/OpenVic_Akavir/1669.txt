@@ -1,3 +1,6 @@
-terrain = desert
+terrain = coastline
 life_rating = 30
-trade_goods = wool
+trade_goods = cattle
+owner = JA7
+controller = JA7
+add_core = JA7

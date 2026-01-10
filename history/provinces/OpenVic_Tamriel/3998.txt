@@ -1,3 +1,6 @@
-terrain = fungal_forest
+terrain = hills
 life_rating = 30
-trade_goods = grain
+trade_goods = tobacco
+owner = MI7
+controller = MI7
+add_core = MI7

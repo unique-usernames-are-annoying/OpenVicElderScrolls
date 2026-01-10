@@ -1,6 +1,7 @@
-terrain = mountain
+terrain = glacier
 life_rating = 30
-trade_goods = opium
-owner = CE0
-controller = CE0
-add_core = CE0
+trade_goods = grain
+owner = NB6
+controller = NB6
+add_core = NB6
+add_core = NE7

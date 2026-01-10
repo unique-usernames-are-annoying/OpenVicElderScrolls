@@ -1,6 +1,7 @@
-terrain = coastline
+terrain = farmlands
 life_rating = 30
-trade_goods = grain
-owner = VE0
-controller = VE0
-add_core = VE0
+trade_goods = tobacco
+owner = CH1
+controller = CH1
+add_core = CH1
+add_core = CI8

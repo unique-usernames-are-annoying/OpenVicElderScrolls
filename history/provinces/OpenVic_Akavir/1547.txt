@@ -1,7 +1,6 @@
-terrain = jungle
+terrain = tundra
 life_rating = 30
-trade_goods = grain
-owner = IA8
-controller = IA8
-add_core = IA8
-add_core = IA9
+trade_goods = fish
+owner = JB2
+controller = JB2
+add_core = JB2

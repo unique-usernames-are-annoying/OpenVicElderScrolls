@@ -1,6 +1,6 @@
-terrain = hills
+terrain = mountain_meadows
 life_rating = 30
-trade_goods = tea
-owner = CE5
-controller = CE5
-add_core = CE5
+trade_goods = timber
+owner = NB7
+controller = NB7
+add_core = NB7

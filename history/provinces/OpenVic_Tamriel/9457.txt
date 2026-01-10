@@ -1,3 +1,1 @@
-terrain = coastline
-life_rating = 30
-trade_goods = grain
+terrain = impassable_mountains

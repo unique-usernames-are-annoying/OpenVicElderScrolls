@@ -1,6 +1,6 @@
-terrain = forest
+terrain = hills
 life_rating = 30
 trade_goods = grain
-owner = CF8
-controller = CF8
-add_core = CF8
+owner = BE4
+controller = BE4
+add_core = BE4

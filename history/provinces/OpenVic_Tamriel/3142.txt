@@ -1,6 +1,6 @@
-terrain = caves
+terrain = highlands
 life_rating = 30
-trade_goods = fish
-owner = NGH
-controller = NGH
-add_core = NGH
+trade_goods = tea
+owner = MI1
+controller = MI1
+add_core = MI1

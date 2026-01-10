@@ -1,6 +1,6 @@
-terrain = forest
+terrain = woods
 life_rating = 30
-trade_goods = sulphur
-owner = SA7
-controller = SA7
-add_core = SA7
+trade_goods = tea
+owner = SB0
+controller = SB0
+add_core = SB0

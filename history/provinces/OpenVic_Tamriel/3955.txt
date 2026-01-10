@@ -1,6 +1,6 @@
-terrain = hills
+terrain = bayou
 life_rating = 30
 trade_goods = cattle
-owner = MF1
-controller = MF1
-add_core = MF1
+owner = MK0
+controller = MK0
+add_core = MK0

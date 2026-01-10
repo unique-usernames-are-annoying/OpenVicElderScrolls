@@ -1,7 +1,7 @@
-terrain = grasslands
+terrain = hills
 life_rating = 30
-trade_goods = coal
-owner = CH2
-controller = CH2
-add_core = CH2
-add_core = CA3
+trade_goods = tropical_wood
+owner = NF6
+controller = NF6
+add_core = NF6
+add_core = NF3

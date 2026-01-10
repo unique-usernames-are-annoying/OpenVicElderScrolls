@@ -1,4 +1,4 @@
-capital = 1035
+capital = 3882
 government = republic
 religion = sheogorath_cult
 primary_culture = ashlander_chimer

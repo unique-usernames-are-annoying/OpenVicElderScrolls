@@ -1,3 +1,6 @@
-terrain = jungle
+terrain = tundra
 life_rating = 30
 trade_goods = fruit
+owner = JB2
+controller = JB2
+add_core = JB2

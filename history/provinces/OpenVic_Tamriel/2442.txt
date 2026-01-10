@@ -1,6 +1,6 @@
-terrain = woods
+terrain = hills
 life_rating = 30
-trade_goods = timber
-owner = SB4
-controller = SB4
-add_core = SB4
+trade_goods = precious_metal
+owner = ED2
+controller = ED2
+add_core = ED2

@@ -1,0 +1,7 @@
+terrain = bayou
+life_rating = 30
+trade_goods = cotton
+owner = MJ9
+controller = MJ9
+add_core = MJ9
+add_core = MF4

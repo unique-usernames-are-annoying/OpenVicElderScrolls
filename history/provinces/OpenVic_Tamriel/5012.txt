@@ -1,6 +1,6 @@
-terrain = forest
+terrain = farmlands
 life_rating = 30
-trade_goods = wool
-owner = VA9
-controller = VA9
-add_core = VA9
+trade_goods = fruit
+owner = CE5
+controller = CE5
+add_core = CE5

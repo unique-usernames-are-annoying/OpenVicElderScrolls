@@ -1,4 +1,4 @@
-capital = 2206
+capital = 1259
 government = native
 religion = dragon_cult
 primary_culture = glacial

@@ -1,6 +1,6 @@
-terrain = coastline
+terrain = hills
 life_rating = 30
-trade_goods = wool
-owner = SB3
-controller = SB3
-add_core = SB3
+trade_goods = cotton
+owner = VB0
+controller = VB0
+add_core = VB0

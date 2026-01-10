@@ -1,6 +1,0 @@
-terrain = taiga
-life_rating = 30
-trade_goods = tobacco
-owner = MA1
-controller = MA1
-add_core = MA1

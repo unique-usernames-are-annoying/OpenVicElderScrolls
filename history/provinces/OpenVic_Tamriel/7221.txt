@@ -1,7 +1,0 @@
-terrain = heathlands
-life_rating = 30
-trade_goods = tobacco
-owner = ND7
-controller = ND7
-add_core = ND7
-add_core = NC2

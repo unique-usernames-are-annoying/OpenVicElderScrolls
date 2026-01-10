@@ -1,4 +1,4 @@
-capital = 5252
+capital = 3075
 government = tribal
 religion = sanguine_cult
 primary_culture = vampire

@@ -1,7 +1,6 @@
-terrain = forest
+terrain = tundra
 life_rating = 30
-trade_goods = cotton
-owner = CB0
-controller = CB0
-add_core = CB0
-add_core = CC0
+trade_goods = tobacco
+owner = NG8
+controller = NG8
+add_core = NG8

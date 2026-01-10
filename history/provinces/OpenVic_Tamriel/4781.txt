@@ -1,6 +1,6 @@
-terrain = coastline
+terrain = urban_leyawiin
 life_rating = 30
-trade_goods = tea
-owner = SC7
-controller = SC7
-add_core = SC7
+trade_goods = iron
+owner = CA1
+controller = CA1
+add_core = CA1

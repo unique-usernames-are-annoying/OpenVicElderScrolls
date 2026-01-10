@@ -1,0 +1,6 @@
+terrain = coastline
+life_rating = 30
+trade_goods = coffee
+owner = VC6
+controller = VC6
+add_core = VC6

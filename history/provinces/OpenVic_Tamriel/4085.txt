@@ -1,3 +1,6 @@
-terrain = highlands
+terrain = jungle
 life_rating = 30
-trade_goods = grain
+trade_goods = coal
+owner = AB2
+controller = AB2
+add_core = AB2

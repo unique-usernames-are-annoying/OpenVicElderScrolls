@@ -1,4 +1,4 @@
-capital = 5240
+capital = 3018
 government = tribal
 religion = khajiiti_pantheon
 primary_culture = vampire

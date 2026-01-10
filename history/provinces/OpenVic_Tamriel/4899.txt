@@ -1,3 +1,7 @@
-terrain = hills
+terrain = woods
 life_rating = 30
-trade_goods = fish
+trade_goods = coffee
+owner = MOG
+controller = MOG
+add_core = MOG
+add_core = CG5

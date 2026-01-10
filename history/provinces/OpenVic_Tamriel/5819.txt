@@ -1,6 +1,6 @@
-terrain = grasslands
+terrain = tundra
 life_rating = 30
-trade_goods = fruit
-owner = CD6
-controller = CD6
-add_core = CD6
+trade_goods = tobacco
+owner = ND2
+controller = ND2
+add_core = ND2

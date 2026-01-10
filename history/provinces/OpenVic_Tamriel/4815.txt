@@ -1,6 +1,4 @@
-terrain = hills
+terrain = highlands
 life_rating = 30
-trade_goods = grain
-owner = SD5
-controller = SD5
-add_core = SD5
+trade_goods = coal
+add_core = CF1

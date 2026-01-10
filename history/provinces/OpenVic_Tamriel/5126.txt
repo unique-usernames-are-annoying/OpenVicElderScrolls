@@ -1,3 +1,6 @@
-terrain = steppe
+terrain = grasslands
 life_rating = 30
-trade_goods = opium
+trade_goods = coal
+owner = CA4
+controller = CA4
+add_core = CA4

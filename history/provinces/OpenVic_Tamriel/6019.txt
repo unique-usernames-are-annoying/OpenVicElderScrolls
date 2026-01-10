@@ -1,6 +1,7 @@
-terrain = highlands
+terrain = woods
 life_rating = 30
-trade_goods = precious_metal
-owner = CG0
-controller = CG0
-add_core = CG0
+trade_goods = fish
+owner = BA3
+controller = BA3
+add_core = BA3
+add_core = BB7

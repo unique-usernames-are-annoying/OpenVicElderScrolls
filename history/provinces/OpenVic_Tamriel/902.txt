@@ -1,6 +1,6 @@
-terrain = desert
+terrain = hills
 life_rating = 30
-trade_goods = fruit
-owner = EB4
-controller = EB4
-add_core = EB4
+trade_goods = coffee
+owner = HH0
+controller = HH0
+add_core = HH0

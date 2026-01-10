@@ -1,6 +1,3 @@
 terrain = highlands
 life_rating = 30
-trade_goods = timber
-owner = MD3
-controller = MD3
-add_core = MD3
+trade_goods = fish

@@ -1,6 +1,6 @@
-terrain = woods
+terrain = highlands
 life_rating = 30
-trade_goods = coffee
-owner = CB0
-controller = CB0
-add_core = CB0
+trade_goods = tea
+owner = VOL
+controller = VOL
+add_core = VOL

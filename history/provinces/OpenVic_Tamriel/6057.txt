@@ -1,6 +1,7 @@
-terrain = farmlands
+terrain = highlands
 life_rating = 30
-trade_goods = fish
-owner = CD4
-controller = CD4
-add_core = CD4
+trade_goods = tobacco
+owner = BE5
+controller = BE5
+add_core = BE5
+add_core = BB8

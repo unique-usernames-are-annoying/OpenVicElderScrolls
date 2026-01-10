@@ -1,6 +1,7 @@
-terrain = savannah
+terrain = forest
 life_rating = 30
-trade_goods = tea
-owner = EB7
-controller = EB7
-add_core = EB7
+trade_goods = grain
+owner = CB3
+controller = CB3
+add_core = CB3
+add_core = CD8

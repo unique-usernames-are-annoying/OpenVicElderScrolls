@@ -1,6 +1,6 @@
-terrain = mountain
+terrain = glacier
 life_rating = 30
-trade_goods = grain
-owner = MA2
-controller = MA2
-add_core = MA2
+trade_goods = timber
+owner = RIE
+controller = RIE
+add_core = RIE

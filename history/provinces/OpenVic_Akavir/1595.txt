@@ -1,3 +1,6 @@
-terrain = hills
+terrain = taiga
 life_rating = 30
-trade_goods = tobacco
+trade_goods = fruit
+owner = JB2
+controller = JB2
+add_core = JB2

@@ -1,6 +1,6 @@
-terrain = mountain
+terrain = highlands
 life_rating = 30
-trade_goods = iron
-owner = TON
-controller = TON
-add_core = TON
+trade_goods = timber
+owner = SA7
+controller = SA7
+add_core = SA7

@@ -1,6 +1,0 @@
-terrain = withered_forest
-life_rating = 30
-trade_goods = coal
-owner = LA4
-controller = LA4
-add_core = LA4

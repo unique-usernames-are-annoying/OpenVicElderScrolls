@@ -1,6 +1,6 @@
-terrain = urban_ebonheart
+terrain = caves
 life_rating = 30
-trade_goods = fish
-owner = RAA
-controller = RAA
-add_core = RAA
+trade_goods = grain
+owner = NA4
+controller = NA4
+add_core = NA4

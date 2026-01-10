@@ -1,6 +1,3 @@
-terrain = marsh
+terrain = steppe
 life_rating = 30
-trade_goods = coal
-owner = AC8
-controller = AC8
-add_core = AC8
+trade_goods = cattle

@@ -1,3 +1,6 @@
-terrain = highlands
+terrain = fungal_forest
 life_rating = 30
-trade_goods = fish
+trade_goods = coal
+owner = MB5
+controller = MB5
+add_core = MB5

@@ -1,6 +1,6 @@
-terrain = desert
+terrain = steppe
 life_rating = 30
-trade_goods = timber
-owner = HA6
-controller = HA6
-add_core = HA6
+trade_goods = coal
+owner = HG5
+controller = HG5
+add_core = HG5

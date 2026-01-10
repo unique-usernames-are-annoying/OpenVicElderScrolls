@@ -1,3 +1,7 @@
-terrain = forest
+terrain = highlands
 life_rating = 30
-trade_goods = grain
+trade_goods = fruit
+owner = CF7
+controller = CF7
+add_core = CF7
+add_core = CF9

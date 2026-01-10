@@ -1,3 +1,6 @@
-terrain = hills
+terrain = woods
 life_rating = 30
-trade_goods = fruit
+trade_goods = wool
+owner = NB4
+controller = NB4
+add_core = NB4

@@ -1,6 +1,3 @@
 terrain = fungal_forest
 life_rating = 30
-trade_goods = coal
-owner = MH6
-controller = MH6
-add_core = MH6
+trade_goods = tea

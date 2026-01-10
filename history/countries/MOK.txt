@@ -1,4 +1,4 @@
-capital = 5983
+capital = 4859
 government = monarchy
 religion = boethiah_cult
 primary_culture = nedic

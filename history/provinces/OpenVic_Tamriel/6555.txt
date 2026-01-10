@@ -1,3 +1,3 @@
-terrain = bayou
+terrain = mountain
 life_rating = 30
-trade_goods = iron
+trade_goods = timber

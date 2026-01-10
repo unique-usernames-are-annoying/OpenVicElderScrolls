@@ -1,3 +1,6 @@
-terrain = highlands
+terrain = glacier
 life_rating = 30
-trade_goods = grain
+trade_goods = timber
+owner = NA9
+controller = NA9
+add_core = NA9

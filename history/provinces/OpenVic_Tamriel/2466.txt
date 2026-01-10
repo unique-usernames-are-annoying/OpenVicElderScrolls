@@ -1,7 +1,6 @@
-terrain = coastline
+terrain = caves
 life_rating = 30
-trade_goods = cattle
-owner = SA6
-controller = SA6
-add_core = SA6
-add_core = SC8
+trade_goods = dye
+owner = VB0
+controller = VB0
+add_core = VB0

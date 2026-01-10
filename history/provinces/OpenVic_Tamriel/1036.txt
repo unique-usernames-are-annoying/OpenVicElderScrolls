@@ -1,6 +1,7 @@
-terrain = urban_firewatch
+terrain = blackreach_forest
 life_rating = 30
 trade_goods = grain
-owner = MB8
-controller = MB8
-add_core = MB8
+owner = RA7
+controller = RA7
+add_core = RA7
+add_core = RB1

@@ -1,4 +1,4 @@
-capital = 834
+capital = 2588
 government = tribal
 religion = hircine_cult
 primary_culture = centaur

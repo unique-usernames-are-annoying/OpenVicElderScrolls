@@ -1,6 +1,6 @@
-terrain = farmlands
+terrain = forest
 life_rating = 30
-trade_goods = dye
-owner = SB1
-controller = SB1
-add_core = SB1
+trade_goods = tea
+owner = CE4
+controller = CE4
+add_core = CE4

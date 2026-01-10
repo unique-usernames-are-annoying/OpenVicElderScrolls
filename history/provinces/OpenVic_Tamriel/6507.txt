@@ -1,6 +1,6 @@
-terrain = bayou
+terrain = mountain
 life_rating = 30
-trade_goods = grain
-owner = AC6
-controller = AC6
-add_core = AC6
+trade_goods = cotton
+owner = HF4
+controller = HF4
+add_core = HF4

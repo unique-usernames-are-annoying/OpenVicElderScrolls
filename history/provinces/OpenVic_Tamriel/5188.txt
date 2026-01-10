@@ -1,6 +1,6 @@
-terrain = savannah
+terrain = forest
 life_rating = 30
-trade_goods = cattle
-owner = EC0
-controller = EC0
-add_core = EC0
+trade_goods = timber
+owner = CC9
+controller = CC9
+add_core = CC9

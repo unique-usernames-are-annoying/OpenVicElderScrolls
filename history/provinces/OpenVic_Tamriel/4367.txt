@@ -1,0 +1,6 @@
+terrain = hills
+life_rating = 30
+trade_goods = coal
+owner = AB7
+controller = AB7
+add_core = AB7

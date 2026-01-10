@@ -1,6 +1,6 @@
-terrain = urban_shimmerene
+terrain = caves
 life_rating = 30
-trade_goods = tea
-owner = SB0
-controller = SB0
-add_core = SB0
+trade_goods = grain
+owner = SC0
+controller = SC0
+add_core = SC0

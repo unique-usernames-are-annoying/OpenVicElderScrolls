@@ -1,6 +1,3 @@
-terrain = hills
+terrain = urban_vivec
 life_rating = 30
 trade_goods = grain
-owner = MF3
-controller = MF3
-add_core = MF3

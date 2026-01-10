@@ -1,6 +1,6 @@
-terrain = forest
+terrain = tundra
 life_rating = 30
 trade_goods = grain
-owner = HH3
-controller = HH3
-add_core = HH3
+owner = BD0
+controller = BD0
+add_core = BD0

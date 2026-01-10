@@ -1,6 +1,7 @@
-terrain = savannah
+terrain = mountain_meadows
 life_rating = 30
-trade_goods = iron
-owner = EB1
-controller = EB1
-add_core = EB1
+trade_goods = tea
+owner = PER
+controller = PER
+add_core = PER
+add_core = CF0

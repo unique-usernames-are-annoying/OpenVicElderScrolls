@@ -1,6 +1,6 @@
-terrain = caves
+terrain = savannah
 life_rating = 30
-trade_goods = tea
-owner = NF2
-controller = NF2
-add_core = NF2
+trade_goods = grain
+owner = EB7
+controller = EB7
+add_core = EB7

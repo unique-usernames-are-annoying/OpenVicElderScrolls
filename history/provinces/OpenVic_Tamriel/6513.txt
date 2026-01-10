@@ -1,3 +1,6 @@
-terrain = bayou
+terrain = heathlands
 life_rating = 30
-trade_goods = cotton
+trade_goods = grain
+owner = HH5
+controller = HH5
+add_core = HH5

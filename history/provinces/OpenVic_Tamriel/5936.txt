@@ -1,4 +1,6 @@
-terrain = highlands
+terrain = hills
 life_rating = 30
-trade_goods = cattle
-add_core = MIT
+trade_goods = dye
+owner = BC9
+controller = BC9
+add_core = BC9

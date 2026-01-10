@@ -1,6 +1,6 @@
-terrain = coastline
+terrain = farmlands
 life_rating = 30
-trade_goods = grain
-owner = SC0
-controller = SC0
-add_core = SC0
+trade_goods = tea
+owner = CF6
+controller = CF6
+add_core = CF6

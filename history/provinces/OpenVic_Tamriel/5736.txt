@@ -1,6 +1,6 @@
-terrain = steppe
+terrain = glacier
 life_rating = 30
-trade_goods = grain
-owner = HG5
-controller = HG5
-add_core = HG5
+trade_goods = tea
+owner = NA8
+controller = NA8
+add_core = NA8

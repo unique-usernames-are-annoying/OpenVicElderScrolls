@@ -1,6 +1,3 @@
-terrain = marsh
+terrain = drylands
 life_rating = 30
-trade_goods = timber
-owner = HF1
-controller = HF1
-add_core = HF1
+trade_goods = grain

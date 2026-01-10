@@ -1,6 +1,6 @@
-terrain = desert
+terrain = farmlands
 life_rating = 30
 trade_goods = grain
-owner = EC6
-controller = EC6
-add_core = EC6
+owner = CC4
+controller = CC4
+add_core = CC4

@@ -1,4 +1,4 @@
-capital = 1594
+capital = 1592
 government = republic
 religion = kamal_pantheon
 primary_culture = kamal

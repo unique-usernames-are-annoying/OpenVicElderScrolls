@@ -1,6 +1,6 @@
-terrain = savannah
+terrain = highlands
 life_rating = 30
-trade_goods = cattle
-owner = VD0
-controller = VD0
-add_core = VD0
+trade_goods = wool
+owner = NE1
+controller = NE1
+add_core = NE1

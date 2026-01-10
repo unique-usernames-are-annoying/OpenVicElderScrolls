@@ -1,6 +1,6 @@
-terrain = urban_riverhold
+terrain = hills
 life_rating = 30
-trade_goods = cotton
-owner = EA2
-controller = EA2
-add_core = EA2
+trade_goods = cattle
+owner = HH1
+controller = HH1
+add_core = HH1

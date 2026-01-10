@@ -1,7 +1,7 @@
-terrain = grasslands
+terrain = forest
 life_rating = 30
-trade_goods = fish
-owner = CG7
-controller = CG7
-add_core = CG7
-add_core = CB7
+trade_goods = tobacco
+owner = NG6
+controller = NG6
+add_core = NG6
+add_core = NA5

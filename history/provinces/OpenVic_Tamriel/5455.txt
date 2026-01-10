@@ -1,3 +1,6 @@
-terrain = bayou
+terrain = tundra
 life_rating = 30
-trade_goods = tea
+trade_goods = precious_metal
+owner = NA9
+controller = NA9
+add_core = NA9

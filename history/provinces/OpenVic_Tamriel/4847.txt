@@ -1,6 +1,7 @@
-terrain = woods
+terrain = farmlands
 life_rating = 30
-trade_goods = dye
-owner = VA3
-controller = VA3
-add_core = VA3
+trade_goods = cattle
+owner = CH1
+controller = CH1
+add_core = CH1
+add_core = CE7

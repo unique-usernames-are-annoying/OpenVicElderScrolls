@@ -1,6 +1,6 @@
-terrain = urban_skywatch
+terrain = caves
 life_rating = 30
-trade_goods = tea
-owner = SC9
-controller = SC9
-add_core = SC9
+trade_goods = sulphur
+owner = CE9
+controller = CE9
+add_core = CE9

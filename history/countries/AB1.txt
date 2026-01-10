@@ -1,4 +1,4 @@
-capital = 6470
+capital = 4033
 government = native
 religion = hist
 primary_culture = naga

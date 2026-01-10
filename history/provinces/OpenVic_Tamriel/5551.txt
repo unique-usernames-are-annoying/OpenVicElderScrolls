@@ -1,7 +1,6 @@
-terrain = farmlands
+terrain = mountain
 life_rating = 30
-trade_goods = tea
-owner = CH2
-controller = CH2
-add_core = CH2
-add_core = CA3
+trade_goods = fruit
+owner = FRS
+controller = FRS
+add_core = FRS

@@ -1,6 +1,0 @@
-terrain = deadlands_daedric_keep
-life_rating = 30
-trade_goods = dye
-owner = GA4
-controller = GA4
-add_core = GA4

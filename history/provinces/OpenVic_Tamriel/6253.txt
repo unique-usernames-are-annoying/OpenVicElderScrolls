@@ -1,6 +1,3 @@
-terrain = orcish_stronghold
+terrain = steppe
 life_rating = 30
-trade_goods = tobacco
-owner = HC3
-controller = HC3
-add_core = HC3
+trade_goods = cattle

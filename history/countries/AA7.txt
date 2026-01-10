@@ -1,4 +1,4 @@
-capital = 1080
+capital = 4410
 government = native
 religion = elder_gods
 primary_culture = yespest

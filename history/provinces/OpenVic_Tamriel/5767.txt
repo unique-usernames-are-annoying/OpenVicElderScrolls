@@ -1,7 +1,6 @@
-terrain = caves
+terrain = tundra
 life_rating = 30
-trade_goods = fruit
-owner = PER
-controller = PER
-add_core = PER
-add_core = CJ0
+trade_goods = fish
+owner = VOL
+controller = VOL
+add_core = VOL

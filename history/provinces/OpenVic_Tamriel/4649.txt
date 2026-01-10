@@ -1,6 +1,6 @@
-terrain = woods
+terrain = coastline
 life_rating = 30
-trade_goods = tea
-owner = SA9
-controller = SA9
-add_core = SA9
+trade_goods = fish
+owner = ABE
+controller = ABE
+add_core = ABE

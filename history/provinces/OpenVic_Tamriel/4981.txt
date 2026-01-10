@@ -1,6 +1,6 @@
 terrain = forest
 life_rating = 30
-trade_goods = cotton
-owner = VD8
-controller = VD8
-add_core = VD8
+trade_goods = coal
+owner = CF3
+controller = CF3
+add_core = CF3

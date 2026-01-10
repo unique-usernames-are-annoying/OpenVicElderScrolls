@@ -1,6 +1,0 @@
-terrain = urban_jun_kamal
-life_rating = 30
-trade_goods = tropical_wood
-owner = BLA
-controller = BLA
-add_core = BLA

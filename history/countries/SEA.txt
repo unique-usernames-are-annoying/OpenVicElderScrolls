@@ -1,4 +1,4 @@
-capital = 2225
+capital = 1315
 government = tribal
 religion = dragon_cult
 primary_culture = sea_giant

@@ -1,6 +1,7 @@
-terrain = farmlands
+terrain = taiga
 life_rating = 30
-trade_goods = cotton
-owner = CA8
-controller = CA8
-add_core = CA8
+trade_goods = grain
+owner = NB1
+controller = NB1
+add_core = NB1
+add_core = NE6

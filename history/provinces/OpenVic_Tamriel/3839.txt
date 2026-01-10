@@ -1,3 +1,6 @@
-terrain = fungal_forest
+terrain = mountain
 life_rating = 30
-trade_goods = grain
+trade_goods = timber
+owner = MG0
+controller = MG0
+add_core = MG0

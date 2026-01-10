@@ -1,6 +1,0 @@
-terrain = black_pyramid
-life_rating = 30
-trade_goods = timber
-owner = LA4
-controller = LA4
-add_core = LA4

@@ -1,6 +1,3 @@
-terrain = dwemer_stronghold
+terrain = marsh
 life_rating = 30
-trade_goods = fruit
-owner = RA4
-controller = RA4
-add_core = RA4
+trade_goods = timber

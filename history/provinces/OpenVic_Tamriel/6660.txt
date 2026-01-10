@@ -1,6 +1,3 @@
-terrain = bayou
+terrain = desert
 life_rating = 30
-trade_goods = dye
-owner = AB2
-controller = AB2
-add_core = AB2
+trade_goods = wool

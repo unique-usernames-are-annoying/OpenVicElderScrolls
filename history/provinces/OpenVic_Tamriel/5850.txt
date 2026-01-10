@@ -1,7 +1,6 @@
-terrain = grasslands
+terrain = woods
 life_rating = 30
-trade_goods = grain
-owner = CE3
-controller = CE3
-add_core = CE3
-add_core = CI9
+trade_goods = fruit
+owner = BA3
+controller = BA3
+add_core = BA3

@@ -1,4 +1,4 @@
-capital = 2978
+capital = 1037
 government = republic
 religion = dragon_cult
 primary_culture = nord

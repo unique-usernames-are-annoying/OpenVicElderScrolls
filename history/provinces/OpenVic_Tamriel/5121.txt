@@ -1,6 +1,6 @@
-terrain = coastline
+terrain = hills
 life_rating = 30
-trade_goods = fruit
-owner = EB8
-controller = EB8
-add_core = EB8
+trade_goods = tea
+owner = CA4
+controller = CA4
+add_core = CA4

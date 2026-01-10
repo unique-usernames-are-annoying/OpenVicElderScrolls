@@ -1,6 +1,7 @@
-terrain = urban_arenthia
+terrain = farmlands
 life_rating = 30
 trade_goods = sulphur
-owner = VD0
-controller = VD0
-add_core = VD0
+owner = NG7
+controller = NG7
+add_core = NG7
+add_core = NA1

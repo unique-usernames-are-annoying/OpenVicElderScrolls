@@ -1,7 +1,6 @@
-terrain = mountain_meadows
+terrain = woods
 life_rating = 30
-trade_goods = fruit
-owner = SC3
-controller = SC3
-add_core = SC3
-add_core = SD0
+trade_goods = cattle
+owner = SA3
+controller = SA3
+add_core = SA3

@@ -1,6 +1,3 @@
-terrain = hills
+terrain = barrow
 life_rating = 30
-trade_goods = grain
-owner = CF5
-controller = CF5
-add_core = CF5
+trade_goods = cattle

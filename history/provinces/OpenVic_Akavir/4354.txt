@@ -1,6 +1,0 @@
-terrain = jungle
-life_rating = 30
-trade_goods = tea
-owner = OB4
-controller = OB4
-add_core = OB4

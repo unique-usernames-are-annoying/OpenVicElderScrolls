@@ -1,3 +1,6 @@
-terrain = desert
+terrain = highlands
 life_rating = 30
-trade_goods = cattle
+trade_goods = iron
+owner = BD5
+controller = BD5
+add_core = BD5

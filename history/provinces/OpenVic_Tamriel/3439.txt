@@ -1,6 +1,6 @@
 terrain = dwemer_stronghold
 life_rating = 30
-trade_goods = cotton
-owner = MA5
-controller = MA5
-add_core = MA5
+trade_goods = coffee
+owner = MJ1
+controller = MJ1
+add_core = MJ1

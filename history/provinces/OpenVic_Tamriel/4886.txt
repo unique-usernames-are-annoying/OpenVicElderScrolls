@@ -1,6 +1,7 @@
-terrain = forest
+terrain = marsh
 life_rating = 30
-trade_goods = timber
-owner = VC7
-controller = VC7
-add_core = VC7
+trade_goods = dye
+owner = CG6
+controller = CG6
+add_core = CG6
+add_core = CA2

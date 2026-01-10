@@ -1,6 +1,6 @@
-terrain = grasslands
+terrain = forest
 life_rating = 30
-trade_goods = grain
-owner = CD6
-controller = CD6
-add_core = CD6
+trade_goods = fish
+owner = NB4
+controller = NB4
+add_core = NB4

@@ -1,6 +1,7 @@
-terrain = urban_firsthold
+terrain = urban_kvatch
 life_rating = 30
-trade_goods = cattle
-owner = SB2
-controller = SB2
-add_core = SB2
+trade_goods = coal
+owner = CH3
+controller = CH3
+add_core = CH3
+add_core = CA7

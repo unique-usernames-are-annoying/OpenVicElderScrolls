@@ -1,6 +1,7 @@
-terrain = grasslands
+terrain = highlands
 life_rating = 30
-trade_goods = wool
-owner = CF4
-controller = CF4
-add_core = CF4
+trade_goods = grain
+owner = BC1
+controller = BC1
+add_core = BC1
+add_core = BD4

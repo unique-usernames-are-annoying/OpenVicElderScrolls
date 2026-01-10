@@ -1,6 +1,6 @@
-terrain = coastline
+terrain = highlands
 life_rating = 30
-trade_goods = tobacco
-owner = SB1
-controller = SB1
-add_core = SB1
+trade_goods = dye
+owner = SB5
+controller = SB5
+add_core = SB5

@@ -1,6 +1,6 @@
-terrain = hills
+terrain = dwemer_stronghold
 life_rating = 30
-trade_goods = tropical_wood
-owner = MA7
-controller = MA7
-add_core = MA7
+trade_goods = grain
+owner = RA4
+controller = RA4
+add_core = RA4

@@ -1,6 +1,6 @@
-terrain = orcish_stronghold
+terrain = hills
 life_rating = 30
-trade_goods = fruit
-owner = ND3
-controller = ND3
-add_core = ND3
+trade_goods = sulphur
+owner = EC8
+controller = EC8
+add_core = EC8

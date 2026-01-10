@@ -1,3 +1,6 @@
-terrain = craglands
+terrain = dwemer_stronghold
 life_rating = 30
-trade_goods = coal
+trade_goods = wool
+owner = MD3
+controller = MD3
+add_core = MD3

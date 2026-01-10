@@ -1,4 +1,4 @@
-capital = 5423
+capital = 4982
 government = theocracy
 religion = hircine_cult
 primary_culture = ayleid

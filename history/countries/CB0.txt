@@ -1,4 +1,4 @@
-capital = 1188
+capital = 4697
 government = monarchy
 religion = clavicus_vile_cult
 primary_culture = ayleid

@@ -1,3 +1,6 @@
-terrain = highlands
+terrain = coastline
 life_rating = 30
-trade_goods = cattle
+trade_goods = tea
+owner = SA4
+controller = SA4
+add_core = SA4

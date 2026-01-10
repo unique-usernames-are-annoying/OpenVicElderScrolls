@@ -1,4 +1,4 @@
-capital = 1673
+capital = 1938
 government = tribal
 religion = golden_paw_cult
 primary_culture = canis_men

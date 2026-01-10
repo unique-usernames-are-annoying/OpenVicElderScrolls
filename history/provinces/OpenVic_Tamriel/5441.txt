@@ -1,6 +1,6 @@
-terrain = coastline
+terrain = caves
 life_rating = 30
-trade_goods = timber
-owner = TPL
-controller = TPL
-add_core = TPL
+trade_goods = opium
+owner = NE6
+controller = NE6
+add_core = NE6

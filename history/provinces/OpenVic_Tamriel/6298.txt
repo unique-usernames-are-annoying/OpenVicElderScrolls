@@ -1,6 +1,3 @@
 terrain = hills
 life_rating = 30
-trade_goods = fruit
-owner = HA9
-controller = HA9
-add_core = HA9
+trade_goods = grain

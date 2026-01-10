@@ -1,4 +1,4 @@
-capital = 5054
+capital = 2443
 government = tribal
 religion = khajiiti_pantheon
 primary_culture = khajiiti

@@ -1,6 +1,7 @@
-terrain = forest
+terrain = bayou
 life_rating = 30
 trade_goods = grain
-owner = EB9
-controller = EB9
-add_core = EB9
+owner = ALG
+controller = ALG
+add_core = ALG
+add_core = CG9

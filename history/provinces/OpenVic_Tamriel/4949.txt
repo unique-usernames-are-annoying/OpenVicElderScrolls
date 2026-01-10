@@ -1,6 +1,6 @@
-terrain = marsh
+terrain = mudflats
 life_rating = 30
-trade_goods = dye
-owner = VC8
-controller = VC8
-add_core = VC8
+trade_goods = cotton
+owner = CG1
+controller = CG1
+add_core = CG1

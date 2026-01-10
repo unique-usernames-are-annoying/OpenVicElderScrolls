@@ -1,6 +1,6 @@
-terrain = savannah
+terrain = highlands
 life_rating = 30
-trade_goods = timber
-owner = OB7
-controller = OB7
-add_core = OB7
+trade_goods = grain
+owner = OB5
+controller = OB5
+add_core = OB5

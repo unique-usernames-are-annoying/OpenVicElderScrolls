@@ -1,6 +1,6 @@
-terrain = marsh
+terrain = highlands
 life_rating = 30
-trade_goods = fish
-owner = AE3
-controller = AE3
-add_core = AE3
+trade_goods = grain
+owner = MA7
+controller = MA7
+add_core = MA7

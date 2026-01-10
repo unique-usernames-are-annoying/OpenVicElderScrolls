@@ -1,6 +1,6 @@
-terrain = coastline
+terrain = hills
 life_rating = 30
-trade_goods = cattle
-owner = SD9
-controller = SD9
-add_core = SD9
+trade_goods = fish
+owner = CG9
+controller = CG9
+add_core = CG9

@@ -1,6 +1,6 @@
-terrain = woods
+terrain = highlands
 life_rating = 30
-trade_goods = grain
-owner = VC8
-controller = VC8
-add_core = VC8
+trade_goods = precious_metal
+owner = CF7
+controller = CF7
+add_core = CF7

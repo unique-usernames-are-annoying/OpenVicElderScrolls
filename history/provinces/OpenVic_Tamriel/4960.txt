@@ -1,6 +1,3 @@
-terrain = forest
+terrain = mountain
 life_rating = 30
-trade_goods = grain
-owner = IMG
-controller = IMG
-add_core = IMG
+trade_goods = coal

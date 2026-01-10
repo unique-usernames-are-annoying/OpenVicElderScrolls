@@ -1,6 +1,6 @@
-terrain = coastline
+terrain = jungle
 life_rating = 30
-trade_goods = fish
-owner = JB1
-controller = JB1
-add_core = JB1
+trade_goods = tobacco
+owner = JA3
+controller = JA3
+add_core = JA3

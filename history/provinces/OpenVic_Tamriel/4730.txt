@@ -1,7 +1,6 @@
-terrain = coastline
+terrain = caves
 life_rating = 30
 trade_goods = dye
-owner = SC6
-controller = SC6
-add_core = SC6
-add_core = SE4
+owner = CC4
+controller = CC4
+add_core = CC4

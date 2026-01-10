@@ -1,6 +1,6 @@
-terrain = highlands
+terrain = hills
 life_rating = 30
-trade_goods = tea
-owner = MC8
-controller = MC8
-add_core = MC8
+trade_goods = cotton
+owner = ME6
+controller = ME6
+add_core = ME6

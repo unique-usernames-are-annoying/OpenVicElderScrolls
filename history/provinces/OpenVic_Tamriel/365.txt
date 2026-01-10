@@ -1,0 +1,6 @@
+terrain = highlands
+life_rating = 30
+trade_goods = fish
+owner = SC2
+controller = SC2
+add_core = SC2

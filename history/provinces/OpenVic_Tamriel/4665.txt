@@ -1,6 +1,7 @@
-terrain = highlands
+terrain = urban_anvil
 life_rating = 30
-trade_goods = grain
-owner = SB3
-controller = SB3
-add_core = SB3
+trade_goods = wool
+owner = CH4
+controller = CH4
+add_core = CH4
+add_core = CA9

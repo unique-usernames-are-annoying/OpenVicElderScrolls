@@ -1,6 +1,6 @@
-terrain = drylands
+terrain = craglands
 life_rating = 30
-trade_goods = fish
-owner = EC3
-controller = EC3
-add_core = EC3
+trade_goods = coal
+owner = HH0
+controller = HH0
+add_core = HH0

@@ -1,6 +1,6 @@
-terrain = blackreach_forest
+terrain = highlands
 life_rating = 30
-trade_goods = cattle
-owner = NGH
-controller = NGH
-add_core = NGH
+trade_goods = grain
+owner = MI1
+controller = MI1
+add_core = MI1

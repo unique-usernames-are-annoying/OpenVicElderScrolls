@@ -1,3 +1,6 @@
-terrain = tundra
+terrain = drylands
 life_rating = 30
-trade_goods = cattle
+trade_goods = tobacco
+owner = EA3
+controller = EA3
+add_core = EA3

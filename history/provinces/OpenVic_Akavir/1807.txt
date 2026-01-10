@@ -1,6 +1,7 @@
-terrain = hills
+terrain = forest
 life_rating = 30
-trade_goods = tea
-owner = IA8
-controller = IA8
-add_core = IA8
+trade_goods = cotton
+owner = OA2
+controller = OA2
+add_core = OA2
+add_core = OA5

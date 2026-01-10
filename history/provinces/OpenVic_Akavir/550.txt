@@ -1,6 +1,0 @@
-terrain = jungle
-life_rating = 30
-trade_goods = timber
-owner = JA5
-controller = JA5
-add_core = JA5

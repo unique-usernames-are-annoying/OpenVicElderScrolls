@@ -1,6 +1,0 @@
-terrain = azure_plains
-life_rating = 30
-trade_goods = fish
-owner = LB8
-controller = LB8
-add_core = LB8

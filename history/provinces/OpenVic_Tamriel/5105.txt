@@ -1,6 +1,6 @@
-terrain = jungle
+terrain = grasslands
 life_rating = 30
 trade_goods = fruit
-owner = EA8
-controller = EA8
-add_core = EA8
+owner = CG7
+controller = CG7
+add_core = CG7

@@ -1,0 +1,6 @@
+terrain = savannah
+life_rating = 30
+trade_goods = tobacco
+owner = OC6
+controller = OC6
+add_core = OC6

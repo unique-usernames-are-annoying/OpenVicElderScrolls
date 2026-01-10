@@ -1,0 +1,6 @@
+terrain = jungle
+life_rating = 30
+trade_goods = iron
+owner = UA3
+controller = UA3
+add_core = UA3

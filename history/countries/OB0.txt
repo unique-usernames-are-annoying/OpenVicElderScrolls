@@ -1,4 +1,4 @@
-capital = 618
+capital = 1928
 government = republic
 religion = po_tun_pantheon
 primary_culture = po_tun

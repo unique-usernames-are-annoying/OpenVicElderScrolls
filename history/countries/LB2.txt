@@ -1,4 +1,4 @@
-capital = 3160
+capital = 6816
 government = tribal
 religion = molag_bal_cult
 primary_culture = daedroth

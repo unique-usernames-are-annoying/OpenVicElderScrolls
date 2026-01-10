@@ -1,7 +1,3 @@
-terrain = steppe
+terrain = mountain_meadows
 life_rating = 30
-trade_goods = grain
-owner = CH2
-controller = CH2
-add_core = CH2
-add_core = CA3
+trade_goods = cattle

@@ -1,3 +1,6 @@
-terrain = hills
+terrain = glacier
 life_rating = 30
 trade_goods = tea
+owner = STA
+controller = STA
+add_core = STA

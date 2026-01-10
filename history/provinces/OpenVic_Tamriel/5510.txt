@@ -1,6 +1,7 @@
-terrain = mudflats
+terrain = hills
 life_rating = 30
 trade_goods = grain
-owner = CG6
-controller = CG6
-add_core = CG6
+owner = NG4
+controller = NG4
+add_core = NG4
+add_core = NA6

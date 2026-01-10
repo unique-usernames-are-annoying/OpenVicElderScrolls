@@ -1,7 +1,6 @@
-terrain = caves
+terrain = mountain_meadows
 life_rating = 30
-trade_goods = grain
-owner = ALH
-controller = ALH
-add_core = ALH
-add_core = CH9
+trade_goods = dye
+owner = BD1
+controller = BD1
+add_core = BD1

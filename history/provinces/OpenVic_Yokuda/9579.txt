@@ -1,6 +1,0 @@
-terrain = jungle
-life_rating = 30
-trade_goods = timber
-owner = YD0
-controller = YD0
-add_core = YD0

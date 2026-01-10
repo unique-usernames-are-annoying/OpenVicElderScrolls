@@ -1,7 +1,6 @@
-terrain = highlands
+terrain = barrow
 life_rating = 30
 trade_goods = grain
-owner = PER
-controller = PER
-add_core = PER
-add_core = CE0
+owner = NE0
+controller = NE0
+add_core = NE0

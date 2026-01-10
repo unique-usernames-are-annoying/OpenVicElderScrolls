@@ -1,6 +1,0 @@
-terrain = coastline
-life_rating = 30
-trade_goods = coal
-owner = OC6
-controller = OC6
-add_core = OC6

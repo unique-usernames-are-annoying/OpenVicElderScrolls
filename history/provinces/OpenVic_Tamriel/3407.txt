@@ -1,6 +1,6 @@
-terrain = highlands
+terrain = craglands
 life_rating = 30
-trade_goods = coal
-owner = MI1
-controller = MI1
-add_core = MI1
+trade_goods = fruit
+owner = MG4
+controller = MG4
+add_core = MG4

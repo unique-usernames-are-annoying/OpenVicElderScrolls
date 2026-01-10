@@ -1,6 +1,7 @@
-terrain = steppe
+terrain = forest
 life_rating = 30
-trade_goods = tobacco
-owner = EC3
-controller = EC3
-add_core = EC3
+trade_goods = fish
+owner = CB0
+controller = CB0
+add_core = CB0
+add_core = CC0

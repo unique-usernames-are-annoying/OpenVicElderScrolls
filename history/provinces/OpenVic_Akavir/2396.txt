@@ -1,0 +1,6 @@
+terrain = mountain_meadows
+life_rating = 30
+trade_goods = tea
+owner = TA6
+controller = TA6
+add_core = TA6

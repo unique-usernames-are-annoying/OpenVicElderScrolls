@@ -1,4 +1,4 @@
-capital = 5732
+capital = 6563
 government = tribal
 religion = malacath_cult
 primary_culture = iron_orc

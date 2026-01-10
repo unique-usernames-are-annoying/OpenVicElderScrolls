@@ -1,7 +1,6 @@
-terrain = forest
+terrain = taiga
 life_rating = 30
-trade_goods = fruit
-owner = CD1
-controller = CD1
-add_core = CD1
-add_core = CE8
+trade_goods = grain
+owner = NF2
+controller = NF2
+add_core = NF2

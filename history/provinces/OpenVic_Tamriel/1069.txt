@@ -1,6 +1,0 @@
-terrain = urban_stormhold
-life_rating = 30
-trade_goods = tobacco
-owner = AA2
-controller = AA2
-add_core = AA2

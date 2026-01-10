@@ -1,6 +1,6 @@
-terrain = ashlands
+terrain = dwemer_stronghold
 life_rating = 30
-trade_goods = tropical_wood
-owner = ME1
-controller = ME1
-add_core = ME1
+trade_goods = grain
+owner = MC0
+controller = MC0
+add_core = MC0

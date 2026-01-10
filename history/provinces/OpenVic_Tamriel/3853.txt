@@ -1,3 +1,7 @@
-terrain = highlands
+terrain = mountain_meadows
 life_rating = 30
-trade_goods = tropical_wood
+trade_goods = cotton
+owner = MG0
+controller = MG0
+add_core = MG0
+add_core = MI0

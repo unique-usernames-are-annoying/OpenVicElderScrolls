@@ -1,6 +1,0 @@
-terrain = glacier
-life_rating = 30
-trade_goods = cattle
-owner = DB4
-controller = DB4
-add_core = DB4

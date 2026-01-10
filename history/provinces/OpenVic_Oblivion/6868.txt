@@ -1,0 +1,6 @@
+terrain = deadlands_sulfuric_desolation
+life_rating = 30
+trade_goods = fruit
+owner = GA7
+controller = GA7
+add_core = GA7

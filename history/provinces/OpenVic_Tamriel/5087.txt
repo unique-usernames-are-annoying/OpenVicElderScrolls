@@ -1,6 +1,6 @@
-terrain = drylands
+terrain = marsh
 life_rating = 30
-trade_goods = tobacco
-owner = EB3
-controller = EB3
-add_core = EB3
+trade_goods = tea
+owner = CD3
+controller = CD3
+add_core = CD3

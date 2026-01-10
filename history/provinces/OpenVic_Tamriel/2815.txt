@@ -1,6 +1,6 @@
-terrain = mountain
+terrain = drylands
 life_rating = 30
-trade_goods = grain
-owner = ND9
-controller = ND9
-add_core = ND9
+trade_goods = iron
+owner = EA2
+controller = EA2
+add_core = EA2

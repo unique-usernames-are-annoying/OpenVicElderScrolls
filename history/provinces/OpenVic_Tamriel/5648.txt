@@ -1,6 +1,7 @@
-terrain = urban_chorrol
+terrain = mountain
 life_rating = 30
 trade_goods = grain
-owner = CF0
-controller = CF0
-add_core = CF0
+owner = NG7
+controller = NG7
+add_core = NG7
+add_core = NA1

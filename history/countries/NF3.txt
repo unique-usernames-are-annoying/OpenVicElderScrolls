@@ -1,4 +1,4 @@
-capital = 3073
+capital = 5641
 government = republic
 religion = nordic_pantheon
 primary_culture = nord

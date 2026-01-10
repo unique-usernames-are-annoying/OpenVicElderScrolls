@@ -1,6 +1,6 @@
-terrain = highlands
+terrain = mudflats
 life_rating = 30
 trade_goods = grain
-owner = MC4
-controller = MC4
-add_core = MC4
+owner = ME8
+controller = ME8
+add_core = ME8

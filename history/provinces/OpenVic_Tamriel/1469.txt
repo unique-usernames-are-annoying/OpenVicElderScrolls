@@ -1,6 +1,0 @@
-terrain = dwemer_stronghold
-life_rating = 30
-trade_goods = grain
-owner = HC3
-controller = HC3
-add_core = HC3

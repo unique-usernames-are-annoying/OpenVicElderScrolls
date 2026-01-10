@@ -1,7 +1,3 @@
-terrain = highlands
+terrain = ashlands
 life_rating = 30
-trade_goods = fish
-owner = MA3
-controller = MA3
-add_core = MA3
-add_core = MA6
+trade_goods = grain

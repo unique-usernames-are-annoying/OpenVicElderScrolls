@@ -1,6 +1,6 @@
-terrain = urban_whiterun
+terrain = desert
 life_rating = 30
-trade_goods = cotton
-owner = NB2
-controller = NB2
-add_core = NB2
+trade_goods = tea
+owner = EA6
+controller = EA6
+add_core = EA6

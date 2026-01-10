@@ -1,0 +1,6 @@
+terrain = marsh
+life_rating = 30
+trade_goods = silk
+owner = VB6
+controller = VB6
+add_core = VB6

@@ -1,6 +1,6 @@
-terrain = forest
+terrain = coastline
 life_rating = 30
-trade_goods = precious_metal
-owner = SA7
-controller = SA7
-add_core = SA7
+trade_goods = fruit
+owner = SC0
+controller = SC0
+add_core = SC0

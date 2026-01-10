@@ -1,6 +1,7 @@
-terrain = urban_rimmen
+terrain = coastline
 life_rating = 30
-trade_goods = coal
-owner = EC3
-controller = EC3
-add_core = EC3
+trade_goods = cotton
+owner = CH4
+controller = CH4
+add_core = CH4
+add_core = CA9

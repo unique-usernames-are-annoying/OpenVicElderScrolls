@@ -1,6 +1,6 @@
-terrain = forest
+terrain = highlands
 life_rating = 30
-trade_goods = cattle
-owner = CG5
-controller = CG5
-add_core = CG5
+trade_goods = coffee
+owner = NA7
+controller = NA7
+add_core = NA7

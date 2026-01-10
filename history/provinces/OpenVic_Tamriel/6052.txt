@@ -1,6 +1,7 @@
-terrain = farmlands
+terrain = highlands
 life_rating = 30
-trade_goods = cattle
-owner = CG4
-controller = CG4
-add_core = CG4
+trade_goods = iron
+owner = BA3
+controller = BA3
+add_core = BA3
+add_core = BB3

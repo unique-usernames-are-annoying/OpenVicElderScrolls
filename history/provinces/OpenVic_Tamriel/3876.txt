@@ -1,6 +1,3 @@
-terrain = caves
+terrain = highlands
 life_rating = 30
 trade_goods = fish
-owner = RA6
-controller = RA6
-add_core = RA6

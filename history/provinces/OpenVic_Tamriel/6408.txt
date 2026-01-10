@@ -1,6 +1,3 @@
-terrain = urban_leyawiin
+terrain = drylands
 life_rating = 30
-trade_goods = wool
-owner = CA1
-controller = CA1
-add_core = CA1
+trade_goods = tea

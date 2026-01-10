@@ -1,6 +1,6 @@
-terrain = tundra
+terrain = marsh
 life_rating = 30
-trade_goods = wool
-owner = NA8
-controller = NA8
-add_core = NA8
+trade_goods = fruit
+owner = VA2
+controller = VA2
+add_core = VA2

@@ -1,6 +1,7 @@
-terrain = jungle
+terrain = woods
 life_rating = 30
-trade_goods = iron
-owner = VB0
-controller = VB0
-add_core = VB0
+trade_goods = coal
+owner = CH5
+controller = CH5
+add_core = CH5
+add_core = CD9

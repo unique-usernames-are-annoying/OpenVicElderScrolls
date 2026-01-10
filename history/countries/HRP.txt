@@ -1,4 +1,4 @@
-capital = 1493
+capital = 6190
 government = tribal
 religion = nocturnal_cult
 primary_culture = harpy

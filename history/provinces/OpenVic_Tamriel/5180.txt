@@ -1,6 +1,6 @@
-terrain = jungle
+terrain = hills
 life_rating = 30
-trade_goods = dye
-owner = EA8
-controller = EA8
-add_core = EA8
+trade_goods = tobacco
+owner = CA6
+controller = CA6
+add_core = CA6

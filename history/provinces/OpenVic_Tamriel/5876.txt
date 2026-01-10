@@ -1,3 +1,6 @@
-terrain = mountain
+terrain = mountain_meadows
 life_rating = 30
-trade_goods = wool
+trade_goods = grain
+owner = BE2
+controller = BE2
+add_core = BE2

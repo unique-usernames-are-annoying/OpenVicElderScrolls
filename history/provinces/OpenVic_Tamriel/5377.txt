@@ -1,7 +1,6 @@
-terrain = caves
+terrain = tundra
 life_rating = 30
 trade_goods = grain
-owner = CH7
-controller = CH7
-add_core = CH7
-add_core = CB6
+owner = NB6
+controller = NB6
+add_core = NB6

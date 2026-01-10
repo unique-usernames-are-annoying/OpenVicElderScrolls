@@ -1,3 +1,6 @@
-terrain = fungal_forest
+terrain = caves
 life_rating = 30
-trade_goods = fish
+trade_goods = tea
+owner = NGH
+controller = NGH
+add_core = NGH

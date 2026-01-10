@@ -1,6 +1,7 @@
 terrain = savannah
 life_rating = 30
 trade_goods = fruit
-owner = OA6
-controller = OA6
-add_core = OA6
+owner = OB7
+controller = OB7
+add_core = OB7
+add_core = OB6

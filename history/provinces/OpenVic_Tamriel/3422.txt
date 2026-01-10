@@ -1,3 +1,6 @@
-terrain = highlands
+terrain = urban_sadrith_mora
 life_rating = 30
-trade_goods = tea
+trade_goods = dye
+owner = MOA
+controller = MOA
+add_core = MOA

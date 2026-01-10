@@ -1,3 +1,6 @@
-terrain = bayou
+terrain = mountain
 life_rating = 30
-trade_goods = tea
+trade_goods = fruit
+owner = HF4
+controller = HF4
+add_core = HF4

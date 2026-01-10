@@ -1,6 +1,6 @@
-terrain = urban_shimmerene
+terrain = forest
 life_rating = 30
-trade_goods = timber
-owner = SB0
-controller = SB0
-add_core = SB0
+trade_goods = cotton
+owner = CA6
+controller = CA6
+add_core = CA6

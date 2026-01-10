@@ -1,6 +1,6 @@
-terrain = coastline
+terrain = forest
 life_rating = 30
-trade_goods = cattle
-owner = SB1
-controller = SB1
-add_core = SB1
+trade_goods = tea
+owner = CF9
+controller = CF9
+add_core = CF9

@@ -1,0 +1,6 @@
+terrain = coastline
+life_rating = 30
+trade_goods = silk
+owner = SB9
+controller = SB9
+add_core = SB9

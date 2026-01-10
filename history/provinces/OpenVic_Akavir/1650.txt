@@ -1,3 +1,6 @@
-terrain = hills
+terrain = coastline
 life_rating = 30
-trade_goods = fish
+trade_goods = grain
+owner = JA8
+controller = JA8
+add_core = JA8

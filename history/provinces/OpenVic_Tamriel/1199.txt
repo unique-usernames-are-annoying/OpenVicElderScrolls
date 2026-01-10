@@ -1,7 +1,0 @@
-terrain = grasslands
-life_rating = 30
-trade_goods = sulphur
-owner = CE5
-controller = CE5
-add_core = CE5
-add_core = CE7

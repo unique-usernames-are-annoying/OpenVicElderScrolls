@@ -1,6 +1,7 @@
-terrain = desert
+terrain = grasslands
 life_rating = 30
-trade_goods = grain
-owner = EC1
-controller = EC1
-add_core = EC1
+trade_goods = timber
+owner = CB1
+controller = CB1
+add_core = CB1
+add_core = CB2

@@ -1,4 +1,4 @@
-capital = 1023
+capital = 3856
 government = tribal
 religion = chimer_pantheon
 primary_culture = ashlander_chimer

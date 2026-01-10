@@ -1,0 +1,6 @@
+terrain = mountain
+life_rating = 30
+trade_goods = dye
+owner = SA8
+controller = SA8
+add_core = SA8

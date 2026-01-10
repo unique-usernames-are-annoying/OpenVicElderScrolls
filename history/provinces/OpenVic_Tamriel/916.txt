@@ -1,6 +1,0 @@
-terrain = savannah
-life_rating = 30
-trade_goods = coffee
-owner = EC5
-controller = EC5
-add_core = EC5

@@ -1,6 +1,6 @@
-terrain = barrow
+terrain = forest
 life_rating = 30
-trade_goods = iron
-owner = ND8
-controller = ND8
-add_core = ND8
+trade_goods = grain
+owner = VC1
+controller = VC1
+add_core = VC1

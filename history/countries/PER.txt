@@ -1,4 +1,4 @@
-capital = 5765
+capital = 4754
 government = monarchy
 religion = keptu_pantheon
 primary_culture = keptu

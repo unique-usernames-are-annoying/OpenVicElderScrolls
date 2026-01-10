@@ -1,6 +1,6 @@
-terrain = highlands
+terrain = urban_riverhold
 life_rating = 30
 trade_goods = fish
-owner = ND9
-controller = ND9
-add_core = ND9
+owner = EA2
+controller = EA2
+add_core = EA2

@@ -1,6 +1,6 @@
-terrain = marsh
+terrain = forest
 life_rating = 30
-trade_goods = tobacco
-owner = AE6
-controller = AE6
-add_core = AE6
+trade_goods = tea
+owner = HH3
+controller = HH3
+add_core = HH3

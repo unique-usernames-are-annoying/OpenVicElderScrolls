@@ -1,3 +1,6 @@
-terrain = farmlands
+terrain = hills
 life_rating = 30
-trade_goods = precious_metal
+trade_goods = grain
+owner = ME1
+controller = ME1
+add_core = ME1

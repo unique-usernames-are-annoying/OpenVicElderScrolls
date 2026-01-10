@@ -1,6 +1,3 @@
-terrain = marsh
+terrain = fungal_forest
 life_rating = 30
-trade_goods = timber
-owner = ME7
-controller = ME7
-add_core = ME7
+trade_goods = grain

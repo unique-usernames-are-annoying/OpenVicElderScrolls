@@ -1,6 +1,6 @@
-terrain = jungle
+terrain = forest
 life_rating = 30
-trade_goods = cotton
-owner = UA6
-controller = UA6
-add_core = UA6
+trade_goods = grain
+owner = JA9
+controller = JA9
+add_core = JA9

@@ -1,6 +1,6 @@
-terrain = coastline
+terrain = forest
 life_rating = 30
-trade_goods = dye
-owner = JA7
-controller = JA7
-add_core = JA7
+trade_goods = fruit
+owner = JB0
+controller = JB0
+add_core = JB0

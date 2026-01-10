@@ -1,3 +1,6 @@
-terrain = craglands
+terrain = heathlands
 life_rating = 30
-trade_goods = grain
+trade_goods = cotton
+owner = BE7
+controller = BE7
+add_core = BE7

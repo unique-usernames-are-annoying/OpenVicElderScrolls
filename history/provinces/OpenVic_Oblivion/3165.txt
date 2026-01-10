@@ -1,6 +1,0 @@
-terrain = dread_massive
-life_rating = 30
-trade_goods = coal
-owner = LB2
-controller = LB2
-add_core = LB2

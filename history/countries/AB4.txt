@@ -1,4 +1,4 @@
-capital = 6828
+capital = 4275
 government = native
 religion = hist
 primary_culture = agaceph

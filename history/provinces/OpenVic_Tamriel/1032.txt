@@ -1,7 +1,6 @@
-terrain = hills
+terrain = caves
 life_rating = 30
-trade_goods = timber
-owner = MG1
-controller = MG1
-add_core = MG1
-add_core = MI3
+trade_goods = tea
+owner = RA9
+controller = RA9
+add_core = RA9

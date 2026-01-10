@@ -1,7 +1,6 @@
-terrain = hills
+terrain = blackreach_forest
 life_rating = 30
-trade_goods = grain
-owner = MJ1
-controller = MJ1
-add_core = MJ1
-add_core = MG5
+trade_goods = coal
+owner = RA2
+controller = RA2
+add_core = RA2

@@ -1,6 +1,0 @@
-terrain = taiga
-life_rating = 30
-trade_goods = fish
-owner = DE4
-controller = DE4
-add_core = DE4

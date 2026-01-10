@@ -1,7 +1,6 @@
-terrain = highlands
+terrain = desert
 life_rating = 30
-trade_goods = grain
-owner = BD7
-controller = BD7
-add_core = BD7
-add_core = HA7
+trade_goods = tea
+owner = HA6
+controller = HA6
+add_core = HA6

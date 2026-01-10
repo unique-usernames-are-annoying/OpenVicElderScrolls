@@ -1,7 +1,0 @@
-terrain = highlands
-life_rating = 30
-trade_goods = tea
-owner = YB7
-controller = YB7
-add_core = YB7
-add_core = YB1

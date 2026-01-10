@@ -1,7 +1,0 @@
-terrain = mountain_meadows
-life_rating = 30
-trade_goods = dye
-owner = NG7
-controller = NG7
-add_core = NG7
-add_core = NA1

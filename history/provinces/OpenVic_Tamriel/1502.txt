@@ -1,6 +1,0 @@
-terrain = coastal_desert
-life_rating = 30
-trade_goods = cotton
-owner = HG0
-controller = HG0
-add_core = HG0

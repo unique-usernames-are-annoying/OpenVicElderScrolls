@@ -1,3 +1,6 @@
-terrain = drylands
+terrain = orcish_stronghold
 life_rating = 30
-trade_goods = tobacco
+trade_goods = grain
+owner = HG6
+controller = HG6
+add_core = HG6

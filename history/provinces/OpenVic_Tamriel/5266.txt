@@ -1,3 +1,7 @@
-terrain = hills
+terrain = caves
 life_rating = 30
-trade_goods = sulphur
+trade_goods = wool
+owner = CD1
+controller = CD1
+add_core = CD1
+add_core = CE8

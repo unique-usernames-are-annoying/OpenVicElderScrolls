@@ -1,6 +1,6 @@
-terrain = heathlands
+terrain = steppe
 life_rating = 30
-trade_goods = wool
-owner = NC6
-controller = NC6
-add_core = NC6
+trade_goods = tea
+owner = EC8
+controller = EC8
+add_core = EC8

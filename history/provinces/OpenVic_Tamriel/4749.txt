@@ -1,7 +1,7 @@
-terrain = hills
+terrain = urban_bravil
 life_rating = 30
-trade_goods = coal
-owner = SC3
-controller = SC3
-add_core = SC3
-add_core = SE3
+trade_goods = fruit
+owner = CH2
+controller = CH2
+add_core = CH2
+add_core = CA3

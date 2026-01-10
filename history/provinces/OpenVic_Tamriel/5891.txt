@@ -1,7 +1,6 @@
-terrain = caves
+terrain = woods
 life_rating = 30
-trade_goods = grain
-owner = NG7
-controller = NG7
-add_core = NG7
-add_core = NA1
+trade_goods = coffee
+owner = BE8
+controller = BE8
+add_core = BE8

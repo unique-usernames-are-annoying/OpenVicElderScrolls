@@ -1,7 +1,7 @@
-terrain = grasslands
+terrain = woods
 life_rating = 30
-trade_goods = coal
-owner = CB1
-controller = CB1
-add_core = CB1
-add_core = CB2
+trade_goods = cattle
+owner = NG6
+controller = NG6
+add_core = NG6
+add_core = NE1

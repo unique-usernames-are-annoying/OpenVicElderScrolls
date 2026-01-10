@@ -1,0 +1,6 @@
+terrain = hills
+life_rating = 30
+trade_goods = dye
+owner = VB9
+controller = VB9
+add_core = VB9

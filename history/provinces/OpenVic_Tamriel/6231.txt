@@ -1,3 +1,6 @@
-terrain = mountain
+terrain = urban_elinhir
 life_rating = 30
-trade_goods = iron
+trade_goods = tropical_wood
+owner = HH4
+controller = HH4
+add_core = HH4

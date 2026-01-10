@@ -1,4 +1,4 @@
-capital = 6287
+capital = 6202
 government = republic
 religion = ayleid_pantheon
 primary_culture = ayleid

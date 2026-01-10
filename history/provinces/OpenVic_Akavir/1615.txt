@@ -1,6 +1,6 @@
-terrain = highlands
+terrain = savannah
 life_rating = 30
-trade_goods = fruit
-owner = UA6
-controller = UA6
-add_core = UA6
+trade_goods = fish
+owner = JA9
+controller = JA9
+add_core = JA9

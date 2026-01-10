@@ -1,6 +1,6 @@
-terrain = mountain
+terrain = hills
 life_rating = 30
-trade_goods = cotton
-owner = NA9
-controller = NA9
-add_core = NA9
+trade_goods = grain
+owner = VA5
+controller = VA5
+add_core = VA5

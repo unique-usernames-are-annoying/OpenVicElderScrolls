@@ -1,6 +1,6 @@
-terrain = tundra
+terrain = coastline
 life_rating = 30
-trade_goods = coal
-owner = NA3
-controller = NA3
-add_core = NA3
+trade_goods = dye
+owner = VC0
+controller = VC0
+add_core = VC0

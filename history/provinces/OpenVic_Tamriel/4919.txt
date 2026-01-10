@@ -1,6 +1,6 @@
-terrain = urban_woodhearth
+terrain = mudflats
 life_rating = 30
 trade_goods = tea
-owner = VB6
-controller = VB6
-add_core = VB6
+owner = CG1
+controller = CG1
+add_core = CG1

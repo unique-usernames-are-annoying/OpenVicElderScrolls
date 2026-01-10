@@ -1,6 +1,6 @@
-terrain = mountain
+terrain = plateau
 life_rating = 30
-trade_goods = wool
-owner = HH2
-controller = HH2
-add_core = HH2
+trade_goods = cotton
+owner = ED0
+controller = ED0
+add_core = ED0

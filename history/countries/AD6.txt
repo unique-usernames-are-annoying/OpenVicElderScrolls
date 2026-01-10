@@ -1,4 +1,4 @@
-capital = 6745
+capital = 4062
 government = tribal
 religion = nocturnal_cult
 primary_culture = lilmothiit

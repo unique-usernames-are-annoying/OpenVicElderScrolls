@@ -1,3 +1,7 @@
-terrain = dwemer_stronghold
+terrain = grasslands
 life_rating = 30
-trade_goods = cattle
+trade_goods = grain
+owner = BC1
+controller = BC1
+add_core = BC1
+add_core = BC8

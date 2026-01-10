@@ -1,6 +1,6 @@
-terrain = farmlands
+terrain = caves
 life_rating = 30
 trade_goods = grain
-owner = SOT
-controller = SOT
-add_core = SOT
+owner = NG1
+controller = NG1
+add_core = NG1

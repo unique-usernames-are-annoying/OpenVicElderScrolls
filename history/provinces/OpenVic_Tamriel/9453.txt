@@ -1,6 +1,1 @@
-terrain = bayou
-life_rating = 30
-trade_goods = fish
-owner = MK0
-controller = MK0
-add_core = MK0
+terrain = impassable_mountains

@@ -1,7 +1,3 @@
-terrain = grasslands
+terrain = desert
 life_rating = 30
-trade_goods = timber
-owner = CF5
-controller = CF5
-add_core = CF5
-add_core = CC2
+trade_goods = grain

@@ -1,6 +1,6 @@
-terrain = mountain
+terrain = urban_cheydinhal
 life_rating = 30
-trade_goods = coal
-owner = SC1
-controller = SC1
-add_core = SC1
+trade_goods = sulphur
+owner = CH9
+controller = CH9
+add_core = CH9

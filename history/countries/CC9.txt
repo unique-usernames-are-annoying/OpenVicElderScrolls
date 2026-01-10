@@ -1,4 +1,4 @@
-capital = 5675
+capital = 4738
 government = monarchy
 religion = sanguine_cult
 primary_culture = ayleid

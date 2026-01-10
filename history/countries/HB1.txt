@@ -1,4 +1,4 @@
-capital = 1496
+capital = 899
 government = monarchy
 religion = redguard_pantheon
 primary_culture = redguard

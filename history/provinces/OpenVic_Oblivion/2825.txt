@@ -1,6 +1,0 @@
-terrain = lava
-life_rating = 30
-trade_goods = coal
-owner = LB5
-controller = LB5
-add_core = LB5

@@ -1,6 +1,0 @@
-terrain = savannah
-life_rating = 30
-trade_goods = dye
-owner = OB1
-controller = OB1
-add_core = OB1

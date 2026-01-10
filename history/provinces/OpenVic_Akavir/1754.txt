@@ -1,6 +1,6 @@
-terrain = woods
+terrain = jungle
 life_rating = 30
-trade_goods = coal
-owner = JA9
-controller = JA9
-add_core = JA9
+trade_goods = tea
+owner = JA3
+controller = JA3
+add_core = JA3

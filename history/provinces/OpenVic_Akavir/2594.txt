@@ -1,6 +1,0 @@
-terrain = mountain
-life_rating = 30
-trade_goods = tobacco
-owner = OC1
-controller = OC1
-add_core = OC1

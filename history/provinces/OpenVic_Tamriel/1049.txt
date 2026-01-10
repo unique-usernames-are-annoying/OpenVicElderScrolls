@@ -1,6 +1,6 @@
-terrain = dwemer_stronghold
+terrain = caves
 life_rating = 30
-trade_goods = wool
-owner = MJ1
-controller = MJ1
-add_core = MJ1
+trade_goods = tea
+owner = NGH
+controller = NGH
+add_core = NGH

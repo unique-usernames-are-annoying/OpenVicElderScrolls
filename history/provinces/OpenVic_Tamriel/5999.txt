@@ -1,6 +1,7 @@
-terrain = woods
+terrain = highlands
 life_rating = 30
-trade_goods = fish
-owner = CF6
-controller = CF6
-add_core = CF6
+trade_goods = coffee
+owner = BE4
+controller = BE4
+add_core = BE4
+add_core = BB5

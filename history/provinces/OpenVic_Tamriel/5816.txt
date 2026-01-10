@@ -1,7 +1,7 @@
-terrain = farmlands
+terrain = glacier
 life_rating = 30
-trade_goods = grain
-owner = CA6
-controller = CA6
-add_core = CA6
-add_core = ED3
+trade_goods = fish
+owner = NA8
+controller = NA8
+add_core = NA8
+add_core = WIT

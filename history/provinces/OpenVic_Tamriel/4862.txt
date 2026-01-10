@@ -1,6 +1,7 @@
-terrain = hills
+terrain = woods
 life_rating = 30
-trade_goods = fish
-owner = VC9
-controller = VC9
-add_core = VC9
+trade_goods = tea
+owner = MOK
+controller = MOK
+add_core = MOK
+add_core = CF8

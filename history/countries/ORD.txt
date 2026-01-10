@@ -1,4 +1,4 @@
-capital = 1206
+capital = 5282
 government = theocracy
 religion = marukhism
 primary_culture = nedic

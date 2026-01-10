@@ -1,6 +1,6 @@
-terrain = heathlands
+terrain = glacier
 life_rating = 30
-trade_goods = dye
-owner = HC9
-controller = HC9
-add_core = HC9
+trade_goods = fish
+owner = NA9
+controller = NA9
+add_core = NA9

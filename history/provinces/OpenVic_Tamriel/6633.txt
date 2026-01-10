@@ -1,3 +1,7 @@
-terrain = bayou
+terrain = desert
 life_rating = 30
-trade_goods = dye
+trade_goods = tea
+owner = HA6
+controller = HA6
+add_core = HA6
+add_core = HF8

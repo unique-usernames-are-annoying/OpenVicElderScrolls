@@ -1,6 +1,6 @@
-terrain = mountain_meadows
+terrain = urban_leyawiin
 life_rating = 30
-trade_goods = cattle
-owner = SC4
-controller = SC4
-add_core = SC4
+trade_goods = fruit
+owner = CA1
+controller = CA1
+add_core = CA1

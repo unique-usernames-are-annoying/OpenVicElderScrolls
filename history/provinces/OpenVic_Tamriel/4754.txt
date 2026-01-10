@@ -1,6 +1,7 @@
-terrain = woods
+terrain = highlands
 life_rating = 30
 trade_goods = tropical_wood
-owner = SD8
-controller = SD8
-add_core = SD8
+owner = PER
+controller = PER
+add_core = PER
+add_core = CF0

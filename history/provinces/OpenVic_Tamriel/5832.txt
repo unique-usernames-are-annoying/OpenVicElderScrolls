@@ -1,6 +1,7 @@
-terrain = caves
+terrain = moorlands
 life_rating = 30
-trade_goods = tropical_wood
-owner = CE1
-controller = CE1
-add_core = CE1
+trade_goods = cotton
+owner = NB5
+controller = NB5
+add_core = NB5
+add_core = NE7

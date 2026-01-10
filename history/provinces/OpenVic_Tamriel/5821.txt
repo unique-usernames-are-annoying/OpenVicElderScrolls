@@ -1,7 +1,7 @@
-terrain = grasslands
+terrain = dwemer_stronghold
 life_rating = 30
-trade_goods = dye
-owner = CC8
-controller = CC8
-add_core = CC8
-add_core = CJ4
+trade_goods = timber
+owner = NGH
+controller = NGH
+add_core = NGH
+add_core = NB0

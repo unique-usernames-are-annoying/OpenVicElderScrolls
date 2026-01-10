@@ -1,0 +1,6 @@
+terrain = urban_ardent_hope
+life_rating = 30
+trade_goods = wool
+owner = GA4
+controller = GA4
+add_core = GA4

@@ -1,7 +1,6 @@
-terrain = marsh
+terrain = highlands
 life_rating = 30
-trade_goods = tobacco
-owner = CF6
-controller = CF6
-add_core = CF6
-add_core = CI8
+trade_goods = fruit
+owner = BA6
+controller = BA6
+add_core = BA6

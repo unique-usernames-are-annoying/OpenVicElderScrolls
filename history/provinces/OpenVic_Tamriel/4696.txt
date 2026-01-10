@@ -1,6 +1,6 @@
-terrain = coastline
+terrain = forest
 life_rating = 30
-trade_goods = cotton
-owner = SA1
-controller = SA1
-add_core = SA1
+trade_goods = coal
+owner = CB0
+controller = CB0
+add_core = CB0
